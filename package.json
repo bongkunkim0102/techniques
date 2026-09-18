@@ -8,7 +8,7 @@
     "build": "node scripts/check-content.mjs && astro build && pagefind --site dist && node scripts/check-build.mjs",
     "preview": "astro preview --host 127.0.0.1 --port 4326",
     "test": "node --test tests/*.test.mjs",
-    "test:browser": "node tests/browser.mjs && node tests/translation-browser.mjs && node tests/book2-browser.mjs && node tests/book3-browser.mjs && node tests/book4-browser.mjs && node tests/manilius-browser.mjs && node tests/manilius-book1-browser.mjs && node tests/manilius-book2-browser.mjs && node tests/manilius-book3-browser.mjs && node tests/manilius-book4-browser.mjs",
+    "test:browser": "node tests/browser.mjs && node tests/translation-browser.mjs && node tests/book2-browser.mjs && node tests/book3-browser.mjs && node tests/book4-browser.mjs && node tests/manilius-browser.mjs && node tests/manilius-book1-browser.mjs && node tests/manilius-book2-browser.mjs && node tests/manilius-book3-browser.mjs && node tests/manilius-book4-browser.mjs && node tests/manilius-final-fourth-browser.mjs",
     "collect": "node --env-file-if-exists=.env scripts/collect.mjs",
     "translate": "node --env-file-if-exists=.env scripts/translate.mjs",
     "deploy": "npm run build && wrangler deploy"

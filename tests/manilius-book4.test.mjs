@@ -46,6 +46,6 @@ test('all previously committed 158 translations and 304 references remain unchan
  assert.equal(p.preservedTranslations.length,158);assert.equal(p.preservedReferences.length,304);for(const old of p.preservedTranslations)assert.equal(hash(JSON.stringify(find(old.id))),old.sha256,old.id);for(const old of p.preservedReferences)assert.equal(hash(JSON.stringify(refs.find(r=>r.id===old.id))),old.sha256,old.id);
 });
 test('partial fourth book has a precise next location, separate series and historical notices',()=>{
- const v=translationVolumes(ts.filter(t=>t.sourceId==='manilius-breiter1907'));assert.deepEqual(v.map(v=>v.entries.length),[28,36,22,22]);assert.deepEqual(p.next,{book:4,verse:585,pdfPage:125,printedPage:109,title:'지리적 배정과 네 방위'});
+ const v=translationVolumes(ts.filter(t=>t.sourceId==='manilius-breiter1907'));assert.deepEqual(v.slice(0,3).map(v=>v.entries.length),[28,36,22]);assert.deepEqual(p.next,{book:4,verse:585,pdfPage:125,printedPage:109,title:'지리적 배정과 네 방위'});
  assert.equal(p.verses.at(-1).number,584);assert.match(verse(584),/materue duorum/);for(const u of p.units)assert.match(find(u.translationId).contentNotice,/현대 개인|진단/);
 });

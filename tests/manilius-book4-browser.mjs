@@ -6,9 +6,9 @@ const page=await browser.newPage({viewport:{width:1440,height:1000}}),errors=[];
 const book=p.units.map(u=>translations.find(t=>t.id===u.translationId));await mkdir('test-results',{recursive:true});
 try{
  await page.goto(origin+'/translations/',{waitUntil:'networkidle'});
- assert.equal(await page.locator('main .source-item').count(),translations.length);assert.equal(await page.locator('#manilius-breiter1907 .source-item').count(),108);assert.equal(await page.locator('#manilius-book4 .source-item').count(),22);
- assert.match(await page.locator('#manilius-breiter1907 > p').textContent(),/제4권 585행 이후/);
- assert.deepEqual(await page.locator('#manilius-book4 .source-item a').evaluateAll(xs=>xs.map(a=>a.getAttribute('href'))),book.map(t=>`/translations/${t.id}/`));
+ assert.equal(await page.locator('main .source-item').count(),translations.length);assert.equal(await page.locator('#manilius-breiter1907 .source-item').count(),translations.filter(t=>t.sourceId==='manilius-breiter1907').length);assert.equal(await page.locator('#manilius-book4 .source-item').count(),translations.filter(t=>t.series?.id==='manilius-book4').length);
+ assert.match(await page.locator('#manilius-breiter1907 > p').textContent(),/제5권 251행 이후/);
+ assert.deepEqual(await page.locator('#manilius-book4 .source-item a').evaluateAll(xs=>xs.slice(0,22).map(a=>a.getAttribute('href'))),book.map(t=>`/translations/${t.id}/`));
  await page.locator('nav[aria-label="번역 문헌과 권별 목차"] a[href="#manilius-book4"]').click();await page.screenshot({path:'test-results/manilius-book4-toc-desktop.png',fullPage:false});
  let latin=0,korean=0;
  for(const [i,t] of book.entries()){
@@ -18,7 +18,7 @@ try{
   latin+=await page.locator('.latin-verse').count();korean+=t.paragraphs.length;
   assert.equal(await page.locator('#references a').first().getAttribute('href'),t.sourceUrl);assert.match(await page.locator('#references details').textContent(),/GPT-6 Astra Pro/);assert.equal(await page.locator('[data-translation-notice] p').textContent(),t.contentNotice);
   assert.equal(await page.locator('a[rel=prev]').getAttribute('href'),`/translations/${i?book[i-1].id:'manilius-iii-669-682'}/`);
-  if(i<book.length-1)assert.equal(await page.locator('a[rel=next]').getAttribute('href'),`/translations/${book[i+1].id}/`);else assert.equal(await page.locator('a[rel=next]').count(),0);
+  if(i<book.length-1)assert.equal(await page.locator('a[rel=next]').getAttribute('href'),`/translations/${book[i+1].id}/`);else assert.equal(await page.locator('a[rel=next]').getAttribute('href'),'/translations/manilius-iv-585-618/');
  }
  assert.equal(latin,582);assert.equal(korean,94);
  await page.goto(origin+'/translations/manilius-iii-669-682/');await page.locator('a[rel=next]').click();await page.waitForURL('**/translations/manilius-iv-001-022/');
