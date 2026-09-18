@@ -1,4 +1,6 @@
-# 번역 작업 기록 · 네 권 본문 완료
+# 테트라비블로스 작업 기록 · 네 권 본문 완료
+
+이 문서는 네 권 완료 시점의 기록이다. 이후 진행한 **마닐리우스 라틴어 번역**은 [MANILIUS_PROGRESS.md](MANILIUS_PROGRESS.md), 다섯 권 구조·용어 검토는 [MANILIUS_REVIEW.md](MANILIUS_REVIEW.md)를 참고한다.
 
 ## 현재 수록 범위 · 2026-09-18
 

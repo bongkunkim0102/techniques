@@ -1,0 +1,59 @@
+{
+  "id": "derived-houses",
+  "title": "파생 하우스",
+  "en": "Derived houses",
+  "tradition": "서양 전통 · 호라리",
+  "summary": "특정 대상의 하우스를 출발점으로 삼아, 그 대상과 관련된 다른 사람이나 사물을 세는 방법입니다.",
+  "sections": [
+    {
+      "title": "세는 방법",
+      "paragraphs": [
+        "출발 하우스를 1로 포함해 셉니다. 예를 들어 7하우스로 나타낸 상대의 돈을 그 상대의 2하우스로 보면, 원래 차트의 8하우스가 됩니다."
+      ],
+      "refs": [
+        "derived"
+      ]
+    },
+    {
+      "title": "계산 예제",
+      "paragraphs": [
+        "출발 하우스가 b, 상대적 하우스가 n이면 원래 차트 번호는 ((b + n − 2) mod 12) + 1입니다. b=7, n=2이면 8입니다. 이 예제는 하우스 번호의 산술만 검증합니다."
+      ],
+      "refs": []
+    },
+    {
+      "title": "질문 문맥을 먼저",
+      "paragraphs": [
+        "누구의 무엇을 묻는지 명확히 하지 않은 채 하우스를 여러 번 돌리면 대상이 달라질 수 있습니다. 출발 대상과 관계의 각 단계를 문장으로 기록한 다음 번호를 계산하세요."
+      ],
+      "refs": []
+    }
+  ],
+  "related": [
+    "turning-the-chart",
+    "house-rulership",
+    "querent-and-quesited-significators"
+  ],
+  "refs": [
+    "derived"
+  ],
+  "revision": "0e9d8793ae2c",
+  "date": "2026-09-18",
+  "glossaryVersion": "2026-09-18.4",
+  "editor": "Codex (Astra)",
+  "review": "AI 편집 초판",
+  "license": "CC BY-NC-SA 4.0",
+  "kind": "개요",
+  "sourceSnapshots": [
+    {
+      "id": "derived",
+      "title": "Skyscript: Turning the Chart",
+      "author": "Deborah Houlding",
+      "url": "https://www.skyscript.co.uk/glossary/turning-the-chart/",
+      "locator": "표제 항목 본문",
+      "license": "CC BY-NC-SA 4.0",
+      "access": "본문 확인",
+      "checkedAt": "2026-09-18"
+    }
+  ]
+}

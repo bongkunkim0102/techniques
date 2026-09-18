@@ -1,0 +1,52 @@
+{
+  "id": "lunar-phases",
+  "title": "달의 위상",
+  "en": "Lunar phases",
+  "tradition": "공통 천문 · 현대 서양",
+  "summary": "태양과 달 사이의 관계가 주기적으로 달라지면서 나타나는 달의 위상입니다. 점성술에서는 이 주기에 별도의 상징 해석을 붙입니다.",
+  "sections": [
+    {
+      "title": "관계 주기",
+      "paragraphs": [
+        "루디아르는 한 천체의 출발점 대비 위치 주기와 두 천체 사이의 관계 주기를 구별하여 삭망을 논합니다. 여기서 천문적 주기와 루디아르의 철학적 해석은 별개의 층위입니다."
+      ],
+      "refs": [
+        "lunar-cycle"
+      ]
+    },
+    {
+      "title": "황경 차이 예제",
+      "paragraphs": [
+        "황경 차이를 (달 − 태양) mod 360°로 쓰면 0° 부근은 삭, 180° 부근은 망에 해당합니다. 실제 관측 밝기나 식 여부를 이 숫자 하나로 완전히 계산하는 것은 아닙니다."
+      ],
+      "refs": []
+    }
+  ],
+  "related": [
+    "progressed-lunar-phases",
+    "solar-and-lunar-eclipses",
+    "humanistic-astrology"
+  ],
+  "refs": [
+    "lunar-cycle"
+  ],
+  "revision": "909a3dafee12",
+  "date": "2026-09-18",
+  "glossaryVersion": "2026-09-18.4",
+  "editor": "Codex (Astra)",
+  "review": "AI 편집 초판",
+  "license": "HoraryTalk 독자 해설",
+  "kind": "개요",
+  "sourceSnapshots": [
+    {
+      "id": "lunar-cycle",
+      "title": "A New Type of Lunation Guidance",
+      "author": "Dane Rudhyar",
+      "url": "https://khaldea.com/rudhyar/astroarticles/lunationguidance.php",
+      "locator": "태양·달의 관계 주기와 위치 주기의 구별",
+      "license": "참고·독자 해설",
+      "access": "본문 확인",
+      "checkedAt": "2026-09-18"
+    }
+  ]
+}

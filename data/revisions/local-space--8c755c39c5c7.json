@@ -1,0 +1,52 @@
+{
+  "id": "local-space",
+  "title": "로컬 스페이스",
+  "en": "Local Space",
+  "tradition": "현대 서양 · 공간",
+  "summary": "한 관측지의 지평선을 기준으로 천체의 방위를 살피는 공간 점성술입니다.",
+  "sections": [
+    {
+      "title": "방위각의 영점",
+      "paragraphs": [
+        "Astrodienst의 공개 검색 발췌는 남쪽을 0°, 서쪽을 90°로 세는 방위 규약을 설명합니다. 북쪽 0° 규약의 다른 도구와 숫자를 바로 비교하면 방향을 잘못 해석할 수 있습니다."
+      ],
+      "refs": [
+        "local-space"
+      ]
+    },
+    {
+      "title": "자료 확인 상태",
+      "paragraphs": [
+        "해당 설명은 검색 발췌로 확인했으며 전체 페이지는 접근 확인 화면으로 막혔습니다. 따라서 이 초판은 방위 규약에 대한 제한된 안내이며 원문 전체를 번역한 문서가 아닙니다."
+      ],
+      "refs": []
+    }
+  ],
+  "related": [
+    "astrocartography",
+    "relocated-charts",
+    "topocentric-planetary-positions"
+  ],
+  "refs": [
+    "local-space"
+  ],
+  "revision": "8c755c39c5c7",
+  "date": "2026-09-18",
+  "glossaryVersion": "2026-09-18.4",
+  "editor": "Codex (Astra)",
+  "review": "AI 편집 초판",
+  "license": "HoraryTalk 독자 해설",
+  "kind": "개요",
+  "sourceSnapshots": [
+    {
+      "id": "local-space",
+      "title": "Local Space Astrology",
+      "author": "Astrodienst",
+      "url": "https://www.astro.com/astrology/in_localspace_e.htm?nho2=254&nhor=1",
+      "locator": "Azimuth 절",
+      "license": "참고·독자 해설",
+      "access": "검색 발췌 확인",
+      "checkedAt": "2026-09-18"
+    }
+  ]
+}

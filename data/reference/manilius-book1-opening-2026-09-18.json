@@ -1,0 +1,3226 @@
+{
+  "version": 1,
+  "batch": "manilius-book1-opening",
+  "date": "2026-09-18",
+  "editor": "ChatGPT (GPT-6 Astra Pro)",
+  "method": "direct-editor",
+  "sourceLanguage": "la",
+  "translationDirection": "Latin → Korean",
+  "externalTranslationModelCalls": 0,
+  "glossaryPreparation": {
+    "version": "2026-09-18.4",
+    "termCount": 631,
+    "addedTerms": 31,
+    "completedBeforeKoreanDrafts": true
+  },
+  "sourcePdf": {
+    "url": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf",
+    "sha256": "f69ab853bc7937ea5511739d24239b3a817ca4a5464eca661aa465958968bd3d",
+    "pages": 170,
+    "edition": "Theodor Breiter, M. Manilii Astronomica I. Carmina, Leipzig 1907"
+  },
+  "reviewAid": {
+    "edition": "Iacobus van Wageningen 1915; The Latin Library 전사",
+    "role": "5권의 구조·용어 검토 보조. 번역 저본이 아님",
+    "books": [
+      {
+        "book": 1,
+        "url": "https://www.thelatinlibrary.com/manilius1.html",
+        "sha256": "8963ee146ae4c07b3ce086c8d3794e03e8bbb5195b0b8b0a589b9b92f174d9d0"
+      },
+      {
+        "book": 2,
+        "url": "https://www.thelatinlibrary.com/manilius2.html",
+        "sha256": "5c73eb3eae72b66b4cbbbd129b6606257335452fe7638b7c4b134e79c44d177c"
+      },
+      {
+        "book": 3,
+        "url": "https://www.thelatinlibrary.com/manilius3.html",
+        "sha256": "3b8d2abf8e01978c8f814a956047360f5866a9e005eb1fd873bc401d099f881a"
+      },
+      {
+        "book": 4,
+        "url": "https://www.thelatinlibrary.com/manilius4.html",
+        "sha256": "aa594cd0868d5cfd98dc9378181a6a83272758cf714cef0a72ecfab746271b09"
+      },
+      {
+        "book": 5,
+        "url": "https://www.thelatinlibrary.com/manilius5.html",
+        "sha256": "8c3186f1e5b9dd5a273539a3d5acd7df429c30e0c6cddcf18b5b87f66bb53580"
+      }
+    ]
+  },
+  "englishWitness": {
+    "url": "https://archive.org/details/bim_early-english-books-1641-1700_the-five-books-of-m-man_manilius-marcus_1697",
+    "edition": "Thomas Creech, English verse, 1697",
+    "fileSha256": "28168125b84e4ea7bf228b041f701c8257dc4c6550cd6884c366e67abffb6ace",
+    "pdfPages": 313,
+    "readAfterKoreanDrafts": true,
+    "reviewedPdfPages": [
+      3,
+      71,
+      74,
+      75,
+      82,
+      83,
+      84
+    ],
+    "scope": "표제·번역자 설명 및 선택된 대응 지면만 대조. 전체 254행 영어 대조를 완료한 것이 아님",
+    "prefaceNote": "인쇄본 서문 67쪽은 이해하기 쉽게 만들기 위해 엄격한 번역보다 범위를 넓혔다고 설명한다.",
+    "comparisons": [
+      {
+        "unit": "manilius-i-001-024",
+        "pdfPages": [
+          74,
+          75
+        ],
+        "printedPages": [
+          2,
+          3
+        ],
+        "note": "Creech는 서시를 넓혀 지혜로운 이와 어리석은 이, 왕관과 사슬, 로마의 영원함을 명시한다. Breiter I.16–19에 그 대비가 그대로 있는 것은 아니므로 한국어 초역에 가져오지 않았다. 두 신전에 자연과 무사의 이름을 명시한 영어의 풀이도 라틴어 본문의 단어를 대신하지 않는다."
+      },
+      {
+        "unit": "manilius-i-202-235",
+        "pdfPages": [
+          82,
+          83
+        ],
+        "printedPages": [
+          10,
+          11
+        ],
+        "note": "Creech는 구체에 대한 설명과 달의 가려짐을 풀어 쓰며, 중간 단계의 방향을 South라고 명시한다. Breiter I.225의 medio ... polo는 한국어에서 가운데 하늘 아래라는 저본 표현으로 유지했다. 영어의 논박 어구와 부연을 라틴어 본문에 추가하지 않았다."
+      },
+      {
+        "unit": "manilius-i-236-254",
+        "pdfPages": [
+          84
+        ],
+        "printedPages": [
+          12
+        ],
+        "note": "Creech도 바다가 양쪽을 가르면서 잇는다는 비유와 우주의 영혼·상호 결속을 풀어 쓴다. 한국어는 먼저 작성한 라틴어 직접 초역을 유지했고 영어의 확장된 운문을 다시 옮기지 않았다."
+      }
+    ]
+  },
+  "hashBasis": "Each source unit: UTF-8 verses.map(v=>`${v.number}|${v.text}`).join(\"\\n\"); no trailing newline. Korean paragraph hashes use the exact paragraph string.",
+  "transcriptionPolicy": "Breiter 지면을 직접 읽어 전사. 인쇄된 행 순서와 u 철자·십자표를 보존하되 서체·공백·쪽 경계를 외교적으로 재현하지는 않음. 기울임꼴은 별도 상태 필드에 기록. 본문에 없는 38–39행은 교감란의 존재만 기록.",
+  "verses": [
+    {
+      "number": 1,
+      "text": "Carmine diuinas artes et conscia fati",
+      "pdfPage": 17
+    },
+    {
+      "number": 2,
+      "text": "sidera diuersos hominum uariantia casus,",
+      "pdfPage": 17
+    },
+    {
+      "number": 3,
+      "text": "caelestis rationis opus, deducere mundo",
+      "pdfPage": 17
+    },
+    {
+      "number": 4,
+      "text": "aggredior primusque nouis Helicona mouere",
+      "pdfPage": 17
+    },
+    {
+      "number": 5,
+      "text": "cantibus et uiridi nutantis uertice siluas",
+      "pdfPage": 17
+    },
+    {
+      "number": 6,
+      "text": "hospita sacra ferens nulli memorata priorum.",
+      "pdfPage": 17
+    },
+    {
+      "number": 7,
+      "text": "hunc mihi tu, Caesar, patriae princepsque paterque,",
+      "pdfPage": 17
+    },
+    {
+      "number": 8,
+      "text": "qui regis augustis parentem legibus orbem",
+      "pdfPage": 17
+    },
+    {
+      "number": 9,
+      "text": "concessumque patri mundum deus ipse mereris,",
+      "pdfPage": 17
+    },
+    {
+      "number": 10,
+      "text": "das animum uiresque excis ad tanta canenda.",
+      "pdfPage": 17
+    },
+    {
+      "number": 11,
+      "text": "iam propiusque fauet mundus scrutantibus ipsum",
+      "pdfPage": 17
+    },
+    {
+      "number": 12,
+      "text": "et cupit aetherios per carmina pandere census.",
+      "pdfPage": 17
+    },
+    {
+      "number": 13,
+      "text": "hoc sub pace uacat tantum. iuuat ire per ipsum",
+      "pdfPage": 17
+    },
+    {
+      "number": 14,
+      "text": "aera et immenso spatiantem uiuere caelo",
+      "pdfPage": 17
+    },
+    {
+      "number": 15,
+      "text": "signaque et aduersos stellarum noscere cursus.",
+      "pdfPage": 17
+    },
+    {
+      "number": 16,
+      "text": "quod solum nouisse parum est. impensius ipsa",
+      "pdfPage": 17
+    },
+    {
+      "number": 17,
+      "text": "scire iuuat magni penitus praecordia mundi,",
+      "pdfPage": 17
+    },
+    {
+      "number": 18,
+      "text": "quaque regat generetque suis animalia signis,",
+      "pdfPage": 17
+    },
+    {
+      "number": 19,
+      "text": "cernere et in numerum Phoebo modulante referre.",
+      "pdfPage": 17
+    },
+    {
+      "number": 20,
+      "text": "bina mihi positis lucent altaria flammis,",
+      "pdfPage": 17
+    },
+    {
+      "number": 21,
+      "text": "ad duo templa precor duplici circumdatus aestu",
+      "pdfPage": 17
+    },
+    {
+      "number": 22,
+      "text": "carminis et rerum: certa cum lege canentem",
+      "pdfPage": 17
+    },
+    {
+      "number": 23,
+      "text": "mundus et immenso uatem circumstrepit orbe",
+      "pdfPage": 17
+    },
+    {
+      "number": 24,
+      "text": "uixque soluta suis immittit uerba figuris.",
+      "pdfPage": 17
+    },
+    {
+      "number": 25,
+      "text": "quem primum interius licuit cognoscere terris",
+      "pdfPage": 17
+    },
+    {
+      "number": 26,
+      "text": "munere caelestum. quis enim condentibus illis",
+      "pdfPage": 18
+    },
+    {
+      "number": 27,
+      "text": "clepsisset furto mundum, quo cuncta reguntur?",
+      "pdfPage": 18
+    },
+    {
+      "number": 28,
+      "text": "quis foret humano conatus pectore tantum,",
+      "pdfPage": 18
+    },
+    {
+      "number": 29,
+      "text": "inuitis ut dis cuperet deus ipse uideri",
+      "pdfPage": 18
+    },
+    {
+      "number": 32,
+      "text": "sublimisque aperire uias imumque sub orbem?",
+      "pdfPage": 18
+    },
+    {
+      "number": 30,
+      "text": "tu princeps auctorque sacri, Cyllenie, tanti.",
+      "pdfPage": 18
+    },
+    {
+      "number": 31,
+      "text": "per te iam caelum interius, iam sidera nota",
+      "pdfPage": 18
+    },
+    {
+      "number": 33,
+      "text": "et per inane suis parentia finibus astra",
+      "pdfPage": 18
+    },
+    {
+      "number": 34,
+      "text": "nominaque et cursus signorum, pondera, uires,",
+      "pdfPage": 18
+    },
+    {
+      "number": 35,
+      "text": "maior uti facies mundi foret et ueneranda",
+      "pdfPage": 18
+    },
+    {
+      "number": 36,
+      "text": "non species tantum sed et ipsa potentia rerum.",
+      "pdfPage": 18
+    },
+    {
+      "number": 37,
+      "text": "sentirentque deum gentes quam maximus esset.",
+      "pdfPage": 18,
+      "status": "suspected-interpolation"
+    },
+    {
+      "number": 40,
+      "text": "et natura dedit uires seque ipsa reclusit",
+      "pdfPage": 18
+    },
+    {
+      "number": 41,
+      "text": "regalis animos primum dignata mouere",
+      "pdfPage": 18
+    },
+    {
+      "number": 42,
+      "text": "proxima tangentis rerum fastigia caelo,",
+      "pdfPage": 18
+    },
+    {
+      "number": 43,
+      "text": "qui domuere feras gentes oriente sub ipso,",
+      "pdfPage": 18
+    },
+    {
+      "number": 44,
+      "text": "quas secat Euphrates, in quas et Nilus inundat,",
+      "pdfPage": 18
+    },
+    {
+      "number": 45,
+      "text": "qua mundus redit et nigras super euolat urbes.",
+      "pdfPage": 18
+    },
+    {
+      "number": 46,
+      "text": "tum qui templa sacris coluerunt omne per aeuum",
+      "pdfPage": 18
+    },
+    {
+      "number": 47,
+      "text": "delectique sacerdotes in publica uota",
+      "pdfPage": 18
+    },
+    {
+      "number": 48,
+      "text": "officio uinxere deum, quibus ipsa potentis",
+      "pdfPage": 18
+    },
+    {
+      "number": 49,
+      "text": "numinis accendit castam praesentia mentem,",
+      "pdfPage": 18
+    },
+    {
+      "number": 50,
+      "text": "inque deum deus ipse tulit patuitque ministris.",
+      "pdfPage": 18
+    },
+    {
+      "number": 51,
+      "text": "hi tantum mouere decus primique per artem",
+      "pdfPage": 18
+    },
+    {
+      "number": 52,
+      "text": "sideribus uidere uagis pendentia fata.",
+      "pdfPage": 18
+    },
+    {
+      "number": 53,
+      "text": "singula nam proprio signarunt tempora casu",
+      "pdfPage": 18
+    },
+    {
+      "number": 54,
+      "text": "longa per assiduas complexi saecula curas,",
+      "pdfPage": 18
+    },
+    {
+      "number": 55,
+      "text": "nascendi quae cuique dies, quae uita fuisset,",
+      "pdfPage": 18
+    },
+    {
+      "number": 56,
+      "text": "in quas fortunae leges quaeque hora ualeret,",
+      "pdfPage": 18
+    },
+    {
+      "number": 57,
+      "text": "quantaque quam parui facerent discrimina motus.",
+      "pdfPage": 18
+    },
+    {
+      "number": 58,
+      "text": "postquam omnis caeli species redeuntibus astris",
+      "pdfPage": 18
+    },
+    {
+      "number": 59,
+      "text": "percepta in proprias sedes, et reddita certis",
+      "pdfPage": 19
+    },
+    {
+      "number": 60,
+      "text": "fatorum ordinibus sua cuique potentia formae,",
+      "pdfPage": 19
+    },
+    {
+      "number": 61,
+      "text": "per uarios usus artem experientia fecit",
+      "pdfPage": 19
+    },
+    {
+      "number": 62,
+      "text": "exemplo monstrante uiam speculataque longe",
+      "pdfPage": 19
+    },
+    {
+      "number": 63,
+      "text": "deprendit tacitis dominantia legibus astra",
+      "pdfPage": 19
+    },
+    {
+      "number": 64,
+      "text": "et totum aeterna mundum ratione moueri",
+      "pdfPage": 19
+    },
+    {
+      "number": 65,
+      "text": "fatorumque uices certis discernere signis.",
+      "pdfPage": 19
+    },
+    {
+      "number": 66,
+      "text": "nam rudis ante illos nullo discrimine uita",
+      "pdfPage": 19
+    },
+    {
+      "number": 67,
+      "text": "in speciem conuersa operum ratione carebat",
+      "pdfPage": 19
+    },
+    {
+      "number": 68,
+      "text": "et stupefacta nouo pendebat lumine mundi,",
+      "pdfPage": 19
+    },
+    {
+      "number": 69,
+      "text": "tum uelut amisso maerens, tum laeta renato",
+      "pdfPage": 19
+    },
+    {
+      "number": 70,
+      "text": "sidere, uariosque dies incertaque noctis",
+      "pdfPage": 19
+    },
+    {
+      "number": 71,
+      "text": "tempora, nec similis umbras iam sole regresso,",
+      "pdfPage": 19
+    },
+    {
+      "number": 72,
+      "text": "iam propiore suis poterant discernere causis.",
+      "pdfPage": 19
+    },
+    {
+      "number": 73,
+      "text": "necdum etiam doctas sollertia fecerat artes,",
+      "pdfPage": 19
+    },
+    {
+      "number": 74,
+      "text": "terraque sub rudibus cessabat uasta colonis;",
+      "pdfPage": 19
+    },
+    {
+      "number": 75,
+      "text": "tumque in desertis habitabat montibus aurum,",
+      "pdfPage": 19
+    },
+    {
+      "number": 76,
+      "text": "ignotusque nouos pontus subduxerat orbes;",
+      "pdfPage": 19
+    },
+    {
+      "number": 77,
+      "text": "nec uitam pelago nec uentis credere uota",
+      "pdfPage": 19
+    },
+    {
+      "number": 78,
+      "text": "audebant; se quisque satis nouisse putabant.",
+      "pdfPage": 19
+    },
+    {
+      "number": 79,
+      "text": "sed cum longa dies acuit mortalia corda,",
+      "pdfPage": 19
+    },
+    {
+      "number": 80,
+      "text": "et labor ingenium miseris dedit, et sua quemque",
+      "pdfPage": 19
+    },
+    {
+      "number": 81,
+      "text": "aduigilare sibi iussit fortuna premendo,",
+      "pdfPage": 19
+    },
+    {
+      "number": 82,
+      "text": "seducta in uarias certarunt pectora curas,",
+      "pdfPage": 19
+    },
+    {
+      "number": 83,
+      "text": "et quodcumque sagax temptando repperit usus,",
+      "pdfPage": 19
+    },
+    {
+      "number": 84,
+      "text": "in commune bonum commentum laeta dederunt.",
+      "pdfPage": 19
+    },
+    {
+      "number": 85,
+      "text": "tunc et lingua suas accepit barbara leges,",
+      "pdfPage": 19
+    },
+    {
+      "number": 86,
+      "text": "et fera diuersis exercita frugibus arua,",
+      "pdfPage": 19
+    },
+    {
+      "number": 87,
+      "text": "et uagus in caecum penetrauit nauita pontum,",
+      "pdfPage": 19
+    },
+    {
+      "number": 88,
+      "text": "fecit et ignotis itiner commercia terris.",
+      "pdfPage": 19
+    },
+    {
+      "number": 89,
+      "text": "tum belli pacisque artes commenta uetustas;",
+      "pdfPage": 19
+    },
+    {
+      "number": 90,
+      "text": "semper enim ex aliis alias proseminat usus.",
+      "pdfPage": 19
+    },
+    {
+      "number": 91,
+      "text": "ne uulgata canam: linguas didicere uolucrum,",
+      "pdfPage": 19
+    },
+    {
+      "number": 92,
+      "text": "consultare fibras et rumpere uocibus angues,",
+      "pdfPage": 20
+    },
+    {
+      "number": 93,
+      "text": "sollicitare umbras imumque Acheronta mouere",
+      "pdfPage": 20
+    },
+    {
+      "number": 94,
+      "text": "in noctemque dies, in lucem uertere noctes.",
+      "pdfPage": 20
+    },
+    {
+      "number": 95,
+      "text": "omnia conando docilis sollertia uicit.",
+      "pdfPage": 20
+    },
+    {
+      "number": 96,
+      "text": "nec prius imposuit rebus finemque modumque,",
+      "pdfPage": 20
+    },
+    {
+      "number": 97,
+      "text": "quam caelum ascendit ratio cepitque profundam",
+      "pdfPage": 20
+    },
+    {
+      "number": 98,
+      "text": "naturam rerum et causas uiditque quod usquam est:",
+      "pdfPage": 20
+    },
+    {
+      "number": 99,
+      "text": "nubila cur tanto quaterentur pulsa fragore,",
+      "pdfPage": 20
+    },
+    {
+      "number": 100,
+      "text": "hiberna aestiua nix grandine mollior esset,",
+      "pdfPage": 20
+    },
+    {
+      "number": 101,
+      "text": "arderent terrae solidusque tremesceret orbis,",
+      "pdfPage": 20
+    },
+    {
+      "number": 102,
+      "text": "cur imbres ruerent, uentos quae causa moueret,",
+      "pdfPage": 20
+    },
+    {
+      "number": 103,
+      "text": "peruidit soluitque animis miracula rerum",
+      "pdfPage": 20
+    },
+    {
+      "number": 104,
+      "text": "eripuitque Ioui fulmen uiresque tonanti",
+      "pdfPage": 20
+    },
+    {
+      "number": 105,
+      "text": "et sonitum uentis concessit, nubibus ignem.",
+      "pdfPage": 20
+    },
+    {
+      "number": 106,
+      "text": "quae postquam in proprias deduxit singula causas,",
+      "pdfPage": 20
+    },
+    {
+      "number": 107,
+      "text": "uicinam ex alto mundi cognoscere molem",
+      "pdfPage": 20
+    },
+    {
+      "number": 108,
+      "text": "intendit totumque animo comprendere caelum;",
+      "pdfPage": 20
+    },
+    {
+      "number": 109,
+      "text": "attribuitque suas formas, sua nomina, signis,",
+      "pdfPage": 20
+    },
+    {
+      "number": 110,
+      "text": "quasque uices agerent certa sub sorte notauit,",
+      "pdfPage": 20
+    },
+    {
+      "number": 111,
+      "text": "omniaque ad numen mundi faciemque moueri,",
+      "pdfPage": 20
+    },
+    {
+      "number": 112,
+      "text": "sideribus uario mutantibus ordine fata.",
+      "pdfPage": 20
+    },
+    {
+      "number": 113,
+      "text": "hoc mihi surgit opus non ullis ante sacratum",
+      "pdfPage": 20
+    },
+    {
+      "number": 114,
+      "text": "carminibus. faueat magno fortuna labori,",
+      "pdfPage": 20
+    },
+    {
+      "number": 115,
+      "text": "annosa et molli contingat uita senecta,",
+      "pdfPage": 20
+    },
+    {
+      "number": 116,
+      "text": "ut possim rerum tantas emergere moles",
+      "pdfPage": 20
+    },
+    {
+      "number": 117,
+      "text": "magnaque cum paruis simili percurrere cura.",
+      "pdfPage": 20
+    },
+    {
+      "number": 118,
+      "text": "et quoniam caelo descendit carmen ab alto,",
+      "pdfPage": 20
+    },
+    {
+      "number": 119,
+      "text": "et uenit in terras fatorum conditus ordo,",
+      "pdfPage": 20
+    },
+    {
+      "number": 120,
+      "text": "ipsa mihi primum naturae forma canenda est,",
+      "pdfPage": 20
+    },
+    {
+      "number": 121,
+      "text": "ponendusque sua totus sub imagine mundus.",
+      "pdfPage": 20
+    },
+    {
+      "number": 122,
+      "text": "quem siue ex nullis repetentem semina rebus",
+      "pdfPage": 20
+    },
+    {
+      "number": 123,
+      "text": "natali quoque egere placet semperque fuisse",
+      "pdfPage": 20
+    },
+    {
+      "number": 124,
+      "text": "et fore principio pariter fatoque carentem;",
+      "pdfPage": 20
+    },
+    {
+      "number": 125,
+      "text": "seu permixta chaos rerum primordia quondam",
+      "pdfPage": 20
+    },
+    {
+      "number": 126,
+      "text": "discreuit partu mundumque enixa nitentem",
+      "pdfPage": 21
+    },
+    {
+      "number": 127,
+      "text": "fugit in infernas caligo pulsa tenebras;",
+      "pdfPage": 21
+    },
+    {
+      "number": 128,
+      "text": "siue indiuiduis in idem reditura soluta",
+      "pdfPage": 21
+    },
+    {
+      "number": 129,
+      "text": "principiis natura manet post saecula mille",
+      "pdfPage": 21
+    },
+    {
+      "number": 130,
+      "text": "et paene ex nihilo sumpta est nihilumque futura,",
+      "pdfPage": 21
+    },
+    {
+      "number": 131,
+      "text": "caecaque materies caelum perfecit et orbem;",
+      "pdfPage": 21
+    },
+    {
+      "number": 132,
+      "text": "siue ignis fabricauit opus flammaeque micantes,",
+      "pdfPage": 21
+    },
+    {
+      "number": 133,
+      "text": "quae mundi fecere oculos habitantque per omne",
+      "pdfPage": 21
+    },
+    {
+      "number": 134,
+      "text": "corpus et in caelo uibrantia fulmina fingunt;",
+      "pdfPage": 21
+    },
+    {
+      "number": 135,
+      "text": "seu liquor hoc peperit, sine quo riget arida rerum",
+      "pdfPage": 21
+    },
+    {
+      "number": 136,
+      "text": "materies ipsumque uorat, quo soluitur, ignem;",
+      "pdfPage": 21
+    },
+    {
+      "number": 137,
+      "text": "aut neque terra patrem nouit nec flamma nec aer",
+      "pdfPage": 21
+    },
+    {
+      "number": 138,
+      "text": "aut umor, faciuntque deum per quattuor artus",
+      "pdfPage": 21
+    },
+    {
+      "number": 139,
+      "text": "et mundi struxere globum prohibentque requiri",
+      "pdfPage": 21
+    },
+    {
+      "number": 140,
+      "text": "ultra se quicquam, cum per se cuncta creentur,",
+      "pdfPage": 21
+    },
+    {
+      "number": 141,
+      "text": "frigida nec calidis desint, aut umida siccis,",
+      "pdfPage": 21
+    },
+    {
+      "number": 142,
+      "text": "spiritus aut solidis, sitque haec discordia concors,",
+      "pdfPage": 21
+    },
+    {
+      "number": 143,
+      "text": "quae nexus habilis et opus generabile fingit",
+      "pdfPage": 21
+    },
+    {
+      "number": 144,
+      "text": "atque omnis partus elementa capacia reddit; —",
+      "pdfPage": 21
+    },
+    {
+      "number": 145,
+      "text": "semper erit genus in pugna, dubiumque manebit",
+      "pdfPage": 21
+    },
+    {
+      "number": 146,
+      "text": "quod latet et tantum supra est hominemque deumque; —",
+      "pdfPage": 21
+    },
+    {
+      "number": 147,
+      "text": "sed facie quacumque tamen sub origine rerum",
+      "pdfPage": 21
+    },
+    {
+      "number": 148,
+      "text": "conuenit et certo digestum est ordine corpus.",
+      "pdfPage": 21
+    },
+    {
+      "number": 149,
+      "text": "ignis in aetherias uolucer se sustulit oras",
+      "pdfPage": 21
+    },
+    {
+      "number": 150,
+      "text": "summaque complexus stellantis culmina caeli",
+      "pdfPage": 21
+    },
+    {
+      "number": 151,
+      "text": "flammarum uallo naturae moenia fecit.",
+      "pdfPage": 21
+    },
+    {
+      "number": 152,
+      "text": "proximus in tenuis descendit spiritus auras",
+      "pdfPage": 21
+    },
+    {
+      "number": 153,
+      "text": "aeraque extendit medium per inania mundi;",
+      "pdfPage": 21
+    },
+    {
+      "number": 154,
+      "text": "ignem flatus alit uicinis subditus astris.",
+      "pdfPage": 21
+    },
+    {
+      "number": 155,
+      "text": "tertia sors undas strauit fluctusque natantis",
+      "pdfPage": 21
+    },
+    {
+      "number": 156,
+      "text": "aequora per fudit toto nascentia ponto,",
+      "pdfPage": 21
+    },
+    {
+      "number": 157,
+      "text": "ut liquor exhalet tenuis atque euomat auras",
+      "pdfPage": 22
+    },
+    {
+      "number": 158,
+      "text": "aeraque ex ipso ducentem semina pascat.",
+      "pdfPage": 22
+    },
+    {
+      "number": 159,
+      "text": "ultima subsedit glomerato pondere tellus,",
+      "pdfPage": 22
+    },
+    {
+      "number": 160,
+      "text": "conuenitque uagis permixtus limus harenis",
+      "pdfPage": 22
+    },
+    {
+      "number": 161,
+      "text": "paulatim ad summum tenui fugiente liquore;",
+      "pdfPage": 22
+    },
+    {
+      "number": 162,
+      "text": "quoque magis purus umor secessit in undas,",
+      "pdfPage": 22
+    },
+    {
+      "number": 163,
+      "text": "et siccata magis struxerunt aequora terram,",
+      "pdfPage": 22
+    },
+    {
+      "number": 164,
+      "text": "adiacuitque cauis fluidum conuallibus aequor,",
+      "pdfPage": 22
+    },
+    {
+      "number": 165,
+      "text": "emersere fretis montes, orbisque per undas",
+      "pdfPage": 22
+    },
+    {
+      "number": 166,
+      "text": "exiliit uasto clausus tamen undique ponto.",
+      "pdfPage": 22
+    },
+    {
+      "number": 167,
+      "text": "imaque de cunctis mediam tenet undique sedem;",
+      "pdfPage": 22
+    },
+    {
+      "number": 168,
+      "text": "idcircoque manet stabilis, quia totus ab illa",
+      "pdfPage": 22
+    },
+    {
+      "number": 169,
+      "text": "tantundem refugit mundus fecitque cadendo",
+      "pdfPage": 22
+    },
+    {
+      "number": 170,
+      "text": "undique ne caderet. medium totius et imum est.",
+      "pdfPage": 22
+    },
+    {
+      "number": 171,
+      "text": "iectaque contra ictis consistunt corpora plagis",
+      "pdfPage": 22
+    },
+    {
+      "number": 172,
+      "text": "et concurrendo prohibent in longius ire.",
+      "pdfPage": 22
+    },
+    {
+      "number": 173,
+      "text": "quodni librato penderet pondere tellus,",
+      "pdfPage": 22
+    },
+    {
+      "number": 174,
+      "text": "non ageret cursus mundi subeuntibus astris",
+      "pdfPage": 22
+    },
+    {
+      "number": 175,
+      "text": "Phoebus ad occasum et numquam remearet ad ortus,",
+      "pdfPage": 22
+    },
+    {
+      "number": 176,
+      "text": "lunaue submersos regeret per inania cursus,",
+      "pdfPage": 22
+    },
+    {
+      "number": 177,
+      "text": "nec matutinis fulgeret lucifer horis,",
+      "pdfPage": 22
+    },
+    {
+      "number": 178,
+      "text": "hesperos inuerso dederat qui lumen Olympo.",
+      "pdfPage": 22
+    },
+    {
+      "number": 179,
+      "text": "nunc quia non imo tellus deiecta profundo,",
+      "pdfPage": 22
+    },
+    {
+      "number": 180,
+      "text": "sed medio suspensa manet, sunt peruia cuncta,",
+      "pdfPage": 22
+    },
+    {
+      "number": 181,
+      "text": "qua cadat et subeat caelum rursusque resurgat.",
+      "pdfPage": 22
+    },
+    {
+      "number": 182,
+      "text": "nam neque fortuitos ortus surgentibus astris",
+      "pdfPage": 22
+    },
+    {
+      "number": 183,
+      "text": "nec totiens possum nascentem credere mundum",
+      "pdfPage": 22
+    },
+    {
+      "number": 184,
+      "text": "solisue assiduos partus et fata diurna,",
+      "pdfPage": 22
+    },
+    {
+      "number": 185,
+      "text": "cum facies eadem signis per saecula constet,",
+      "pdfPage": 22
+    },
+    {
+      "number": 186,
+      "text": "idem Phoebus eat caeli de partibus isdem,",
+      "pdfPage": 22
+    },
+    {
+      "number": 187,
+      "text": "lunaque per totidem luces mutetur et orbes,",
+      "pdfPage": 22
+    },
+    {
+      "number": 188,
+      "text": "et natura uias seruet, quas fecerat ipsa,",
+      "pdfPage": 23
+    },
+    {
+      "number": 189,
+      "text": "nec tirocinio peccet circumque feratur",
+      "pdfPage": 23
+    },
+    {
+      "number": 190,
+      "text": "aeterna cum luce dies, quod tempora monstrant",
+      "pdfPage": 23
+    },
+    {
+      "number": 191,
+      "text": "nunc his nunc illis eadem regionibus orbis,",
+      "pdfPage": 23
+    },
+    {
+      "number": 192,
+      "text": "semper et ulterior uadentibus ortus ad ortus,",
+      "pdfPage": 23
+    },
+    {
+      "number": 193,
+      "text": "occasumue obitus: caelum cum sole perennat.",
+      "pdfPage": 23
+    },
+    {
+      "number": 194,
+      "text": "nec uero admiranda tibi natura uideri",
+      "pdfPage": 23
+    },
+    {
+      "number": 195,
+      "text": "pendentis terrae debet, cum pendeat ipse",
+      "pdfPage": 23
+    },
+    {
+      "number": 196,
+      "text": "mundus et in nullo ponat uestigia fundo,",
+      "pdfPage": 23
+    },
+    {
+      "number": 197,
+      "text": "quod patet ex ipso motu cursuque uolantis,",
+      "pdfPage": 23
+    },
+    {
+      "number": 198,
+      "text": "cum suspensus eat Phoebus currusque reflectat",
+      "pdfPage": 23
+    },
+    {
+      "number": 199,
+      "text": "huc illuc agilis et seruet in aethere metas;",
+      "pdfPage": 23
+    },
+    {
+      "number": 200,
+      "text": "cum luna et stellae uolitent per inania mundi,",
+      "pdfPage": 23
+    },
+    {
+      "number": 201,
+      "text": "terra quoque aerias leges imitata pependit.",
+      "pdfPage": 23
+    },
+    {
+      "number": 202,
+      "text": "est igitur tellus mediam sortita cauernam",
+      "pdfPage": 23
+    },
+    {
+      "number": 203,
+      "text": "aeris et toto pariter sublata profundo",
+      "pdfPage": 23
+    },
+    {
+      "number": 204,
+      "text": "nec patulas distenta plagas sed condita in orbem",
+      "pdfPage": 23
+    },
+    {
+      "number": 205,
+      "text": "undique surgentem pariter pariterque cadentem.",
+      "pdfPage": 23
+    },
+    {
+      "number": 206,
+      "text": "haec est naturae facies; sic mundus et ipse",
+      "pdfPage": 23
+    },
+    {
+      "number": 207,
+      "text": "in conuexa uolans teretis facit esse figuras",
+      "pdfPage": 23
+    },
+    {
+      "number": 208,
+      "text": "stellarum; solisque orbem lunaeque rotundum",
+      "pdfPage": 23
+    },
+    {
+      "number": 209,
+      "text": "aspicimus tumido quaerentis corpore lumen,",
+      "pdfPage": 23
+    },
+    {
+      "number": 210,
+      "text": "quod globus obliquos totus non accipit ignes.",
+      "pdfPage": 23
+    },
+    {
+      "number": 211,
+      "text": "haec aeterna manet diuisque simillima forma,",
+      "pdfPage": 23
+    },
+    {
+      "number": 212,
+      "text": "cui neque principium est usquam, nec finis in ipsa,",
+      "pdfPage": 23
+    },
+    {
+      "number": 213,
+      "text": "sed similis toto ore manet perque omnia par est.",
+      "pdfPage": 23
+    },
+    {
+      "number": 214,
+      "text": "sic stellis glomerata manet mundoque figura.",
+      "pdfPage": 23,
+      "status": "suspected-interpolation"
+    },
+    {
+      "number": 215,
+      "text": "idcirco terris non omnibus omnia signa",
+      "pdfPage": 23
+    },
+    {
+      "number": 216,
+      "text": "conspicimus. nusquam inuenies fulgere canopum",
+      "pdfPage": 23
+    },
+    {
+      "number": 217,
+      "text": "donec †Niliacas per pontum ueneris oras;",
+      "pdfPage": 23,
+      "crux": "Niliacas"
+    },
+    {
+      "number": 218,
+      "text": "sed quaerent Helicen, quibus ille superuenit ignis,",
+      "pdfPage": 23
+    },
+    {
+      "number": 219,
+      "text": "quod laterum tractus habitant, medioque tumore",
+      "pdfPage": 23
+    },
+    {
+      "number": 220,
+      "text": "eripiunt terrae caelum uisusque cohercent.",
+      "pdfPage": 24
+    },
+    {
+      "number": 221,
+      "text": "te testem dat, luna, sui glomeraminis orbis,",
+      "pdfPage": 24
+    },
+    {
+      "number": 222,
+      "text": "quae cum mersa nigris per noctem deficis umbris,",
+      "pdfPage": 24
+    },
+    {
+      "number": 223,
+      "text": "non omnis pariter confundis sidere gentes,",
+      "pdfPage": 24
+    },
+    {
+      "number": 224,
+      "text": "sed prius eoae quaerunt tua lumina terrae,",
+      "pdfPage": 24
+    },
+    {
+      "number": 225,
+      "text": "post, medio subiecta polo quaecumque coluntur,",
+      "pdfPage": 24,
+      "status": "suspected-interpolation"
+    },
+    {
+      "number": 226,
+      "text": "ultima ad hesperios infectis uolueris alis,",
+      "pdfPage": 24,
+      "status": "suspected-interpolation"
+    },
+    {
+      "number": 227,
+      "text": "seraque in extremis quatiuntur gentibus aera.",
+      "pdfPage": 24
+    },
+    {
+      "number": 228,
+      "text": "quodsi plana foret tellus, semel orta per omnem",
+      "pdfPage": 24
+    },
+    {
+      "number": 229,
+      "text": "deficeret pariter toti miserabilis orbi.",
+      "pdfPage": 24
+    },
+    {
+      "number": 230,
+      "text": "sed quia per teretem deducta est terra tumorem,",
+      "pdfPage": 24
+    },
+    {
+      "number": 231,
+      "text": "his modo, post illis apparet Delia terris",
+      "pdfPage": 24
+    },
+    {
+      "number": 232,
+      "text": "exoriens simul atque cadens; quia fertur in orbem",
+      "pdfPage": 24
+    },
+    {
+      "number": 233,
+      "text": "uentris et acclinis pariter decliuia iungit",
+      "pdfPage": 24
+    },
+    {
+      "number": 234,
+      "text": "atque alios superat gyros aliosque relinquit.",
+      "pdfPage": 24
+    },
+    {
+      "number": 235,
+      "text": "ex quo colligitur terrarum forma rotunda.",
+      "pdfPage": 24,
+      "status": "suspected-interpolation"
+    },
+    {
+      "number": 236,
+      "text": "hanc circum uariae gentes hominum atque ferarum",
+      "pdfPage": 24
+    },
+    {
+      "number": 237,
+      "text": "aeriaeque colunt uolucres. pars eius ad arctos",
+      "pdfPage": 24
+    },
+    {
+      "number": 238,
+      "text": "eminet, austrinis pars est habitabilis oris",
+      "pdfPage": 24
+    },
+    {
+      "number": 239,
+      "text": "sub pedibusque iacet nostris supraque uidetur",
+      "pdfPage": 24
+    },
+    {
+      "number": 240,
+      "text": "ipsa sibi fallente solo decliuia longa",
+      "pdfPage": 24
+    },
+    {
+      "number": 241,
+      "text": "et pariter surgente uia pariterque cadente.",
+      "pdfPage": 24
+    },
+    {
+      "number": 242,
+      "text": "hanc ubi ad occasus nostros sol aspicit ortus,",
+      "pdfPage": 24
+    },
+    {
+      "number": 243,
+      "text": "illic orta dies sopitas excitat urbes",
+      "pdfPage": 24
+    },
+    {
+      "number": 244,
+      "text": "et cum luce refert operum uadimonia terris;",
+      "pdfPage": 24
+    },
+    {
+      "number": 245,
+      "text": "nos in nocte sumus somnosque in membra uocamus.",
+      "pdfPage": 24
+    },
+    {
+      "number": 246,
+      "text": "pontus utrosque suis distinguit et alligat undis.",
+      "pdfPage": 24
+    },
+    {
+      "number": 247,
+      "text": "hoc opus immensi constructum corpore mundi",
+      "pdfPage": 24
+    },
+    {
+      "number": 248,
+      "text": "membraque naturae diuersa condita forma",
+      "pdfPage": 24
+    },
+    {
+      "number": 249,
+      "text": "aeris atque ignis terrae pelagique iacentis",
+      "pdfPage": 24,
+      "status": "suspected-interpolation"
+    },
+    {
+      "number": 250,
+      "text": "uis animae diuina regit, sacroque meatu",
+      "pdfPage": 24
+    },
+    {
+      "number": 251,
+      "text": "conspirat deus et tacita ratione gubernat",
+      "pdfPage": 24
+    },
+    {
+      "number": 252,
+      "text": "mutuaque in cunctas dispensat foedera partes,",
+      "pdfPage": 24
+    },
+    {
+      "number": 253,
+      "text": "altera ut alterius uires faciatque feratque,",
+      "pdfPage": 25
+    },
+    {
+      "number": 254,
+      "text": "summaque per uarias maneat cognata figuras.",
+      "pdfPage": 25
+    }
+  ],
+  "omittedFromBody": [
+    {
+      "verseNumbers": [
+        38,
+        39
+      ],
+      "pdfPage": 18,
+      "reason": "Breiter 본문에는 없고 교감란에 전승이 제시됨; 번역문에 채워 넣지 않음"
+    }
+  ],
+  "transpositions": [
+    {
+      "verse": 32,
+      "after": 29,
+      "before": 30,
+      "pdfPage": 18
+    }
+  ],
+  "suspectedInterpolationVerses": [
+    37,
+    214,
+    225,
+    226,
+    235,
+    249
+  ],
+  "cruces": [
+    {
+      "verse": 217,
+      "text": "Niliacas",
+      "pdfPage": 23
+    }
+  ],
+  "reviewedPrimaryTranslationPages": [
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
+  ],
+  "units": [
+    {
+      "translationId": "manilius-i-001-024",
+      "nominalVerseRange": [
+        1,
+        24
+      ],
+      "pdfPages": [
+        17,
+        17
+      ],
+      "printedPages": [
+        1,
+        1
+      ],
+      "sourceVerseIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "sourceHash": "6aa5676c7bbbd226a599ae56841a9300ef71ad9405123562489f1f4bb1a17636",
+      "alignment": [
+        {
+          "sourceVerseIds": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "targetParagraphIndex": 0
+        },
+        {
+          "sourceVerseIds": [
+            7,
+            8,
+            9,
+            10
+          ],
+          "targetParagraphIndex": 1
+        },
+        {
+          "sourceVerseIds": [
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "targetParagraphIndex": 2
+        },
+        {
+          "sourceVerseIds": [
+            16,
+            17,
+            18,
+            19
+          ],
+          "targetParagraphIndex": 3
+        },
+        {
+          "sourceVerseIds": [
+            20,
+            21,
+            22,
+            23,
+            24
+          ],
+          "targetParagraphIndex": 4
+        }
+      ],
+      "targetParagraphHashes": [
+        "62293c79e76bd7d1b3ebc7601452ae88ecd08c71e6401ff497116d59e5853b25",
+        "fc65fc62e7fed98a839c7b24cf229ca665767114cc4a1c5d7f0783479d521af7",
+        "6412b8635503f05ac08a3a8af402cb3916f73c551278ab32c6414c2d741a2c50",
+        "299ffbc72a44c3bd0989d86a4f6cffc07cfc3d8fc859cd9bde61433ac3056ca2",
+        "981f05d3ec9477b3bf2640ffd5a47f51826b906ad10ab1f4d68dd0ed5e442b96"
+      ]
+    },
+    {
+      "translationId": "manilius-i-025-065",
+      "nominalVerseRange": [
+        25,
+        65
+      ],
+      "pdfPages": [
+        17,
+        19
+      ],
+      "printedPages": [
+        1,
+        3
+      ],
+      "sourceVerseIds": [
+        25,
+        26,
+        27,
+        28,
+        29,
+        32,
+        30,
+        31,
+        33,
+        34,
+        35,
+        36,
+        37,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65
+      ],
+      "sourceHash": "c507f098cd85a322934ff27566343c07b60b1a4d20f53f4d615832122a63400b",
+      "alignment": [
+        {
+          "sourceVerseIds": [
+            25,
+            26,
+            27
+          ],
+          "targetParagraphIndex": 0
+        },
+        {
+          "sourceVerseIds": [
+            28,
+            29,
+            32
+          ],
+          "targetParagraphIndex": 1
+        },
+        {
+          "sourceVerseIds": [
+            30,
+            31,
+            33,
+            34,
+            35,
+            36
+          ],
+          "targetParagraphIndex": 2
+        },
+        {
+          "sourceVerseIds": [
+            37
+          ],
+          "targetParagraphIndex": 3
+        },
+        {
+          "sourceVerseIds": [
+            40,
+            41,
+            42,
+            43,
+            44,
+            45
+          ],
+          "targetParagraphIndex": 4
+        },
+        {
+          "sourceVerseIds": [
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "targetParagraphIndex": 5
+        },
+        {
+          "sourceVerseIds": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57
+          ],
+          "targetParagraphIndex": 6
+        },
+        {
+          "sourceVerseIds": [
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65
+          ],
+          "targetParagraphIndex": 7
+        }
+      ],
+      "targetParagraphHashes": [
+        "246d543c7ba36de0e963bf04241aeecc03f41d0a447b3be494b2eefe03a8f2f5",
+        "56b31f4a6828c0648662839847168e568bc6b18d8904f8ae0ed58dde4d1aefe1",
+        "fbcb9bf1894cae24d90440185b45dcabc8c2a81fcc61bb1097fc58f17306a96b",
+        "e67806aa48e5d1b84e5fc64430ab084069c6164b2f300c5ae344679453c80895",
+        "6c3e652b6fc8e67fea9c89afab84bfbe3066caf1d2a5f3a9be9fae899eca9e0f",
+        "f6421183e6c3a207a7a32b2c261be50b9ddb20579fcb33f43519e80353f82576",
+        "e8ef2d80b707b3a36e6d9467d346b17db4c184d72c2d2f1693c7fd48915ed92f",
+        "2586d58eb278a46ad6d61549f12a79e5c748410b25d19dfdae5d0c7122890fdd"
+      ]
+    },
+    {
+      "translationId": "manilius-i-066-117",
+      "nominalVerseRange": [
+        66,
+        117
+      ],
+      "pdfPages": [
+        19,
+        20
+      ],
+      "printedPages": [
+        3,
+        4
+      ],
+      "sourceVerseIds": [
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117
+      ],
+      "sourceHash": "0e2fb97684f6585f811ca50858e52e90bd9bef7f7a71004164ea51773db4c43c",
+      "alignment": [
+        {
+          "sourceVerseIds": [
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72
+          ],
+          "targetParagraphIndex": 0
+        },
+        {
+          "sourceVerseIds": [
+            73,
+            74,
+            75,
+            76,
+            77,
+            78
+          ],
+          "targetParagraphIndex": 1
+        },
+        {
+          "sourceVerseIds": [
+            79,
+            80,
+            81,
+            82,
+            83,
+            84
+          ],
+          "targetParagraphIndex": 2
+        },
+        {
+          "sourceVerseIds": [
+            85,
+            86,
+            87,
+            88,
+            89,
+            90
+          ],
+          "targetParagraphIndex": 3
+        },
+        {
+          "sourceVerseIds": [
+            91,
+            92,
+            93,
+            94,
+            95
+          ],
+          "targetParagraphIndex": 4
+        },
+        {
+          "sourceVerseIds": [
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105
+          ],
+          "targetParagraphIndex": 5
+        },
+        {
+          "sourceVerseIds": [
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112
+          ],
+          "targetParagraphIndex": 6
+        },
+        {
+          "sourceVerseIds": [
+            113,
+            114,
+            115,
+            116,
+            117
+          ],
+          "targetParagraphIndex": 7
+        }
+      ],
+      "targetParagraphHashes": [
+        "b9db6ce6e0a401b83116bb2e354beba8dec0969cbae165792ff24ccc9d1896f6",
+        "dad601f095ebf507a685d00af0c4b13205fe5f6dd51c0282f69d7284504823aa",
+        "67975f96b9de6000982126c5cd0e8277a3c49eccaa40769a42608c8a8b3965b2",
+        "086f285cf02883f90e7e0027c14d3b924de5364c25deb4eb4cb3dcc7f7a88131",
+        "e26438f82a0c66aae145d1c8ddfa2dc360bdc5780f753adbaecba60a7d714743",
+        "d7ad564eb52ba9470e118af08b9218989cb06bfe5303a76fa40d4acbdc31393f",
+        "986229a664ee3318ccef442e681c094d56d5e853bf16f1976db3cff266cb1b36",
+        "4d80bb94ba6ef6e357b7f67631128f7e5a81d533077ec00fb08ae40505264af5"
+      ]
+    },
+    {
+      "translationId": "manilius-i-118-148",
+      "nominalVerseRange": [
+        118,
+        148
+      ],
+      "pdfPages": [
+        20,
+        21
+      ],
+      "printedPages": [
+        4,
+        5
+      ],
+      "sourceVerseIds": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148
+      ],
+      "sourceHash": "c9d5a44af3d3762aa1611e8abde5b87a83a8803e492936af6946b454bab03653",
+      "alignment": [
+        {
+          "sourceVerseIds": [
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124
+          ],
+          "targetParagraphIndex": 0
+        },
+        {
+          "sourceVerseIds": [
+            125,
+            126,
+            127
+          ],
+          "targetParagraphIndex": 1
+        },
+        {
+          "sourceVerseIds": [
+            128,
+            129,
+            130,
+            131
+          ],
+          "targetParagraphIndex": 2
+        },
+        {
+          "sourceVerseIds": [
+            132,
+            133,
+            134
+          ],
+          "targetParagraphIndex": 3
+        },
+        {
+          "sourceVerseIds": [
+            135,
+            136
+          ],
+          "targetParagraphIndex": 4
+        },
+        {
+          "sourceVerseIds": [
+            137,
+            138,
+            139,
+            140,
+            141,
+            142,
+            143,
+            144
+          ],
+          "targetParagraphIndex": 5
+        },
+        {
+          "sourceVerseIds": [
+            145,
+            146,
+            147,
+            148
+          ],
+          "targetParagraphIndex": 6
+        }
+      ],
+      "targetParagraphHashes": [
+        "83af654730138f0663f946dc404e0c0d29fb2cf52883814c0b408a58d7af471b",
+        "7313b77c6e90b1d78a0f2e70d5ef6ad711e4f0b7a15670dc95b8dd2fe22a8745",
+        "aa4124b8e45305093a06c65c19fd27c89557b3c5bd88c65c77bcd61bdad15aea",
+        "0e6d5c2b4aeefbe3ed26a72782b2c0b545586690723fcec9ac7f57dfcef70360",
+        "496bdf485794439da3ce09edea99847c803a1a3645666b136277f43dc1d5c1eb",
+        "cb0ac463822ef439cbc651d8d86e4eaa6ed89b5ea903e255949cdf84e3eda84c",
+        "225fe2e828c7c20d618ccfe4c27856d2421952991ff53d1d97d2c355bf69128f"
+      ]
+    },
+    {
+      "translationId": "manilius-i-149-166",
+      "nominalVerseRange": [
+        149,
+        166
+      ],
+      "pdfPages": [
+        21,
+        22
+      ],
+      "printedPages": [
+        5,
+        6
+      ],
+      "sourceVerseIds": [
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166
+      ],
+      "sourceHash": "fe41c0d6479e80b24204237b0b1f46b9b1e3eeda0febf9c576dab555c873ce5d",
+      "alignment": [
+        {
+          "sourceVerseIds": [
+            149,
+            150,
+            151
+          ],
+          "targetParagraphIndex": 0
+        },
+        {
+          "sourceVerseIds": [
+            152,
+            153,
+            154
+          ],
+          "targetParagraphIndex": 1
+        },
+        {
+          "sourceVerseIds": [
+            155,
+            156,
+            157,
+            158
+          ],
+          "targetParagraphIndex": 2
+        },
+        {
+          "sourceVerseIds": [
+            159,
+            160,
+            161,
+            162,
+            163,
+            164,
+            165,
+            166
+          ],
+          "targetParagraphIndex": 3
+        }
+      ],
+      "targetParagraphHashes": [
+        "ca68bd3249de393f2365e6387541216264376214f4597745258f242e290a1c90",
+        "f70e4eb0adbafc1111773e037be9f227c170f66cdbeb32bb99a0146cd8e53a1d",
+        "4612cdd08540d38243b7a2e33d09d00c38ab4e150322a503e045d3bb26dd49c6",
+        "b56f1c93633e7069424351631415c1e249fc418ef96cb1896a28633f3688db04"
+      ]
+    },
+    {
+      "translationId": "manilius-i-167-201",
+      "nominalVerseRange": [
+        167,
+        201
+      ],
+      "pdfPages": [
+        22,
+        23
+      ],
+      "printedPages": [
+        6,
+        7
+      ],
+      "sourceVerseIds": [
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201
+      ],
+      "sourceHash": "2718250a9ba0e200e9f40e11397994b1a8d9c40dca03a64f7b7828b082efe673",
+      "alignment": [
+        {
+          "sourceVerseIds": [
+            167,
+            168,
+            169,
+            170,
+            171,
+            172
+          ],
+          "targetParagraphIndex": 0
+        },
+        {
+          "sourceVerseIds": [
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180,
+            181
+          ],
+          "targetParagraphIndex": 1
+        },
+        {
+          "sourceVerseIds": [
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            190,
+            191,
+            192,
+            193
+          ],
+          "targetParagraphIndex": 2
+        },
+        {
+          "sourceVerseIds": [
+            194,
+            195,
+            196,
+            197,
+            198,
+            199,
+            200,
+            201
+          ],
+          "targetParagraphIndex": 3
+        }
+      ],
+      "targetParagraphHashes": [
+        "3d68409394e1355f0b1d7d6570a34743ae79dff97fc8910ee99829ec94e45643",
+        "54481b7547c3f8743f7064cc371df234bd02514dc910b22134c3fd557c8d03b7",
+        "6852df59c71dcb0b80147f9c09be8ccbacd156aac9822ffb798e09b5f85b129c",
+        "819eec7bb0a45fa46c87bfa5f41a864341d51174d4d381c23bb80968083d4f03"
+      ]
+    },
+    {
+      "translationId": "manilius-i-202-235",
+      "nominalVerseRange": [
+        202,
+        235
+      ],
+      "pdfPages": [
+        23,
+        24
+      ],
+      "printedPages": [
+        7,
+        8
+      ],
+      "sourceVerseIds": [
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233,
+        234,
+        235
+      ],
+      "sourceHash": "752c20f4eebac9122f1c6afdf58c06cd4026a2d6067074376cd5d1aae761e5d2",
+      "alignment": [
+        {
+          "sourceVerseIds": [
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210
+          ],
+          "targetParagraphIndex": 0
+        },
+        {
+          "sourceVerseIds": [
+            211,
+            212,
+            213
+          ],
+          "targetParagraphIndex": 1
+        },
+        {
+          "sourceVerseIds": [
+            214
+          ],
+          "targetParagraphIndex": 2
+        },
+        {
+          "sourceVerseIds": [
+            215,
+            216,
+            217,
+            218,
+            219,
+            220
+          ],
+          "targetParagraphIndex": 3
+        },
+        {
+          "sourceVerseIds": [
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227
+          ],
+          "targetParagraphIndex": 4
+        },
+        {
+          "sourceVerseIds": [
+            228,
+            229,
+            230,
+            231,
+            232,
+            233,
+            234,
+            235
+          ],
+          "targetParagraphIndex": 5
+        }
+      ],
+      "targetParagraphHashes": [
+        "adb656641755f6d6d146615bfac464357f7e292d0252b9c5708c3ad411f5aaba",
+        "1256cca1e6fd9ff1c662e7cfccb6fb08a6f2d617578ace24bfe4138d1afc2526",
+        "5a3c74520db99b9ba026efde0f60210db5d9843db98db4fca484e5ee014f0743",
+        "8eb9c1806dc371c1d48e7d9586627a808330cdb4cad3ff0ef0365f1954f83ce2",
+        "dc26f9e4ac712e7d1ddf50eb54a77e5cd60196de0fa48d41f0ac730085c92e58",
+        "b13050021d5ba77cf5f880b736e0cfbdd3e6d7af8ec4835ce2b7aa64a21c88af"
+      ]
+    },
+    {
+      "translationId": "manilius-i-236-254",
+      "nominalVerseRange": [
+        236,
+        254
+      ],
+      "pdfPages": [
+        24,
+        25
+      ],
+      "printedPages": [
+        8,
+        9
+      ],
+      "sourceVerseIds": [
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        243,
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254
+      ],
+      "sourceHash": "a657514dec48463a54b0ddba59ba211ec84a8ab17ba54ba10dd67fc39ac1c6d9",
+      "alignment": [
+        {
+          "sourceVerseIds": [
+            236,
+            237,
+            238,
+            239,
+            240,
+            241,
+            242,
+            243,
+            244,
+            245,
+            246
+          ],
+          "targetParagraphIndex": 0
+        },
+        {
+          "sourceVerseIds": [
+            247,
+            248,
+            249,
+            250,
+            251,
+            252,
+            253,
+            254
+          ],
+          "targetParagraphIndex": 1
+        }
+      ],
+      "targetParagraphHashes": [
+        "6172c8ee30b091bf7a3774a65c15afce00031f390474e28f6bbeadac0b3889e3",
+        "0fef64c6f08bea88869d178477a5ad3505b53f7ca001a407762f40f117871a84"
+      ]
+    }
+  ],
+  "preservedTranslations": [
+    {
+      "id": "xingming-suyuan",
+      "sha256": "1c2e4bae36ea103c503039a7c595a25b40e4af9e2322b9350f53bd1a48dc0ea6"
+    },
+    {
+      "id": "ptolemy-planetary-qualities",
+      "sha256": "ccd43d8df8d9fe0c4ff9b7ac82fc66cdc4a0900f9ea0b613cb6bb9433e5194e9"
+    },
+    {
+      "id": "ptolemy-benefics-malefics",
+      "sha256": "c6182a5f5b02b82cc014e96c8b76ffbd225657ab9be09848f0590dfcea1f16eb"
+    },
+    {
+      "id": "ptolemy-masculine-feminine",
+      "sha256": "d2d2b2547d6c3f1ed7b297db74dfedb6ce5d9c7dd7125b9714af8bccf42365c4"
+    },
+    {
+      "id": "ptolemy-diurnal-nocturnal",
+      "sha256": "9c64a930db70e9efecfeae0d64277a4f4ab388aac23d8a30413153b18b377707"
+    },
+    {
+      "id": "ptolemy-solar-phases",
+      "sha256": "5c7a9dd58af2ac01558269ae95382b1496fc7017edf55cafce24f75348842250"
+    },
+    {
+      "id": "ptolemy-sign-modalities",
+      "sha256": "1a5a257704d7c3a8ba3c813aef1867ecb6e533de7b330a49855e0f25692bbf36"
+    },
+    {
+      "id": "ptolemy-inconjunct",
+      "sha256": "6dffce4a73495e00c70ccf07747c4c9ee0918baaf82dcad8722542e767883270"
+    },
+    {
+      "id": "ptolemy-domiciles",
+      "sha256": "bdf6d636a8837e5a2f53c6f5d6ff5bbb58deba569c9fcb1c78c183c709ba70ed"
+    },
+    {
+      "id": "ptolemy-triplicities",
+      "sha256": "d32d43092fbb79d35b658baa157376a4b5db7353d06211068a71f6b4dc65fd2e"
+    },
+    {
+      "id": "ptolemy-exaltations",
+      "sha256": "f5ea63f2aeea70adc7ecd6461d6b63a60fb6ead3be226c6bda5e6c40cd30a361"
+    },
+    {
+      "id": "xingming-judgment-passages",
+      "sha256": "eaa45fd521d4412244b9776fe3d7b491f56d415e8281355ea51930447d1b1d47"
+    },
+    {
+      "id": "ptolemy-zodiacal-stars",
+      "sha256": "aa18579933dfc49c1bd94145b629829ad162252b331dfac4f8f0f3782a8c1331"
+    },
+    {
+      "id": "ptolemy-northern-constellations",
+      "sha256": "32e0412d15790af7144da662f9e8d4c0a4701ca96a0496e0c4197c7c126f3ea8"
+    },
+    {
+      "id": "ptolemy-southern-constellations",
+      "sha256": "4e20e3e27c6b074da56b810468baca36bf2849c14ad15d524dc12425c97e357d"
+    },
+    {
+      "id": "ptolemy-annual-seasons",
+      "sha256": "5bf97d6b59c8ec18fe70f0da8e0ba63d0e6d653bb12766c3889511fb043ef311"
+    },
+    {
+      "id": "ptolemy-four-angles",
+      "sha256": "c16ffed300284b0c4766dcb85420d94fa7b13e308eabc2f4c7a2fb3fb723dac1"
+    },
+    {
+      "id": "ptolemy-sign-genders",
+      "sha256": "22bb666b15df12d4c9ba9a22b7c2b08855beb2252defae29a56b98cfef29b1b8"
+    },
+    {
+      "id": "ptolemy-aspect-geometry",
+      "sha256": "87314d0d9a87d7469fb1c5e347e200ec588e70f3343bfe105fbee64035fbe818"
+    },
+    {
+      "id": "ptolemy-commanding-obeying",
+      "sha256": "ff85627047e8ec1b31ad436a3d210754fdc300659ff26e16e004d846022a896b"
+    },
+    {
+      "id": "ptolemy-beholding-signs",
+      "sha256": "89e71012f061393f1e1722d27fa204351ba8509dc1be213fbbc36787f790f66f"
+    },
+    {
+      "id": "ptolemy-egyptian-chaldean-terms",
+      "sha256": "dcdfc5ee1404d72a9ed6c9c27467ff1a54136e60c2f5434a7500a1c375972e7e"
+    },
+    {
+      "id": "ptolemy-terms-rule",
+      "sha256": "a40a1145df5889b6d6902537bb27d593a11e639f4437f0b61a8463f82f59de96"
+    },
+    {
+      "id": "ptolemy-zodiac-subdivisions",
+      "sha256": "d4290f60d99bdffd100bb1a36f0dc6e9df5c8b31ed9869fec53c308a45dce32f"
+    },
+    {
+      "id": "ptolemy-faces-chariots",
+      "sha256": "e8d0a6d70a517de7b0aaf0e0d4c2bba55fae96afd7a66da201fdd6832f2944f1"
+    },
+    {
+      "id": "ptolemy-application-separation",
+      "sha256": "fe4ea871715fa5fa3e79f86fdbe447c2bdb151a85e32fb746c22230232f357dc"
+    },
+    {
+      "id": "ptolemy-proem",
+      "sha256": "c6fe69f690fb8603cf8320d522001c59fc16ccd52a3953c4a9f4a613f0bf9305"
+    },
+    {
+      "id": "ptolemy-knowledge-limits",
+      "sha256": "833049e9b728ba8e60adc0436041efcbd2b5d49cb6e31dab9e2728f9d9d9d9a8"
+    },
+    {
+      "id": "ptolemy-prescience-usefulness",
+      "sha256": "1f38a83b210eb9800733d2943031648b18b7d6f22f8b6a9cdd470d10b3c9fb85"
+    },
+    {
+      "id": "ptolemy-universal-particular",
+      "sha256": "b019b18c24569c62deec9f296d14450ab4909ddc9c702102452ec56b267ae7b5"
+    },
+    {
+      "id": "ptolemy-climates-peoples",
+      "sha256": "2679f22b957245877976cf8c7597eced940fab647ed1ae641c05b27fe73f1780"
+    },
+    {
+      "id": "ptolemy-regional-triplicities",
+      "sha256": "4634308e22ce8a41fb7f7c53aec7a3618a3daa173e68c7edb28f8f742f841e3c"
+    },
+    {
+      "id": "ptolemy-regional-fixed-stars",
+      "sha256": "a1654f252b46a06d74020e8a7a3a488952d7976a90ce86e90fbf3c95d8a19fb0"
+    },
+    {
+      "id": "ptolemy-eclipse-inquiry",
+      "sha256": "a5fa8f6854bf87e24751383aa16318f540a1c18b0e5c5a45ade56b358e8294ec"
+    },
+    {
+      "id": "ptolemy-eclipse-regions",
+      "sha256": "361c14c7c3332c48f4180fa468492c8de89b90c806d5485d912950cdb331f3be"
+    },
+    {
+      "id": "ptolemy-eclipse-timing",
+      "sha256": "5fa8b3002d5a58874c8efcba05b014787f8fe2f47990ad51a0abfc2607eef188"
+    },
+    {
+      "id": "ptolemy-eclipse-affected-kinds",
+      "sha256": "992e6864b46deebd150354c6432bf77562a172f8e7a7765a3e221673a0e286e8"
+    },
+    {
+      "id": "ptolemy-eclipse-effects",
+      "sha256": "69ca49ab7cbe47dca159eae30be49f92fc085ad069c4e85d94fd3ef5ffc1e4ff"
+    },
+    {
+      "id": "ptolemy-eclipse-colours-comets",
+      "sha256": "c26afcfe98f944572858c94b47de380a600d786bfd37ca6425820cda969136a9"
+    },
+    {
+      "id": "ptolemy-new-moon-year",
+      "sha256": "59b088c65b3d27666c2740da6107ead1550ef0cc9a0723d73b1a1bf6487bcfb3"
+    },
+    {
+      "id": "ptolemy-signs-weather",
+      "sha256": "9487354b5b4861e9efdb354a750fa2beef58c42b8d6223a828dcba1c4c33ac3b"
+    },
+    {
+      "id": "ptolemy-weather-judgment",
+      "sha256": "be99790cf3301a2e037efb0fe4a874740061cea8853b1433c03426efd55c41d3"
+    },
+    {
+      "id": "ptolemy-sky-weather-signs",
+      "sha256": "f6ba5d1497270f86f6818d629d435066163672469ca2162472fd414e8b444509"
+    },
+    {
+      "id": "ptolemy-nativities-proem",
+      "sha256": "64323c9d8722171aef8012f767eb8771b1964d4342047ca100147c2730474f0a"
+    },
+    {
+      "id": "ptolemy-conception-birth",
+      "sha256": "98fa15817ae6afe840f33df7eaca21c766b9f291717aad4dc036baa230db6c13"
+    },
+    {
+      "id": "ptolemy-ascending-degree",
+      "sha256": "a8801c49d0a947d5e55e53b41235cfd10f3147b5f31e1d664ed585994ffc7166"
+    },
+    {
+      "id": "ptolemy-natal-inquiry",
+      "sha256": "67fb66cce9571ad561be1fcc3db89793a18b1963803c1caba839066284fd5099"
+    },
+    {
+      "id": "ptolemy-parents",
+      "sha256": "c8794ca623f1adef67ae74291db7588dd9169bc48241d3d34562808e6eb90df7"
+    },
+    {
+      "id": "ptolemy-siblings",
+      "sha256": "6c006bdc103943c142104c8892be7148817b578ecc9ad432eb28cf472e08e505"
+    },
+    {
+      "id": "ptolemy-birth-sex",
+      "sha256": "6642b742c46f32c8b523086c807a011a483be9d965c88f4286e8f24c0a2991bd"
+    },
+    {
+      "id": "ptolemy-twins",
+      "sha256": "4f0ac9d479b75d3f6da7ae85ceedf7eb0670aa1f3dab98c7fe3265a9158d4e8e"
+    },
+    {
+      "id": "ptolemy-unusual-births",
+      "sha256": "a168e35a63eccc271f39c32ece1f9a8628bcde8627ea0f90b0a176fde90537dc"
+    },
+    {
+      "id": "ptolemy-children-not-reared",
+      "sha256": "b1c1af3826243bf65df48cd64f0fdb59517f9a5f6f6ed66ebe258551fcadd1b7"
+    },
+    {
+      "id": "ptolemy-life-duration",
+      "sha256": "41c36d49d5f4b413acfdd6b4a1d66cb7968be686bff58d14d187c25c10619d9d"
+    },
+    {
+      "id": "ptolemy-prorogatory-places",
+      "sha256": "0d02557720183164139d0e2ebbd675c6ef10bc3b6db029a9cf731d9d2db6bf5d"
+    },
+    {
+      "id": "ptolemy-prorogators-fortune",
+      "sha256": "93f8bd21bfa61f9c5615267dee745850c4bb60f3375d1fc8e0819c664d02cdda"
+    },
+    {
+      "id": "ptolemy-prorogation-modes",
+      "sha256": "7049cb73e50861d6fd9e9feb41735c167d35392f0c1db29c0fea854bafb487f4"
+    },
+    {
+      "id": "ptolemy-prorogation-example",
+      "sha256": "65b319c1e582e5b79026b30e3ecaa62e8686f20b695adb49cbb057142798e2a7"
+    },
+    {
+      "id": "ptolemy-body-form-temperament",
+      "sha256": "6fde2ad8cd404c5a7a682ee12a88bd0a7bdae5b690c6e54c689fbb9646cd130f"
+    },
+    {
+      "id": "ptolemy-bodily-injuries-diseases",
+      "sha256": "ffb8318e153169a648a7158dc7976e117c861f9eefdc8ff3765c4f9b7411b4f7"
+    },
+    {
+      "id": "ptolemy-qualities-of-mind",
+      "sha256": "ca80a80a084f6cab76aec239d0a57c5d97d833a66589e667865aa1d1fa21160b"
+    },
+    {
+      "id": "ptolemy-disorders-of-mind",
+      "sha256": "73ff4ea47fc54e92b50ce131de7e7346f2e9fe1f5135cd71fde0f4af0ec49123"
+    },
+    {
+      "id": "ptolemy-external-fortunes-proem",
+      "sha256": "c501b8b5cd176938555c3061c9df601f022d8494f2e51423b111cac10b4ee5d7"
+    },
+    {
+      "id": "ptolemy-fortune-of-wealth",
+      "sha256": "5e51039d8086fa16fdf4db07eb83a627105f19c0b770b7d2f815f9cd8472deaa"
+    },
+    {
+      "id": "ptolemy-fortune-of-rank",
+      "sha256": "ecf2d8f3968913b009ba447541a5c5e275a3f072183b375be96a6177f2b6a5f1"
+    },
+    {
+      "id": "ptolemy-quality-of-employment",
+      "sha256": "2a3c97d0778c68ec3c93798b7c2df60207e039fc5b5fd340167f5805c5d31bd7"
+    },
+    {
+      "id": "ptolemy-marriage",
+      "sha256": "ed58542628ed47629c04309355ffc0f467976fc0703f2db399849acc38ca7522"
+    },
+    {
+      "id": "ptolemy-children",
+      "sha256": "0b0e505a711d831045ce0adb63522d66bf85e80934f7688b396375f6d8e5106f"
+    },
+    {
+      "id": "ptolemy-friends-enemies",
+      "sha256": "44a4817fa6ea773f2e2661486ef58a85cffa115512f7844c08104ffdc79cc078"
+    },
+    {
+      "id": "ptolemy-travelling",
+      "sha256": "28c429cbb548cc6ae4039919ae384ea5b61cbbb2180124fbb7f484d3fdc9226e"
+    },
+    {
+      "id": "ptolemy-kind-of-death",
+      "sha256": "8125386dcd5be31f6c483235eba4c4c5ccdf8f37fd56eed3d5c690c3a6ecf1c7"
+    },
+    {
+      "id": "ptolemy-periodical-divisions",
+      "sha256": "884c86530b481cb63196e92c5c2a17a3343bd66da1e71696d2267b7e2b190ce5"
+    }
+  ],
+  "preservedReferences": [
+    {
+      "id": "xingming-judgment-passages-1",
+      "sha256": "878e8eb1f475dda80ee8e0bc2161c08fe918a0440c66c0cd4d6a87a9633fe618"
+    },
+    {
+      "id": "xingming-judgment-passages-2",
+      "sha256": "ae7f6a036ce3cc38826485ff0028488c6244408346296aed65e44b8330ca36cf"
+    },
+    {
+      "id": "xingming-judgment-passages-3",
+      "sha256": "981ee90201674453a8e4c69f3296d83aafff851ecdb0463be029d08d67b83e77"
+    },
+    {
+      "id": "xingming-judgment-passages-4",
+      "sha256": "6e53c4a9a247a53ebbb3a2c58f0b457735150735eaf1e12f9cc1d3c078bf22b4"
+    },
+    {
+      "id": "ptolemy-planetary-qualities-passage",
+      "sha256": "f48f2c424043d5c7c0200d72ecc2cc0883efb21ddf25405551eaee5a1d41f9c7"
+    },
+    {
+      "id": "ptolemy-benefics-malefics-passage",
+      "sha256": "4420b3c10a11db760924ac7e358cadb9e6b5cba39d3936e79e12ab65cfc8aee6"
+    },
+    {
+      "id": "ptolemy-masculine-feminine-passage",
+      "sha256": "a0c6d0ee9de57b24b42e3b5afbe328b80274c4d9c76e52d305fe322f25b4a714"
+    },
+    {
+      "id": "ptolemy-diurnal-nocturnal-passage",
+      "sha256": "7ed65f5ec9dc2b24ba06a5a78a481a681c49b434e1f66bb7ee37138577bbe75e"
+    },
+    {
+      "id": "ptolemy-solar-phases-passage",
+      "sha256": "4633d104edda2a6230acaf97c9908152e0d91496998f77e4917e14db975e62a0"
+    },
+    {
+      "id": "ptolemy-zodiacal-stars-passage",
+      "sha256": "be1aeadb050f3f0106128d3059044308601ef982bd5cf21ace0ff7ccb760750b"
+    },
+    {
+      "id": "ptolemy-northern-constellations-passage",
+      "sha256": "39c726c04ee6ad2984972fde00aa5861c32eeb32ef48d75c713c6ebfcd5bd29f"
+    },
+    {
+      "id": "ptolemy-southern-constellations-passage",
+      "sha256": "dc01065937a26597c7ac48ba3a380faa0164a5c4b64a8b38c6bc82dfe1578de9"
+    },
+    {
+      "id": "ptolemy-annual-seasons-passage",
+      "sha256": "db2d2d0ab8beb10d7b2cd70b294fd9eb83ee325300d70441b388ab5cf2eb9086"
+    },
+    {
+      "id": "ptolemy-four-angles-passage",
+      "sha256": "befab19f34b10642171d793e68b397acc0c4ab2160c6978908eb09815636ca0a"
+    },
+    {
+      "id": "ptolemy-sign-modalities-passage",
+      "sha256": "e62de5556a745d9b21933f2a0576c745215f7b983fbfc975d919e19a6b5a6de1"
+    },
+    {
+      "id": "ptolemy-sign-genders-passage",
+      "sha256": "a587674198782c60048a1a23df6ae636d741ff70129ba7c2feb7304366c5adc6"
+    },
+    {
+      "id": "ptolemy-aspect-geometry-passage",
+      "sha256": "93207bcc777e9908e8069ecf988b6a5271d11e6611a253afab0b1679671826f4"
+    },
+    {
+      "id": "ptolemy-commanding-obeying-passage",
+      "sha256": "7abaaa9069d2c84b9ddf8eddd976a19672a0133b57833f4998a2e72cc7ee5aea"
+    },
+    {
+      "id": "ptolemy-beholding-signs-passage",
+      "sha256": "3cf29c6619b413f4cc028f821a8401f46143fa3923397d43270e3584afea2c70"
+    },
+    {
+      "id": "ptolemy-inconjunct-passage",
+      "sha256": "7088b3b2b1b9dca92a521317c08bdd7ffca2e6e2fb25996f664987ed8417e2bc"
+    },
+    {
+      "id": "ptolemy-domiciles-passage",
+      "sha256": "e7c937582ef71fd94eee09064089bbe7d4af9d89318e2bdd9fc442d1670731fd"
+    },
+    {
+      "id": "ptolemy-triplicities-passage",
+      "sha256": "8eada3d95df93fc8ede8345eff96e280612230b0013bf44f26d21d867c36007c"
+    },
+    {
+      "id": "ptolemy-exaltations-passage",
+      "sha256": "f534e07c83f11a05030b4158e23dfb0353e5b622c589e73529583d4ccc9fed2c"
+    },
+    {
+      "id": "ptolemy-egyptian-chaldean-terms-passage",
+      "sha256": "7679fbf313235178d40abc6cc6922c81eda340e27bd077be0c894849b38340e9"
+    },
+    {
+      "id": "ptolemy-terms-rule-passage",
+      "sha256": "6949e41191b49c43108254494876f2530fee55293fb275adca64b75a84147522"
+    },
+    {
+      "id": "ptolemy-zodiac-subdivisions-passage",
+      "sha256": "ccb89f50bfbbe573233ecfaff60fab6608b23776812d644c6b82c272de556dbd"
+    },
+    {
+      "id": "ptolemy-faces-chariots-passage",
+      "sha256": "17d668b1b1417508b0e51e845678e3c4d805a36457d366419a741f5bb73d836a"
+    },
+    {
+      "id": "ptolemy-application-separation-passage",
+      "sha256": "d671eaa7d95168f6b4962fd9c41eef6a0945da56aa17a84607ee7b07c8907567"
+    },
+    {
+      "id": "ptolemy-benefics-malefics-pair-1",
+      "sha256": "c5a98e9fce068afd914640bfbf25ca70c2208ece131f18a2adba191c5cb13d26"
+    },
+    {
+      "id": "ptolemy-masculine-feminine-pair-1",
+      "sha256": "fda4ab04094507a9b34621064bafc9fe569ca67f2f318bb2ab7bdb44e2aad3ea"
+    },
+    {
+      "id": "ptolemy-diurnal-nocturnal-pair-2",
+      "sha256": "5a643d7448578da7cef8396f1da5435258a5f4910e9c427b8368742fa75cef3b"
+    },
+    {
+      "id": "ptolemy-solar-phases-pair-2",
+      "sha256": "93a053dcda2c4fe889951792f41c4208220d0802841d3f99d9803b7ac83a6f4a"
+    },
+    {
+      "id": "ptolemy-annual-seasons-pair-1",
+      "sha256": "4e112579bfa4daf75267c2378318389ea512c149f98bdcbb32be0f2579e08b2a"
+    },
+    {
+      "id": "ptolemy-sign-modalities-pair-2",
+      "sha256": "a38989a1a222aca1451779287f24f8eb5a6adb88344ceeb6a9a0b46313b42744"
+    },
+    {
+      "id": "ptolemy-sign-genders-pair-1",
+      "sha256": "9530fb1eac99f0fd60ab47811adef0ae309e2cbeec8bf2bec9d759b809e00466"
+    },
+    {
+      "id": "ptolemy-commanding-obeying-pair-1",
+      "sha256": "702433442b715f56eaac9f051c60fba0049543a468d8828a3e53c66bdd777aaa"
+    },
+    {
+      "id": "ptolemy-beholding-signs-pair-1",
+      "sha256": "0318d691203955f224781f5a0cfec45b30c4aba819e82df5bd64f70174e8859c"
+    },
+    {
+      "id": "ptolemy-inconjunct-pair-1",
+      "sha256": "e98f79ce1e2b07e507b640fa448c9e6ddad20b396460980001396006498fad56"
+    },
+    {
+      "id": "ptolemy-terms-rule-pair-1",
+      "sha256": "016c9d62e7ed012c974f71c13a84fff8519036932c972039495ebf36a31ebca7"
+    },
+    {
+      "id": "ptolemy-faces-chariots-pair-2",
+      "sha256": "3940432e66d8e8198b29d4acbcf37823480b91269190149f57ae93b1191dc13f"
+    },
+    {
+      "id": "ptolemy-proem-passage",
+      "sha256": "0083d05044e350e3935db924049cf8bb94e9552887048b029fac6ef00d8d9667"
+    },
+    {
+      "id": "ptolemy-proem-pair-1",
+      "sha256": "045563d8728a8891edab0712456e48128c73ac18ee2dd2b2ba5d5a7b5039d156"
+    },
+    {
+      "id": "ptolemy-knowledge-limits-passage",
+      "sha256": "26b298677f7a54c90a4a205b3302b159cb7d975c6db8b31908c06776d1bc9bd0"
+    },
+    {
+      "id": "ptolemy-knowledge-limits-pair-1",
+      "sha256": "9f06adfb0b553f3d16a40fecb33e9a2e1e4681a1729d2d28d629507283e2e1dd"
+    },
+    {
+      "id": "ptolemy-prescience-usefulness-passage",
+      "sha256": "fff480f8674bbeccb5ef8fe08c2b6d2745315b8e8fccab6602288ac99fabdf5c"
+    },
+    {
+      "id": "ptolemy-prescience-usefulness-pair-1",
+      "sha256": "f77bc648d9b080598a55ca08eb01da92f2ca0ce361ddb7f35b696e79640c3d07"
+    },
+    {
+      "id": "ptolemy-universal-particular-passage",
+      "sha256": "215b099428762468eda5e526c481750c055fe6ca5b9f08921a24c08446e38128"
+    },
+    {
+      "id": "ptolemy-universal-particular-pair-1",
+      "sha256": "2adbb092273437a5f6251aa2815369e53602c454d9dafb071f716e76564ac04e"
+    },
+    {
+      "id": "ptolemy-climates-peoples-passage",
+      "sha256": "83552f6fb2bf340ef5380f9a999fac0b2c21e585f9b53d611c602e4d909dca32"
+    },
+    {
+      "id": "ptolemy-climates-peoples-pair-1",
+      "sha256": "73a9dc83adc670ef3c2cce2a6a9cbc7a77ab27ba938474a88f1133344964290c"
+    },
+    {
+      "id": "ptolemy-regional-triplicities-passage",
+      "sha256": "b4d5ecd2c0f2b5fc2fe326e4f9214d1d6492c321086e7115d0dd9a6afcdef603"
+    },
+    {
+      "id": "ptolemy-regional-triplicities-pair-2",
+      "sha256": "0d1cacaaa4de4ea5989dfa49dd7a168a86ae7dd425619d08df6065e1eab82f3f"
+    },
+    {
+      "id": "ptolemy-regional-fixed-stars-passage",
+      "sha256": "5bf8008e004f21627f8b93a17e6dddddfeabf284f81dc97fa5aa208667d8fd5f"
+    },
+    {
+      "id": "ptolemy-regional-fixed-stars-pair-1",
+      "sha256": "417c661c743ef0cff233553e19e6544b452e80047a91b05a11a81dd2b8e121be"
+    },
+    {
+      "id": "ptolemy-eclipse-inquiry-passage",
+      "sha256": "ed53a7da29f42789bdc8ac417f38778896cb1223c6e270ccd08ab8f05afc077d"
+    },
+    {
+      "id": "ptolemy-eclipse-inquiry-pair-1",
+      "sha256": "32102d90f176e906c0ab0b92f86a51d669a0d193ddb1b6f6344fa20fc86604a6"
+    },
+    {
+      "id": "ptolemy-eclipse-regions-passage",
+      "sha256": "977b09e57daea4b28f0bd39c25f3419f05e6b46ac31035a092084269a2ee1e68"
+    },
+    {
+      "id": "ptolemy-eclipse-regions-pair-1",
+      "sha256": "fd4259170a707b54f30eadbb4d28c894c7d3cc5a338edb2e966d9c00b22a6b50"
+    },
+    {
+      "id": "ptolemy-eclipse-timing-passage",
+      "sha256": "23885ef57dffb7018211b444f420d00fde4a266e8d7abb3d86e0a646d9d892d7"
+    },
+    {
+      "id": "ptolemy-eclipse-timing-pair-1",
+      "sha256": "af3392ee52ff1ca5e623707b2e23cf1b5f74d23e9bcf0a6a60f4e5717830d7c3"
+    },
+    {
+      "id": "ptolemy-eclipse-affected-kinds-passage",
+      "sha256": "0ce697d3ab6698c28b0e7c8107fe8d0e43139ffdd769fdc623f02a9d60c7dd24"
+    },
+    {
+      "id": "ptolemy-eclipse-affected-kinds-pair-1",
+      "sha256": "34fb28d969559455b564c9a794f57d50a84a95cdaa68f724ad7dcf38084f85d9"
+    },
+    {
+      "id": "ptolemy-eclipse-effects-passage",
+      "sha256": "919de148e73a9ccc63715d6a2aa9cac1d0e4bd78ce969479557b145c616a3df5"
+    },
+    {
+      "id": "ptolemy-eclipse-effects-pair-1",
+      "sha256": "97b59ee2c423838cd7ccd2ed9aa68a5651fb2d13e28f0ffd4b28a5064656eb6a"
+    },
+    {
+      "id": "ptolemy-eclipse-colours-comets-passage",
+      "sha256": "b74f3ff1937f0389a6f71e3ecf45ae6cab3c471019f29b703f2f05f18027cc60"
+    },
+    {
+      "id": "ptolemy-eclipse-colours-comets-pair-1",
+      "sha256": "8ab0c5e6b8665403be3b149a1cd5160810a500a430a9b1a7c8f09894537a79b6"
+    },
+    {
+      "id": "ptolemy-new-moon-year-passage",
+      "sha256": "febf9ccd6fbb7e59b710cbc384c9ac61e5474beee627594863547c879acd7f85"
+    },
+    {
+      "id": "ptolemy-new-moon-year-pair-1",
+      "sha256": "4bf7499496d0e0e173ccdb3d20fb5527c7169ba803ab9d1a3b6bc3ad45673142"
+    },
+    {
+      "id": "ptolemy-signs-weather-passage",
+      "sha256": "4c19cb49708c46c03ffd6b323cd977ed877d7b0cce8569b9f5c75660a9efe833"
+    },
+    {
+      "id": "ptolemy-signs-weather-pair-1",
+      "sha256": "0df01067aa423f9994617cbf12f321b1f015cecb7dc26db2eb33f7bb93a525c2"
+    },
+    {
+      "id": "ptolemy-weather-judgment-passage",
+      "sha256": "509440af64af55955daaac568576f873ce308c6c54434c56b49a3d4c3b7f5874"
+    },
+    {
+      "id": "ptolemy-weather-judgment-pair-5",
+      "sha256": "23123a9841a1a9352abda47ae9a2bf3ab876785c3e5742ae2112a5c80eba9024"
+    },
+    {
+      "id": "ptolemy-sky-weather-signs-passage",
+      "sha256": "4b8dc5071deda631b46bef9e7b387e4287eb49f0c254ba954b88812597cc1661"
+    },
+    {
+      "id": "ptolemy-sky-weather-signs-pair-1",
+      "sha256": "2dc95ff27790758a0bb0fdd96f951bca857a537e84256a0ddd8157e9e8999249"
+    },
+    {
+      "id": "ptolemy-nativities-proem-passage",
+      "sha256": "3c2b69e7f2c459b9a9f7f252e2992eccfcf3a3ed33e30ab405c279fb027f56a2"
+    },
+    {
+      "id": "ptolemy-nativities-proem-pair-2",
+      "sha256": "130cf1513edf4a23d050c611f5acc313cf63252f513f1c50133970ba6aeb4f8b"
+    },
+    {
+      "id": "ptolemy-conception-birth-passage",
+      "sha256": "721336b924cb9ea5a22b4bb934789e05fe3177f8e15adcae3ca324a49a28e86b"
+    },
+    {
+      "id": "ptolemy-conception-birth-pair-2",
+      "sha256": "5f4b892788f3f63ad4b06a3514c5149853e2ed34a2a046148e99d7de5e6f80b5"
+    },
+    {
+      "id": "ptolemy-ascending-degree-passage",
+      "sha256": "51a80466bc9cb1604908550a455f3bf7b86e3b575dae413f778089db9e4b2cb6"
+    },
+    {
+      "id": "ptolemy-ascending-degree-pair-3",
+      "sha256": "15179de649740b20b6ac242b48dd7289a594200a1cefcd0c219337244ba6e047"
+    },
+    {
+      "id": "ptolemy-natal-inquiry-passage",
+      "sha256": "dbdcdbfa91dea1e85816710aa0af0ed3436d4216e28930c6b46636520b7287fd"
+    },
+    {
+      "id": "ptolemy-natal-inquiry-pair-7",
+      "sha256": "fe30edaf088a14eaa298ecd262a4df26872d489ed2b94a0a129932ff5a0f5988"
+    },
+    {
+      "id": "ptolemy-parents-passage",
+      "sha256": "6a38091625901105fca0f0a0eb68db7c8f531504082ded3e521e34a03dbe53f8"
+    },
+    {
+      "id": "ptolemy-parents-pair-4",
+      "sha256": "be4c503abd47a8a6dd3751553d3040364eb223ec95859bccd19ef42a9c6415fb"
+    },
+    {
+      "id": "ptolemy-siblings-passage",
+      "sha256": "226a8661170051eebe8f05d160206acb1290219c037e8b36f1dfc8ed6e1e14af"
+    },
+    {
+      "id": "ptolemy-siblings-pair-2",
+      "sha256": "45e2ce0cf1c73504b829b46ef78c6cf04d5a7b34724afcf056c9666e55b37bf8"
+    },
+    {
+      "id": "ptolemy-birth-sex-passage",
+      "sha256": "ad7be49d8eed5ae2df436c365e16ed13167536eb37aeb93ec3b048cd7007314f"
+    },
+    {
+      "id": "ptolemy-birth-sex-pair-3",
+      "sha256": "c2c547177b62f62bf0743c26d1c95cc9fbed3428a3ffc053c4db171546cda8de"
+    },
+    {
+      "id": "ptolemy-twins-passage",
+      "sha256": "6aec2e79ca7fe8fb952b8e4fd31ee054cdd47c6a04b5433d216882ed8aa9936e"
+    },
+    {
+      "id": "ptolemy-twins-pair-3",
+      "sha256": "8310ad3daf3b60dc3ffd7c793badda797a0bb14e08cdb9d15c2de47bec8ff9b0"
+    },
+    {
+      "id": "ptolemy-unusual-births-passage",
+      "sha256": "86715c8a1b665eabba7410ff227a510371a48f611786174da071c077fd68717c"
+    },
+    {
+      "id": "ptolemy-unusual-births-pair-1",
+      "sha256": "ab5d2e361f549780de6b2bb4e2105c61af23d31e9e1d40470216b601d0712cf1"
+    },
+    {
+      "id": "ptolemy-children-not-reared-passage",
+      "sha256": "037f0af3cff5850242459826a66bdead13f7c3d953f8c6073ceb1f9cde2401c8"
+    },
+    {
+      "id": "ptolemy-children-not-reared-pair-3",
+      "sha256": "460860cdbbe593e1d97d274064be804a97350ed12e1e69f56acc7d69d6ae3e66"
+    },
+    {
+      "id": "ptolemy-life-duration-passage",
+      "sha256": "90bcd62a7c98e1008e81398110449652e1d288148e40a7b8b6db4ce14dbcf9b3"
+    },
+    {
+      "id": "ptolemy-life-duration-pair-2",
+      "sha256": "1f2887f175acb4408edbfb7f0420573545ca864550e047c9ca5e537040c6b456"
+    },
+    {
+      "id": "ptolemy-prorogatory-places-passage",
+      "sha256": "43fdc87ab3af7458c471ae2b309123d53251924bdc1b4d7ef5d34cb46659117f"
+    },
+    {
+      "id": "ptolemy-prorogatory-places-pair-1",
+      "sha256": "edd98ac9875b7fd34480ae2082ea481c11b8e6bc886af4b0a14ea10b411184d1"
+    },
+    {
+      "id": "ptolemy-prorogators-fortune-passage",
+      "sha256": "6c6172e7d2cbf3086c521a45feddc4d615bdd2878d35aca53b59fe78be7d5f95"
+    },
+    {
+      "id": "ptolemy-prorogators-fortune-pair-2",
+      "sha256": "03ce34594d521405e271d120ebd866f80503165d0c6046c336bf8b5b04128c13"
+    },
+    {
+      "id": "ptolemy-prorogation-modes-passage",
+      "sha256": "8444fae3e5c7c92575e5828bb45866d4ee5112fa48ee093deff4eaca4d2da858"
+    },
+    {
+      "id": "ptolemy-prorogation-modes-pair-5",
+      "sha256": "43bcd502886ab3bcbbaf9989acf807097d379677192744ca9bc3685ea1b7512c"
+    },
+    {
+      "id": "ptolemy-prorogation-example-passage",
+      "sha256": "a2b40c8ef6f99bf5e246fbb9b6d3bbf220071dd1cb9067bee0fea223dfc1de48"
+    },
+    {
+      "id": "ptolemy-prorogation-example-pair-2",
+      "sha256": "d1fc1928a7dfda3b37ec4a6e2b8b6e5b7168b6842350f90ffbf86f567027d916"
+    },
+    {
+      "id": "ptolemy-body-form-temperament-passage",
+      "sha256": "37db65326f076aebce15ee2d797f7f74911c81e84fa41275be9bef98a5392f81"
+    },
+    {
+      "id": "ptolemy-body-form-temperament-pair-3",
+      "sha256": "f75bd9d8c7eb7f65ff4a0ff9dcfc8f1bc6b8fb364c213f2650f2afb808ed46d5"
+    },
+    {
+      "id": "ptolemy-bodily-injuries-diseases-passage",
+      "sha256": "93518e521d441cc16cb01a0c91f701e96d3b5742f5191a2e8bdbf51c84ccee8a"
+    },
+    {
+      "id": "ptolemy-bodily-injuries-diseases-pair-3",
+      "sha256": "1321e732a3f4c6c29e37c87d5a072b999b3ae6d6cb3a1ce3659bf27c0106e296"
+    },
+    {
+      "id": "ptolemy-qualities-of-mind-passage",
+      "sha256": "b90d35c86cfa0dad4c42281bc5d373ff36b417b11eebda9c6097120aad8f0bdb"
+    },
+    {
+      "id": "ptolemy-qualities-of-mind-pair-2",
+      "sha256": "7c3a7565c6f1e997a389b23a973d02f953d1c8c4f1798ce1ba6e5adb24a2dd4c"
+    },
+    {
+      "id": "ptolemy-disorders-of-mind-passage",
+      "sha256": "5e17a3278d10e07736a606bc6626f00d49404c3b808e1e02bfdb74459729109e"
+    },
+    {
+      "id": "ptolemy-disorders-of-mind-pair-2",
+      "sha256": "93a7bcc1ef498553a476cac30de3626e4510cfd55261fc139d3e8462a17a9dc1"
+    },
+    {
+      "id": "ptolemy-external-fortunes-proem-passage",
+      "sha256": "fd9789286b7e769896cdbfe169f063ddf26356f11a30d5bf10dfb78d7b26cef5"
+    },
+    {
+      "id": "ptolemy-external-fortunes-proem-pair-1",
+      "sha256": "2f81a758c8ef17c6113b741638a8b28b56bc5546577da7745b9d895f938635d3"
+    },
+    {
+      "id": "ptolemy-fortune-of-wealth-passage",
+      "sha256": "e13ef5cbbbdfaa303e8a920b67efb41cc4076b39b94936442361cfb667690ff0"
+    },
+    {
+      "id": "ptolemy-fortune-of-wealth-pair-1",
+      "sha256": "fb5d34d11776ed267ec79540796c908e803e1c9092f994530669baf7ab1fe771"
+    },
+    {
+      "id": "ptolemy-fortune-of-rank-passage",
+      "sha256": "f0ca9554d32951dcb9b92c098e90ad4257f32ab5dfa555a08cd75893a1e392a5"
+    },
+    {
+      "id": "ptolemy-fortune-of-rank-pair-1",
+      "sha256": "dd0327f7429d149fa291cf8da34e277e5c6ef831e9bbf5a2676885ad9299fd78"
+    },
+    {
+      "id": "ptolemy-quality-of-employment-passage",
+      "sha256": "1421144945e652fa52831632f226e0c578b05b737f60663165a825b0483e1a24"
+    },
+    {
+      "id": "ptolemy-quality-of-employment-pair-4",
+      "sha256": "19d1ffb26ebce51179d2707cc0a3bfbe2a4f30b7ca0a1c28bf5bad3e5ef0f229"
+    },
+    {
+      "id": "ptolemy-marriage-passage",
+      "sha256": "ca2c050f5e88fa18feb7aff370a4e8035bd0029708df3496174c3606b29d45d7"
+    },
+    {
+      "id": "ptolemy-marriage-pair-5",
+      "sha256": "ad8d9cf0370c33982e02e124f72be3d5cbeafe45ba6bd0dacafc610cd9315f5e"
+    },
+    {
+      "id": "ptolemy-children-passage",
+      "sha256": "bed6ff0ee154414d99d9e03341b5cd40b158f28c7d60c2bec3c843b71bd3b720"
+    },
+    {
+      "id": "ptolemy-children-pair-2",
+      "sha256": "48715876d0c9864e35d159b89efc8e8517e4f608912329e9ed7fd60864cf216b"
+    },
+    {
+      "id": "ptolemy-friends-enemies-passage",
+      "sha256": "2d660cd5220d556907f1e22432ceaa6db6d5ddcf7a0d82cce76da3da3ef73dd6"
+    },
+    {
+      "id": "ptolemy-friends-enemies-pair-3",
+      "sha256": "6344a1c75450aa8171658df53d81e69e6b6bce75a4927d6000c2caf96a519ca0"
+    },
+    {
+      "id": "ptolemy-travelling-passage",
+      "sha256": "46796972d7fab49ffbcc84aeabefdbeaa153bf9039aa87c290e33f5540b3b9ba"
+    },
+    {
+      "id": "ptolemy-travelling-pair-3",
+      "sha256": "81ec438c42466cbfd48876d1fde4ab548d8ad297055524a3f51eae8e5b3f8a93"
+    },
+    {
+      "id": "ptolemy-kind-of-death-passage",
+      "sha256": "0121c087a35cb45b99451ba959e3b633f46956e18cf55e5e8e917e8177e88fe3"
+    },
+    {
+      "id": "ptolemy-kind-of-death-pair-2",
+      "sha256": "224a61d739227c932536f690067ccd71e116a2445476ca05f5e2acf9438c74da"
+    },
+    {
+      "id": "ptolemy-periodical-divisions-passage",
+      "sha256": "974ab14305956b40080776ca406a5126541f6edeb04fd3df260e5fc16b961184"
+    },
+    {
+      "id": "ptolemy-periodical-divisions-pair-4",
+      "sha256": "f9ec30b8665040b799673b94366eed2cf7f9cd0421a421c579db4267c3e4c3eb"
+    }
+  ],
+  "next": {
+    "book": 1,
+    "verse": 255,
+    "pdfPage": 25,
+    "printedPage": 9,
+    "title": "황도 사인들의 열거"
+  },
+  "counts": {
+    "readingUnits": 8,
+    "nominalFirstVerse": 1,
+    "nominalLastVerse": 254,
+    "actualSourceVerses": 252,
+    "koreanParagraphs": 44,
+    "newGlossaryTerms": 31,
+    "totalGlossaryTerms": 631
+  },
+  "selectedTextDifferences": [
+    {
+      "verse": 10,
+      "primary": "uiresque excis",
+      "aid": "viresque facis",
+      "pdfPage": 17
+    },
+    {
+      "verse": 19,
+      "primary": "Phoebo",
+      "aid": "Phoebe",
+      "pdfPage": 17,
+      "importance": "시의 가락을 이끄는 포이보스. 영어 또는 전사 오독을 통해 달로 바꾸지 않음"
+    },
+    {
+      "verse": 214,
+      "primary": "sic stellis glomerata manet mundoque figura.",
+      "aid": "sic tellus glomerata manet mundique figura.",
+      "pdfPage": 23,
+      "importance": "별들과 우주의 형상. 저본의 삽입 의심 상태도 보존"
+    }
+  ]
+}

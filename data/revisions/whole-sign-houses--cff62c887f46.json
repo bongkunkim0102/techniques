@@ -1,0 +1,52 @@
+{
+  "id": "whole-sign-houses",
+  "title": "홀사인 하우스",
+  "en": "Whole-sign houses",
+  "tradition": "헬레니즘 · 인도 · 공통 계산",
+  "summary": "상승점이 있는 사인 전체를 1하우스로 정하고, 이후 사인을 순서대로 하우스에 배정하는 체계입니다.",
+  "sections": [
+    {
+      "title": "상승점과 하우스 시작점",
+      "paragraphs": [
+        "상승점이 사인 중간에 있더라도 첫 하우스는 그 사인의 0°부터 시작합니다. 상승점 그 자체가 이동한 것은 아닙니다. Swiss Ephemeris에서는 W 코드로 이 체계를 구별합니다."
+      ],
+      "refs": [
+        "swiss"
+      ]
+    },
+    {
+      "title": "직접 만든 비교 예제",
+      "paragraphs": [
+        "어센던트가 황소자리 18°라면 홀사인 1하우스는 황소자리 전체입니다. ASC 출발 이퀄 체계의 1커스프는 황소자리 18°이므로 두 방법은 구분해야 합니다."
+      ],
+      "refs": []
+    }
+  ],
+  "related": [
+    "equal-houses",
+    "ascendant-and-descendant",
+    "annual-profections"
+  ],
+  "refs": [
+    "swiss"
+  ],
+  "revision": "cff62c887f46",
+  "date": "2026-09-18",
+  "glossaryVersion": "2026-09-18.4",
+  "editor": "Codex (Astra)",
+  "review": "AI 편집 초판",
+  "license": "HoraryTalk 독자 해설",
+  "kind": "개요",
+  "sourceSnapshots": [
+    {
+      "id": "swiss",
+      "title": "Swiss Ephemeris Programmer’s Manual",
+      "author": "Astrodienst · Dieter Koch · Alois Treindl",
+      "url": "https://www.astro.com/swisseph/swephprg.htm",
+      "locator": "Sidereal calculations; House calculation; Julian day functions",
+      "license": "참고·독자 해설",
+      "access": "본문 확인",
+      "checkedAt": "2026-09-18"
+    }
+  ]
+}

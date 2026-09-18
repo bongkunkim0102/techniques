@@ -1,0 +1,74 @@
+{
+  "id": "translation-of-light",
+  "title": "빛의 전달",
+  "en": "Translation of light",
+  "tradition": "서양 전통 · 호라리",
+  "summary": "빠른 행성이 한 시그니피케이터에서 분리한 뒤 다른 시그니피케이터에 접근하여, 둘 사이의 연결을 만드는 기법입니다.",
+  "sections": [
+    {
+      "title": "기법의 구조",
+      "paragraphs": [
+        "직접 연결되지 않는 두 시그니피케이터 사이에서 제3의 행성이 매개 역할을 합니다. Skyscript는 첫 행성에서 아직 오브 안에 있는 상태의 분리와, 다음 행성으로의 접근을 함께 설명합니다."
+      ],
+      "refs": [
+        "translation"
+      ]
+    },
+    {
+      "title": "예제: 위치보다 시간 순서",
+      "paragraphs": [
+        "가상의 동일 사인에서 화성 15°, 수성 16°, 토성 20°이고 수성이 순행하며 가장 빠르다고 가정합니다. 수성은 화성에서 분리하여 토성 쪽으로 갑니다. 실제 판단에는 그 사이의 정지·역행과 다른 접촉을 확인해야 합니다. 이 수치는 원문에 소개된 기하 구조를 설명하기 위한 것이며 실제 천체력 계산 결과는 아닙니다."
+      ],
+      "refs": [
+        "translation"
+      ]
+    },
+    {
+      "title": "학파별 조건",
+      "paragraphs": [
+        "리셉션을 필수로 보는지, 어떤 행성이 어느 행성을 받아들여야 하는지는 문헌에 따라 다릅니다. 전달이라는 연결 구조와 성사에 충분한 조건을 따로 적어야 합니다."
+      ],
+      "refs": [
+        "perfection"
+      ]
+    }
+  ],
+  "related": [
+    "collection-of-light",
+    "reception",
+    "applying-and-separating-aspects"
+  ],
+  "refs": [
+    "translation",
+    "perfection"
+  ],
+  "revision": "70c0cc9f837b",
+  "date": "2026-09-18",
+  "glossaryVersion": "2026-09-18.4",
+  "editor": "Codex (Astra)",
+  "review": "AI 편집 초판",
+  "license": "CC BY-NC-SA 4.0",
+  "kind": "개요",
+  "sourceSnapshots": [
+    {
+      "id": "translation",
+      "title": "Skyscript: Translation of Light / Transference of Virtue",
+      "author": "Deborah Houlding",
+      "url": "https://www.skyscript.co.uk/glossary/translation/",
+      "locator": "정의 및 Christian Astrology p.111 인용",
+      "license": "CC BY-NC-SA 4.0",
+      "access": "본문 확인",
+      "checkedAt": "2026-09-18"
+    },
+    {
+      "id": "perfection",
+      "title": "Perfection of significators and its denial",
+      "author": "Graeme Tobyn",
+      "url": "https://direct.skyscript.co.uk/tobyn2.html",
+      "locator": "Translation / Collection / Reception 절",
+      "license": "참고·독자 해설",
+      "access": "본문 확인",
+      "checkedAt": "2026-09-18"
+    }
+  ]
+}

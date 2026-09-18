@@ -5,7 +5,7 @@ export function assertGlossaryReady(terms, release, sources) {
   if (!release?.translationReady || release.status !== 'editorial-baseline' || release.termCount !== terms.length) throw new Error('Translation requires a complete Astra glossary edition');
   const ids = new Set(); const sourceIds = new Set(sources.map(s => s.id));
   for (const t of terms) {
-    if (ids.has(t.id) || !t.en?.trim() || !t.ko?.trim() || !t.definition?.trim() || !t.note?.trim() || t.terminologyStatus !== 'reviewed-with-note' || t.reviewedBy !== release.editor || t.version !== release.version || !t.refs?.length || t.refs.some(id => !sourceIds.has(id))) throw new Error(`Glossary not ready: ${t.id}`);
+    if (ids.has(t.id) || !t.en?.trim() || !t.ko?.trim() || !t.definition?.trim() || !t.note?.trim() || t.terminologyStatus !== 'reviewed-with-note' || !(release.editors || [release.editor]).includes(t.reviewedBy) || t.version !== release.version || !t.refs?.length || t.refs.some(id => !sourceIds.has(id))) throw new Error(`Glossary not ready: ${t.id}`);
     ids.add(t.id);
   }
 }

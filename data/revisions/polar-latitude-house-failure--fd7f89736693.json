@@ -1,0 +1,52 @@
+{
+  "id": "polar-latitude-house-failure",
+  "title": "고위도 하우스 계산 불능",
+  "en": "Polar-latitude house failure",
+  "tradition": "공통 계산 · 하우스",
+  "summary": "고위도에서는 일부 하우스 체계의 계산이 성립하지 않으며, 라이브러리의 대체 결과를 요청한 체계의 결과로 오인하면 안 됩니다.",
+  "sections": [
+    {
+      "title": "실패와 대체값",
+      "paragraphs": [
+        "Swiss Ephemeris 문서는 극권 너머에서 플라시두스·코흐 등의 커스프 계산 제한을 설명하고, 특정 함수가 오류 코드를 반환하면서 포르피리우스 결과를 제공한다고 명시합니다."
+      ],
+      "refs": [
+        "swiss"
+      ]
+    },
+    {
+      "title": "결과를 비교할 때",
+      "paragraphs": [
+        "요청 체계, 실제 반환 체계, 위도, 오류 여부를 함께 기록합니다. 숫자 배열이 존재한다는 사실만으로 플라시두스 계산에 성공했다고 판단하지 않습니다."
+      ],
+      "refs": []
+    }
+  ],
+  "related": [
+    "placidus-houses",
+    "koch-houses",
+    "porphyry-houses"
+  ],
+  "refs": [
+    "swiss"
+  ],
+  "revision": "fd7f89736693",
+  "date": "2026-09-18",
+  "glossaryVersion": "2026-09-18.4",
+  "editor": "Codex (Astra)",
+  "review": "AI 편집 초판",
+  "license": "HoraryTalk 독자 해설",
+  "kind": "개요",
+  "sourceSnapshots": [
+    {
+      "id": "swiss",
+      "title": "Swiss Ephemeris Programmer’s Manual",
+      "author": "Astrodienst · Dieter Koch · Alois Treindl",
+      "url": "https://www.astro.com/swisseph/swephprg.htm",
+      "locator": "Sidereal calculations; House calculation; Julian day functions",
+      "license": "참고·독자 해설",
+      "access": "본문 확인",
+      "checkedAt": "2026-09-18"
+    }
+  ]
+}

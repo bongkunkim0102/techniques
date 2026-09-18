@@ -3,7 +3,8 @@ import { readFileSync, readdirSync } from 'node:fs';
 import { resolve } from 'node:path';
 import { canonicalReference, terminologySources } from './terminology-sources.mjs';
 import { lunarNameTerms } from './lunar-names.mjs';
-export const glossaryVersion = '2026-09-18.3';
+import { maniliusTerms } from './manilius-terms.mjs';
+export const glossaryVersion = '2026-09-18.4';
 export const editorialPolicy = {
   editor: 'Codex (Astra)',
   method: '등록 용어의 한국어 표기·정의·번역 주의점을 Astra가 직접 편집한 번역 기준판입니다. 출처는 본문·발췌·목차·서지의 확인 범위를 구별합니다. 학계 공인 표준, 모든 원전의 교감 완료, 전 세계 용어의 영구적인 완결을 뜻하지 않습니다.',
@@ -43,7 +44,7 @@ const complete = t => {
     if (!canonical) throw new Error(`Missing glossary source: ${id} in ${t.id}`);
     return canonical;
   }))];
-  return { ...t, aliases: [...new Set(t.aliases)], refs, terminologyStatus: 'reviewed-with-note', reviewedBy: editorialPolicy.editor, reviewScope: '한국어 표기·정의·번역 주의점 직접 편집; 출처별 확인 범위는 참고 문헌에 표시', version: glossaryVersion };
+  return { ...t, aliases: [...new Set(t.aliases)], refs, terminologyStatus: 'reviewed-with-note', reviewedBy: t.reviewedBy || editorialPolicy.editor, reviewScope: t.reviewScope || '한국어 표기·정의·번역 주의점 직접 편집; 출처별 확인 범위는 참고 문헌에 표시', version: glossaryVersion };
 };
 const original = seed.topics.map(t => {
   const id = t.id.replace('candidate:', ''); const row = rows.get(id);
@@ -51,14 +52,14 @@ const original = seed.topics.map(t => {
   rows.delete(id);
   return complete({ ...row, en: t.title_original_or_en, bucket: t.discovery_bucket, bucketKo: t.discovery_bucket_ko });
 });
-export const glossary = [...original, ...[...rows.values()].map(t => complete({ ...t, bucket: 'core-terms', bucketKo: '기본 천체·사인·번역 어휘' })), ...lunarNameTerms.map(complete)];
+export const glossary = [...original, ...[...rows.values()].map(t => complete({ ...t, bucket: 'core-terms', bucketKo: '기본 천체·사인·번역 어휘' })), ...lunarNameTerms.map(complete), ...maniliusTerms.map(complete)];
 if (new Set(glossary.map(t => t.id)).size !== glossary.length) throw new Error('Duplicate glossary ID');
 export const term = id => glossary.find(t => t.id === id);
 export const categories = [...new Map(glossary.map(t => [t.bucket, { id: t.bucket, name: t.bucketKo }])).values()];
 export const glossarySources = terminologySources.filter(s => glossary.some(t => t.refs.includes(s.id)));
 export const glossaryRelease = {
   version: glossaryVersion, status: 'editorial-baseline', translationReady: true,
-  editor: editorialPolicy.editor, seedCount: seed.topics.length, termCount: glossary.length,
-  scope: '초기 수집 목록 전 항목 + 기초 번역 어휘 + 27낙샤트라·28수 명칭 + 프톨레마이오스 문헌의 구별 용어',
+  editor: editorialPolicy.editor, editors: [editorialPolicy.editor, 'ChatGPT (GPT-6 Astra Pro)'], seedCount: seed.topics.length, termCount: glossary.length,
+  scope: '초기 수집 목록 전 항목 + 기초 번역 어휘 + 27낙샤트라·28수 명칭 + 프톨레마이오스 문헌의 구별 용어 + 마닐리우스 라틴어·기법 구별 용어',
   limitation: '이 판에 등록한 항목의 번역 기준을 완성했습니다. 새로운 원문에서 미등록 용어·다른 정의가 나오면 Astra 검토 후 판을 갱신합니다. 목록·서지만 확인한 출처는 원전 검증 완료로 취급하지 않습니다.',
 };

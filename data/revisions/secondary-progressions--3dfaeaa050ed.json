@@ -1,0 +1,61 @@
+{
+  "id": "secondary-progressions",
+  "title": "세컨더리 프로그레션",
+  "en": "Secondary progressions",
+  "tradition": "현대 서양 · 예측",
+  "summary": "출생 후의 짧은 시간을 생애의 긴 시간에 상징적으로 대응시키는 진행법으로, 하루를 1년에 대응시키는 방식이 대표적입니다.",
+  "sections": [
+    {
+      "title": "시간 대응",
+      "paragraphs": [
+        "만 30년의 시점을 출생 후 약 30일의 천체 배치와 연결하는 방식입니다. 이것은 실제 현재 하늘을 보는 트랜짓과 구별됩니다."
+      ],
+      "refs": [
+        "progressions"
+      ]
+    },
+    {
+      "title": "행성과 앵글을 구별",
+      "paragraphs": [
+        "행성의 진행 시점이 같아도 MC·ASC·하우스를 움직이는 방식은 달라질 수 있습니다. Astrodienst의 설명은 평균 태양 운동, 태양호를 이용한 MC, ARMC 진행 등 여러 방식을 구별합니다."
+      ],
+      "refs": [
+        "progressions"
+      ]
+    },
+    {
+      "title": "재현에 필요한 것",
+      "paragraphs": [
+        "출생 기준 시각, 진행할 정확한 연령, 1년의 길이, 순방향·역방향, 앵글 규약을 남깁니다. 이 초판은 천체력으로 진행차트를 계산하지 않습니다."
+      ],
+      "refs": []
+    }
+  ],
+  "related": [
+    "solar-arc-directions",
+    "transits",
+    "progressed-lunar-phases"
+  ],
+  "refs": [
+    "progressions"
+  ],
+  "revision": "3dfaeaa050ed",
+  "date": "2026-09-18",
+  "glossaryVersion": "2026-09-18.4",
+  "editor": "Codex (Astra)",
+  "review": "AI 편집 초판",
+  "license": "HoraryTalk 독자 해설",
+  "kind": "개요",
+  "sourceSnapshots": [
+    {
+      "id": "progressions",
+      "title": "Chart Types: Natal, progressions and solar arc combined",
+      "author": "Astrodienst",
+      "url": "https://www.astro.com/cgi/h.cgi?f=gch&h=gch246&lang=e",
+      "locator": "진행 시점 및 앵글 계산의 여러 방식",
+      "license": "참고·독자 해설",
+      "access": "본문 확인",
+      "checkedAt": "2026-09-18"
+    }
+  ]
+}

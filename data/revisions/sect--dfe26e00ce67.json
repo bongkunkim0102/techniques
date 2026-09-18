@@ -1,0 +1,61 @@
+{
+  "id": "sect",
+  "title": "섹트",
+  "en": "Sect",
+  "tradition": "헬레니즘 · 서양 전통",
+  "summary": "주간과 야간이라는 구분을 차트와 행성의 조건에 적용하는 전통 점성술의 개념입니다.",
+  "sections": [
+    {
+      "title": "두 소속",
+      "paragraphs": [
+        "태양·목성·토성은 주간, 달·금성·화성은 야간 계열로 분류합니다. 수성은 태양과의 관계에 따라 다루며, 이 전통 분류에 외행성을 임의로 끼워 넣지 않습니다."
+      ],
+      "refs": [
+        "sect"
+      ]
+    },
+    {
+      "title": "기본 판단과 세부 조건",
+      "paragraphs": [
+        "차트의 주야를 살핀 뒤 행성의 소속을 대조합니다. 행성의 반구와 사인 등 추가 조건은 기본 주야 구분과 구별해 기록합니다. 하이즈 등 관련 개념을 섹트 하나의 동의어로 처리하지 않습니다."
+      ],
+      "refs": [
+        "sect"
+      ]
+    },
+    {
+      "title": "활용할 때",
+      "paragraphs": [
+        "같은 행성을 모든 차트에서 동일한 방식으로 평가하지 않도록 돕는 분류입니다. 섹트 한 가지로 특정 사건의 결과를 확정하는 규칙은 이 개요의 범위에 포함하지 않습니다."
+      ],
+      "refs": []
+    }
+  ],
+  "related": [
+    "hayz",
+    "lot-of-fortune",
+    "essential-dignities"
+  ],
+  "refs": [
+    "sect"
+  ],
+  "revision": "dfe26e00ce67",
+  "date": "2026-09-18",
+  "glossaryVersion": "2026-09-18.4",
+  "editor": "Codex (Astra)",
+  "review": "AI 편집 초판",
+  "license": "CC BY-NC-SA 4.0",
+  "kind": "개요",
+  "sourceSnapshots": [
+    {
+      "id": "sect",
+      "title": "Skyscript: Sect",
+      "author": "Deborah Houlding",
+      "url": "https://www.skyscript.co.uk/glossary/sect/",
+      "locator": "표제 항목 본문",
+      "license": "CC BY-NC-SA 4.0",
+      "access": "본문 확인",
+      "checkedAt": "2026-09-18"
+    }
+  ]
+}

@@ -1,0 +1,3169 @@
+{
+  "version": 1,
+  "date": "2026-09-18",
+  "editor": "ChatGPT (GPT-6 Astra Pro)",
+  "glossaryVersion": "2026-09-18.4",
+  "reviewType": "five-book structural and terminology review; not a full critical collation",
+  "directTranslationStartedAfterGlossary": true,
+  "externalTranslationModelCalls": 0,
+  "sourceLanguage": "la",
+  "primary": {
+    "url": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf",
+    "sha256": "f69ab853bc7937ea5511739d24239b3a817ca4a5464eca661aa465958968bd3d",
+    "pages": 170,
+    "edition": "Theodor Breiter, M. Manilii Astronomica I. Carmina, Leipzig 1907"
+  },
+  "reviewAid": {
+    "edition": "Iacobus van Wageningen 1915; The Latin Library 전사",
+    "role": "5권의 구조·용어 검토 보조. 번역 저본이 아님",
+    "books": [
+      {
+        "book": 1,
+        "url": "https://www.thelatinlibrary.com/manilius1.html",
+        "sha256": "8963ee146ae4c07b3ce086c8d3794e03e8bbb5195b0b8b0a589b9b92f174d9d0"
+      },
+      {
+        "book": 2,
+        "url": "https://www.thelatinlibrary.com/manilius2.html",
+        "sha256": "5c73eb3eae72b66b4cbbbd129b6606257335452fe7638b7c4b134e79c44d177c"
+      },
+      {
+        "book": 3,
+        "url": "https://www.thelatinlibrary.com/manilius3.html",
+        "sha256": "3b8d2abf8e01978c8f814a956047360f5866a9e005eb1fd873bc401d099f881a"
+      },
+      {
+        "book": 4,
+        "url": "https://www.thelatinlibrary.com/manilius4.html",
+        "sha256": "aa594cd0868d5cfd98dc9378181a6a83272758cf714cef0a72ecfab746271b09"
+      },
+      {
+        "book": 5,
+        "url": "https://www.thelatinlibrary.com/manilius5.html",
+        "sha256": "8c3186f1e5b9dd5a273539a3d5acd7df429c30e0c6cddcf18b5b87f66bb53580"
+      }
+    ]
+  },
+  "books": [
+    {
+      "book": 1,
+      "startPdfPage": 17,
+      "lastVerseNumber": 926
+    },
+    {
+      "book": 2,
+      "startPdfPage": 48,
+      "lastVerseNumber": 970
+    },
+    {
+      "book": 3,
+      "startPdfPage": 81,
+      "lastVerseNumber": 682
+    },
+    {
+      "book": 4,
+      "startPdfPage": 105,
+      "lastVerseNumber": 935
+    },
+    {
+      "book": 5,
+      "startPdfPage": 139,
+      "lastVerseNumber": 745,
+      "note": "Breiter의 710행 뒤 결락. 마지막 번호를 완전한 본문 행 수로 세지 않음"
+    }
+  ],
+  "sourceRoles": {
+    "breiter": "Latin base text",
+    "wageningen": "Latin survey aid; different edition",
+    "creech": "Selected English interpretation witness reviewed only after Korean drafts",
+    "phi": "Catalog identifies Goold 1985 Latin edition; not used as Breiter transcription",
+    "housman": "not consulted",
+    "gooldEnglish": "not used"
+  },
+  "glossary": {
+    "beforeCount": 600,
+    "afterCount": 631,
+    "addedIds": [
+      "manilius-astronomica",
+      "manilius-mundus",
+      "manilius-ratio",
+      "manilius-fata",
+      "manilius-sidera",
+      "manilius-signum",
+      "manilius-world-soul",
+      "manilius-templa",
+      "manilius-cardines",
+      "manilius-octotropos",
+      "manilius-athla",
+      "manilius-fortuna",
+      "manilius-tutelae",
+      "manilius-sign-relations",
+      "manilius-degree-aspects",
+      "manilius-diurnal-signs",
+      "manilius-tropical-signs",
+      "manilius-dodecatemoria",
+      "manilius-half-degree-divisions",
+      "manilius-decanica",
+      "manilius-damnandae-partes",
+      "manilius-ecliptica",
+      "manilius-paranatellonta",
+      "manilius-stadia",
+      "manilius-hours",
+      "manilius-time-divisions",
+      "manilius-poetic-sign-names",
+      "manilius-lucifer-hesperus",
+      "manilius-canicula",
+      "manilius-lacteus-orbis",
+      "manilius-critical-marks"
+    ],
+    "oldObjectHashes": [
+      {
+        "id": "tropical-zodiac",
+        "sha256": "80f24613b0d58a13d0dc484b3a4d6556d9359d7fc4701dad1182fedce790cd84",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "sidereal-zodiac",
+        "sha256": "bec34e8dd54095531054878688ec51c0c0f609fa5e9424c5b82ebd7b743a44d1",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "ayanamsha",
+        "sha256": "9775acdfb3a041a935fe1132b842408aadf9ff5dd362ce3987dfe282fe4b400a",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lahiri-ayanamsha",
+        "sha256": "9e589f2c4cd67c70d4547e256c42fadff37170758306b1ac688298b68c97e7d4",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "fagan-bradley-ayanamsha",
+        "sha256": "4eb960de831fca2ecff8e56c30dc84c1e47e2492a4cd31cb46137240018d9fc7",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "raman-ayanamsha",
+        "sha256": "bc741aa67afbdd29dc8dce25f1c9c67b7441cc86aeb496c7d87df89f291c01e8",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "krishnamurti-ayanamsha",
+        "sha256": "52e9f2d877ea45cc2b81cf6a8b6334403a6c2fa0e69069b5abfa29b7cf50e12a",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "true-versus-mean-lunar-nodes",
+        "sha256": "925e7953474635e60f3f4a6dbc320770e40dfeb88286f09ecb29c6af436ca237",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "ecliptic-longitude",
+        "sha256": "976d11fa381679969503a5cc6d4b07b6f7f1c2a1e3fb28dac8577dfe2f39ec58",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "ecliptic-latitude",
+        "sha256": "44ca90b9c777b7be2a97d77b320c18908b12c887f805e7a917d9405130edf705",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "right-ascension",
+        "sha256": "db691bf89f095ef19a5ecfd92b33166392851ed10e752b49267a912d053aace1",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "declination",
+        "sha256": "054a1d489036af8f075c3e5b5d710cd8027b7db9d7bb4f45f5b419269c31b1fd",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "oblique-ascension",
+        "sha256": "ed9d5a2c0251b0ac63e20711e2a2666db31f0c95505e8363803033bd0f7bfbe3",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "geographic-versus-geocentric-latitude",
+        "sha256": "ec506562b4c78c892c84b6c65ac1fe7129079a868fb40b8dae1c87c6b8b85a46",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "geocentric-versus-heliocentric-chart",
+        "sha256": "c5d4541b63d7bf70accf660aa52632bd7a66684f3f7b318fba377293d43cba35",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "topocentric-planetary-positions",
+        "sha256": "2f429809439e038d7fdbcd438b1696ad7e20102ff485de4acfe9af3ceebdff53",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "apparent-versus-true-positions",
+        "sha256": "66b99695b7f07fbd6e6443fee945ac7bcf4f3891198285c4a135d2b99c1cf95e",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "precession",
+        "sha256": "81bb0cfca5876bde417ac8ac2ff4e74f65b28ca30be189940bc9ca2d49610baa",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "nutation",
+        "sha256": "cd516db8ab4ce5e3a542892920310e0151f80cbf3567fcadf3eae79d7a5324c3",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "obliquity",
+        "sha256": "106d544758bbc612fdfe8281185828476949197aaf40ccf31aaafb418ec25ba8",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "sidereal-time",
+        "sha256": "f7487dbda963fdb9c7f9e85939074ba7eb362d122e6277ddbba76929c08c78fb",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "julian-day",
+        "sha256": "912960544a1df5f56df30e231d85e08067e1735e595a3e3c469e35fe0e30d14f",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "gregorian-and-julian-calendars",
+        "sha256": "b95c3b18219432792dcd1f25beaf673b42f99cfe2efa4685cd6a7852fbf5a293",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "historical-time-zones",
+        "sha256": "c39957cc6ba391e6124f014d23bfc7d1b70019560cbca78fcbe8dac3ea0f9a50",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "daylight-saving-time",
+        "sha256": "4677197ccab1b4ab9ce0c2413d2563536172b42332ddb3f904cab8cd758a8b88",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "ut-tt-and-delta-t",
+        "sha256": "d208e1fb846cc99e92b42beaf74e4c4cd03e152970fffcfd01a9aa6ae184c1cd",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "solar-and-lunar-eclipses",
+        "sha256": "4c997729d8ce9eceafb0dcb038901d39fe4d2fb269e96096dd5bd4e6831faa3d",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lunar-phases",
+        "sha256": "7641d3123723e59a04f0feb061495c6c6d41a87a7876fa8af580516e7af7d06e",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "planetary-stations",
+        "sha256": "7919111e6826d9d1cca9a93bd4c36e355245f8599187d3129655dc5cdeb7f08c",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "retrogradation",
+        "sha256": "23362bbc5a9242b5ea02a8cc9d2a8317bffe4ea464cc9c70bb92ab7ffd5367aa",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "orb",
+        "sha256": "604e66921bf7b3b8dd1f8afed0b96aceee15a8384260701f46bbcc08a1922a98",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "applying-and-separating-aspects",
+        "sha256": "be62d3fe5504e8982b6818f501e3dbfdb341dd3458938bb6c8e29f1444730a50",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "whole-sign-aspects",
+        "sha256": "52e346b14a629b7d58a1220200cf923d0fe33442d987198219af38fe7d80d22a",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "degree-based-aspects",
+        "sha256": "e8389280141a53243a5c773c5bbe2168bd7c6930d0e38c7e1989fe0059b21d00",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "parallels-and-contra-parallels",
+        "sha256": "e1b5389435ebe409333f623b639cc8a5f1066ee280f18ef4e50c2dde44616bc9",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "out-of-bounds-declination",
+        "sha256": "267edcc01ddcd1ab40aebfa1da219405308a821fda0ff4199524f9f665526b10",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "antiscia",
+        "sha256": "ac16b70e7236a02a10d51d9e65263272669cd873f145257261f43bfbe216c4c6",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "contra-antiscia",
+        "sha256": "4c2bca2f5f129f8c7a6de9a87f83b84c8e343524c3ac1ee8ad9d0b3e75091a4d",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "antipodal-points",
+        "sha256": "f743c33bb097df454527a56919d19d58038e1021b562ed843e3c5e87ca2dc5be",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "heliacal-rising-and-setting",
+        "sha256": "192b4a1ade0f61cf6dfebbb9885de5512af21ccb9b4347a2f13272fb83b263b6",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "synodic-cycles",
+        "sha256": "ed720f24dac71732e1ba767fd50f0002772c6194cecbc0ffdd09cdd94f8814d9",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "ascendant-and-descendant",
+        "sha256": "a31c318ba7963834a328ba4703c37f21895491553e0e7ff57b674a851047b46f",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "midheaven-and-ic",
+        "sha256": "19d8a41273f3f63e4a1633eeeb7d840c13e9088d4b1d6685d2ad412014644668",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "vertex-and-antivertex",
+        "sha256": "47ec2bbf861d3d5c41910af035bf5729426d4e45b2c9874c1630a6a9a5474913",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "east-point",
+        "sha256": "370f7192ddfa8a3a812edad21056135fc0dd7f30f70a341bdd85b5e12a64ed0c",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "whole-sign-houses",
+        "sha256": "e992e3e313d4d5eb7ff7e0aa6a671f966f4a188f1318cbdda8e24462061ede02",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "equal-houses",
+        "sha256": "255284a14c1c008e25076f1d5c543220d73ed3abf16b0d4f26975b19815eb56b",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "placidus-houses",
+        "sha256": "d09a3d166e78f3dd54fafdf30b6b8cdfd14e1a3bfb1377b92b91924b73866ad3",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "regiomontanus-houses",
+        "sha256": "d15d72f4f0466a32cb5e437999300d13b37bf5be1cd56dc03acd7fe2f9f3945f",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "campanus-houses",
+        "sha256": "8079d32f81cb8db10d7c27ad3d4d79d4a8a4a9e9786d526ce97c4ab47db16f98",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "koch-houses",
+        "sha256": "d042517aeca6a8345a4d9dfc6251443011d6b2167df742279b50f203ad12c558",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "porphyry-houses",
+        "sha256": "474ba0026b45cb54f209c52a42080c95ff837915bce1585045895571d746beb6",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "alcabitius-houses",
+        "sha256": "e4830f7e135db929f2eda2383084b83faad233b4a477ffb4d4a10165623dc4ec",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "topocentric-houses",
+        "sha256": "2cf31715989852f539ae36a2fc537dc11db30ec2b9a665c7b523848182eb930c",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "meridian-houses",
+        "sha256": "e5bbc948d45b6b3fafbe4b1e781720e11d55edb0a45dd8e4920231af9570990d",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "morinus-houses",
+        "sha256": "8a74962cee14ff07bbf79ffcaf70f6c981515adace0d39f7d1d721eb0e75731e",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "vehlow-houses",
+        "sha256": "01937c328a88689cffce52624138995dffabe2350931239b0d719e033a8bb52a",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "sripati-houses",
+        "sha256": "10232242a0e1f11035d6f30af2d12f9d0b3e631d8b985a948c1e9ae204171b60",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "bhava-chalit",
+        "sha256": "f483650296b181989237b8ace609f6a6d4a680e5323e83d3867ca6141e25cd90",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "angular-succedent-cadent",
+        "sha256": "40ac24c915b250e52373845a136105f010bf1f372caaf016ee7f46dcf0fae106",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "house-rulership",
+        "sha256": "904c2bca6417e867d15b232b3379cfe66981800f97b47ef3ad83d162c6c35c42",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "derived-houses",
+        "sha256": "e9ab465c98bba4c4e76206dd71906b15def129cc08c687a2229daa5fe1921470",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "interceptions",
+        "sha256": "b664f21dbd1150c40271408f01f7a67b36fddbc095065674b1a59519628ce5d6",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "polar-latitude-house-failure",
+        "sha256": "c1d7368b0df60a73dcd0b27b413fad487e7747390af8414b9f86cc6f4608a623",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "planetary-joys",
+        "sha256": "3de5806f0b43ad7d2f020cf69ffd085eb2dd490c7ad6586630d8104e890c4623",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "turning-the-chart",
+        "sha256": "6997def2835898c9fea2b96c7ea73e2b0f3321b3b9f15753c0b275245663e19f",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "sect",
+        "sha256": "0bee3a7f8d9e51b1b1c8555c62be54f5300d179ac387c0b841d1fb880847632f",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "hayz",
+        "sha256": "eb6b6d651226243674854602858d83650c06fda5196ad5fd02350aeff6c2abe5",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "halbs",
+        "sha256": "7b356ebee132023f3bdcf008f6d51fef35b7356844e57b577ff9c691c76184ba",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "domicile",
+        "sha256": "90e9e4fd6a8cebd6bd3e8c67a936978bbe60cef2fab2f8743ec71e914ebfa8d9",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "exaltation",
+        "sha256": "4f24c8d6fee560b7478cb905e49a6817c08abb9f1e598937cf01c40aa4d8dfb9",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "detriment",
+        "sha256": "23b58828a0a9e096fa374fcc800162a942fd7658860b3294ed985edb6bb77495",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "fall",
+        "sha256": "9f8190dcd934ca8e318a9120b8db0d3254952e878fa02d434aabf3ff528ea4d2",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "triplicity-rulers",
+        "sha256": "785533b7c89fccf671c8030334428e33990908a341b3ed12a607e6700de5d872",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "egyptian-bounds",
+        "sha256": "c089f3177b27334cb6373087925d7bf2bbd261975db185d7312aa1b7cb777270",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "ptolemaic-bounds",
+        "sha256": "6ca79a2c3b1b13442e16c869084de488db56a2d5736975151495636146d45b61",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "chaldean-decans",
+        "sha256": "ebe6d0661676d210d808bd8dbcd32d081dfe9e37dadbaff1996cbdf192280a7b",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "essential-dignities",
+        "sha256": "ae4b4365d77a1891dc4b61c4fac53ce5c7e1f60264faaf907520951c8b05da0a",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "accidental-dignities",
+        "sha256": "caa98d51f41411ed66fdcc4a40744c78cd0fb0c824eaf03ca7a16a2f49e8b26a",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "peregrine",
+        "sha256": "04ce5b569c8e49c652f1b0648384b7bc8d06a9db2c5867b14ca490fe586ba889",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "reception",
+        "sha256": "c1e94e4cdcc1ba4dc1db6593761dc8859a5d50984ded79a17120f178ce725a9c",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "mutual-reception",
+        "sha256": "c0bad38bbbc23a9e098b83ae9e93cb38a0454ff1b0fb4ef5f466044d70ea79e8",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "reception-without-aspect",
+        "sha256": "79d61c402e6b6a0309cd8f4feb8873e584022ed596dc2c13e539cb1a12957dbb",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "combustion",
+        "sha256": "61f17b7fcc12a73884961854a0b0ae86908445bb041fea1f6ea80f9e991610f5",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "under-the-beams",
+        "sha256": "dd9986600b7689da31c9e7bb3995b5760c5c9736335c17f2e1c132e2fe8539ea",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "cazimi",
+        "sha256": "c00d1140db7a4b55bb3fa8d1bd95cc0f4366170609b7fc98df08d1921a9fd219",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "oriental-and-occidental",
+        "sha256": "3458242d61da394d627aea4641be3b59831ddcad39dedec1bfac7c7830d26f6b",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "speed-and-visibility",
+        "sha256": "1786b29b507ec782fa0f7dd6acf2df71c937fbe239f07c46717c8e947f6f63e4",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "bonification",
+        "sha256": "7cbece5f40327326f21be2bef19ea10e665143aa3ca497cc1ad63121a5f75f34",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "maltreatment",
+        "sha256": "34f2f3a774c28e6660f902b73299012af9f4190476a0bd994f99a3482e549c55",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "enclosure",
+        "sha256": "39ea5e367f8880fbb70b998f8885e8cc15e8e00587259cfa6224985606747463",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "besiegement",
+        "sha256": "cbd9eaba82ae68597bb2a2374ce24b562ffc04390b7dcbc8ea1baa60a3df2d30",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "overcoming",
+        "sha256": "5f587de4faef11c7357867a58f79feb2743792bc9ea29fe261e3cdcd60c61d37",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "aversion",
+        "sha256": "511bbda20ce0bfc7b350d6f73a8ad37df9bf0a63ad853565ea720606a0b1f538",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "doryphory",
+        "sha256": "a6f33ee8ad1670622b7d46ab6ca52fe4b22f8598fff640d5d89ab06171edcf9f",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "almuten",
+        "sha256": "b0d4c4bc36da4b6acc8512c47c0b06183a79c683bd5f2966699cf7b207955c09",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "almuten-figuris",
+        "sha256": "ad2bf46014e23cce82591cedf24e75f3d85f6594ca3a2af65bd2ce958e835513",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "oikodespotes",
+        "sha256": "271767e9d1e1f5c5ef603e5479a7748e851744c69ecb6a395f39bcb3da3dd8ac",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "kurios",
+        "sha256": "2b44e426987da3731a5e9c28adc3c377a7d9535d67ee7a8dbc8210ac5f66ce06",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "predominator",
+        "sha256": "a91f1cc1ac5656b5ead446cffb8801b7e24e95bc6bdcf434582703d2c8cf26ae",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "hyleg",
+        "sha256": "24ae5258f63154d7c54ae8572c5a32b10721766d03c7e271075af0ccce70bd6c",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "alcocoden",
+        "sha256": "24d5488cb60662557d70c8c4344d147a4ace5e332aa65b0fd3e3ca86ca81c6b7",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "anareta",
+        "sha256": "651daed0c5d257362e15af80ea669e7b6db3072e4020a720e2103b68da586483",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "dispositor-chains",
+        "sha256": "53eb67762ba3ff114569fdb3b40254d558b04943061bdc3f57478a5bb45c22f1",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "monomoiria",
+        "sha256": "4e1043e04e74985a6ec1afede63563f3bd8d77813e82091a181eac6afede7551",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "dodekatemoria",
+        "sha256": "4ab31e9638bfa210db12d11870b6500b900d60c913d6bfe835f43e015949a895",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "thema-mundi",
+        "sha256": "a666c53dbaad77091aed9da403af7b174916eac38bfff89a0beb1706288d06f9",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "prenatal-syzygy",
+        "sha256": "463fef884c0be55828315758337bed5df80e0eeb0e81167cb7a47a3d8a6fc18c",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "planetary-years",
+        "sha256": "6aa2fbf8ac9f122bafb29e64d4c4a997aaa20970d418f824ded93a0ece1687fa",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "critical-degrees",
+        "sha256": "58d0afd152f7cdf1edc0e6b10cd93c6dc8c1567a66211b78b2741e187700b1f0",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "via-combusta",
+        "sha256": "498d5bc1740e4c79491e6d92a103e4b6707b211cf83333b57180aafda247df6c",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "horary-radicality",
+        "sha256": "528067df3ca2ee2fe2d73ff0ce7607ab4e0f98cf6b2ea4907ba16af76d3f9b3c",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "considerations-before-judgment",
+        "sha256": "da60685ab646fcada783b112a792ff9d7f6fffbc364f5327ca43b5f3f5f2a783",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "querent-and-quesited-significators",
+        "sha256": "ed049076c96ba0217cf0e74e64a7c8bccc86d71e62c0518e4bc405a8a92b164d",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "natural-significators",
+        "sha256": "666be4db06c353c792ab5de8411a3ab3c2533fcb9cd9c90b29fb3ce0f007d895",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "moon-as-co-significator",
+        "sha256": "d061c31e0868281fd57999cf00de3c10f32a56e85d4f608d35579ddc23a14eb8",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "perfection",
+        "sha256": "ad5e112ba5a8f2d819830e81701e592992fe0c2d6d793dd61fe95d5ab3bc1ecf",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "translation-of-light",
+        "sha256": "fa8f4467423dc91a365b1aa048ed37c1fcaf10d1321f5171705c236e29bd2d87",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "collection-of-light",
+        "sha256": "68cc00ea3c1d0d2911afd4ed9b372b77f4c31ceff4e9d66daeaad8d33bce0d34",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "prohibition",
+        "sha256": "52a2bca743b60b088d3590cb6d41163521a1c6a3b99b5d9b4f401f52e85cc1a7",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "frustration",
+        "sha256": "8c8e7de00c134e47e6d9ebcde5024b1bcfa56545b50e2c01ba92f036d49ed622",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "refranation",
+        "sha256": "64dd6f0cc785fd4409c6d078c885c14b9d017396fe1bf3a5282c5f53f1756562",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "abscission-of-light",
+        "sha256": "54ce0b9affd6994107ce75b5250ddfe68dcfb2faf30c341bc782d2cc69e9573e",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "void-of-course-moon",
+        "sha256": "1f0b3eaa0946c830002a863dfd19c1acf1b510738f0e56882c3aa310a25ae16a",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "timing-in-horary",
+        "sha256": "b63b692d3c1449eac28597cbe1422e4c2e8e03917f09d716fa9824ef9402e5ec",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lost-object-horary",
+        "sha256": "06d2c201e7e97a5dfbc592db30d00587359bca3db20a6b780102972dfae0d9d5",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "missing-person-horary",
+        "sha256": "487052e6b786b6f015439db102a3d43b112c16b809ea7a7e8b293cbbf894cd4e",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "missing-animal-horary",
+        "sha256": "3e67fc48f37f0e818a7569659126c5c2ac13df6aa8e1f41106409bead662dbe4",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "direction-and-distance-in-horary",
+        "sha256": "ac38b5aa83027ac567c32e4952db329cbf8b91137f22598be956e2c1f907f017",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "relationship-horary",
+        "sha256": "1bb1800cc014ff8591f1a07f13d7b6495c6c8713e48f8466428b5675c9e5146f",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "employment-horary",
+        "sha256": "e4ec08a732e0b73ee00306b789b7561b62dfde91fa72fefe41e120e2cd39cbac",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "litigation-horary",
+        "sha256": "eddab7a54db3219840e1b5743a2fdd958ef990ef3494f6c7e47e5bf2d60aed9e",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "property-horary",
+        "sha256": "d227a89a2b57cd023ebaa8cc9693e8dc67135bd73b7d2b9686414a88527eb48d",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "travel-horary",
+        "sha256": "763ad3d70164a9040216c21fc6e6ed7e957796ff89ff579f5adb2a18383d6280",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "pregnancy-horary-in-historical-texts",
+        "sha256": "1b0298c96ed13b5e3dd1d4e9e2bffaa47dd40352382c89950ff3692d627346d1",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "weather-horary",
+        "sha256": "3661d5452fe52e636afd70f0c739783f98cc4caabd5f0a749eb0416aa11f57b3",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "sports-contest-horary",
+        "sha256": "3b5c489f4fc34c504da46c353e9cb488df7323baf6dafd5e08af2c6786d325c9",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "electional-chart-selection",
+        "sha256": "046ad8bc9ae5027bdd0b6c02370bc0d5891d727e2c0070301c8e2ae39f17545a",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "electional-lunar-conditions",
+        "sha256": "49607cef20271ec1491efaa7fb9da46992bb171b02e2bd364bde3f6315b5985f",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "electional-natal-integration",
+        "sha256": "3eef861a2d093c06dfad3cbbea2935121a046af65bb8b7322983bbe7603a0bc9",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "planetary-days-and-hours",
+        "sha256": "f5b8ceb2b5a9affe58f7c217f8cf457e1740b8a291afee454763f13380ea4c4c",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "electional-marriage",
+        "sha256": "93844f2f07fda70299cb34093cab7cd55b5f1e1a92d13d83770ab291b4d23ed1",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "electional-business",
+        "sha256": "2e3dc1f5a41fe3e214ae6455489d07251b8a6851d3d93bd86fd1a380fe1fb86e",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "electional-travel",
+        "sha256": "e67029e6e391bfca4fd8b3f1b62f8278f885dd3fba4cdc22349ef29b447fd828",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "inception-charts",
+        "sha256": "ab3e110bf812c532dc98ee0989072464dda5dd54dd3c1e8cd731521e2ea64933",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "interrogation-versus-inception",
+        "sha256": "3b60f5c1391fc7e39736f49f4068ffffd4d9832e803bbf6c07c8fae89c656c22",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "annual-profections",
+        "sha256": "26d42873b42bcb410871c36508fdad3ed88f7c3da1dd2f982724bd901c641940",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "monthly-profections",
+        "sha256": "3cc4c083ee90478ba2b609dc2d76fa3cfbec772bc8baedb8527b1df5fd7b088c",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "daily-profections",
+        "sha256": "4747d9bfbfe6bbd08a2d1e18f606f0f9c5a30754783d426dd0c6192e6fc63a16",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "continuous-profections",
+        "sha256": "f01433cf0529eea4c3eed18bda65f2f5aa4312e981e67e4206ba01301a046ac7",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "zodiacal-releasing",
+        "sha256": "fecf5e1f2bac6f6aaf1e3f5725a0b3a78956b75e55db7835e410807cf15aa7e9",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "releasing-from-fortune",
+        "sha256": "b96dc43541f3f8963bfa4503c23a4bd6146769b6da61349f5dca78c353d80270",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "releasing-from-spirit",
+        "sha256": "1d8e71b968a9f76d9e14f544468bb6460573cf32b5987c5e8783e5c326f9f423",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "releasing-from-eros",
+        "sha256": "a1522eb005f035b1f01b3f8f706145940373de169d7d951b7fc2d4b55360f4bc",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "loosing-of-the-bond",
+        "sha256": "8d9b31c3a1c089be937760d56db8ac5841d2a41be06c02954cc6ab4b99048d36",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "firdaria",
+        "sha256": "c27b8595a819c7a7efdac854c142d4feb999d39b93a6293d7531ce394543b586",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "decennials",
+        "sha256": "24d5b7ac88b0094ea03c626c3d831a62579499a2bbd4be4033ff99572cba0781",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "quarters-of-the-moon",
+        "sha256": "609fb365209c9d39b47f47aae4ee427aa1c44f4862477b6e46c4d33a45c4537b",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "circumambulations-through-bounds",
+        "sha256": "7a41050e30bb92335e300e33c0871681828152dfc27ffef0c6b6bcaaf4670291",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "distributions",
+        "sha256": "6bd2c394aad48c7f88ecf12e4b9d2b6031316e3a377346a07ce0ab3b36bc6ad9",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "primary-directions",
+        "sha256": "e3d4e725cd592a6827ef06dd4fe3eafe7ad7c0a37c9cd1056faef399e862d6b2",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "zodiacal-primary-directions",
+        "sha256": "e3c5dc8cf18dc62ffa0dccbd282605a04d53fb65302b8366fb7f14e53187c9df",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "mundane-primary-directions",
+        "sha256": "db6e528f3aeccb73f13bcea020846d883425fae7f83776970ed6f5daa93772af",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "direct-and-converse-directions",
+        "sha256": "b0b55e8487df8ceee908e1d730c5e56e6d84d81994a4a206b0ef2fc552c24710",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "ptolemaic-key",
+        "sha256": "e9334873ea97c5b8ec93e0923f1566ec98b5be7cd0c17bbb479f50c7442cf8d0",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "naibod-key",
+        "sha256": "7191aa9704ed6a760f6336ccbc67e5b9e8e52b9f88a0ad87012457feffcebb02",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "solar-arc-directional-key",
+        "sha256": "0c20bcd23fb5fc867ceec82ce3a325f944dd6b280c50ae880e73bf3996c619ff",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "latitude-in-directions",
+        "sha256": "b138e985727e73a9fef2f87d900bfc107ae62d2bac762ee317204a96eecfa3bc",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "secondary-motion-in-directions",
+        "sha256": "b529cafbb22dd27e432362a44ba68be03bac6d147a1c5dbf981cf72f12ed9fda",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "solar-returns",
+        "sha256": "dfcdc90ff166560e0c4aab42cdadabeb870075dec29fc4f13392bd2da6607fb4",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lunar-returns",
+        "sha256": "a105abc3845effac0c66a3edfaaab786797047e679c2f79b227d48bbae1b5d7d",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "planetary-returns",
+        "sha256": "2aa7da58c024adb45a2a1c2a889d8aad742beea7f07cb2c4ca1fd70e0acfcede",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "annual-revolutions",
+        "sha256": "525715ea32dd52529dd5836f65892025dc8977633106f7b0d302f5bfa13dd0a1",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "return-chart-location",
+        "sha256": "5e296dc71205d028e37cd6bd176f8c7261806b842299e4c17e53d4944790cb95",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "transits",
+        "sha256": "99c5a032a0308448dbf05883c3d4b566dc350508739fb20e7fb2c29ec63624fa",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "transits-to-time-lords",
+        "sha256": "63d9fb4b7157b6f9287f020b0399bc2c56b2798d694b92996471232347e9578b",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "age-and-anniversary-conventions",
+        "sha256": "cc91cd57a9c713026895915bdc0ee82b88620cc6881a361a3d7a0b4531151493",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "planetary-period-length-conventions",
+        "sha256": "4ce5f26ce59097e646c615f38ae4471b9de83431972e9e5e47a99149d1b7085d",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lots-and-arabic-parts",
+        "sha256": "bd7bf45d27fd032aa6ae536e5f20f5d55ee5b0e7ceb46bf7b2a1939aa32656fd",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lot-of-fortune",
+        "sha256": "599748cd855ab1d4e8cdbaa24cc0b18c3f6097031f75784abc69ba8ed838529a",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lot-of-spirit",
+        "sha256": "851dbb62f0cd494b615c19e26587a8034c576609b2506f4b584abb0c86fbba8c",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lot-of-eros",
+        "sha256": "f2800ffa9cbabbc69bc20040d6fcb967970c657f9ab7ca38643d35b71f819b40",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lot-of-necessity",
+        "sha256": "b7cee701d3a8b55773c9da112384db14d8ada39fcf651c76e2384aebb38917a9",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lot-of-courage",
+        "sha256": "cbe6c12fe2f1052f4ff1ec3cfbc71cee27cda57099413fbb01b7186f6d019b45",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lot-of-victory",
+        "sha256": "204c6e9456b801cb0bc5480ec9143dcdae13019542d1ff3c4cacba699cabdd64",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lot-of-nemesis",
+        "sha256": "16efef957461d545e5a7626f729bf87aae8bd11cf476930cce050fa1e899ce16",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lots-of-marriage",
+        "sha256": "9c77f83b2a02eb7a11fd4d614aab8f0fc18e22096b796ba241598052db4274ff",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lots-of-children",
+        "sha256": "cf9c648c79e438f8f4de6cfacf36f005c5f22ca145adc79b6c7a03370742b2bb",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lots-of-profession",
+        "sha256": "2f969fda116f947a9c6c9f977e1970f37abd639bd5193c47786b09074a71de1a",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "day-night-reversal-in-lots",
+        "sha256": "56120a342da5a248ab90d7761c7e89be81967be4f23d28785d93edb911b7170d",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "fixed-star-longitude-contacts",
+        "sha256": "a370f714fba7791b7e59e34ba43cf9b6a1154ae6436032bf0437d9cdf8374cb4",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "fixed-star-parans",
+        "sha256": "9522fdbe6348f8fc1058d4a5a0893db3a1053681833f7b0e3c2e33d7c72cc7b6",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "fixed-star-rising-and-culmination",
+        "sha256": "0dfccb4f49db4845c3670027ad65e8ca3c7c89e7cddad4cc6891081f268fef47",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "heliacal-star-phases",
+        "sha256": "7c98a2610e0dd759cb20a5429ad4ff4b848066493979a5d9e1e93aaebab440c8",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "royal-stars",
+        "sha256": "d8fc9b8c60262b96d27b2a544032e10299ca0bf9ec655a5dcba88807914d8b9c",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "behenian-stars",
+        "sha256": "fcc3c03f991fabd2c687b25dad0163f7347c53ba942bb236dfa2164d1778ba1f",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lunar-mansions",
+        "sha256": "ba4c0c5606596b6ae29433fe25fa872cbd5477c556096ae4e660272865de0816",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "black-moon-lilith",
+        "sha256": "6873ce2e7d547ed67f42c912d416e3374502d13d28d3fb4bf9b92e1cef0e2777",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "asteroid-lilith",
+        "sha256": "c52ec703a8e565c47a7e5da7b25ffcccf3a67effc67c7ef92756ce33dbf4ae8f",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "hypothetical-dark-moon",
+        "sha256": "fe48745d458b09e8fc81236b216264b839ff7835a0e06963f5d9297dbb9a1532",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "chiron",
+        "sha256": "ef635980f4776cc59d9bb77691f2dd867cf0847a5f3054f37e2d53f1897e06f0",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "asteroids-in-astrology",
+        "sha256": "5f0747e65de8dcfa1bbd95745a713b73e84d0b696363b44bdf1f99959f6fa2d8",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "centaurs-in-astrology",
+        "sha256": "4ec98f315450d61f8fa60c497a268ea3e76f662b61227c16b7b82794098133b6",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "hypothetical-planets",
+        "sha256": "419d671d5054ac6a60493be4d951874b5d1f927de70601cb04b336495f11e819",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "secondary-progressions",
+        "sha256": "39857cfc99a4f8029fca035ea509a79b7fdec1137b706b1d558aa664ffd04432",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "tertiary-progressions",
+        "sha256": "071945fc326ea43751626162e2553f3b7c243de9f06f1d305b1339e5e094c652",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "minor-progressions",
+        "sha256": "4f6153130ca7016837032fa8b2e285d6d34f89bf7c984918b58e4340710af3b2",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "converse-progressions",
+        "sha256": "1422c72b59e6661efbb9ec21df332e7a3ab8e7ce03ff62d651654482e5909e2d",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "solar-arc-directions",
+        "sha256": "5addca9b57df345fb2f7efaaebecaba94874e6b378b5078267c4acfbde0e7162",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lunar-arc-directions",
+        "sha256": "6ad9f349f3c905f29c2af8ec65db0942d0940ff923ee9052761bc63d28a3060e",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "progressed-lunar-phases",
+        "sha256": "ed68fbc1b9a567891be1a9ce9338eaecd3713076d5d309d5df1784f5ddd48242",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "progressed-lunations",
+        "sha256": "0ad8edbde3b02bd52f8e2c29357a3d96b2b395f69af1a64804dbf8da009b8d17",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "synastry",
+        "sha256": "76d267f295cd2634d184b0549cf7362261783ed30a93d32a32d2b73280596373",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "composite-charts",
+        "sha256": "d3e4880b0218a7cb797d0206708ce9a1a8dcd0ec4ae207d60f556503338c85f9",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "davison-relationship-chart",
+        "sha256": "15f26b9fb090b5480820abbbec2a5f5c1dbfe743850bcf8d318eaa605e3a6b5c",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "progressed-synastry",
+        "sha256": "e0817b7d3e31b3f618e24e500d9e65a80c8d7f0764dc667c67c5eb14b64f219f",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "progressed-composite",
+        "sha256": "9c44febbc4c571aedaaba77253064ed96c516d2d5cdd6008f22b1b65f5dda703",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "relationship-returns",
+        "sha256": "b342ecc7bec0c16356ffcc3619e038288d82202c46300879c1f700cdce2ab9bd",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "psychological-astrology",
+        "sha256": "f9446eb2d182cb1ee028a3171b3d98ce25cf81062c41cbb6da6cdb8f0f4e97fa",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "humanistic-astrology",
+        "sha256": "3ee6d92169d5b84737fc50d468ff1862873e132c54152d2dfa1a009db841f617",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "transpersonal-astrology",
+        "sha256": "0a16627efda3df6aac1bdba0c79ed9b56f0b522a4042099264ee47d7a0f5055d",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "evolutionary-astrology",
+        "sha256": "eb2379b9a4876cc975a4a54ff945ca153ed8897a544db800d45c3a99976c73b4",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "archetypal-astrology",
+        "sha256": "b25a2045db90e6df8129e38904f5d439f6777195c0dd86cd34cfeb3703a82259",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "esoteric-astrology",
+        "sha256": "5b316dcdeb5deb60eec457178be07bae543546ec7e35b857e695c36311f2f5a6",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "karmic-astrology",
+        "sha256": "b2b2b2dcb288efe17c272ef498c81110c5724238c81b237373eacca5d30c52eb",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "draconic-charts",
+        "sha256": "7acca9ed55b9b603767c2855483a2bed804ed0d68e98b95bbf13ccbb6e879e1a",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "nodal-analysis",
+        "sha256": "ed5da7a0a22e135e12e81e0936a2773e950fce1d37d4d75beac762a905ce5934",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "huber-age-point",
+        "sha256": "05bcd6878699719f169a6feb70f51bbed97aee47d6202fb32668c0be3dd15efd",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "huber-aspect-patterns",
+        "sha256": "9d570f650ee00bc6d398c9f6e06a7aa5f2bdcd9b8bea255dac33ce7841afbbe8",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "huber-house-chart",
+        "sha256": "2d9fae8391350d9bb1d8df1aad72b7d944b621f7070f81addf113d60c5537986",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "huber-moon-node-chart",
+        "sha256": "02b54c439b40933368e93fb19ebde22a3fcdf9acab683da28571c63d402e8e66",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "jones-chart-patterns",
+        "sha256": "dd5e83eb0a8ac537179f2e5a3aff5fe0dadd43419c7554540bf76a6e064244e4",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "grand-trines",
+        "sha256": "8e9669743462912c012809bba66724b6afa14f19674d1bc9cc6ef3cee13fdbae",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "t-squares",
+        "sha256": "c265411e25edc6a46041e234e464e7f103c5b6b335861d614d5a55aacc2f7844",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "grand-crosses",
+        "sha256": "e0a32ca5dccc85e5b2944c01a931b8de895059294622c8b48c33440bfb0f110f",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "yods",
+        "sha256": "03841ceb5a78221f4fba5bbfd043c78306b6f7d0cfa59418f3c52425dc128536",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "sabian-symbols",
+        "sha256": "84245d9a94f5804a0583f7c10c6f292e53ea84c7679e44f90ec0eae93cbe86ee",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "degree-symbolism-systems",
+        "sha256": "4048d78667326027ce96e2f6196f94e4a4589a84be2b21ed7b9702ee05263814",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "rectification",
+        "sha256": "d6a2c02e0121dd869543cafd65f1523c454ff8d8fb7dc975d77891fe334a2cd6",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "event-based-rectification",
+        "sha256": "f44029000e171545a7ec51cec7ada0edec6bedd73da8bd15d85ba4ced3573b07",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "midpoints",
+        "sha256": "b9295715eec7f7735769a938b46ab7318086f176ea20d44907e6c34bd8f21368",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "direct-and-indirect-midpoints",
+        "sha256": "32a3b3cf244ad2b05ef0390cc55db7b8286e72ed948a07aaad491ea76593ec83",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "planetary-pictures",
+        "sha256": "d593191465dec086f8bae83defb3fc2ad8cdb7316b5bccbc774c32e4adba5352",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "hamburg-school",
+        "sha256": "c5acc520a572381021957324b8d797717351b22f82fa4c23c5d797e41637a34f",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "uranian-astrology",
+        "sha256": "9bdcd8d3df06ea9afdbeaf10c2fce77f93412a5cea2d0d4f72fa8de42bb7f1ed",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "cosmobiology",
+        "sha256": "8d5267b8b6231828c122993136225137e5349185f6390fed59c9534a49ce89a0",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "90-degree-dial",
+        "sha256": "9b218ee82734596cb922b0fb34aad44c5ac4d23434164e909b640e16e5fb3df4",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "45-degree-dial",
+        "sha256": "a934e08f7b900e30da3c7b46f969328cea58d60aaeb05765db013cf9863178c2",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "360-degree-dial",
+        "sha256": "bb52146cd9cb77c614f17fd7b69b0d2e401bf182451895228a3bda062bf6934f",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "aries-point",
+        "sha256": "9852e037ec6436a78b1e52273a87caf688ade460d33644ca51bfac72e8eb3859",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "antiscia-in-planetary-pictures",
+        "sha256": "fdc6b3125d72455859727c20c1a433cf2c47e079f43975fd16e516405c0577ec",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "harmonic-charts",
+        "sha256": "52fe3e1c4ad651792b9d30af2a0ad61b65e0ace7354f677b6b11f55688beb364",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "harmonic-aspect-families",
+        "sha256": "96b0cf6bc6a1c9c91a59577ce6bbd62e3ba0b76bdb1f011d669b285f89c5660f",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "harmonic-age-charts",
+        "sha256": "3d09dd8ea5d542a154be7acae3d9ebc64db29cfbf291f6759d1dacd7aaf397ca",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "harmonic-patterns",
+        "sha256": "7b14c1cc09cb63a8633a4c45ec72e38a7a8da61aa1233d7d94496f29a6194b86",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "vibrational-astrology",
+        "sha256": "c300551bcf19b27b5c045a32679a264bb55093b7d67f5823e1aa00fd0745006b",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "astrosignature",
+        "sha256": "684b3c261f5f7365d763e57b51f5f799f2eedc177cd37485a210b6d9c1b5a5ab",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "cosmodynes",
+        "sha256": "94c8e37fcfbcf0869a156a055aad2d49fe32c63fa0ae5c475b55e47103630d1c",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "declination-midpoint-techniques",
+        "sha256": "87b6b897e11f4e24381c68530137a46f27554a4a081f1612eb0b70c71009bdfc",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "witte-hypothetical-points",
+        "sha256": "4c9eef658d2395e0fd9c57d949e32f0cec0c14f870e8c0e3936cd8a50951dfad",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "sieggruen-hypothetical-points",
+        "sha256": "826c41b1b930438a950ed9b76f34d7a2b4daee33a493626f939d82cc53d7bafb",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "mundane-astrology",
+        "sha256": "3ff74a2a7afa70b3425232e19e320f51ccb940e430c5b4d64e7a8690c71bb174",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "aries-ingress",
+        "sha256": "8c70069a0b39724a0062fbe41e2fb1d338f04b71fec3e08a70bfacdecda5d7d0",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "cardinal-ingresses",
+        "sha256": "3d498bb15a4efae0f86e1ad983c23ba8c5540117b53ac149687c920a3bc508ab",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "great-conjunctions",
+        "sha256": "10fd13b1cf85703c948d7a7b475624a9733d9c03309b7ad32738b91a410a2578",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "jupiter-saturn-cycles",
+        "sha256": "30a245bd8f7dd3f3d24cc07e49d35d1b967dd455a832da2a8af5864b1f64ab00",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "outer-planet-cycles",
+        "sha256": "3e0281037896b524a28d963d35ba7631cc46f417776d547163b9457117bfcf02",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "eclipse-mapping",
+        "sha256": "96b5ab2c032776f052811f275f8944cbb9334da1620e8a1c08c75e79201029da",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "mundane-lunations",
+        "sha256": "5284ef698c8920e39162ab4292b8123dc8cc6adc6b1d65fe68eff113c9b540ed",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "national-charts",
+        "sha256": "3be5efd44d99e6859590f3ee10ec141848c9b717195ccf0b1ea7c5cb0e512086",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "foundation-charts",
+        "sha256": "b846e2f3d92bc322118e0c6ac93eb8dd60a91102147fc401e3228bb0397bcd81",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "financial-astrology",
+        "sha256": "ebe717c066efd5c9df3c9fd34e5a29d3f0f06483c21adc3c5b7fb3091cc4ea60",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "astrometeorology",
+        "sha256": "add5090cffa0cd9a9f39af403a3cf1279aafcdb64edfcc97cc1f068ae1414b27",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "agricultural-astrology",
+        "sha256": "9479c90b68034c87359bca887f5906665c2a496168cf5fd279008c63bcc6f53f",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "medical-astrology-as-historical-practice",
+        "sha256": "136a36e2c86ee593bae1102ecb22675153128a6096bfb4f51860bbf2b920a9d9",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "decumbiture",
+        "sha256": "b588883bc474ed0097935e1724c8338c4a6e79b35e28da8da5b4eaf72a056c7c",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "melothesia",
+        "sha256": "31745ee00ac2ec3692f6e1d333529bb862405b645dcbb4a8397e1bb228abaf96",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "astrological-talismans-as-historical-practice",
+        "sha256": "22fa00577c71549cf539c4d9c4f3f1d4df234539b07abd53b181d08e36f8a7a3",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "astrocartography",
+        "sha256": "a084576c38f740372c90f1af12be045c434116e35a62f1ad28e8dd99a8012b12",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "relocated-charts",
+        "sha256": "5ef8f1e79413271bd32a912fdc1106e9cceb9002693cc9ecc31ef5a991a09191",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "local-space",
+        "sha256": "b221bcb3833bb734a1da5ab88b4ea4535eb8aabdcf0c3f3ff9e99e75aba58d15",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "geodetic-equivalents",
+        "sha256": "a389883e833c9fe22ce835e379348e69c094ee01066c0aca80d36bd808791ccd",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "cyclocartography",
+        "sha256": "2d8829fb5fb38aabd14fb1c19848956582b500bb975d4257f4350d9757ff095a",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "paran-mapping",
+        "sha256": "c30a2bee7b7ce0303f4b95f5a31cc566c59b5fecc521a7ba0fffbc1a46b8f575",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "zenith-and-nadir-lines",
+        "sha256": "e9c093223013049bc0ba524615ddb197efd073244ace3d534b8592cdb9e24d93",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "relocation-latitude-effects",
+        "sha256": "98f9e5916c0d883aa231a38adb1aff2d824570e43cb07a7dbec66879f3ee4bc1",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "travel-election-versus-relocation",
+        "sha256": "b1c030e8ade1c0ba00e63959663023115e672c34be2230a08349b7000606fcef",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "jyotisha",
+        "sha256": "bf3338029816a7e04c389bb3818cf5e79cf1dd71aa1d17177f647aa2bdfc126f",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "parashari-astrology",
+        "sha256": "d62897d8f33f93150b8e5f6582637be08caaf2d2a1f4f9aa4290c23d9c260205",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "jaimini-astrology",
+        "sha256": "fadad2629879197bdb793b66bd2b4b153503db2a206551c9bf0dd046c0b1069f",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "tajika-astrology",
+        "sha256": "352bceb49b8d1068023a2c9af2de8c46af7c26af155867f5b2646a83029d9919",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "krishnamurti-paddhati",
+        "sha256": "0492c7d505d11123ca1974c8c8b999167d036e18a0e35e5661b78759209e81bd",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "nadi-astrology",
+        "sha256": "50bf30e4443d6441fcdd1e3d665b732666e5778289efbd1a3f88f75b1c8c60ee",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lal-kitab",
+        "sha256": "c08f13b2fd1b207f856d44ffd57c51a932602f4e987e4b6f7840941e69b57e8b",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "rashi",
+        "sha256": "e050947523b3b3daf5d566dd3e3788e9ace82ba7279a73f4ea518376259082eb",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "nakshatra",
+        "sha256": "cc6b09baee356c026955190e3076bcc21f2cc8771984de45ac89d6c6eaf53849",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "nakshatra-pada",
+        "sha256": "9532b4b37b3d8798511b5e7eb90357eb4ff9c1390a1397092a865309895cfe19",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "panchanga",
+        "sha256": "796a999dbeda5cddc9146237c601aa6237789d4e74d6ce21a5be8121de3f5011",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "tithi",
+        "sha256": "c2d1c19f015d636caf965119cd2a0f1aa6dd801d817d881db576dfe786f094fd",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "karana",
+        "sha256": "01955e4ea12448fad00fb9434ac7559cd25890c051f9f73d879bead9f8296c51",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "nitya-yoga",
+        "sha256": "3c3f0548323ade7bc0e472ddc7f4890d271b3fdef925b42f28443f6315308671",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "vara",
+        "sha256": "6b927b2bc42de83b909d8001f40e8e0bf201455bf38946ce11bd534154667e2b",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lagna",
+        "sha256": "33f852636d36fb1238905da46b5dfaa4b81e675ba514228f569fb9ae648e4907",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "graha-drishti",
+        "sha256": "f4404505703ccf4179bfb20ae8f6df758f5596c5f819ebfc1492c808a4ee7229",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "rashi-drishti",
+        "sha256": "60d367a8808e014d7d9f857d4b47b4e977ec143972f88b95d617779830688827",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "bhava",
+        "sha256": "7c87fcb66b1fd5b8ce1b93fddff3f17b6e55f27ed5b74a2b3fc70e5339e7185e",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "vargas",
+        "sha256": "a3e2aebb0de6e78b6c99646f937758bde5f9d40bf7c64655e190fcc1c24d529d",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "hora-d2",
+        "sha256": "2e812be157a0e65eba3bce4a1ef139dc26acfd9bb35915abaab71b8a7ed4509f",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "drekkana-d3",
+        "sha256": "4f9f26abab04ff095df99cf42d1137c7cdf47a5b234e7d56749e09eae15897c8",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "chaturthamsa-d4",
+        "sha256": "a0b57bdf06ac83c018aeb1d54296edf8074af1afbc7a502458c5e5c361c59c5f",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "saptamsa-d7",
+        "sha256": "216e24198fc6208784e51102bf5daac59ca46375342cd02a904b9ce960c6038e",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "navamsa-d9",
+        "sha256": "0073e5401871aa6396ec768ec955da71ae7acbe9e647a48475c8add7faf512e8",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "dasamsa-d10",
+        "sha256": "13a778f981168996a0d13633804dfced3a97fbcf20eca516be0f03eb8d0a28b3",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "dwadasamsa-d12",
+        "sha256": "9d65b339186b1b82b29d4727e9673d0ebb8c282538e00cfcc77ab491039e2c7b",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "shodasamsa-d16",
+        "sha256": "a6ba69af3183d8155c16c6b18b27afb4298c3140ebed3a96763ce1c9d79e171d",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "vimsamsa-d20",
+        "sha256": "2c8a46459e39eb65fc781dc87103b241f94cfa7392bf2fed34c181a930f9e5f5",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "chaturvimsamsa-d24",
+        "sha256": "43622e9f6a5a6c68248b6677e43252c268462abed2f4c57880e8bb8a75d2d438",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "bhamsa-d27",
+        "sha256": "ab125bd2a6b24ef1ef45ee83418a52132aa2b1c0af906e4a2b99172c8d824a04",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "trimsamsa-d30",
+        "sha256": "6cb26e97e73bcad604832841eb4f6077f527c95e60ac2f5b86c99e0ab4297404",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "akshavedamsa-d45",
+        "sha256": "65a775842389b95abc7856c36540da48f1eae93f52123b164aed9c932bfeb276",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "shashtiamsa-d60",
+        "sha256": "d699a4d89566ef2cfc37f469acb10ac728409099242042f7170666a0aae79546",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "varga-calculation-variants",
+        "sha256": "ca3bc34c949bf781949eb3788a8c9bc548bf41df036c9d1a7bfa1d63b80c8f2c",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "shadbala",
+        "sha256": "ffddca4d83b744d3856e74108c82cbbcc515d5cb67f84b7b5aeeba3a96f575b4",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "ashtakavarga",
+        "sha256": "2e519219c80a2cb28320fc1810913eaa518170fae744d4a652e282088a5b6212",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "bhinnashtakavarga",
+        "sha256": "72877e755d6bef564c1428f311bbc785193a6db4784470d6aebf418ffce96b6f",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "sarvashtakavarga",
+        "sha256": "10773c2717b7fcaa43ff48244d0ea99b19665952bf47d58a71965fb8dfd96cc9",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "bhavabala",
+        "sha256": "a8f2c4148dc3591680f8bf3b3be34d1ac266f1c401b312405e3ee6063f5363c0",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "vimshopaka-bala",
+        "sha256": "f95bb72edab0125d75d5f35b2a5ca6d957786c504f809be9d0f2dda977ec7169",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "ishta-and-kashta",
+        "sha256": "fc8b27a8a88ee3fef629bb3b204b72b89a0363b4905a9cf97be088066c0a2b7c",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "avasthas",
+        "sha256": "a8328b8ba64ea6d866c230194496adf35d6766b42cbc78b2ec725a25f9821baf",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "digbala",
+        "sha256": "dc4eca71eaa1a4ef4d629d56d58596026d0a5b8efb8c9174cfeb06d74071d262",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "upagrahas",
+        "sha256": "1529ee1ddd62c681b1409408c94a3ab56733df9ee603af5f341ab74186249dd5",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "gulika-and-mandi",
+        "sha256": "f91a4c84a3858f702a46cf537ffcc4e740e1b6ad68de5d8dda8331ffa8832df1",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "vimshottari-dasha",
+        "sha256": "000b39c69e6f13e72234622cca5dfd83d3f13279e2213bc4f16304dc8d5156d2",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "ashtottari-dasha",
+        "sha256": "540b29a46b64b5872e9940b14b3763dc8769ff146dff8eb03bd65c0eacfcacb8",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "yogini-dasha",
+        "sha256": "a6ab9715cb85e041f4ccb6fa58e88800ff8c3d9dda4059a3016f9e09ea19c20e",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "kalachakra-dasha",
+        "sha256": "0edd4bca750304cfdf66a850d1c3332c25d476908c31146a96f85e72766aa0fb",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "chara-dasha",
+        "sha256": "472e79cb5c578c9e846cf5f9570db78c686ef146608c13cd9c51e5c4a4817fd0",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "narayana-dasha",
+        "sha256": "d92aafea7da2c768145ff652ac1e193124bae4bbad60eb4fb6770611a3133059",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "sudasha",
+        "sha256": "9136683b8ce16e5f5b4bcde993e6d70b8c624db3538aed8f75390ac6769a30c4",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "drigdasha",
+        "sha256": "205d827d2377487b36c4274b5e6e05a8972c31ae50c0232ea70185b6ec3c4365",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "shoola-dasha",
+        "sha256": "aaee4806f869b5c71bfe3972bec38ded5d986b06236664bae54aa302a294f0ce",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "moola-dasha",
+        "sha256": "dc49c3fa8eb749c57483d66457d934b0440736743a94f36f16a0fe2751aee6b0",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "tara-dasha",
+        "sha256": "9e943a6d51be4a676ee7414a03afbcd09a890fc25fe85527f5dbd8eac8e3658c",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "sthira-dasha",
+        "sha256": "ac72bd532a78c63b8f9b0eca89f41961b1e5504d20fb9bd1c99bdb7cd6b34578",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "patyayini-dasha",
+        "sha256": "119a39d357f94941cd9faf257f0265bc796c33f70191b8a9d2528339bba83a59",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "dasha-year-length-variants",
+        "sha256": "f1fec5192e03c5c6577c2b4b6204b6685f5682692d607147bda136d51c04d9f4",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "mahadasha-and-antardasha",
+        "sha256": "b9572e6b60b107d142e7eac1645ff0c4fa149485f62da4c2717d31f7d278744e",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "dasha-pravesha",
+        "sha256": "c702afc03936216e531d7af4ee0f4f52f2b784e1ef70d7f0df9620196178c05b",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "gochara",
+        "sha256": "4a02bc855d9b1063f6757c99436c5b8a91f5e502ee5e0e6acbd4204a1cf12c3a",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "sade-sati",
+        "sha256": "3667c460fa6f0dd16ed33d3a5ee6349921708dc1015e50096d0cf7227534082f",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "tara-bala",
+        "sha256": "9a0c0e7114ffb233d5475e308f642739e8f39baae0f81cf1a6920a10ae7148db",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "chandra-bala",
+        "sha256": "041f954c8265fb3f5eedb42a4534573f04116e53621d5d4d8d556bdd5f6eae7f",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "raja-yogas",
+        "sha256": "fb69a7c5bb6d8dc90fcbca95b39d4d7c56a1b9aaa07551b88b71f5923304c977",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "dhana-yogas",
+        "sha256": "24ccc3a2c83d9298b2bfa2581f4b92eddfab1073235810957b9fa6d9f9604333",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "viparita-raja-yoga",
+        "sha256": "3f264196a16f20bf01c4b5f3dd84cdb0ce6618da18bd2508c0b4fc235a53fb81",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "neecha-bhanga",
+        "sha256": "bc5ca2a926c35c9b5b535d8dee8ce3996fdb117c8f9213896f573b8f4888146a",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "pancha-mahapurusha-yoga",
+        "sha256": "33e07570d808a4f323cf7ae79b3cf3fb577b14fc585db3db865de28a673f39b6",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "gaja-kesari-yoga",
+        "sha256": "6d8d13dfabf8c1b56ab272d67ccef7ccf6000d45a34aad22ffdf5c3e1523f6f8",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "kemadruma-yoga",
+        "sha256": "5c3ee6fbb40ebd80b3bf466e758284a61c64e198531380430eb18e0dfd6f3db4",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "chara-karakas",
+        "sha256": "cd95ad79089ff2a252435e03169a4180b26ea4489b495f9f567c3cf89b1e4d52",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "atmakaraka",
+        "sha256": "d7e081a0d48d20f52496358cb10a4f9f4b175d96e1ef1a31cedb2ea3fdff7ba5",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "arudha-padas",
+        "sha256": "3301883cbb66a5f0f6247de36b23fc07624f25331ba630db720550a8d45519a3",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "arudha-lagna",
+        "sha256": "60bb67926979826d081c3c1838146bb155f4bca905d0a45be7d7d38fd4696d0c",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "upapada-lagna",
+        "sha256": "30bd0cf5b8a312ee94b764884ab4d2c5fb37fa581793a8b7e365b886f94537e6",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "karakamsha",
+        "sha256": "555b022a3b8405eabbede849b8f8d3c444c146b37c0e3f72a72274d3365d7120",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "argala",
+        "sha256": "280c920c52c75835b6bb8ea6c1df3deecc5726a82df406c31382aaf73f3767ef",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "jaimini-longevity-doctrines",
+        "sha256": "aa82bf2b1b049d8c451b682d0cb007cd72ee3dbb6799666e1a95f71ff813ec37",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "prashna",
+        "sha256": "42ed56fe0898cbe9b7e1eaace2b11d743ca82edbe029a1d5f117c55ad2975948",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "prashna-marga",
+        "sha256": "3316c64f78c7b2abd1d3bf4feaeecad340384b2356764691b3952494002a441a",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "ashtamangala-prashna",
+        "sha256": "aa78195660aec389db32308b2cec2d8f6fa21f064c860eee08199ce1bede68e0",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "muhurta",
+        "sha256": "9c8043355e6f67022fe29630a251d6d6cd567f331cad68dc9132fb61289eeae9",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "kuta-matching",
+        "sha256": "913cc9751bd5ad50461c8ae9bf7249920535779854e4c550d39519a9bc6493ac",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "varshaphala",
+        "sha256": "846b7ef02388002055f7ad84d1e4d030ebf943142244cdbe48f7b493a9cccf97",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "muntha",
+        "sha256": "6f31b1bd759b456f2955637d2ca837324997e615f247b2a3e27350788ee6b6d9",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "varshesha",
+        "sha256": "edb55009a5f94c662f91324551e7d54a29155ba4e28e349227d41dd30985c110",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "tajika-aspects",
+        "sha256": "bb1169d408a1c0004c4ceea3fec9b29938f4a4c5c6378079498f049ddfd061b6",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "tajika-yogas",
+        "sha256": "7b245e4e9b0e7639774c468b0ca53276f6096ec82e23083db9b55b0cdaa135d6",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "tajika-sahamas",
+        "sha256": "9592d01ccb1356a52d43ab601680b80ec5a790abf6e3c8cebee096d7caa12350",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "panchavargiya-bala",
+        "sha256": "bc7645e55b0e6d0823b500f1a61495fedbec31f5ba1e5263cf99bcf5fbeafc68",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "mudda-dasha",
+        "sha256": "42cd7bf4cc28b08ff2fd29e6b4f0008f7ae63ff111d5900f3039aa9fb7d64e7a",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "kp-sub-lords",
+        "sha256": "36bdc441b05c576c26e7262d015689f5464f40b5a4f8dece963b0e4e44942782",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "kp-ruling-planets",
+        "sha256": "733c50027d43036022b2e17d8e1d7fda2f78a243f8b934ef662f661217d5bb40",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "kp-significator-rules",
+        "sha256": "0937de0ce4b7a4eff047fcdae36b85af7d90645e8718f8d8dde90c4cf3f5cf86",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "nadi-amsha-variants",
+        "sha256": "cf8d90c0eee8cee7a38669bc151ef6d6a118b5818518d99bc7d850c15c0dfa23",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "remedial-traditions",
+        "sha256": "82a29c2091b46d7de6c3390ff83fa815b5b6945a9163659095ac7a3d049cf7ea",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "qizheng-siyu",
+        "sha256": "544645db23f086fe47a8b7ceb4a04564d3e84932d1160ef47906e2e2b2a7dc9a",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "guolao-xingzong",
+        "sha256": "f6e49c27708a2f78f7893625c55d2d28a9f1bfc802abf17829fb25150a01f60a",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "xingming-suyuan",
+        "sha256": "1aa83d4f2d84d0b9b34acd8eb3ca63cbb7de0f5261cb0c46d467f95b8bafe68f",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "twenty-eight-lunar-lodges",
+        "sha256": "645516d98287cbfac1b8e511bbc4216fbebc0895da81474c2c9e8f17cb49a6a9",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "equatorial-lodges-versus-ecliptic-signs",
+        "sha256": "664909b02ef890aaaf41639013c2a7c934bac302827f433cd414e1ef0de425ea",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "chinese-planetary-astrology",
+        "sha256": "3429b1a112aad30ad2ad72b2bae33edd4167a94553d8fea563c57928424e9ecf",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "luohou-and-jidu",
+        "sha256": "be36bd86a9b0b70dad632391bc88f47850fdc1a5f27eeb5b1f1cab1043929c21",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "ziqi-and-yuebei",
+        "sha256": "0f97cf8a161f29f5865629248386ac039637c84ae4692afb3e6b1d62db12c1df",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "qintang-tradition",
+        "sha256": "3e7310d86a62f49c14fd6131cbd3cbab3d08619cf8a9909c738611be3ae44c37",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "chinese-historical-solar-lunar-calendars",
+        "sha256": "6d91ea9ceeac1aa61eb6a330e7b46232188f48c1e4b5356a2f55b9548333dbd7",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "japanese-sukuyodo",
+        "sha256": "d9d099a0f8eb361e48d62d47f6080af138b4900251c1fceefbfbba31f2d4bfe3",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "sukuyokyo",
+        "sha256": "bfafde4599253ef4241c770dbe6e1844327489aab330fedc21c55d7d6e636a93",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "sukuyo-lunar-mansions",
+        "sha256": "24c36c86155843f0b58482da2917ac25f2af7164f50d01f70fbfa767ab4ddcb5",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "japanese-onmyodo-astral-techniques",
+        "sha256": "85dfa618599b8afad37b163e600032a1d69cf2a7995945c2801039ef1c2d02b0",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "korean-historical-astral-divination",
+        "sha256": "a9ce83d513e344bea121d3f486857ee4f8b32fe9b30de48624ea6a86ae4acdeb",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "korean-astronomical-almanacs",
+        "sha256": "35efaec5a2251ab9828e2be6f7615405f687491ac41bfda80b943d40ddf4d355",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "tibetan-astrology",
+        "sha256": "5c5c1e8f6c39fe84ecb69e631904861269e034b9265315f5d9ccdfe6ab5d4e36",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "tibetan-elemental-astrology",
+        "sha256": "427e08789ee259d91f0dc1066a551fe5a79aa90b2f1d4c9e2e8a1a9f8bc656d4",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "tibetan-white-calculations",
+        "sha256": "d16cee42801e1cd0dba3eef3ac1552431f5a5a370d0cfa0c6d80f11da4aa0bfb",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "tibetan-black-calculations",
+        "sha256": "8d6a74134b54e532ad4607817df1e6f56163c16b423662d4c949e77a7acf788f",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "kalachakra-calendar",
+        "sha256": "43f5f4785141959611428c552c784fb2ae6adfd78f7222e0f465e261923cebce",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "mewa",
+        "sha256": "4a74b76069208e370a866ca94665873f0589a3076664f81b27b5716663517ee1",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "parkha",
+        "sha256": "fb704ed0714971ca39357d2864511020f100b3c5071b99e913214f30eadb2026",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "tibetan-life-force-calculations",
+        "sha256": "5c18e4e9a77eb4d6906cd4f6ac1b128893013e87fe7525da52b1f6176b9a19cf",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "tibetan-animal-element-cycles",
+        "sha256": "9a1392d90f1353d3d93fc1af1ae9300ac2fbba6b10b0a9dda006b0c371fa03ab",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "tibetan-almanac-selection",
+        "sha256": "f455e07a1b50dafddf5b4ed97a7b7d6f937960a51a60bf5c573783463f5b05d0",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "bon-astral-traditions",
+        "sha256": "c764a17ec2eec3dfa56b8ab4bf63325a3c30bd973228eacff3e2d14380be2325",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "ziwei-doushu",
+        "sha256": "2de8908d174926fc5e2fde66ddd37415423c77ded7b5288c1e97329d09e5f647",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "four-pillars-bazi",
+        "sha256": "24eb2db5878146ee667af5c9511b7fc06d7d7ac15d74fef28d417f19c46ea3f2",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "qimen-dunjia",
+        "sha256": "84deb5273baac121dc293c7fde686e69481e174e3612a29eccfe5fbbf810a485",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "taiyi-divination",
+        "sha256": "d7d68cc142ba5b34f43547c72e43e57ed49cc3b29c148fe104713b75aeba13f0",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "daliuren",
+        "sha256": "868f7ff8a85153fb927ba73edfb9e08f38ff834a40cc3b3bae9390d39df58fbd",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "thai-astrology",
+        "sha256": "e6d7fe57c34ce611bc5b6dfc051c91500a66442dda8bac492f87f8cbfeb921db",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "burmese-mahabote",
+        "sha256": "846b01b17d9ea3a2b3e7a577fc518e4247cfd763177903838c18c9f1dae1c226",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "burmese-eight-day-astrology",
+        "sha256": "8330837b5919b4f64ce19bf719d4ab388576680da4086065f2223608552e5f05",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "sri-lankan-astrology",
+        "sha256": "c11c80e6e38390c3a9828db7f0512fbbd252e40827c927051b4e339118716219",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "balinese-calendrical-divination",
+        "sha256": "2b97955108a603a5e16d9b9b2d9de51173d0699bceec38553d5b39724e266f68",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "mesoamerican-calendrical-divination",
+        "sha256": "7d7d9ec34aa5c7d8394b5dc057d3cb1eefa253e12f694b210301d7786d11d51b",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "historical-versus-reconstructed-traditions",
+        "sha256": "03ff68d35be1b6da10fc015817869d06a0ecdb68b81599982bfc3a88fa446cf7",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "babylonian-omen-astrology",
+        "sha256": "8438b51e58b502272e1cb60daf3352c542360826ad7bb3c53f4e5155cdc41b06",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "enuma-anu-enlil",
+        "sha256": "ca439a85991b975ec8350a336b2351ba0e62b687f27849da59fd9233778c05fa",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "mul-apin",
+        "sha256": "6f9b58ab2a01264c65bdaddea4036e6688948766188babe37246680014b30821",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "egyptian-decanal-traditions",
+        "sha256": "60417b837f2bb7c6dc31399f09e18203f7702e4dc3215618287fa6081e5c295a",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "hellenistic-astrology",
+        "sha256": "9e1ec4287bdb7cd3bdd77461798efdbd532f29667907eba36efa2b6c68385953",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "arabic-persian-astrology",
+        "sha256": "e7d276950fa5daf475bf9cf12a64ed42d8efa2087d55651fb98238e79b8b6e46",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "medieval-latin-astrology",
+        "sha256": "727ea471894a0661e8cab513c97797e15de4a71dbce845364343314e61cb8876",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "jewish-astrological-traditions",
+        "sha256": "785692d6a92bbdfab0547caed14063542b292cd8b80088893783785210123483",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "renaissance-astrology",
+        "sha256": "2913c639880a1895179a17fc6dbe360dd14ffddc8dbeae3c7c976d09fe2ae63c",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "indian-greek-transmission",
+        "sha256": "4f920e39e3e6eb060e4c554424af03e0c993ac092bc419fa2a37481fb9b53045",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "arabic-latin-translation-movement",
+        "sha256": "26cecabf8a893f8600603410c528a2400b414359bd17b2e2f83994f52a605a22",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "sanskrit-persian-transmission",
+        "sha256": "905a77b5abb25740683e34fd9bd94891c506ed3e14e544a92b8e865d1af6ea8f",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "author-attribution",
+        "sha256": "e8c86e9f4d1e82ea315b11a49cadb6b98bc9fa4a82ecad4ecd20133236a4b553",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "manuscript-variants",
+        "sha256": "1c8c29bd2ebe3dd76c4976435c4527fc3edde06c41db9213aec1dd62dcb5c19a",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "critical-editions",
+        "sha256": "ddc6463c2a527f0b139d8d47ed7ddb270d95520ff0c23b85e28c7b73039f3142",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "translation-variants",
+        "sha256": "d69b4f95458715a7c7e716d8e0c47ac431fb3a7db5dd31f68e70cc60a1dbfedd",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "source-independence",
+        "sha256": "e30602e441b0f50263a1b06263b14410d06d69eade593797ff8822925437d3cd",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "birth-data-reliability",
+        "sha256": "3e9a1659c4a1bc8d173c332fe969dbfbe1d10aa0ef659146303858dba9866d4c",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "rodden-ratings",
+        "sha256": "d31a76ccf44a877bdb2b01fc41d4998e2809ecff1d0a3c3ea72a3d250d789943",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "synthetic-example-charts",
+        "sha256": "d0cfb168a06a1f2273413303c2cee57659d455cb3ed8e310adc6cb54e73f188f",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "case-study-limitations",
+        "sha256": "172029b8f7c973220f3e8f39b83040492caa7101a92dbbb3c075f6b6facc5e22",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "preregistration",
+        "sha256": "99e1c2aadb07fa4e42e2272453ff35885c4daa677376dde69242cee6f609ef02",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "blind-chart-matching",
+        "sha256": "8f0a9beb96ef1e2e739bff1662a9180180e41f1f37b9a2633e1aaa2dc2c1f459",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "multiple-comparisons",
+        "sha256": "ee1a93eeabf0f0d5bae15ace596bdb887b3477b96f8c840e83f5be186c82388e",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "selection-bias",
+        "sha256": "cf2f846e0a5838cde518e11226d24c492ca191ca353430b373a3ac2035f605cd",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "base-rate-comparison",
+        "sha256": "95383e4d516f86fe1cb4372c1b4e6cf5e04c695da4317d0451dcd2a32f8e7fa8",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "out-of-sample-validation",
+        "sha256": "e6bdb987a88acaceef153c3032e2f0544a1acdae6ccd24a0d750daabb3f94f48",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "replication",
+        "sha256": "629029667bc7d1d7a254488e04006350cc9379e32ad86ca9741325d3c698ad43",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "astronomical-accuracy-versus-predictive-validity",
+        "sha256": "5bb848e18b964e079a716d2839772f3441e55fb7d6512d4e9e185f0c0c608688",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "practitioner-claim-versus-historical-evidence",
+        "sha256": "e583c07bcef6efc0d691a639e5f8df296baec68a11909841ae378507cbaa62ab",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "astrology",
+        "sha256": "a2e1af69ec48d39b77f7db38564175cc862d3ee722f14ff968d6f3ab42f16638",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "natal-astrology",
+        "sha256": "1d2dd2324f2ff2cfcd1a89a4ad2462856c5420868828838ce59988afa6288fbb",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "horary-astrology",
+        "sha256": "34031f31baa8c27634f9b443f9f35ab71ad0c9ba3684a96eda378435d9613cbe",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "zodiac-sign",
+        "sha256": "c60989ef482092ffc3c179e0d6f95e1bb1188b7a811d0567e310cc71ede44902",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "constellation",
+        "sha256": "ea8005aea3130ce931ab63604ea36977dff27cd4ac22912d3c978448b080752a",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "house",
+        "sha256": "ff0e8b704f4ff50c689bf34f0ffc84334c9768bd25f445e2c92dcff483af4b0d",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "chart-radix",
+        "sha256": "6ac9fa2d9cb677f0503a2d45de7abac4c5dba12bdee06c6c9e9a7ab266cf90d7",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "native",
+        "sha256": "4b370fa2f218b862724735f838524c3723ce6a22034d1ff0e356fd19a3c43f53",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "sun",
+        "sha256": "6d608554e42aa72ca3f402ce2e1d086897716e5d5d393f1590b5adc126ba4445",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "moon",
+        "sha256": "133298098c84898e197b17cb38cf50dd471fbb2edc71b7568800b718c5387c0b",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "mercury",
+        "sha256": "a039e18c408c9f688c9b3a4736202da0d82c4919a9ade13d6aeaa5d1c637c503",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "venus",
+        "sha256": "e5d9262add6fcecedc1211823bf3b2864ce843d50bc2dfd3f36f5452fbf8e763",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "mars",
+        "sha256": "359d16600bbf21a8ab1d04d4abff817aaf1bff8e3bde2349d7dacf2c2f63c8e8",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "jupiter",
+        "sha256": "f191f0306975d558fa46f10fa4b850c470bd54453189aa80dd61992669cc2069",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "saturn",
+        "sha256": "0d65479c4051853ba070a90418d7440017d28f102c01eaf7cfb1359c443a5914",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "uranus",
+        "sha256": "fbfafe6f50ff532949704ed65f113bca07c2b235e5b2839beb813eb2a57161f2",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "neptune",
+        "sha256": "04d8a41a98e0c5835e31991c5ff15cef1d12ec4c602e9304b67615959276eba4",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "pluto",
+        "sha256": "88df6d8ea6af416340ad54be5fd8d829ab16296bcf2fe428c3600d7eaefd154c",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "luminaries",
+        "sha256": "a4d2c6fd95330fe8562f3b023baa227dee6a7b0f07d2285f5bc8ef34ff69af84",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "classical-planets",
+        "sha256": "46e907df210ac412acaa8f1bdea5ad9afed6353869c2eb430dc44bbb7ee98c4f",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "benefic",
+        "sha256": "21e46690925984e1747c898aa62609e067fde54c692d289f5ac7e47a3cf4fcf0",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "malefic",
+        "sha256": "737f1b1209953de0cda64523f0b6059e928f72b489a450ef71d62db3e462edd9",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "north-node",
+        "sha256": "b73cb966965b8b43bec2b2a0fcc21c60cdfc8a45699313d6db2898c7de77b9b1",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "south-node",
+        "sha256": "902ecc57030d067da33c2f6243c41957645cdac78dcef8adce72b9b7f05c3421",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "rahu",
+        "sha256": "1dbf2ac9447243e77dae23506d81671c061d85d23cfb0c538dc56a1c0d421c0c",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "ketu",
+        "sha256": "202157a378640c6d57c7841fbd71f8cd2241dea7fae1619218777ba6288f5b6d",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "graha",
+        "sha256": "408313c297ea2c6c32564197d5e6a0a439e25716b04ca007803dd3f3a34342b8",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "navagraha",
+        "sha256": "df55465350863694c92d2d1e47b8c73cfe16b2ee94ccb0d023c436aee5533f11",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "aries",
+        "sha256": "7983311188d34605e6e65a89ae2b26279e2725296f287e13098e14014dc6204c",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "taurus",
+        "sha256": "4d22734cfdc409dd360cc9a0cf81d4e9921db1849e1b98854976abf34ed6e578",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "gemini",
+        "sha256": "00a3012e91127b13f65854e915ab4ab3eeb11ed727371b5748476a122e01f8a0",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "cancer",
+        "sha256": "664d71ce96bed3cd311ff7ffff337705bfbc1a2a30660b0514127b1af157aabf",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "leo",
+        "sha256": "3ec470e191e6153ceef673c08a41e7e9eafccc0d82acee4829fbe25a41b56fc0",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "virgo",
+        "sha256": "3a2e024b49a4a87602290114ccccfe5f5e4764c26aa252cf8a445dabe8c87c6f",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "libra",
+        "sha256": "b0d60a27bb47b4adcd2c57ee9e95817cd67bcb3210b2dc1ad09f4231947a54e5",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "scorpio",
+        "sha256": "185b368e4a3f9f6fe50c9ce7dd2d6a933b985c548cadaa523b45b292229d37da",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "sagittarius",
+        "sha256": "9ed0caeb6c7f0af187b7b2a5768a253e100950889937ad0c5e3806532712f33e",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "capricorn",
+        "sha256": "2a55494a205a31e43f34e9b3dbb18a3bf818fd05ef273c810360acd1dcd2dc83",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "aquarius",
+        "sha256": "3eceb5350cc0f7342d8fa4a0f53afa297c1c826ad8d4862d4eecdbe0af9e9af8",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "pisces",
+        "sha256": "efa0a823a46fa448fa55ac11234e4bac1e83224512709c0a955a4b3a52e22dd7",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "cardinal-signs",
+        "sha256": "fd5035092f7a8e7cfe029c429caab8764400ca277ae99c887991d375c751f304",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "fixed-signs",
+        "sha256": "f5520b9a45b1205ffd863e774af7ebc2b237149ca07be0c4f5bb0c695f2286fc",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "mutable-signs",
+        "sha256": "86171d6e65ef9a39f47dcd5b04dad552892ef26574cd76cde435c360d17c7b52",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "four-elements",
+        "sha256": "b27cfe2ed0fbd3e5cdfeac408aaa71660fea854afd35436c31b6d3c479bef973",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "aspect",
+        "sha256": "4526115f1ad48a5e87e66475dc0b238e8a874b263849b0b03e667c5a91f97fa5",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "conjunction",
+        "sha256": "85410708493410f567b53e851d0ef5108b9e64d170349b0969b68cec385e078e",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "opposition",
+        "sha256": "7c579ab1d87cee43376b33f7f9262f3f58a43cc4d85fc8adc35b02d66e117944",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "trine",
+        "sha256": "66765908ad47d713256e757ee3cf5b509bbcf1a00f7e38951be6262fa8f8e542",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "square",
+        "sha256": "887a41985f9c706d314f3595a6e888234f4b590eb46997368e12be255ff2e3a2",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "sextile",
+        "sha256": "67dcb57e4854c4a3bd2dc7478547007de39d0b29d1c297d45971067a40d315c7",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "quincunx",
+        "sha256": "6368a2551c609e6437058364a1f372ae0a387de5ebb8dc5473a3eb50076923ca",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "semisextile",
+        "sha256": "1ebd579148f533d9e71ae48431bee3c03ecfeeb5611a2aff0302ef6b18cd2dad",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "semisquare",
+        "sha256": "842e6165de450c678021893ad097376bd4ba3c85835b113f4c85bd3b498b203f",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "sesquiquadrate",
+        "sha256": "5526bb8f3ece0a3f3212737c2871e8ccd5fc9b42300e77e2e0c22e6a72b633d1",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "quintile",
+        "sha256": "b52bb3306ef546fec77ecad2e3fa9922f1da4a660f938de7860f6e75aaf60588",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "biquintile",
+        "sha256": "f30a387d7bf2272b3b8b7f0a6565602057bc641e91d9decd878633730c2c5718",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "septile",
+        "sha256": "801bbdb3dd7e9bc74aa81d132be6d752a7aa1150d5b8b3795d621d5676d5821d",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "novile",
+        "sha256": "1dc7a1a74313ca30c809c6e9b838894ec18a9ab688fe733e52358384a7ef1099",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "moiety",
+        "sha256": "3c99178c07a2074b8fa7ea3616f79a265c742728194035a9853e59845766970a",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "partile-and-platick",
+        "sha256": "00f578b0fd56b9bd7b5b64d9e776cc40d0af3b46df2bf5fc8593ab54dee85693",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "dexter-and-sinister",
+        "sha256": "0e4e7c2d3fff649bea8ed0a60720a33228e5f197a874d8da733688dcd8ac9e27",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "promissor",
+        "sha256": "c6f1c37ac6efec07b53d73c5e2eea97971afb6d86af3ad052e25d9a90c476518",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "time-lord",
+        "sha256": "a4d91cfa77213c3432c29d25b25f443ebb8f1a5cf77a52efd1d8140fa4c9bd86",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lord-of-the-year",
+        "sha256": "97e002baf92f1c7c32877f200c866fbb65e712e7b6c482188577b258df67ad01",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "bound",
+        "sha256": "80428bd0d9094c853c4a0b6bcf1a9f89f1980d30fbbe006e96b9ac183b2942e2",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "decan-face",
+        "sha256": "ba70232b3802e2927c5b232208baeefd5f5d74c377b2d7cdebfcdb17096fa380",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "dispositor",
+        "sha256": "0b88457a24e0da25ca96cc48da3fce642b1c93419b9225e4140e2875bb5af1fc",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "kendra",
+        "sha256": "57e30a1001cc3a171dc129a36c80a1aacaf24522156386518892ee0ebb1cf9e9",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "trikona",
+        "sha256": "4429074b9ca1549b7c352a8b0bbbddde21ccbd9af97469988e04184236e8f1e6",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "dusthana",
+        "sha256": "d206977aea395211291073de76cfd4291be0267b8a8bab30b249171bc426d1d4",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "upachaya",
+        "sha256": "37b2b319954cb0d7c535d6a2df9db824be16d22c4fe1214fe442e2a1c6722973",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "yoga",
+        "sha256": "33ad9c5ffb55088579d4ee035ed0281b3a2a70c49d881464f4ea9e4311847026",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "dasha",
+        "sha256": "a1b6f9b2a62031a6440bb1146f50434004aa6226b3e3dcbe464fca2b9e8b1f19",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "nakshatra-lord",
+        "sha256": "7b56a437a109f2ae9b62e1ccf444ceddc3964222337fc01f237ce9a507b146db",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "arcminute",
+        "sha256": "e93e1c199920e1f665a405d159dab84d2886ed095a48af566b122069af746cd5",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "arcsecond",
+        "sha256": "f801f1b16166f5d9fe9f59932803bdbebbc8b874b34777d2558325635328fbc2",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "azimuth",
+        "sha256": "809cbfcdc8393e9844a269f3faa83fd4c23e8da1ead1d731677fe8eeba8f43ad",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "altitude",
+        "sha256": "c373d5435e56e9fb0720c039efd5cafbb023413ace100c7cde06a99253fa3ae9",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "zenith",
+        "sha256": "44e809f580463b389df89e8b723eb2eae4e22a166ce926ca0f191d6b035890c8",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "nadir",
+        "sha256": "d70ae69befa100964c936eadd8b45b5ebd1aa2acd40eff03971369622c92357c",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "ephemeris",
+        "sha256": "7ef6659cc7f7ecb85a8a6c0b230bf912109076f4d5023e176cfba088a3352093",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "local-mean-time",
+        "sha256": "4461691e9e22ef0886dd21f0ba65a8a48a11257dc215e378e2ba99bbda74a6ea",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "local-apparent-time",
+        "sha256": "498b267de818ca41707f3368dd695a7dc44f0027ff72f2ac8f1f68b6fefa4115",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "proper-face",
+        "sha256": "fb78faa813d0122bade026c5783ff343f13813f7955a8ddf07724155c47749b9",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "planetary-chariot",
+        "sha256": "e34eced10d127acdf1e804ac2f47c91d318c6002a91b83c9e4d070c75d300ad9",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "commanding-obeying-signs",
+        "sha256": "95555a1e1e2167eeac690daedec337d92cee594ad1a22718aaf01c85c7c4344c",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "beholding-signs",
+        "sha256": "861ccc8741e24812eec794322f0046a2b9423497afacdf589121a09a4ae97562",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "four-primary-qualities",
+        "sha256": "222bc1c857a790b13fe8fd20c5a1d99c9483d4fccb69339a66801aaaebf5fda3",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "solstitial-signs",
+        "sha256": "a12193fd5f9b926f7b53e82a1f8b770284d78c9f17738b11cf6bf898f8b3576d",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "equinoctial-signs",
+        "sha256": "afba0ab04afae674588bf6b337a16a8a573b7d6257160fd561ce83a8f593b6ae",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "nakshatra-ashwini",
+        "sha256": "772dc1c48d22c8359de5c44881c941f886515604bdc6a5688b2a2c00c76450fd",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "nakshatra-bharani",
+        "sha256": "af7a14f85ae36c5f0bb744ad683bbf61e3ac4d4b08950009f46e5bfe599343d2",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "nakshatra-krittika",
+        "sha256": "0eac119caa19a7a4ab599998ba4a9f3a0a56c43d6f11b6393c646c7dce714bcf",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "nakshatra-rohini",
+        "sha256": "680a1db49f792e3e07474fecd4548b262f08d9f5b1213b8396a5f972ad8af235",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "nakshatra-mrigashira",
+        "sha256": "c3e1a5d58b53810081a16db88320825d3a317e6bfd5809291053fa4d5fc2e3d7",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "nakshatra-ardra",
+        "sha256": "b7b1b93e64616a806e812a76efee6a7e81380130d9dd6ce7fac901a1dc936886",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "nakshatra-punarvasu",
+        "sha256": "c613337ba25d20c8fac1678caeb3992293c678296c97a49c79f4e4bcbf478fcd",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "nakshatra-pushya",
+        "sha256": "bf6f24a7e0063288955372c69f0b6e7ce0dca8ebfbf8e5d6dba1b9ef4dfb7ea2",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "nakshatra-ashlesha",
+        "sha256": "383118dac10dbc61334a91c9f0e58ac7316671ca8b0b18913a5f5ff1429d4512",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "nakshatra-magha",
+        "sha256": "c301dc72d69cf639f054e8e737d3f934748899dd656a2ed0dbc980ec353c3654",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "nakshatra-purva-phalguni",
+        "sha256": "cccda927daea3f70170c70b461819f1c8cac0e24b9822e4daea20f95c49eab6e",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "nakshatra-uttara-phalguni",
+        "sha256": "799ae2b2d607e9fdb3f783ff876f00019de3d1636d69f9309ba11b29985afa87",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "nakshatra-hasta",
+        "sha256": "7c441d1631764439158ffc7e22d37d8e2892960c72db581ec60c445f78602607",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "nakshatra-chitra",
+        "sha256": "2ce99e10fcce752076798203b4e189ec47776200a78b31c59e851a91a42fbb4a",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "nakshatra-swati",
+        "sha256": "540dc2e51048138cbad9c94a5e72d78b6b39fde44b22104cf125b25aa6b24105",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "nakshatra-vishakha",
+        "sha256": "d77f29819961b439547232639cc11f15c6027d8ef2791768c02b4df686738143",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "nakshatra-anuradha",
+        "sha256": "65e38a6845de44b07d807248da3fd7352ef344b5f7a82d0ead26718ba0b398f5",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "nakshatra-jyeshtha",
+        "sha256": "7d278b98e11e9f1282ac7a883ad9342668a418363158c26c6999e2cac30fa1ef",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "nakshatra-mula",
+        "sha256": "ab7d5a5389634b7b61a15f90739e855e5e8c6aeb76eb697696f87f68049b09f4",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "nakshatra-purva-ashadha",
+        "sha256": "cf8bf160d091efb76a6d3f7d36be235a95048b7077f946b9ccd9879014b8ef68",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "nakshatra-uttara-ashadha",
+        "sha256": "7ba747d8cffd59492554768ea2a8696cd70ffa700ff7f68dde7432fc939ca3c6",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "nakshatra-shravana",
+        "sha256": "c7a2d83fb1c60bfa045f89d880873a92e4d24a6d5df6be7aab4cdcdf7f2b5cb7",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "nakshatra-dhanishtha",
+        "sha256": "4405f0a6f74f1294be77f2024441681a9be4367481af4927ed6de911bb9a8685",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "nakshatra-shatabhisha",
+        "sha256": "cb001b6b99e0671867612e0b14f17b972354304fae506b7ac1e42b7ded78c2d2",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "nakshatra-purva-bhadrapada",
+        "sha256": "c074e4bbe1d004c674f6a0170f8e552f931024c6431ae28d729ef31712feec48",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "nakshatra-uttara-bhadrapada",
+        "sha256": "8d53f9d630db419afbad55e87accc87e89af8cad52dff70986dd4049e7b2fc1d",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "nakshatra-revati",
+        "sha256": "a74f90404b14cb77541894224c6fa380a758bac8e49d3f52581649089c55e39b",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lodge-jiao",
+        "sha256": "5624c884b6e877c44e07a113110c157720db33b2dd00ad29ab25abeaedaa740b",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lodge-kang",
+        "sha256": "73530d482eb660a64f930834ab23882803a8c3514f5c2c2a428e182268635fa3",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lodge-di",
+        "sha256": "a148f36b77984781b835e96444349de991a75f123da21e498461bc07b8bf4c52",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lodge-fang",
+        "sha256": "b85c86e1566bf46be54885080192cc7aa700ff57f7099466c0a6a642689666aa",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lodge-xin",
+        "sha256": "05c6e8f64f3c262f430360ad02478d9ecab6fab14a8a692c9ab80c07d891c5e4",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lodge-wei-tail",
+        "sha256": "376df0c8f4e279c628385a5eb28a8544f8ba2042c3141158aed2f1180bbab3bf",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lodge-ji",
+        "sha256": "3e6b5a0653d2afb22cfb39f161b7d137eb37a3ca42b179d07cfd5fe2119c129e",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lodge-dou",
+        "sha256": "1b7a2a977ef54feee4a69c2e48d6ecfa401c2f015dc17e4aeccc7231a615107d",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lodge-niu",
+        "sha256": "1a8d5d461d64a21cab71623953f4b515ca0b6b70d6794f7a1c2135cd9ac632b9",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lodge-nu",
+        "sha256": "4c08a1fb9fce6542af11b1797f0992adc22ae2f4d81e09d956f1e4df06b76064",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lodge-xu",
+        "sha256": "c4e5c9d189f12b7773741c393987ac40f8473c6d559dd80aac6b37ccdc3d80d8",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lodge-wei-rooftop",
+        "sha256": "207977fad52de6b61d0d36cac611688e8e6eff2a8dbce32a47b2ffaeefa39d33",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lodge-shi",
+        "sha256": "17902a1cac4246665eb0d6d713162892b640a1e3fd8ad4e0105cb0b1964f1aee",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lodge-bi-wall",
+        "sha256": "ef6855ad5bff2b07fb8923991889c0efd3026aa5a9a2fcf61872c77ffce86797",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lodge-kui",
+        "sha256": "b363ede902034e3f0ffa3564ef8accb6b14ccfee0a0b6dd9a3fbc44e9e9117a1",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lodge-lou",
+        "sha256": "624fbff335f75f23fe1a52c1f7b6608432fb23fd1767cb11ef630df8f3926c2f",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lodge-wei-stomach",
+        "sha256": "47a187977b7fe4b7a687c8c7f0fb3834c72f19f7dec3a601f2d2f9af413c15f4",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lodge-mao",
+        "sha256": "55118c26528a115a3798f72247740fedc791dbdea62f504c45ab5fb7cda86e50",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lodge-bi-net",
+        "sha256": "a410549d9dc0ebc46e6727435dafec63ed05d10693f80990ebb04bd4d8a2c48a",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lodge-zi",
+        "sha256": "1d04dafeca87c185250c9b457cd62fd19fb32aec66e26502bbb05d29603f1c4c",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lodge-shen",
+        "sha256": "0b0857fd59698b0b6245ebff9b9e4c9a4f78b68e7221e59d3e407a257269fcc4",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lodge-jing",
+        "sha256": "cf0216c457c509c3f1cca39682c3546ad433e075b3575367e191336c3f9e39ea",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lodge-gui",
+        "sha256": "1f40a49593f1a87bb96d9cfe3d45cb295d11da00a51945bc9c108909c8a931ea",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lodge-liu",
+        "sha256": "f28a2250b17ccc2e37367d7feba6ba9f3a051cf1210326ff9d7b7a6fa1f0e3ff",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lodge-xing",
+        "sha256": "50a069bb50c4d17fd32e92faba63171f74abcaf38658d8de314433da5ac77fc9",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lodge-zhang",
+        "sha256": "bf4d36f6543ce502baa4733c03034304157ff4c849c3a86fe0174bbf2b8f1b4b",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lodge-yi",
+        "sha256": "3ff0f6fa872417c93bdb255dedd3a40b8805b92a2d65471f3be16dd717bfc62c",
+        "version": "2026-09-18.3"
+      },
+      {
+        "id": "lodge-zhen",
+        "sha256": "7e7b94a55aa8450f4c3554918f35cc2b0628c14d43f2754c02a2ff29e277402e",
+        "version": "2026-09-18.3"
+      }
+    ],
+    "preservation": "Existing 600 entries unchanged except the global glossary edition version.",
+    "reusedIds": [
+      "zodiac-sign",
+      "constellation",
+      "dodekatemoria",
+      "monomoiria",
+      "decan-face",
+      "lot-of-fortune",
+      "triplicity-rulers",
+      "oblique-ascension",
+      "ascendant-and-descendant",
+      "midheaven-and-ic",
+      "time-lord",
+      "solar-and-lunar-eclipses"
+    ]
+  },
+  "primaryPagesInspectedForTerminology": [
+    3,
+    5,
+    15,
+    63,
+    71,
+    72,
+    73,
+    74,
+    75,
+    79,
+    80,
+    84,
+    85,
+    86,
+    87,
+    104,
+    116,
+    117,
+    122,
+    134,
+    139,
+    162,
+    164,
+    165
+  ],
+  "limitations": [
+    "전체 전사는 구조·어휘 검토를 위해 읽었으나 모든 행의 Breiter 대조를 완료하지 않음",
+    "영문 대조는 선택 지면뿐이며 Housman·Goold 대조를 수행하지 않음",
+    "첫 한국어 번역 범위는 제1권 1–254행에 한정"
+  ],
+  "concurrentWorkNotice": "공유 작업 트리에서 별도의 발렌스 작업이 뒤의 용어집 판을 추가했다. 마닐리우스 초역의 준비 판은 2026-09-18.4로 보존하며 그 별도 작업을 이번 성과에 포함하지 않는다."
+}

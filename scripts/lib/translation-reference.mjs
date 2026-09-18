@@ -1,8 +1,10 @@
 // Examples preserve the vocabulary of a particular edition, never universal rules.
-export function selectReferenceExamples(text, terms, examples, max = 4, maxChars = 9000) {
+export function selectReferenceExamples(text, terms, examples, max = 4, maxChars = 9000, sourceLanguage = null) {
   const han = (text.match(/\p{Script=Han}/gu) || []).length;
   const latin = (text.match(/[a-z]/gi) || []).length;
-  const language = han > latin ? 'lzh' : 'en';
+  const language = sourceLanguage || (han > latin ? 'lzh' : 'en');
+  if (!['en','lzh','la'].includes(language)) throw new Error(`Unsupported source language: ${language}`);
+  // Latin and English share a script; callers must explicitly select 'la'.
   const ids = new Set(terms.map(t => t.id));
   const ranked = examples.filter(e => e.language === language)
     .map(e => ({e, score: e.termIds.filter(id => ids.has(id)).length}))

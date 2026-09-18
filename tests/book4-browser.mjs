@@ -6,7 +6,7 @@ const page=await browser.newPage({viewport:{width:1440,height:1000}}),errors=[];
 const book=translations.filter(t=>t.series?.id==='ptolemy-book4').sort((a,b)=>a.series.order-b.series.order);
 await mkdir('test-results',{recursive:true});
 try {
- await page.goto(origin+'/translations/',{waitUntil:'networkidle'});assert.equal(await page.locator('main .source-item').count(),72);assert.equal(await page.locator('#ptolemy-ashmand1822 .source-item').count(),70);
+ await page.goto(origin+'/translations/',{waitUntil:'networkidle'});assert.equal(await page.locator('main .source-item').count(),translations.length);assert.equal(await page.locator('#ptolemy-ashmand1822 .source-item').count(),70);
  assert.match(await page.locator('#ptolemy-ashmand1822 > p').textContent(),/네 권 70개 장의 본문 전체/);
  assert.deepEqual(await page.locator('#ptolemy-book4 .source-item a').evaluateAll(xs=>xs.map(a=>a.getAttribute('href'))),book.map(t=>`/translations/${t.id}/`));
  await page.locator('nav[aria-label="번역 문헌과 권별 목차"] a[href="#ptolemy-book4"]').click();assert.equal(new URL(page.url()).hash,'#ptolemy-book4');
