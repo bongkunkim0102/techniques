@@ -9551,5 +9551,1337 @@
     ],
     "targetText": "그러나 모든 형상에 걸쳐 전환이 똑같이 일어나는 것은 아니며, 사인의 전체가 시간을 돌려세우는 것도 아니다. 천칭자리와 양자리가 가을과 봄을 나타낼 때, 각각의 계절에서 오직 하루만이 밤을 자기와 같게 한다. 게자리 전체에서도 가장 긴 낮은 하루뿐이며, 염소자리에서는 그 낮과 같은 길이의 밤이 나타난다. 나머지는 번갈아 시간을 앞당기기도 하고 물러서기도 한다.",
     "transcriptionEdition": "Breiter 1907년 라틴어 지면 직접 전사·대조. 영어 중역 아님."
+  },
+  {
+    "id": "manilius-iv-001-022-passage",
+    "translationId": "manilius-iv-001-022",
+    "language": "la",
+    "termIds": [
+      "manilius-fata",
+      "manilius-ratio",
+      "manilius-mundus"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=105",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 1–22행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 1–22행 · 인쇄본 89–90쪽 · PDF 105–106쪽",
+    "notes": [
+      "서시는 욕망에 대한 비판과 운명론을 연결한다. 저자의 철학적 주장으로 옮겼으며 실제 사건이 모두 사전에 결정됨을 이번 작업이 증명했다는 뜻이 아니다.",
+      "5행의 uicturos는 앞으로 살 것이라는 미래 지향의 표현이며, uiuimus와 대비한다. 이를 실제 승리를 뜻하는 단어로 읽지 않았다. 16행의 역설도 태어나는 순간 곧 신체적으로 사망한다는 뜻으로 풀지 않았다.",
+      "11행의 census는 재산의 가치와 그 소비를 둘러싼 역설이다. 현대 인구조사 또는 차트의 수치로 치환하지 않았다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "korean-reference",
+    "targetText": "우리는 왜 이토록 근심스러운 세월로 삶을 소모하는가? 두려움과 사물에 대한 눈먼 욕망으로 괴로워하고, 끝없는 걱정 속에서 늙어 가며, 오래 살기를 구하다 오히려 삶을 잃는가? 소망이 어느 지점에 이르러도 만족하지 못한 채 언제나 장차 살 사람처럼 지내면서, 정작 한 번도 살아 보지 못하는가?\n\n사람은 더 많은 것을 바라면 바랄수록 자기가 가진 것에서도 더 가난해진다. 가진 것을 헤아리지 않고 없는 것만 바란다. 자연은 제 몸에 필요한 얼마 안 되는 것만 요구하는데, 우리는 소망을 통해 큰 파멸의 재료를 쌓는다. 이익으로 사치를 사고, 사치로 약탈을 사며, 재산으로 누리는 가장 큰 대가란 재산을 쏟아 버리는 것이다.\n\n죽을 운명의 사람들이여, 마음을 풀고 걱정을 덜어라. 그토록 많은 쓸데없는 불평을 삶에서 비워 내라. 운명이 세계를 다스리고 모든 것은 정해진 법칙으로 서 있으며, 긴 세월은 정해진 사건들로 표시된다. 우리는 태어나면서 죽어 가고, 끝은 시작에 달려 있다.\n\n여기서 부와 왕권이 흘러나오며, 더 자주 생기는 가난도 나온다. 재주가 주어지고 성품이 생기며, 결함과 재앙, 손실과 이득도 나온다. 누구도 주어진 것을 벗어나거나 거부된 것을 가질 수 없고, 내키지 않는 운을 소망으로 붙잡거나 다가오는 운을 피할 수 없다. 각자는 제 몫을 감당해야 한다."
+  },
+  {
+    "id": "manilius-iv-001-022-pair-1",
+    "translationId": "manilius-iv-001-022",
+    "language": "la",
+    "termIds": [
+      "manilius-fata",
+      "manilius-ratio",
+      "manilius-mundus"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=105",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 1–22행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 1–22행 · 인쇄본 89–90쪽 · PDF 105–106쪽",
+    "notes": [
+      "서시는 욕망에 대한 비판과 운명론을 연결한다. 저자의 철학적 주장으로 옮겼으며 실제 사건이 모두 사전에 결정됨을 이번 작업이 증명했다는 뜻이 아니다.",
+      "5행의 uicturos는 앞으로 살 것이라는 미래 지향의 표현이며, uiuimus와 대비한다. 이를 실제 승리를 뜻하는 단어로 읽지 않았다. 16행의 역설도 태어나는 순간 곧 신체적으로 사망한다는 뜻으로 풀지 않았다.",
+      "11행의 census는 재산의 가치와 그 소비를 둘러싼 역설이다. 현대 인구조사 또는 차트의 수치로 치환하지 않았다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "parallel-translation",
+    "paragraphIndex": 0,
+    "sourceText": "Quid tam sollicitis uitam consumimus annis\ntorquemurque metu caecaque cupidine rerum\naeternisque senes curis, dum quaerimus aeuum,\nperdimus et nullo uotorum fine beati\nuicturos agimus semper nec uiuimus umquam?",
+    "sourceTextHash": "29489089f25f215edadca83c95cb785965b08caa2c4d1ddfb759545ea084a205",
+    "sourceVerseIds": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "targetText": "우리는 왜 이토록 근심스러운 세월로 삶을 소모하는가? 두려움과 사물에 대한 눈먼 욕망으로 괴로워하고, 끝없는 걱정 속에서 늙어 가며, 오래 살기를 구하다 오히려 삶을 잃는가? 소망이 어느 지점에 이르러도 만족하지 못한 채 언제나 장차 살 사람처럼 지내면서, 정작 한 번도 살아 보지 못하는가?",
+    "transcriptionEdition": "Breiter 1907년 라틴어 지면 직접 전사·대조. 영어 중역 아님."
+  },
+  {
+    "id": "manilius-iv-023-049-passage",
+    "translationId": "manilius-iv-023-049",
+    "language": "la",
+    "termIds": [
+      "manilius-fata",
+      "manilius-mundus"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=106",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 23–49행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 23–49행 · 인쇄본 90–91쪽 · PDF 106–107쪽",
+    "notes": [
+      "열거된 로마의 사건들은 운명을 논증하기 위해 압축된 시적 역사 예시이다. 비유적 승패와 행위의 순서를 현대 역사 서술로 재작성하지 않았다.",
+      "30행은 앞 질문과 다음 무키우스 사건이 함께 놓인 행이다. 23~36행을 같은 한국어 문단으로 묶어 원문 한 행의 뜻이 서로 다른 대조란에 나뉘지 않게 했다.",
+      "46~48행의 urbs는 카르타고의 폐허에서 다시 도시에 이른 마리우스의 운명 역전이라는 문맥으로 읽었다. 저본에 없는 상세 연대나 인물 이름을 추가하지 않았다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "korean-reference",
+    "targetText": "운명이 삶과 죽음에 법을 주지 않았다면, 불길이 아이네아스를 비켜 갔겠는가? 한 사람 안에서 무너지지 않은 트로이가 제 운명 한가운데에서 승리했겠는가? 마르스의 암늑대가 버려진 형제를 길렀겠는가? 로마가 오두막에서 태어나고, 가축을 돌보던 이들이 카피톨리움 언덕에 벼락의 권능을 세웠겠는가? 유피테르가 자신의 성채 안에 갇히거나, 정복당했던 이들이 세계를 정복했겠는가? 무키우스가 불을 몸속에 묻고 상처로 승리하여 도시로 돌아왔겠는가? 호라티우스가 홀로 무기를 맞대어 다리와 도시를 함께 지켰겠는가? 처녀가 조약의 구속을 깨뜨리고, 한 사람의 용맹 아래 세 형제가 쓰러졌겠는가? 어떤 군대도 그만큼 큰 승리를 거두지 못했다. 세계의 지배를 배정받은 로마가 한 사람에게 매달린 채 위태롭게 놓여 있었다.\n\n칸나이와 성벽까지 다가온 무기를 어떻게 다시 말하랴? 트라시메누스의 호수들, 시간을 끈 파비우스, 달아나 살아남았다는 사실로 위대했던 바로를 겪은 뒤, 패배한 카르타고의 성채가 멍에를 받아들인 일은 어떠한가? 우리의 사슬에 매일 것으로 기대되던 한니발이 몰락하고, 피고로서의 유배를 남몰래 맞은 죽음으로 치른 일은 어떠한가?\n\n이탈리아의 무력과 로마가 제 지체들을 상대로 싸운 일도 더하라. 내전과, 마리우스에게 패한 킴브리인, 감옥에서 꺾인 마리우스도 더하라. 여러 번 집정관이었던 이가 유배자가 되고, 유배자에서 다시 집정관이 된 이가 리비아의 폐허와 닮은 몰락 속에 누웠다가 카르타고의 잔해에서 도시를 장악한 일은, 운명이 허락하지 않았다면 운도 결코 가져오지 못했을 것이다."
+  },
+  {
+    "id": "manilius-iv-023-049-pair-1",
+    "translationId": "manilius-iv-023-049",
+    "language": "la",
+    "termIds": [
+      "manilius-fata",
+      "manilius-mundus"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=106",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 23–49행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 23–49행 · 인쇄본 90–91쪽 · PDF 106–107쪽",
+    "notes": [
+      "열거된 로마의 사건들은 운명을 논증하기 위해 압축된 시적 역사 예시이다. 비유적 승패와 행위의 순서를 현대 역사 서술로 재작성하지 않았다.",
+      "30행은 앞 질문과 다음 무키우스 사건이 함께 놓인 행이다. 23~36행을 같은 한국어 문단으로 묶어 원문 한 행의 뜻이 서로 다른 대조란에 나뉘지 않게 했다.",
+      "46~48행의 urbs는 카르타고의 폐허에서 다시 도시에 이른 마리우스의 운명 역전이라는 문맥으로 읽었다. 저본에 없는 상세 연대나 인물 이름을 추가하지 않았다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "parallel-translation",
+    "paragraphIndex": 0,
+    "sourceText": "an, nisi fata darent leges uitaeque necisque,\nfugissent ignes Aenean, Troia sub uno\nnon euersa uiro fatis uicisset in ipsis?\naut lupa proiectos nutrisset Martia fratres?\nRoma casis enata foret, pecudumque magistri\nin Capitolino sanxissent fulmina monte,\nincludiue sua potuisset Iuppiter arce,\ncaptus et a captis orbis foret? igne sepulto\nuulneribus uictor repetisset Mucius urbem?\nsolus et oppositis clausisset Horatius armis\npontem urbemque simul? rupisset foedera uirgo?\ntresque sub unius fratres uirtute iacerent?\nnulla acies tantum uicit. pendebat ab uno\nRoma uiro regnumque orbis sortita iacebat.",
+    "sourceTextHash": "cdf009d0b07804aa65858aac05395063478a35625f4947fa6a82634d57930e9e",
+    "sourceVerseIds": [
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "targetText": "운명이 삶과 죽음에 법을 주지 않았다면, 불길이 아이네아스를 비켜 갔겠는가? 한 사람 안에서 무너지지 않은 트로이가 제 운명 한가운데에서 승리했겠는가? 마르스의 암늑대가 버려진 형제를 길렀겠는가? 로마가 오두막에서 태어나고, 가축을 돌보던 이들이 카피톨리움 언덕에 벼락의 권능을 세웠겠는가? 유피테르가 자신의 성채 안에 갇히거나, 정복당했던 이들이 세계를 정복했겠는가? 무키우스가 불을 몸속에 묻고 상처로 승리하여 도시로 돌아왔겠는가? 호라티우스가 홀로 무기를 맞대어 다리와 도시를 함께 지켰겠는가? 처녀가 조약의 구속을 깨뜨리고, 한 사람의 용맹 아래 세 형제가 쓰러졌겠는가? 어떤 군대도 그만큼 큰 승리를 거두지 못했다. 세계의 지배를 배정받은 로마가 한 사람에게 매달린 채 위태롭게 놓여 있었다.",
+    "transcriptionEdition": "Breiter 1907년 라틴어 지면 직접 전사·대조. 영어 중역 아님."
+  },
+  {
+    "id": "manilius-iv-050-088-passage",
+    "translationId": "manilius-iv-050-088",
+    "language": "la",
+    "termIds": [
+      "manilius-fata",
+      "manilius-ratio"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=107",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 50–88행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 50–88행 · 인쇄본 91–92쪽 · PDF 107–108쪽",
+    "notes": [
+      "질병·음식·독을 나열하는 대목은 운명이 예상과 어긋난 결과를 낳는다는 시인의 논증이다. 치료를 중단하거나 독을 사용하라는 권고로 제시하지 않는다.",
+      "57~62행은 이름을 직접 적지 않은 인물을 정치적·종교적으로 묘사한다. 한국어도 그 간접 표현을 유지했으며 명명된 인물의 새 전기를 본문에 끼워 넣지 않았다.",
+      "63~68행은 한 행에 서로 다른 역사적 사례가 걸려 있으므로 통째로 묶었다. 마지막의 카토에 관한 승패 역설 역시 평범한 승리로 풀어 없애지 않았다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "korean-reference",
+    "targetText": "마그누스여, 미트리다테스의 세력을 꺾고 바다를 되찾으며, 두루 밟은 세계에서 세 번의 개선을 누렸던 그대가 나일의 해안에서 죽으리라고 누가 믿었겠는가? 또 다른 마그누스를 세울 수도 있었던 그대의 몸을 난파선의 불이 장사지내고, 밀려온 선체의 조각이 화장 장작이 되리라고 누가 믿었겠는가? 운명의 신적 힘 없이 누가 그토록 큰 변화를 일으킬 수 있는가?\n\n하늘에서 태어나 하늘로 받아들여진 그 사람도 그러했다. 내전의 무기를 잘 거두고 승리자로서 토가의 법을 다스렸으나, 그토록 자주 예고된 상처를 피하지 못했다. 원로원 전체가 지켜보는 가운데 경고문을 오른손에 쥐고도, 운명이 승리하도록 제 피로 그 이름을 지워 버렸다.\n\n무너진 도시와 왕들의 몰락을 어찌 다 헤아리랴? 화장대 위의 크로이소스와, 트로이조차 화장대가 되어 주지 못한 채 해안에 몸통만 남은 프리아모스는 어떠한가? 바다 자체보다 더 큰 난파였던 크세르크세스는 어떠한가? 사로잡힌 혈통에서 나와 로마인의 왕이 된 이는 어떠한가? 불 속에서 구해 낸 불, 성소를 짊어진 사람 앞에서 물러난 불길은 어떠한가?\n\n얼마나 많은 갑작스러운 죽음이 건장한 몸에 찾아왔다가, 다시 자신을 비켜 가며 화장 불길 속에서 길을 잃는가? 어떤 이들은 무덤에서 들려 나온 뒤 되돌아왔다. 이들에게는 삶이 두 번이고 저들에게는 한 번조차 겨우 주어진다. 보라. 가벼운 병은 죽이고 더 무거운 병은 놓아준다. 이성의 기술은 무너지고 경험은 패한다. 돌봄은 해가 되고 쉬는 것은 도움이 되며, 지체가 오히려 불행의 원인이 되기도 한다. 음식은 해치고 독은 목숨을 남겨 두기도 한다.\n\n자식들은 아버지보다 못하거나 부모를 능가하며 각자의 재능을 지닌다. 운은 어떤 이를 통과하고 다른 이에게서 솟아난다. 어떤 이는 사랑에 미쳐 바다를 헤엄쳐 건너고 트로이를 뒤엎을 수 있다. 다른 이의 정신은 법을 쓰는 데 알맞다. 보라. 자식이 아버지를 죽이고 부모가 자식을 죽이며, 형제는 무장한 채 서로 상처 입히려고 맞선다. 이것은 우리 자신의 전쟁이 아니다. 그토록 큰 일이 움직이고 그들이 자신의 형벌과 찢길 몸을 향해 나아가도록 강제되는 것이다.\n\n모든 시대가 데키우스나 카밀루스, 또는 꺾이지 않은 죽음으로 꺾인 카토를 낳은 것은 아니다. 그런 일을 이룰 재료는 넉넉하지만 법칙이 그것을 허용하지 않기 때문이다."
+  },
+  {
+    "id": "manilius-iv-050-088-pair-1",
+    "translationId": "manilius-iv-050-088",
+    "language": "la",
+    "termIds": [
+      "manilius-fata",
+      "manilius-ratio"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=107",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 50–88행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 50–88행 · 인쇄본 91–92쪽 · PDF 107–108쪽",
+    "notes": [
+      "질병·음식·독을 나열하는 대목은 운명이 예상과 어긋난 결과를 낳는다는 시인의 논증이다. 치료를 중단하거나 독을 사용하라는 권고로 제시하지 않는다.",
+      "57~62행은 이름을 직접 적지 않은 인물을 정치적·종교적으로 묘사한다. 한국어도 그 간접 표현을 유지했으며 명명된 인물의 새 전기를 본문에 끼워 넣지 않았다.",
+      "63~68행은 한 행에 서로 다른 역사적 사례가 걸려 있으므로 통째로 묶었다. 마지막의 카토에 관한 승패 역설 역시 평범한 승리로 풀어 없애지 않았다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "parallel-translation",
+    "paragraphIndex": 0,
+    "sourceText": "quis te Niliaco periturum litore, Magne,\npost uictas Mithridatis opes pelagusque receptum\net tris emenso meritos ex orbe triumphos,\ncum iam etiam posses alium componere Magnum,\ncrederet, ut corpus sepeliret naufragus ignis,\neiectaeque rogum facerent fragmenta carinae?\nquis tantum mutare potest sine numine fati?",
+    "sourceTextHash": "0ed10698158a03b101fb287328ee56ac1e79361e570fc107680655c2eb184966",
+    "sourceVerseIds": [
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56
+    ],
+    "targetText": "마그누스여, 미트리다테스의 세력을 꺾고 바다를 되찾으며, 두루 밟은 세계에서 세 번의 개선을 누렸던 그대가 나일의 해안에서 죽으리라고 누가 믿었겠는가? 또 다른 마그누스를 세울 수도 있었던 그대의 몸을 난파선의 불이 장사지내고, 밀려온 선체의 조각이 화장 장작이 되리라고 누가 믿었겠는가? 운명의 신적 힘 없이 누가 그토록 큰 변화를 일으킬 수 있는가?",
+    "transcriptionEdition": "Breiter 1907년 라틴어 지면 직접 전사·대조. 영어 중역 아님."
+  },
+  {
+    "id": "manilius-iv-089-123-passage",
+    "translationId": "manilius-iv-089-123",
+    "language": "la",
+    "termIds": [
+      "manilius-fata",
+      "manilius-ratio",
+      "manilius-signum"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=108",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 89–123행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 89–123행 · 인쇄본 92–93쪽 · PDF 108–109쪽",
+    "notes": [
+      "98~105행의 몸과 출생에 관한 설명은 저자의 역사적 자연관이다. 현대의 선천성 차이나 질병을 별의 작용 또는 잘못으로 평가하는 기준이 아니다.",
+      "110행의 저본은 magis, 곧 더 미워한다는 표현이다. 앞뒤 논증이 매끄럽지 않더라도 이를 ‘덜’로 조용히 바꾸지 않았다. 116행의 비난도 시인의 주장과 번역자의 판단을 구별한다.",
+      "122행의 color는 사인의 전반적인 성격·인상으로 읽었다. 각 사인의 실제 색상을 배정하는 표가 시작된다는 뜻으로 옮기지 않았다.",
+      "120행의 fabricare는 짓는다는 동사이므로 하늘로 향하는 계단을 세운다는 비유로 옮겼다. 초고의 fabricae 전사와 하늘의 구조라는 풀이를 원지면에 따라 교정했다. 이는 판본 차이가 아니라 초고의 오류 수정이다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "korean-reference",
+    "targetText": "가난하다고 더 짧은 생애를 받는 것은 아니며, 한없는 재산으로 운명을 살 수도 없다. 운은 화려한 집에서도 시신을 끌어내고, 가장 높은 이들에게 화장대를 명하고 무덤을 세운다. 왕들 자신을 다스리는 이 왕권은 얼마나 큰가! 더구나 덕은 불행하고 해로운 행위는 성공하며, 잘못 세운 계획에는 보상이 있고 신중함은 실패하기도 한다. 운은 사유를 심사하여 공로 있는 이를 따르지 않고, 구별 없이 모든 이 사이를 떠돈다.\n\n분명 우리를 강제하고 다스리는 더 큰 무엇이 있다. 그것은 죽을 것들을 제 법 아래 두고, 자기에게서 태어나는 이들에게 각자의 연수와 운의 변화를 배정한다. 그것은 흔히 짐승의 몸과 사람의 지체를 뒤섞기도 한다. 그런 출생은 씨앗에서 비롯된 것이 아닐 것이다. 우리와 짐승 사이에 무엇이 공통되겠는가? 어떤 간통자가 그런 기이한 출생을 초래하는 잘못을 저질렀겠는가? 별들이 형상을 새롭게 하고 하늘이 얼굴들을 끼워 넣는다. 결국 운명이 없다면 왜 그 질서가 전해지며, 일정한 때에 닥칠 모든 일이 예고되는가?\n\n그렇다고 이 논리가 악행을 옹호하거나 덕이 보상받을 제 몫을 빼앗으려는 것은 아니다. 죽음을 주는 풀이 자기 의지가 아니라 정해진 씨앗에서 생겨났다는 까닭에, 누군가 그것을 더 미워하게 되는 것은 아니다. 달콤한 먹을거리도 어떤 의지가 아니라 자연이 열매를 주었다고 해서 더 적은 감사를 받지는 않는다.\n\n마찬가지로 인간의 공로에는 하늘의 기쁨을 얻어 이루어졌다는 이유로 더 큰 영광이 따른다. 반대로 잘못과 형벌을 위해 태어난 해로운 이들은 더욱 미워하게 될 것이다. 악행이 어디서 나오는지는 중요하지 않다. 악행이라는 사실은 인정해야 한다. 운명 자체를 이렇게 헤아리는 일 또한 운명에 속한다.\n\n이것을 가르쳤으니, 이제 일정한 순서로 하늘을 향한 계단을 세우는 일이 남는다. 그 계단은 굽은 길을 따라 식견 있는 시인을 별들로 이끌 것이다. 이제 사인들의 성품과 전반적인 특성, 관심사와 여러 기술을 차례로 설명하겠다."
+  },
+  {
+    "id": "manilius-iv-089-123-pair-1",
+    "translationId": "manilius-iv-089-123",
+    "language": "la",
+    "termIds": [
+      "manilius-fata",
+      "manilius-ratio",
+      "manilius-signum"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=108",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 89–123행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 89–123행 · 인쇄본 92–93쪽 · PDF 108–109쪽",
+    "notes": [
+      "98~105행의 몸과 출생에 관한 설명은 저자의 역사적 자연관이다. 현대의 선천성 차이나 질병을 별의 작용 또는 잘못으로 평가하는 기준이 아니다.",
+      "110행의 저본은 magis, 곧 더 미워한다는 표현이다. 앞뒤 논증이 매끄럽지 않더라도 이를 ‘덜’로 조용히 바꾸지 않았다. 116행의 비난도 시인의 주장과 번역자의 판단을 구별한다.",
+      "122행의 color는 사인의 전반적인 성격·인상으로 읽었다. 각 사인의 실제 색상을 배정하는 표가 시작된다는 뜻으로 옮기지 않았다.",
+      "120행의 fabricare는 짓는다는 동사이므로 하늘로 향하는 계단을 세운다는 비유로 옮겼다. 초고의 fabricae 전사와 하늘의 구조라는 풀이를 원지면에 따라 교정했다. 이는 판본 차이가 아니라 초고의 오류 수정이다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "parallel-translation",
+    "paragraphIndex": 0,
+    "sourceText": "et neque paupertas breuiores excipit annos,\nnec sunt immensis opibus uenalia fata;\nsed rapit ex tecto funus fortuna superbo\nindicitque rogum summis statuitque sepulcrum.\nquantum est hoc regnum, quod regibus imperat ipsis!\nquin etiam infelix uirtus et noxia felix,\net male consultis pretium est, prudentia fallit,\nnec fortuna probat causas sequiturque merentis,\nsed uaga per cunctos nullo discrimine fertur.",
+    "sourceTextHash": "cfab44d8aa715333fcc6565cf4a2665fc37ddf1c33262dd87a891c5366712d6d",
+    "sourceVerseIds": [
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97
+    ],
+    "targetText": "가난하다고 더 짧은 생애를 받는 것은 아니며, 한없는 재산으로 운명을 살 수도 없다. 운은 화려한 집에서도 시신을 끌어내고, 가장 높은 이들에게 화장대를 명하고 무덤을 세운다. 왕들 자신을 다스리는 이 왕권은 얼마나 큰가! 더구나 덕은 불행하고 해로운 행위는 성공하며, 잘못 세운 계획에는 보상이 있고 신중함은 실패하기도 한다. 운은 사유를 심사하여 공로 있는 이를 따르지 않고, 구별 없이 모든 이 사이를 떠돈다.",
+    "transcriptionEdition": "Breiter 1907년 라틴어 지면 직접 전사·대조. 영어 중역 아님."
+  },
+  {
+    "id": "manilius-iv-124-161-passage",
+    "translationId": "manilius-iv-124-161",
+    "language": "la",
+    "termIds": [
+      "manilius-signum",
+      "manilius-poetic-sign-names",
+      "manilius-ratio"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=109",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 124–161행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 124–161행 · 인쇄본 93–94쪽 · PDF 109–110쪽",
+    "notes": [
+      "양털·멍에·쌍둥이의 음악이라는 형상이 인간의 일과 성품에 연결되는 저본의 설명이다. 현대의 사인별 직업 적성이나 성격을 검증한 표로 제시하지 않는다.",
+      "126~127행의 성장·쇠락은 양털이 자라다가 깎이는 형상과 재산의 부침이 겹친다. 문장이 역설적이라는 이유로 계속 부유해진다는 단선적인 풀이로 바꾸지 않았다.",
+      "152~161행에서 수·가락·천계의 이해가 함께 언급된다. numeri와 modi를 모두 한 종류의 수학적 단위로 환원하지 않았다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "korean-reference",
+    "targetText": "양자리는 풍성하게 자라는 양털로 부유하다. 털을 벗겨도 새 털에 대한 희망을 언제나 다시 갖는다. 갑작스러운 파산과 풍족한 재산 사이에서, 늘어남과 함께 쇠락하며 소망 때문에 손실로 향한다. 온갖 기술을 거치며 여러 이익을 낳는 털과 그 결실을 사람들에게 내어 줄 것이다.\n\n거친 양털을 뭉치고 다시 풀며, 가느다란 실로 뽑고 옷감을 짠다. 때로는 여러 옷을 사고팔아 이익을 얻는다. 사치가 없더라도 어떤 민족도 옷 없이 살아갈 수는 없었으니, 이 일은 그만큼 크다. 팔라스 자신도 제 손으로 이 일을 맡아 할 만하다고 여겼고, 아라크네를 이긴 데서 자신의 위대함을 찾는다. 양자리는 태어나는 이들에게 이런 관심과 비슷한 기술을 정해 주며, 불안한 가슴속에 흔들리는 마음을 빚는다. 그들은 언제나 스스로를 칭찬하여 자신을 팔고자 한다.\n\n황소자리는 들판에 소박한 경작자들을 줄 것이다. 평화로운 노고가 찾아오며, 명성의 보상보다 땅의 결실을 준다. 별들 가운데에서 스스로 목을 숙여 제 목덜미에 멍에를 달라고 한다. 뿔로 포이보스의 원반을 받칠 때에는 땅에 복무를 명하고, 일의 선두에 서서 놀던 들판을 예전의 경작으로 돌려놓는다. 고랑에 드러눕지 않고 흙먼지 속에서 가슴의 힘을 풀어 일한다. 세라누스와 쿠리우스를 낳고 들판에서 권표를 맡겼으며, 독재관은 제 쟁기에서 나왔다.\n\n명성을 사랑하고 마음은 말수가 적으며, 느린 몸은 육중한 힘을 지닌다. 그 이마 아래에는 소년 쿠피도가 산다.\n\n쌍둥이자리에서는 더 부드러운 관심과 더 온화한 삶이 생겨난다. 여러 노래와 목소리에 맞춘 가락, 가는 피리와 현에 실은 말, 타고난 소리 속에서 살아간다. 즐거움 자체가 일이다. 무기와 군대의 나팔, 우울한 노년은 멀리 두고, 사랑 속에서 한가로움과 영원한 젊음을 누린다. 별들로 향하는 길도 찾아내어 수와 운율로 천구 전체를 헤아리며, 별들마저 자신들 뒤에 남겨 둔다. 자연은 그들의 재능보다 작아지고 모든 면에서 복종한다. 풍요로운 쌍둥이자리는 이토록 많은 고안으로 나아간다."
+  },
+  {
+    "id": "manilius-iv-124-161-pair-1",
+    "translationId": "manilius-iv-124-161",
+    "language": "la",
+    "termIds": [
+      "manilius-signum",
+      "manilius-poetic-sign-names",
+      "manilius-ratio"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=109",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 124–161행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 124–161행 · 인쇄본 93–94쪽 · PDF 109–110쪽",
+    "notes": [
+      "양털·멍에·쌍둥이의 음악이라는 형상이 인간의 일과 성품에 연결되는 저본의 설명이다. 현대의 사인별 직업 적성이나 성격을 검증한 표로 제시하지 않는다.",
+      "126~127행의 성장·쇠락은 양털이 자라다가 깎이는 형상과 재산의 부침이 겹친다. 문장이 역설적이라는 이유로 계속 부유해진다는 단선적인 풀이로 바꾸지 않았다.",
+      "152~161행에서 수·가락·천계의 이해가 함께 언급된다. numeri와 modi를 모두 한 종류의 수학적 단위로 환원하지 않았다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "parallel-translation",
+    "paragraphIndex": 0,
+    "sourceText": "diues fecundis aries in uellera lanis\nexutusque nouis rursum spem semper habebit,\nnaufragiumque inter subitum censusque beatos\ncrescendo cadet et uotis in damna feretur;\nin uulgumque dabit fructus et mille per artes\nuellera diuersos ex se parientia quaestus:",
+    "sourceTextHash": "5d75fa7f0852c18c6aaf701bec894f01acd77fa23476b5f82d9f079c0238669e",
+    "sourceVerseIds": [
+      124,
+      125,
+      126,
+      127,
+      128,
+      129
+    ],
+    "targetText": "양자리는 풍성하게 자라는 양털로 부유하다. 털을 벗겨도 새 털에 대한 희망을 언제나 다시 갖는다. 갑작스러운 파산과 풍족한 재산 사이에서, 늘어남과 함께 쇠락하며 소망 때문에 손실로 향한다. 온갖 기술을 거치며 여러 이익을 낳는 털과 그 결실을 사람들에게 내어 줄 것이다.",
+    "transcriptionEdition": "Breiter 1907년 라틴어 지면 직접 전사·대조. 영어 중역 아님."
+  },
+  {
+    "id": "manilius-iv-162-188-passage",
+    "translationId": "manilius-iv-162-188",
+    "language": "la",
+    "termIds": [
+      "manilius-signum",
+      "manilius-poetic-sign-names",
+      "manilius-fata"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=110",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 162–188행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 162–188행 · 인쇄본 94–95쪽 · PDF 110–111쪽",
+    "notes": [
+      "게자리의 상업·가격·대부 이자는 저본의 역사적 묘사이다. 금융행위의 현대적 권고가 아니다. 특히 173~174행의 압축된 거래 비유는 시간과 이익의 결합으로 옮기되 본문에 없는 구체적 계약을 만들어 넣지 않았다.",
+      "사자자리의 숲과 사냥, 도시의 도살을 하나의 형상에서 연결하는 논증을 보존했다. 개별 사람을 폭력적인 성향으로 판정하는 기준으로 제시하지 않는다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "korean-reference",
+    "targetText": "게자리는 가장 높은 전차에서 방향을 돌린 포이보스가 도는 뜨거운 반환점에서 빛난다. 우주의 마디를 붙들고 낮의 방향을 되돌린다. 마음이 끈질기고 어떤 쓰임에도 함부로 쏟아내지 않으며, 여러 수입과 이익의 기술을 배정한다.\n\n외국 물품으로 재산을 도시들 사이에 옮기고, 곡물 값이 크게 치솟는 때를 살펴 부를 바람에 맡긴다. 세계의 물건을 세계에 팔며, 알지 못하는 여러 땅 사이에 교역을 잇고 다른 태양 아래서 새로운 이득을 찾아, 물건의 값으로 갑작스러운 재산을 이룬다. 바다를 항해하며 원금에서 빠른 세월의 수익을 바라고, 달콤한 이자로 시간 자체도 팔아넘긴다. 재능은 영리하고 자신의 이익을 위해 싸우기를 마다하지 않는다.\n\n거대한 사자의 성질이 어떠하며, 자기 사인 아래 태어난 이들에게 어떤 기술을 정해 주는지 누가 의심하겠는가? 언제나 새 싸움과 맹수와의 새 전쟁을 준비하고, 빼앗은 전리품과 가축의 약탈로 살아간다. 가죽으로 문설주를 꾸미고 잡은 짐승을 집에 걸며, 두려움으로 숲을 평정하고 승리자로 사는 것을 자랑으로 삼는다.\n\n어떤 이들은 성벽조차 그와 같은 기질을 억제하지 못한다. 도시 한가운데에서 가축의 몸을 다루고, 잘린 지체를 가게 앞에 걸어 두며, 사치를 위해 도살을 마련하고 죽음으로 이익을 얻는다. 마음은 갑자기 성내지만 쉽게 물러나기도 하며, 깨끗한 가슴에서 나오는 판단은 꾸밈없이 단순하다."
+  },
+  {
+    "id": "manilius-iv-162-188-pair-1",
+    "translationId": "manilius-iv-162-188",
+    "language": "la",
+    "termIds": [
+      "manilius-signum",
+      "manilius-poetic-sign-names",
+      "manilius-fata"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=110",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 162–188행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 162–188행 · 인쇄본 94–95쪽 · PDF 110–111쪽",
+    "notes": [
+      "게자리의 상업·가격·대부 이자는 저본의 역사적 묘사이다. 금융행위의 현대적 권고가 아니다. 특히 173~174행의 압축된 거래 비유는 시간과 이익의 결합으로 옮기되 본문에 없는 구체적 계약을 만들어 넣지 않았다.",
+      "사자자리의 숲과 사냥, 도시의 도살을 하나의 형상에서 연결하는 논증을 보존했다. 개별 사람을 폭력적인 성향으로 판정하는 기준으로 제시하지 않는다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "parallel-translation",
+    "paragraphIndex": 0,
+    "sourceText": "cancer ad ardentem fulgens in cardine metam,\nquam Phoebus summis reuocatus curribus ambit,\narticulum mundi retinet lucesque reflectit.\nille tenax animi nullosque effusus in usus\nattribuit uarios quaestus artemque lucrorum:",
+    "sourceTextHash": "eecd1273b4c0179a3d41c44fe6925a90013244743131f74ebcc357a88e936619",
+    "sourceVerseIds": [
+      162,
+      163,
+      164,
+      165,
+      166
+    ],
+    "targetText": "게자리는 가장 높은 전차에서 방향을 돌린 포이보스가 도는 뜨거운 반환점에서 빛난다. 우주의 마디를 붙들고 낮의 방향을 되돌린다. 마음이 끈질기고 어떤 쓰임에도 함부로 쏟아내지 않으며, 여러 수입과 이익의 기술을 배정한다.",
+    "transcriptionEdition": "Breiter 1907년 라틴어 지면 직접 전사·대조. 영어 중역 아님."
+  },
+  {
+    "id": "manilius-iv-189-216-passage",
+    "translationId": "manilius-iv-189-216",
+    "language": "la",
+    "termIds": [
+      "manilius-signum",
+      "manilius-poetic-sign-names",
+      "manilius-ratio"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=111",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 189–216행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 189–216행 · 인쇄본 95–96쪽 · PDF 111–112쪽",
+    "notes": [
+      "처녀자리의 성품·생식에 대한 연결은 저본의 역사적 배정이며, 현대 개인의 능력이나 생식 상태를 평가하는 기준이 아니다. 197~199행의 약기법은 말과 기호의 관계를 보존하여 옮겼다.",
+      "200행의 in uitio bona는 이어지는 수줍음과 억제의 설명을 따라 좋은 자질이 결점으로 작용한다는 압축 표현으로 읽었다. 명료하지 않은 구문을 다른 판본으로 교체하지 않았다.",
+      "203행의 chelae는 천칭자리를 집게발로 부르는 시적 명칭이다. 전갈자리의 새 부분을 뜻하는 것처럼 처리하지 않았다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "korean-reference",
+    "targetText": "매듭으로 묶인 처녀 에리고네는 가르침에 알맞으며, 자신이 삶을 정해 준 이들의 성품을 배움으로 이끈다. 익힌 기술로 정신을 훈련하고, 재산의 이득보다는 사물의 원인과 힘을 탐구하게 한다. 말의 아름다움과 언변의 지배력을 주며, 자연의 숨은 원인 속에 감추어진 것까지 모두 알아볼 수 있는 마음의 눈을 만든다.\n\n여기서는 글자 하나가 낱말 하나를 대신하는 빠른 필기자도 나올 것이다. 기호로 혀를 앞질러, 말하는 이의 긴 발화를 새로운 약기법으로 재빨리 받아 적는다. 좋은 자질도 결점이 된다. 수줍음이 여린 나이를 가로막고, 억제함으로써 자연이 준 큰 선물에 재갈을 물리기 때문이다. 출산도 풍성하지 않을 것이다. 처녀에게서 무엇이 놀랍겠는가?\n\n한 해를 거쳐 익은 바쿠스의 새로운 선물이 나올 때 밤을 낮의 길이와 저울질하는 집게발은, 측정의 쓰임과 사물의 무게를 다루게 한다. 사물에 처음 수와 합계의 이름, 일정한 척도와 고유한 형상을 부여한 팔라메데스의 능력과 겨룰 만한 출생을 준다.\n\n이 사람은 법의 판과 정해진 규정, 작은 표기 차이에 달린 말의 뜻도 알 것이다. 무엇이 허용되고 금지된 행위에 어떤 형벌이 따르는지도 알아, 사적인 집 문턱에서 언제나 민중의 법무관 노릇을 한다. 법의 이치를 풀어 라티움에 법을 세운 세르비우스가 다른 별 아래 태어났다고 하기는 어려울 것이다. 요컨대 무엇이든 불확실한 상태에 놓여 이끌 이가 필요하다면, 천칭자리의 저울대가 판가름할 것이다."
+  },
+  {
+    "id": "manilius-iv-189-216-pair-1",
+    "translationId": "manilius-iv-189-216",
+    "language": "la",
+    "termIds": [
+      "manilius-signum",
+      "manilius-poetic-sign-names",
+      "manilius-ratio"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=111",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 189–216행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 189–216행 · 인쇄본 95–96쪽 · PDF 111–112쪽",
+    "notes": [
+      "처녀자리의 성품·생식에 대한 연결은 저본의 역사적 배정이며, 현대 개인의 능력이나 생식 상태를 평가하는 기준이 아니다. 197~199행의 약기법은 말과 기호의 관계를 보존하여 옮겼다.",
+      "200행의 in uitio bona는 이어지는 수줍음과 억제의 설명을 따라 좋은 자질이 결점으로 작용한다는 압축 표현으로 읽었다. 명료하지 않은 구문을 다른 판본으로 교체하지 않았다.",
+      "203행의 chelae는 천칭자리를 집게발로 부르는 시적 명칭이다. 전갈자리의 새 부분을 뜻하는 것처럼 처리하지 않았다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "parallel-translation",
+    "paragraphIndex": 0,
+    "sourceText": "at quibus Erigone dixit nascentibus aeuum,\napta magisterio nodoque coercita uirgo,\nad studium ducet mores et pectora doctis\nartibus instituet; nec tam compendia census\nquam causas uiresque dabit perquirere rerum.\nilla decus linguae faciet regnumque loquendi\natque oculos mentis, qua possit cernere cuncta\nquamuis occultis naturae condita causis.",
+    "sourceTextHash": "4fc2e2b155048261205a0c4cd0b0f989425757f31f9785710614deac720fddb3",
+    "sourceVerseIds": [
+      189,
+      190,
+      191,
+      192,
+      193,
+      194,
+      195,
+      196
+    ],
+    "targetText": "매듭으로 묶인 처녀 에리고네는 가르침에 알맞으며, 자신이 삶을 정해 준 이들의 성품을 배움으로 이끈다. 익힌 기술로 정신을 훈련하고, 재산의 이득보다는 사물의 원인과 힘을 탐구하게 한다. 말의 아름다움과 언변의 지배력을 주며, 자연의 숨은 원인 속에 감추어진 것까지 모두 알아볼 수 있는 마음의 눈을 만든다.",
+    "transcriptionEdition": "Breiter 1907년 라틴어 지면 직접 전사·대조. 영어 중역 아님."
+  },
+  {
+    "id": "manilius-iv-217-242-passage",
+    "translationId": "manilius-iv-217-242",
+    "language": "la",
+    "termIds": [
+      "manilius-signum",
+      "manilius-poetic-sign-names"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=112",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 217–242행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 217–242행 · 인쇄본 96–97쪽 · PDF 112–113쪽",
+    "notes": [
+      "222행의 뒤 어구는 223행에서 끝나므로 217~229행을 같은 문단으로 묶었다. 원문 행과 번역 문단의 대응을 정확히 보존한다.",
+      "전갈의 꼬리와 파종, 켄타우로스의 복합 신체와 동물 조련을 잇는 시인의 연상을 옮겼다. 해당 사인 출생자에게 폭력성이나 동물 조련 능력이 있다는 현대적 진단이 아니다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "korean-reference",
+    "targetText": "무장한 꼬리로 사나운 전갈을 보라. 태양의 전차를 자기 별들 사이로 이끌 때, 그 꼬리로 땅을 파헤치고 고랑에 씨앗을 섞는다. 전쟁과 마르스의 군영을 향해 불타는 마음을 만들고, 많은 피를 기뻐하는 시민을 만든다. 그는 약탈품보다 살육을 더 기뻐한다. 평화조차 무기 아래에서 지낸다. 산림을 차지하고 숲을 돌아다니며, 때로는 사람과, 때로는 짐승과 사나운 전쟁을 벌인다. 때로는 자기 목숨을 죽음에 팔고 투기장에 시신을 맡긴다. 전쟁이 쉬면 저마다 제 적을 마련한다. 모의 전투와 무기를 쓰는 놀이를 즐기는 이들도 있다. 싸움을 그토록 사랑하여 한가한 때에도 전쟁과 그에 같은 기술이 필요한 활동을 배운다.\n\n두 몸을 지닌 켄타우로스 아래 태어날 몫을 받은 이들은 전차에 말을 매고, 사나운 말을 부드러운 고삐로 이끌기를 좋아한다. 온 들판에서 풀을 뜯는 가축 떼를 따라가고, 길들이는 이들을 두어 온갖 네발짐승을 다룬다. 호랑이를 달래고 사자의 사나움을 없애며, 코끼리와 말하고 그 거대한 몸을 말로써 인간의 기술에 맞추어 여러 구경거리에 쓰도록 한다.\n\n별들 속에서는 짐승과 사람의 몸이 섞이고, 사람의 몸이 위에 놓여 있기 때문이다. 그래서 그들을 다스린다. 굽은 활에 당긴 화살을 지녔으므로, 팔다리에는 힘줄을, 마음에는 날카로움을 주고, 빠른 움직임과 지칠 줄 모르는 가슴을 준다."
+  },
+  {
+    "id": "manilius-iv-217-242-pair-1",
+    "translationId": "manilius-iv-217-242",
+    "language": "la",
+    "termIds": [
+      "manilius-signum",
+      "manilius-poetic-sign-names"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=112",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 217–242행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 217–242행 · 인쇄본 96–97쪽 · PDF 112–113쪽",
+    "notes": [
+      "222행의 뒤 어구는 223행에서 끝나므로 217~229행을 같은 문단으로 묶었다. 원문 행과 번역 문단의 대응을 정확히 보존한다.",
+      "전갈의 꼬리와 파종, 켄타우로스의 복합 신체와 동물 조련을 잇는 시인의 연상을 옮겼다. 해당 사인 출생자에게 폭력성이나 동물 조련 능력이 있다는 현대적 진단이 아니다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "parallel-translation",
+    "paragraphIndex": 0,
+    "sourceText": "scorpion armata uiolentum conspice cauda,\nqua, sua cum Phoebi currum per sidera ducit,\nrimatur terras et sulcis semina miscet.\nin bellum ardentis animos et Martia castra\nefficit et multo gaudentem sanguine ciuem\nnec praeda quam caede magis. quin ipsa sub armis\npax agitur; capiunt saltus siluasque pererrant,\nnunc hominum nunc bella gerunt uiolenta ferarum,\nnunc caput in mortem uendunt et funus harenae,\natque hostem sibi quisque parat, cum bella quiescunt.\nsunt, quibus et simulacra placent et ludus in armis —\ntantus amor pugnae — discuntque per otia bellum\net quodcumque pari studium producitur arte.",
+    "sourceTextHash": "27a8da616fd361e99749552f42325dcc05d2096824c30ca073c7645bf5b43b20",
+    "sourceVerseIds": [
+      217,
+      218,
+      219,
+      220,
+      221,
+      222,
+      223,
+      224,
+      225,
+      226,
+      227,
+      228,
+      229
+    ],
+    "targetText": "무장한 꼬리로 사나운 전갈을 보라. 태양의 전차를 자기 별들 사이로 이끌 때, 그 꼬리로 땅을 파헤치고 고랑에 씨앗을 섞는다. 전쟁과 마르스의 군영을 향해 불타는 마음을 만들고, 많은 피를 기뻐하는 시민을 만든다. 그는 약탈품보다 살육을 더 기뻐한다. 평화조차 무기 아래에서 지낸다. 산림을 차지하고 숲을 돌아다니며, 때로는 사람과, 때로는 짐승과 사나운 전쟁을 벌인다. 때로는 자기 목숨을 죽음에 팔고 투기장에 시신을 맡긴다. 전쟁이 쉬면 저마다 제 적을 마련한다. 모의 전투와 무기를 쓰는 놀이를 즐기는 이들도 있다. 싸움을 그토록 사랑하여 한가한 때에도 전쟁과 그에 같은 기술이 필요한 활동을 배운다.",
+    "transcriptionEdition": "Breiter 1907년 라틴어 지면 직접 전사·대조. 영어 중역 아님."
+  },
+  {
+    "id": "manilius-iv-243-272-passage",
+    "translationId": "manilius-iv-243-272",
+    "language": "la",
+    "termIds": [
+      "manilius-signum",
+      "manilius-poetic-sign-names",
+      "manilius-tropical-signs"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=113",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 243–272행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 243–272행 · 인쇄본 97–98쪽 · PDF 113–114쪽",
+    "notes": [
+      "269행은 Breiter의 인쇄 순서대로 260행 뒤에 두었다. 한국어와 원문 대조 모두 같은 순서를 따르며 번호를 고쳐 이동 사실을 없애지 않았다.",
+      "267~268행은 물을 쓰는 기술 목록에서 천계 모형을 움직이는 설명으로 이어진다. 실제 우주의 운동을 인간이 바꾼다는 현대 물리적 주장으로 번역하지 않았다.",
+      "염소자리의 두 부분과 나이에 관한 배정, 베누스에 관한 평가를 저자의 역사적 서술로 옮겼다. 현대 개인의 성적 행동이나 노년을 판정하는 기준이 아니다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "korean-reference",
+    "targetText": "염소자리여, 베스타가 성소 안에서 그대의 불을 보살핀다. 그대는 여기서 기술과 관심을 얻는다. 쓰임을 위해 불이 필요하고 일을 위해 새로운 불꽃을 요구하는 모든 것이 그대에게 속한다. 어두운 광맥과 묻힌 재물을 찾아내고, 땅속 광맥을 불로 다룬다. 정확한 손과 기술로 재료의 가치를 늘린다. 은이나 금으로 무엇을 만들든, 뜨거운 화덕이 쇠와 청동을 녹이든, 아궁이가 곡식을 익히든, 그대의 몫이 생겨난다.\n\n그대는 옷과 빨리 오가는 상품에 대한 관심도 더한다. 추위 속에서 늘 겨울의 몫을 지키며, 가장 높이 늘어난 밤을 되돌리고 낮을 다시 불러 한 해가 새로 태어나게 한다. 이 때문에 사물에는 변화가 많고 마음도 자주 바뀌며 흔들린다. 그러나 연결된 물고기 부분에서는 노년이 더 좋으며, 앞부분은 비난이 섞인 채 베누스에게 봉사한다.\n\n기울인 항아리에서 샘물을 쏟아내는 젊은 물병자리 역시 자기 형상과 친족인 기술을 준다. 물을 통해 이루어지며 샘을 따르는 일들이다. 땅속 물을 알아보고 땅 위로 끌어들이며, 거꾸로 솟는 물결로 별들마저 적신다. 새로운 해안을 만들어 사치스럽게 바다를 흉내 내고, 여러 연못과 인공 하천을 만들며, 다른 곳에서 온 물줄기를 집 안 높은 곳에 건다.\n\n물로 조절하는 수많은 기술이 그 아래에 있다. 우주의 모형과 별들의 자리를 움직이고, 새로운 하늘을 원을 따라 돌리기도 한다. 온화한 부류이며, 부드러운 출생이 그 별 아래로 흘러든다. 마음은 인색하지 않아 손해를 쉽게 받아들인다. 재산이 모자라지도 넘치지도 않는다. 항아리가 그렇게 물을 흘려보내기 때문이다."
+  },
+  {
+    "id": "manilius-iv-243-272-pair-1",
+    "translationId": "manilius-iv-243-272",
+    "language": "la",
+    "termIds": [
+      "manilius-signum",
+      "manilius-poetic-sign-names",
+      "manilius-tropical-signs"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=113",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 243–272행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 243–272행 · 인쇄본 97–98쪽 · PDF 113–114쪽",
+    "notes": [
+      "269행은 Breiter의 인쇄 순서대로 260행 뒤에 두었다. 한국어와 원문 대조 모두 같은 순서를 따르며 번호를 고쳐 이동 사실을 없애지 않았다.",
+      "267~268행은 물을 쓰는 기술 목록에서 천계 모형을 움직이는 설명으로 이어진다. 실제 우주의 운동을 인간이 바꾼다는 현대 물리적 주장으로 번역하지 않았다.",
+      "염소자리의 두 부분과 나이에 관한 배정, 베누스에 관한 평가를 저자의 역사적 서술로 옮겼다. 현대 개인의 성적 행동이나 노년을 판정하는 기준이 아니다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "parallel-translation",
+    "paragraphIndex": 0,
+    "sourceText": "Vesta tuos, capricorne, fouet penetralibus ignes.\nhinc artes studiumque trahis; nam quicquid in usus\nignis eget poscitque nouas ad munera flammas,\nsub te censendum est: scrutari caeca metalla\ndepositas et opes terramque exurere uenis;\nmateriamque manu certa duplicaris et arte.\nquicquid et argento fabricetur, quicquid et auro,\nquod ferrum calidi soluant atque aera camini,\nconsummentque foci Cererem, tua munera surgent.",
+    "sourceTextHash": "9b1b318a0b5b159013c88fccdbef7d53aee896c176b2fe44020b4a013cc43ebe",
+    "sourceVerseIds": [
+      243,
+      244,
+      245,
+      246,
+      247,
+      248,
+      249,
+      250,
+      251
+    ],
+    "targetText": "염소자리여, 베스타가 성소 안에서 그대의 불을 보살핀다. 그대는 여기서 기술과 관심을 얻는다. 쓰임을 위해 불이 필요하고 일을 위해 새로운 불꽃을 요구하는 모든 것이 그대에게 속한다. 어두운 광맥과 묻힌 재물을 찾아내고, 땅속 광맥을 불로 다룬다. 정확한 손과 기술로 재료의 가치를 늘린다. 은이나 금으로 무엇을 만들든, 뜨거운 화덕이 쇠와 청동을 녹이든, 아궁이가 곡식을 익히든, 그대의 몫이 생겨난다.",
+    "transcriptionEdition": "Breiter 1907년 라틴어 지면 직접 전사·대조. 영어 중역 아님."
+  },
+  {
+    "id": "manilius-iv-273-293-passage",
+    "translationId": "manilius-iv-273-293",
+    "language": "la",
+    "termIds": [
+      "manilius-signum",
+      "manilius-poetic-sign-names",
+      "manilius-sidera"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=114",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 273–293행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 273–293행 · 인쇄본 98–99쪽 · PDF 114–115쪽",
+    "notes": [
+      "항해에서 별을 이용하는 일과 사람의 운명을 사인으로 설명하는 저자의 주장을 구별했다. 조타·선박 구성·어획·해전의 목록을 직업명 하나로 줄이지 않았다.",
+      "290~291행의 생식·성향 배정은 역사 문헌의 설명이다. 마지막 292~293행에서 열두 사인별 설명이 끝나며, 다음에는 한 사인의 내부 구획을 다룬다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "korean-reference",
+    "targetText": "마지막 사인인 두 물고기 아래 태어난 이들은 바다에 관심을 두고 생명을 깊은 물에 맡긴다. 배와 배의 장비를 마련하며, 바다가 제 쓰임을 위해 요구하는 모든 것을 다룬다. 헤아릴 수 없이 많은 기술이 생겨나 물건들에 붙일 이름조차 부족하다. 작은 배에도 그만큼 많은 부분이 있기 때문이다.\n\n조타의 기술도 더하라. 그것은 별들에까지 이르고 하늘을 통해 바다를 제압한다. 그러나 세계와 그 강들·항구들·바람을 알아야 한다. 민첩한 키를 이쪽저쪽으로 돌리고 배를 억제하며 마주 오는 파도를 가르거나, 노를 저어 휘어지는 노날을 굽힐 줄 알아야 한다.\n\n그물을 끌어 잔잔한 수면을 쓸고, 붙잡은 물속 무리를 해안에 내놓기도 한다. 먹이로 갈고리를 감추거나 가둠 장치에 속임수를 숨기기도 한다. 물고기자리는 바다의 싸움과 물 위에 떠 있는 전쟁, 피로 물든 물결도 배정한다. 자녀에 풍성한 부류이며 즐거움을 가까이하고, 움직임은 빠르며 삶에서 모든 것이 바뀐다.\n\n고유한 형상의 힘을 지닌 열두 사인은 태어나는 이들에게 이러한 성품과 기술을 준다."
+  },
+  {
+    "id": "manilius-iv-273-293-pair-1",
+    "translationId": "manilius-iv-273-293",
+    "language": "la",
+    "termIds": [
+      "manilius-signum",
+      "manilius-poetic-sign-names",
+      "manilius-sidera"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=114",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 273–293행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 273–293행 · 인쇄본 98–99쪽 · PDF 114–115쪽",
+    "notes": [
+      "항해에서 별을 이용하는 일과 사람의 운명을 사인으로 설명하는 저자의 주장을 구별했다. 조타·선박 구성·어획·해전의 목록을 직업명 하나로 줄이지 않았다.",
+      "290~291행의 생식·성향 배정은 역사 문헌의 설명이다. 마지막 292~293행에서 열두 사인별 설명이 끝나며, 다음에는 한 사인의 내부 구획을 다룬다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "parallel-translation",
+    "paragraphIndex": 0,
+    "sourceText": "ultima quos gemini producunt sidera pisces,\nhis erit in pontum studium, uitamque profundo\ncredent et puppes aut puppibus arma parabunt,\nquicquid et in proprios pelagus desiderat usus.\ninnumerae ueniunt artes; uix nomina rebus\nsufficiunt; tot sunt paruae quoque membra carinae.",
+    "sourceTextHash": "9ef7078e0714fd8a434ea2ad94e53a116c95d55dfe162f435a4cc2812d7ee899",
+    "sourceVerseIds": [
+      273,
+      274,
+      275,
+      276,
+      277,
+      278
+    ],
+    "targetText": "마지막 사인인 두 물고기 아래 태어난 이들은 바다에 관심을 두고 생명을 깊은 물에 맡긴다. 배와 배의 장비를 마련하며, 바다가 제 쓰임을 위해 요구하는 모든 것을 다룬다. 헤아릴 수 없이 많은 기술이 생겨나 물건들에 붙일 이름조차 부족하다. 작은 배에도 그만큼 많은 부분이 있기 때문이다.",
+    "transcriptionEdition": "Breiter 1907년 라틴어 지면 직접 전사·대조. 영어 중역 아님."
+  },
+  {
+    "id": "manilius-iv-294-311-passage",
+    "translationId": "manilius-iv-294-311",
+    "language": "la",
+    "termIds": [
+      "manilius-decanica",
+      "manilius-signum",
+      "manilius-critical-marks",
+      "manilius-ratio"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=115",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 294–311행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 294–311행 · 인쇄본 99–100쪽 · PDF 115–116쪽",
+    "notes": [
+      "298번 행은 Breiter 본문에 없고 교감란에 관련 전승이 실려 있다. 거기 적힌 명칭을 시구로 본문에 채우지 않았다. 제목과 용어 연결은 편집자의 안내이다.",
+      "본문은 30도÷3=10도의 구획에 다른 사인을 배정한다. 이를 일곱 행성의 칼데아식 데칸 표로 교체하지 않았다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "korean-reference",
+    "targetText": "그러나 어떤 것도 그 자체만으로 온전한 힘을 발휘하지 않는다. 모든 사인은 같은 크기의 구획에서 특정 사인들과 힘을 나누고, 손님을 맞이하듯 천계의 교류를 맺어 자기 부분을 그 안에 머무는 사인들에게 내준다. 명칭은 수에서 나왔다. 서른 도로 이루어진 사인은 세 몫으로 움직이며, 자기 안에 모이는 사인들에게 열 도씩을 준다. 그렇게 각 사인에는 차례로 세 사인이 머문다.\n\n이처럼 자연은 깊은 어둠에 둘러싸여 있고, 진실은 보이지 않는 곳과 사물의 수많은 굽이 속에 있다. 익히는 길은 짧지 않으며 하늘은 지름길을 좋아하지 않는다. 서로 다른 형상이 겹쳐 놓여 눈을 속이고, 제 힘을 달리 보이며 이름을 감춘다. 이 어둠은 눈이 아니라 깊은 정신으로 몰아내야 한다. 신은 겉모습이 아니라 안쪽까지 알아보아야 한다.\n\n이제 무엇이 무엇과 어떤 순서로 연결되는지 설명하겠다. 다른 사인들 안에 들어 있는 서로 다른 힘이 감추어지지 않도록 하려는 것이다."
+  },
+  {
+    "id": "manilius-iv-294-311-pair-1",
+    "translationId": "manilius-iv-294-311",
+    "language": "la",
+    "termIds": [
+      "manilius-decanica",
+      "manilius-signum",
+      "manilius-critical-marks",
+      "manilius-ratio"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=115",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 294–311행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 294–311행 · 인쇄본 99–100쪽 · PDF 115–116쪽",
+    "notes": [
+      "298번 행은 Breiter 본문에 없고 교감란에 관련 전승이 실려 있다. 거기 적힌 명칭을 시구로 본문에 채우지 않았다. 제목과 용어 연결은 편집자의 안내이다.",
+      "본문은 30도÷3=10도의 구획에 다른 사인을 배정한다. 이를 일곱 행성의 칼데아식 데칸 표로 교체하지 않았다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "parallel-translation",
+    "paragraphIndex": 0,
+    "sourceText": "sed nihil in semet totum ualet; omnia uires\ncum certis sociant signis sub partibus aequis\net uelut hospitio mundi commercia iungunt\nconceduntque suas partes retinentibus astris.\na numero nomen positum est, quod partibus astra\ncondita tricenis triplici sub sorte feruntur\net tribuunt denas in se coeuntibus astris,\ninque uicem ternis habitantur sidera signis.",
+    "sourceTextHash": "656b6f08550e0cd656e7261478690d81d6be4bfb2e7539a259d1f171666f7dbe",
+    "sourceVerseIds": [
+      294,
+      295,
+      296,
+      297,
+      299,
+      300,
+      301,
+      302
+    ],
+    "targetText": "그러나 어떤 것도 그 자체만으로 온전한 힘을 발휘하지 않는다. 모든 사인은 같은 크기의 구획에서 특정 사인들과 힘을 나누고, 손님을 맞이하듯 천계의 교류를 맺어 자기 부분을 그 안에 머무는 사인들에게 내준다. 명칭은 수에서 나왔다. 서른 도로 이루어진 사인은 세 몫으로 움직이며, 자기 안에 모이는 사인들에게 열 도씩을 준다. 그렇게 각 사인에는 차례로 세 사인이 머문다.",
+    "transcriptionEdition": "Breiter 1907년 라틴어 지면 직접 전사·대조. 영어 중역 아님."
+  },
+  {
+    "id": "manilius-iv-312-337-passage",
+    "translationId": "manilius-iv-312-337",
+    "language": "la",
+    "termIds": [
+      "manilius-decanica",
+      "manilius-degree-aspects",
+      "manilius-signum"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=116",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 312–337행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 312–337행 · 인쇄본 100–100쪽 · PDF 116–116쪽",
+    "notes": [
+      "앞 여섯 사인의 배정은 양→양·황소·쌍둥이, 황소→게·사자·처녀, 쌍둥이→천칭·전갈·사수, 게→염소·물병·물고기, 사자→양·황소·쌍둥이, 처녀→게·사자·처녀이다. 각 10도이며 행성 지배자는 열거하지 않는다.",
+      "333행의 여섯 번 굽는 선은 앞의 관계 기하와 연결되는 표현이다. 수량으로서의 6도 또는 6하우스로 바꾸지 않았다.",
+      "황소자리가 자기 구획을 받지 않아도 원래 성질은 남아 다른 배정과 섞인다는 318~319행의 단서를 보존했다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "korean-reference",
+    "targetText": "양자리는 첫 부분을 자기 몫으로 요구한다. 둘째 몫은 황소자리에, 셋째는 쌍둥이자리에 넘어간다. 이렇게 사인은 세 개의 열 도로 나뉘며, 받아들인 주인의 수만큼 서로 다른 힘을 준다. 황소자리에서는 방식이 다르다. 어느 구획도 자기 몫으로 갖지 않는다. 첫 부분을 게자리, 가운데를 사자자리, 마지막을 에리고네에게 준다. 그래도 본래 성질은 사인 전체에 남아 각 부분에 자신의 힘을 섞는다.\n\n쌍둥이자리의 첫 열 도는 천칭자리가, 그 이웃은 전갈자리가 차지하며, 셋째 부분은 켄타우로스의 몫이다. 수량에서는 누구도 구별되지 않고, 순서에 따라 넘겨받는다.\n\n게자리는 맞은편 염소자리의 사인으로 첫 열 도를 향하게 한다. 자신도 해당하는 시간의 전환점과 동등한 영예를 그곳에 주기 때문이다. 게자리는 겨울의 어둠과 같은 길이의 낮을 이루며, 반대 전환점에서 같은 계통의 법칙을 수행한다. 둘째 부분의 별빛에는 물병자리가 물을 붓고, 게자리의 마지막 부분에서는 그 뒤를 물고기자리가 잇는다.\n\n사자자리는 삼각 관계의 법칙 아래 동료를 기억하여, 선두의 숫양과 자신에게 사각으로 연결된 황소자리를 받아들인다. 셋째 부분은 쌍둥이자리 아래 놓인다. 여섯 번 굽이치는 선도 이들을 연결한다.\n\n에리고네는 게자리에 특별한 영예를 주어 첫 부분을 배정한다. 그 이웃 부분은 이웃인 네메아의 사자여, 그대에게 남겨 둔다. 한 부분만이 자신의 것이니, 앞서 다른 이들이 마다한 권한을 그곳에서는 누리도록 허락받는다."
+  },
+  {
+    "id": "manilius-iv-312-337-pair-1",
+    "translationId": "manilius-iv-312-337",
+    "language": "la",
+    "termIds": [
+      "manilius-decanica",
+      "manilius-degree-aspects",
+      "manilius-signum"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=116",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 312–337행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 312–337행 · 인쇄본 100–100쪽 · PDF 116–116쪽",
+    "notes": [
+      "앞 여섯 사인의 배정은 양→양·황소·쌍둥이, 황소→게·사자·처녀, 쌍둥이→천칭·전갈·사수, 게→염소·물병·물고기, 사자→양·황소·쌍둥이, 처녀→게·사자·처녀이다. 각 10도이며 행성 지배자는 열거하지 않는다.",
+      "333행의 여섯 번 굽는 선은 앞의 관계 기하와 연결되는 표현이다. 수량으로서의 6도 또는 6하우스로 바꾸지 않았다.",
+      "황소자리가 자기 구획을 받지 않아도 원래 성질은 남아 다른 배정과 섞인다는 318~319행의 단서를 보존했다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "parallel-translation",
+    "paragraphIndex": 0,
+    "sourceText": "namque aries primam partem sibi uindicat ipsi,\naltera sors tauro, geminis pars tertia cedit.\nsic in ter denas diuisum ducitur astrum\ntotque dabit uires, dominos quotcumque recepit.\ndiuersa in tauro ratio est: nec parte sub ulla\ncensetur. cancro primam mediamque leoni,\nextremam Erigonae tribuit. natura per astrum\nstat tamen et proprias miscet per singula uires.",
+    "sourceTextHash": "93919aa47112f716c27de53c68168dec278e072997810d3df9c3468fe41344a4",
+    "sourceVerseIds": [
+      312,
+      313,
+      314,
+      315,
+      316,
+      317,
+      318,
+      319
+    ],
+    "targetText": "양자리는 첫 부분을 자기 몫으로 요구한다. 둘째 몫은 황소자리에, 셋째는 쌍둥이자리에 넘어간다. 이렇게 사인은 세 개의 열 도로 나뉘며, 받아들인 주인의 수만큼 서로 다른 힘을 준다. 황소자리에서는 방식이 다르다. 어느 구획도 자기 몫으로 갖지 않는다. 첫 부분을 게자리, 가운데를 사자자리, 마지막을 에리고네에게 준다. 그래도 본래 성질은 사인 전체에 남아 각 부분에 자신의 힘을 섞는다.",
+    "transcriptionEdition": "Breiter 1907년 라틴어 지면 직접 전사·대조. 영어 중역 아님."
+  },
+  {
+    "id": "manilius-iv-338-362-passage",
+    "translationId": "manilius-iv-338-362",
+    "language": "la",
+    "termIds": [
+      "manilius-decanica",
+      "manilius-signum",
+      "manilius-poetic-sign-names"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=116",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 338–362행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 338–362행 · 인쇄본 100–101쪽 · PDF 116–117쪽",
+    "notes": [
+      "물고기자리의 저본 배정은 첫째 양자리·둘째 황소자리·나머지 자신이다. 앞의 연속 배정만 보고 염소·물병·물고기로 고치지 않았다. 저본 내부의 배열과 반복의 차이를 주석으로 보존한다.",
+      "천칭자리의 둘째는 ‘뒤따르는 사인’이라고만 표현한다. 메모의 배정표에서는 그 순서에 따라 전갈자리라고 해석하되 본문에 없는 명칭을 인용문처럼 꾸미지 않는다.",
+      "각 사인의 상호 환대·답례·권한이라는 비유를 살렸다. 이를 행성의 뮤추얼 리셉션 정의와 같다고 확정하지 않는다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "korean-reference",
+    "targetText": "천칭자리는 그 본을 기뻐하며, 다른 시기에 자신처럼 밤과 낮을 다스리는 숫양을 따른다. 숫양은 봄의 멍에를 조절하고, 천칭자리는 저울로 가을의 시간을 맞춘다. 첫 부분은 누구에게도 내주지 않으며, 그 옆 부분은 뒤따르는 사인에 넘긴다. 셋째 합계는 켄타우로스의 몫이다.\n\n전갈자리는 첫 부분에 염소자리를 두고, 둘째의 주인은 물에서 이름을 얻은 이로 삼았다. 마지막 부분들은 물고기자리 아래 있게 했다. 당긴 활시위로 화살을 겨누는 이는 삼각 관계의 권리에 따라 첫 부분을 숫양에, 가운데를 황소자리에, 끝을 쌍둥이자리에 넘긴다.\n\n염소자리도 추한 배은의 허물을 남기지 않는다. 게자리에게 선물을 갚고, 자신을 받아 준 이를 다시 받아들여 제 시작 부분을 준다. 그 옆은 사자자리의 통치를 받으며, 끝 부분은 처녀자리의 것으로 한다.\n\n마르지 않는 샘과 흐르는 항아리를 즐기는 이는 자기 첫 부분의 권리를 천칭자리에 맡긴다. 붙어 있는 열 도는 전갈이 제 몫으로 요구하고, 젊은이의 사인 마지막은 켄타우로스가 차지한다.\n\n이제 사인들의 끝을 닫는 두 물고기가 남는다. 첫 경계의 쓰임을 숫양에 넘기고, 황소자리여, 가운데 열 도에서는 그대를 받아들인다. 남은 것은 스스로 차지하여 천구의 마지막에서 움직인다. 이처럼 배정의 마지막 부분도 끝난다."
+  },
+  {
+    "id": "manilius-iv-338-362-pair-1",
+    "translationId": "manilius-iv-338-362",
+    "language": "la",
+    "termIds": [
+      "manilius-decanica",
+      "manilius-signum",
+      "manilius-poetic-sign-names"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=116",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 338–362행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 338–362행 · 인쇄본 100–101쪽 · PDF 116–117쪽",
+    "notes": [
+      "물고기자리의 저본 배정은 첫째 양자리·둘째 황소자리·나머지 자신이다. 앞의 연속 배정만 보고 염소·물병·물고기로 고치지 않았다. 저본 내부의 배열과 반복의 차이를 주석으로 보존한다.",
+      "천칭자리의 둘째는 ‘뒤따르는 사인’이라고만 표현한다. 메모의 배정표에서는 그 순서에 따라 전갈자리라고 해석하되 본문에 없는 명칭을 인용문처럼 꾸미지 않는다.",
+      "각 사인의 상호 환대·답례·권한이라는 비유를 살렸다. 이를 행성의 뮤추얼 리셉션 정의와 같다고 확정하지 않는다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "parallel-translation",
+    "paragraphIndex": 0,
+    "sourceText": "sed libra exemplo gaudet pariterque regentem\nnoctes atque dies diuerso in tempore secum\nlanigerum sequitur; ueris iuga temperat ille,\nhaec autumnalis componit lancibus horas.\nnulli concedit primam traditque sequenti\nuicinam partem; centauri tertia summa est.",
+    "sourceTextHash": "ceb84bed8ab894ad7b01a2bc42062ff1e53dc3a32400b697ffacb2b03766e2eb",
+    "sourceVerseIds": [
+      338,
+      339,
+      340,
+      341,
+      342,
+      343
+    ],
+    "targetText": "천칭자리는 그 본을 기뻐하며, 다른 시기에 자신처럼 밤과 낮을 다스리는 숫양을 따른다. 숫양은 봄의 멍에를 조절하고, 천칭자리는 저울로 가을의 시간을 맞춘다. 첫 부분은 누구에게도 내주지 않으며, 그 옆 부분은 뒤따르는 사인에 넘긴다. 셋째 합계는 켄타우로스의 몫이다.",
+    "transcriptionEdition": "Breiter 1907년 라틴어 지면 직접 전사·대조. 영어 중역 아님."
+  },
+  {
+    "id": "manilius-iv-363-408-passage",
+    "translationId": "manilius-iv-363-408",
+    "language": "la",
+    "termIds": [
+      "manilius-decanica",
+      "manilius-signum",
+      "manilius-ratio",
+      "manilius-fata"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=117",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 363–408행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 363–408행 · 인쇄본 101–103쪽 · PDF 117–119쪽",
+    "notes": [
+      "363~386행은 한 사인에 단 하나의 성품과 직업을 대응시키는 해석을 저자 스스로 제한한다. 이 단서를 생략한 고정 성격표로 재구성하지 않았다.",
+      "391~407행은 앎의 어려움과 노고를 신적 지식의 가치로 설명하는 철학적 수사이다. 자기희생이나 위험 행동을 실행하라는 안내가 아니다.",
+      "405행의 nepotes는 문맥상 방탕한 사람들로 읽었다. 후손이 조상의 죽음을 바란다는 계보 이야기로 바꾸지 않았다. 408행의 연결 문장까지 이 묶음에 넣고, 개별 도수 논의는 409행에서 시작한다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "korean-reference",
+    "targetText": "이 계산법은 숨어 있는 우주의 힘을 드러내고, 하늘을 더 많은 방식과 거듭 등장하는 이름으로 나눈다. 여러 번 나눌수록 천구는 더 잘 결합한다. 익숙한 명칭에 마음이 속지 않도록 하라. 별들은 인간에게 보여 주기보다 감춘다. 예리한 정신의 시선을 더 깊이 보내야 한다. 찾을 것은 그 안에 남아 있으니 모든 힘으로 따라가야 한다. 사람이 어떤 사인의 구획에서 생겨났다면 그 사인의 성품을 지니고, 그 별 아래 태어난 것이다. 자연은 열 도씩의 몫을 통해 그렇게 드러난다.\n\n같은 사인 아래에서도 출생이 다양한 것이 증거가 될 것이다. 하나의 사인에서 나오는 그 수많은 생물에게 몸의 수만큼 성품이 있으며, 다른 사인들을 통해 외부의 성질을 드러내고 사람과 짐승의 출생이 뒤섞여 나타난다. 여러 구획에 배치된 것들이 결합하여, 자기 이름 아래 서로 다른 법칙을 지니기 때문이다.\n\n그러므로 양자리가 양털만, 황소자리가 쟁기만, 쌍둥이자리가 무사들만, 게자리가 상품만을 사랑하는 것은 아니다. 사자가 사냥꾼으로만, 처녀가 교사로만 오는 것도 아니며, 천칭자리만 측정을, 전갈자리만 무기를, 켄타우로스만 짐승을, 염소자리만 불을, 젊은이만 물을, 두 물고기만 바다를 맡는 것도 아니다. 사인들은 섞이며 여러 힘으로 연결된다.\n\n그대는 말할 것이다. ‘쉽게 빛을 알아볼 듯했는데, 그대는 나에게 크고 세밀한 노고를 요구하며 마음을 다시 깊은 어둠에 잠기게 한다.’ 그대가 찾는 것은 신이다. 그대는 하늘에 올라, 운명의 법 아래 태어난 몸으로 운명을 알고, 자신의 마음을 넘어서 우주를 얻으려 한다.\n\n가치에 맞는 노고가 드는 것이다. 이토록 큰 것이 대가 없이 주어지지는 않으니, 굽은 길과 사물의 사슬을 이상히 여기지 마라. 들어갈 수 있었다는 것으로 충분하다. 나머지는 우리의 몫으로 하자. 산을 파헤치지 않으면 금은 그대를 피하고, 덮인 흙은 제 재물로 가는 길을 막는다. 보석을 얻으려고 온 세계를 건너고, 돌의 값을 위해 바다에 나서는 것도 마다하지 않는다.\n\n근심 많은 농부들은 한 해의 소망을 다 써 버리며, 믿을 수 없는 들판에 얼마나 큰 대가를 치르는가! 우리는 이익을 구하며 전리품을 찾아 배와 마르스를 따를 것이다. 그토록 큰 값을 주고 덧없는 것을 바라다니 부끄러워할 일이다. 사치에도 군역이 있고, 배는 파멸을 위해 깨어 있으며, 방탕한 이들은 자신이 망할 일을 바라며 자주 한숨짓는다. 하늘에 무엇을 바치겠는가? 하늘 전체를 얻는 값이 얼마나 되겠는가? 자기 안에 신이 있을 수 있도록 인간 자신을 들여야 한다. 태어나는 이들의 성품은 이 법칙으로 살펴야 한다."
+  },
+  {
+    "id": "manilius-iv-363-408-pair-1",
+    "translationId": "manilius-iv-363-408",
+    "language": "la",
+    "termIds": [
+      "manilius-decanica",
+      "manilius-signum",
+      "manilius-ratio",
+      "manilius-fata"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=117",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 363–408행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 363–408행 · 인쇄본 101–103쪽 · PDF 117–119쪽",
+    "notes": [
+      "363~386행은 한 사인에 단 하나의 성품과 직업을 대응시키는 해석을 저자 스스로 제한한다. 이 단서를 생략한 고정 성격표로 재구성하지 않았다.",
+      "391~407행은 앎의 어려움과 노고를 신적 지식의 가치로 설명하는 철학적 수사이다. 자기희생이나 위험 행동을 실행하라는 안내가 아니다.",
+      "405행의 nepotes는 문맥상 방탕한 사람들로 읽었다. 후손이 조상의 죽음을 바란다는 계보 이야기로 바꾸지 않았다. 408행의 연결 문장까지 이 묶음에 넣고, 개별 도수 논의는 409행에서 시작한다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "parallel-translation",
+    "paragraphIndex": 0,
+    "sourceText": "haec ratio retegit latitantis robora mundi\nin plurisque modos repetitaque nomina caelum\ndiuidit et melius sociat, quo saepius, orbem.\nnec tua sub titulis fallantur pectora notis;\ndissimulant, non ostentant mortalibus astra.\naltius est acies animi mittenda sagacis,\ninque aluo quaerenda manent, cunctisque sequendum\nuiribus. et cuius signi quis parte creatur,\neius habet mores atque illo nascitur astro.\ntalis per denas sortes natura feretur.",
+    "sourceTextHash": "8eeffe82b94c4b5435409586ba8eaaa2781c7342e2f3fd136d96e9cf155bd9a9",
+    "sourceVerseIds": [
+      363,
+      364,
+      365,
+      366,
+      367,
+      368,
+      369,
+      370,
+      371,
+      372
+    ],
+    "targetText": "이 계산법은 숨어 있는 우주의 힘을 드러내고, 하늘을 더 많은 방식과 거듭 등장하는 이름으로 나눈다. 여러 번 나눌수록 천구는 더 잘 결합한다. 익숙한 명칭에 마음이 속지 않도록 하라. 별들은 인간에게 보여 주기보다 감춘다. 예리한 정신의 시선을 더 깊이 보내야 한다. 찾을 것은 그 안에 남아 있으니 모든 힘으로 따라가야 한다. 사람이 어떤 사인의 구획에서 생겨났다면 그 사인의 성품을 지니고, 그 별 아래 태어난 것이다. 자연은 열 도씩의 몫을 통해 그렇게 드러난다.",
+    "transcriptionEdition": "Breiter 1907년 라틴어 지면 직접 전사·대조. 영어 중역 아님."
+  },
+  {
+    "id": "manilius-iv-409-443-passage",
+    "translationId": "manilius-iv-409-443",
+    "language": "la",
+    "termIds": [
+      "manilius-damnandae-partes",
+      "manilius-signum",
+      "manilius-ratio"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=119",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 409–443행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 409–443행 · 인쇄본 103–104쪽 · PDF 119–120쪽",
+    "notes": [
+      "개별 도수에 대한 차이를 토지·항구·강의 다양성에 빗댄다. 하늘의 특정 도수가 얼거나 타 버린다는 것을 현대 관측값으로 제시하지 않았다.",
+      "419행 torres와 424행 curriue는 저본의 인쇄어를 남겼다. 문맥은 메마른 토지와 강의 왕복 흐름으로 옮기되 전사 보조의 다른 표현으로 교체하지 않았다.",
+      "431~443행은 숫자와 명칭을 시로 옮길 때 임의로 만들어서는 안 된다는 저자의 선언이다. 뒤의 도수 목록도 이 원칙에 따라 수량과 불확실한 독법을 구별한다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "korean-reference",
+    "targetText": "열 도씩의 수에 따라 어느 사인이 어느 사인을 다스리며 각각 안에 무엇이 들어 있는지 아는 것으로는 충분하지 않다. 각자의 개별 도수 자체도 살펴야 함을 기억하라. 얼음으로 굳은 곳, 불에 타 버린 곳, 두 원인으로 불모가 된 곳, 습기가 너무 많거나 적정량보다 적은 곳을 살펴야 한다. 모든 사인은 섞인 힘과 다양한 짜임으로 떠오르기 때문이다.\n\n어느 것도 한결같지 않다. 육지와 바다의 지역들, 정해진 강둑 사이에서 빛나는 강들을 보라. 곳곳에 결함이 많고 장점에는 해로움이 붙어 있다. 비옥한 들판 사이에 메마른 땅이 끼어, 작은 경계 차이로 갑자기 소출을 끊어 버린다. 방금까지 바다의 항구였던 곳이 이제 거대한 카리브디스가 되어, 칭송받던 바다의 호의가 조금 뒤 사라진다. 강은 때로 바위 사이, 때로 평야로 흐르며, 나아가거나 되돌아오며 길을 내거나 찾는다. 하늘의 구획도 사인 안에서 이처럼 달라진다.\n\n사인과 사인이 다른 것처럼 한 사인도 자기 안에서 서로 다르다. 작은 차이로 힘과 유익한 쓰임을 거부한다. 이런 도수에서 이루어지는 것은 결실 없이 생겨나거나 무너지며, 좋은 일도 많은 탄식과 섞여 겪게 된다. 나는 이러한 도수를 알맞은 시로 표시해야 한다.\n\n그러나 누가 그토록 많은 수를 그토록 여러 번 운율의 법에 맞추어 말하고, 수많은 도수를 되풀이하며, 구획마다 합계와 원인을 모두 말할 수 있겠는가? 말이 번거롭다고 표현의 모습을 바꾸기 시작할 것인가? 그러면 운치가 사라지고, 귀가 외면하는 노고는 헛되이 끝난다.\n\n그러나 시로 운명의 법과 하늘의 성스러운 움직임을 전하는 나는 정해진 바에 맞추어 말해야 한다. 형상을 만들어 내는 것이 아니라 있는 형상을 보여 주어야 한다. 신을 드러냈다는 것만으로 충분히 큰일이며, 그 무게는 신 자신이 줄 것이다. 우주를 말에 매달리게 해서는 안 된다. 우주는 실제 내용으로 더 위대할 것이다. 노래할 것을 정확히 가리킬 수만 있어도 내 말의 가치는 작지 않다. 이제 사인들에서 피해야 할 도수가 무엇인지 들어라."
+  },
+  {
+    "id": "manilius-iv-409-443-pair-1",
+    "translationId": "manilius-iv-409-443",
+    "language": "la",
+    "termIds": [
+      "manilius-damnandae-partes",
+      "manilius-signum",
+      "manilius-ratio"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=119",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 409–443행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 409–443행 · 인쇄본 103–104쪽 · PDF 119–120쪽",
+    "notes": [
+      "개별 도수에 대한 차이를 토지·항구·강의 다양성에 빗댄다. 하늘의 특정 도수가 얼거나 타 버린다는 것을 현대 관측값으로 제시하지 않았다.",
+      "419행 torres와 424행 curriue는 저본의 인쇄어를 남겼다. 문맥은 메마른 토지와 강의 왕복 흐름으로 옮기되 전사 보조의 다른 표현으로 교체하지 않았다.",
+      "431~443행은 숫자와 명칭을 시로 옮길 때 임의로 만들어서는 안 된다는 저자의 선언이다. 뒤의 도수 목록도 이 원칙에 따라 수량과 불확실한 독법을 구별한다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "parallel-translation",
+    "paragraphIndex": 0,
+    "sourceText": "nec satis est signis dominantia discere signa\nper denos numeros, et quae sint insita cuique;\nsed proprias partes ipsas spectare memento\nuel glacie rigidas, uel quas exusserit ignis,\net sterilis utroque tamen, qua largior umor,\nquaque minor iusto fuerit; namque omnia mixtis\nuiribus et uario consurgunt sidera textu.",
+    "sourceTextHash": "aef89354d6c3a0e8325d80add6a808e8a6f53b86b1cd2d7bdc06e37fd7cdd362",
+    "sourceVerseIds": [
+      409,
+      410,
+      411,
+      412,
+      413,
+      414,
+      415
+    ],
+    "targetText": "열 도씩의 수에 따라 어느 사인이 어느 사인을 다스리며 각각 안에 무엇이 들어 있는지 아는 것으로는 충분하지 않다. 각자의 개별 도수 자체도 살펴야 함을 기억하라. 얼음으로 굳은 곳, 불에 타 버린 곳, 두 원인으로 불모가 된 곳, 습기가 너무 많거나 적정량보다 적은 곳을 살펴야 한다. 모든 사인은 섞인 힘과 다양한 짜임으로 떠오르기 때문이다.",
+    "transcriptionEdition": "Breiter 1907년 라틴어 지면 직접 전사·대조. 영어 중역 아님."
+  },
+  {
+    "id": "manilius-iv-444-458-passage",
+    "translationId": "manilius-iv-444-458",
+    "language": "la",
+    "termIds": [
+      "manilius-damnandae-partes",
+      "manilius-signum",
+      "manilius-ratio"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=120",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 444–458행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 444–458행 · 인쇄본 104–105쪽 · PDF 120–121쪽",
+    "notes": [
+      "원문은 서수와 덧셈·곱셈을 섞어 쓴다. 해석한 도수 목록은 양 4·6·7·10·12·14·18·21·25·27, 황소 9·13·17·22·24·26·28·30, 쌍둥이 1·3·7·15·19·21·25·27·29이다. 원문의 식과 환산값을 대조해 기록한다.",
+      "이 번호는 저본이 세는 도수의 순번이다. 1°부터 셀 때의 구간과 현대의 0°부터 시작하는 연속각을 구별하며, 실제 개인의 길흉을 보증하는 도수표로 제공하지 않는다.",
+      "이 목록은 불리한 도수의 열거이지 행성별 모노모이리아의 지배자 목록이 아니다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "korean-reference",
+    "targetText": "숫양의 넷째 도수는 해롭고 여섯째도 유익하지 않다. 일곱째도 그와 같으며 열째와 열째에서 둘을 더한 도수도 그러하다. 일곱과 아홉의 두 합계를 각각 두 배로 한 도수, 스물에 하나를 더한 도수도 해롭다. 다섯을 더한 것과 일곱을 더한 것도 불리한 몫을 채운다.\n\n황소자리의 아홉째는 나쁘며, 열 뒤의 셋째도 그와 같다. 열에 일곱을 더한 도수도 그러하다. 열한을 두 배로 한 것과 열둘을 두 배로 한 것도 해롭다. 열과 셋을 합쳐 두 배로 한 것, 서른에서 둘을 뺀 것, 그리고 서른째도 그러하다.\n\n쌍둥이자리에서는 첫째와 셋째가 해롭고 일곱째도 낫지 않다. 다섯을 세 번 센 도수, 스물에서 하나 모자란 것과 하나 더한 것도 해롭다. 스물다섯째에서도 같은 해가 생기며, 거기에 둘을 더하거나 넷을 더한 경우도 그러하다."
+  },
+  {
+    "id": "manilius-iv-444-458-pair-1",
+    "translationId": "manilius-iv-444-458",
+    "language": "la",
+    "termIds": [
+      "manilius-damnandae-partes",
+      "manilius-signum",
+      "manilius-ratio"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=120",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 444–458행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 444–458행 · 인쇄본 104–105쪽 · PDF 120–121쪽",
+    "notes": [
+      "원문은 서수와 덧셈·곱셈을 섞어 쓴다. 해석한 도수 목록은 양 4·6·7·10·12·14·18·21·25·27, 황소 9·13·17·22·24·26·28·30, 쌍둥이 1·3·7·15·19·21·25·27·29이다. 원문의 식과 환산값을 대조해 기록한다.",
+      "이 번호는 저본이 세는 도수의 순번이다. 1°부터 셀 때의 구간과 현대의 0°부터 시작하는 연속각을 구별하며, 실제 개인의 길흉을 보증하는 도수표로 제공하지 않는다.",
+      "이 목록은 불리한 도수의 열거이지 행성별 모노모이리아의 지배자 목록이 아니다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "parallel-translation",
+    "paragraphIndex": 0,
+    "sourceText": "lanigeri pars quarta nocet, nec sexta salubris;\nseptima par illi ac decuma a decumaque secunda.\nquaeque duas duplicat summas septemque nouemque,\nunaque uiginti numeris pars addita laedit,\net quinta, et duram consummat septima partem.",
+    "sourceTextHash": "3450276dd881fe3f5be2f3929773043a4baa63f43673adf2bf9e988a0dd5a641",
+    "sourceVerseIds": [
+      444,
+      445,
+      446,
+      447,
+      448
+    ],
+    "targetText": "숫양의 넷째 도수는 해롭고 여섯째도 유익하지 않다. 일곱째도 그와 같으며 열째와 열째에서 둘을 더한 도수도 그러하다. 일곱과 아홉의 두 합계를 각각 두 배로 한 도수, 스물에 하나를 더한 도수도 해롭다. 다섯을 더한 것과 일곱을 더한 것도 불리한 몫을 채운다.",
+    "transcriptionEdition": "Breiter 1907년 라틴어 지면 직접 전사·대조. 영어 중역 아님."
+  },
+  {
+    "id": "manilius-iv-459-472-passage",
+    "translationId": "manilius-iv-459-472",
+    "language": "la",
+    "termIds": [
+      "manilius-damnandae-partes",
+      "manilius-signum"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=121",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 459–472행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 459–472행 · 인쇄본 105–105쪽 · PDF 121–121쪽",
+    "notes": [
+      "환산 목록은 게 1·3·6·8·11·15·17·20·25·27·29, 사자 1·4·10·15·22·25·28·30, 처녀 1·6·11·14·18·21·24·30이다. 사자자리 465~466행의 bis quinta ... terque는 다섯의 두 배와 세 배를 모두 가리키므로 15를 빠뜨리지 않았다.",
+      "구절의 해로움·죽음은 저자의 역사적 도수 배정이다. 특정한 각도에 출생했다는 이유로 질병이나 사망을 진단하는 기준이 아니다.",
+      "461행의 저본은 rabit이다. 교감란의 다른 독법 rapit을 본문으로 가져오지 않았으며 한국어도 사나움을 나타내도록 맞추었다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "korean-reference",
+    "targetText": "게자리의 첫째도 셋째도 여섯째도 해를 면하지 못한다. 여덟째도 같으며, 열을 지나 첫째가 사납게 군다. 다섯을 세 번 센 도수의 작용도 더 온화하지 않다. 열 뒤의 일곱째와 스무째, 거기에 다섯·일곱·아홉을 더한 합계도 슬픔을 가져온다.\n\n네메아의 사자여, 그대도 첫 접촉부터 두렵고 넷째 도수에서 짓누른다. 다섯을 두 번 센 것과 세 번 센 것도 유익한 하늘을 갖지 못한다. 스물에 둘을 더한 것이 해롭고, 거기에 셋을 더한 것과 다시 같은 수가 뒤따른 것도 결함이 있다. 마지막인 서른째 역시 첫째보다 낫지 않다.\n\n에리고네의 첫째와 여섯째, 열에 하나·넷·여덟을 더한 도수는 결코 유익하지 않다. 스물 바로 다음과 넷을 더한 것도 두려워할 것이며, 세 번째 열의 끝을 닫는 마지막 몫도 그러하다."
+  },
+  {
+    "id": "manilius-iv-459-472-pair-1",
+    "translationId": "manilius-iv-459-472",
+    "language": "la",
+    "termIds": [
+      "manilius-damnandae-partes",
+      "manilius-signum"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=121",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 459–472행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 459–472행 · 인쇄본 105–105쪽 · PDF 121–121쪽",
+    "notes": [
+      "환산 목록은 게 1·3·6·8·11·15·17·20·25·27·29, 사자 1·4·10·15·22·25·28·30, 처녀 1·6·11·14·18·21·24·30이다. 사자자리 465~466행의 bis quinta ... terque는 다섯의 두 배와 세 배를 모두 가리키므로 15를 빠뜨리지 않았다.",
+      "구절의 해로움·죽음은 저자의 역사적 도수 배정이다. 특정한 각도에 출생했다는 이유로 질병이나 사망을 진단하는 기준이 아니다.",
+      "461행의 저본은 rabit이다. 교감란의 다른 독법 rapit을 본문으로 가져오지 않았으며 한국어도 사나움을 나타내도록 맞추었다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "parallel-translation",
+    "paragraphIndex": 0,
+    "sourceText": "nec cancri prima immunis nec tertia pars est\nnec sexta; octaua est similis, decumaque peracta\nprima rabit; nec ter quintae clementior usus.\nseptima post decumam luctum et uicesima portat\net quinta accedens et septima nonaque summa.",
+    "sourceTextHash": "47c49028e86af5b7203bacebf077e9eda27f53a4d0d31aefb0abca9102713372",
+    "sourceVerseIds": [
+      459,
+      460,
+      461,
+      462,
+      463
+    ],
+    "targetText": "게자리의 첫째도 셋째도 여섯째도 해를 면하지 못한다. 여덟째도 같으며, 열을 지나 첫째가 사납게 군다. 다섯을 세 번 센 도수의 작용도 더 온화하지 않다. 열 뒤의 일곱째와 스무째, 거기에 다섯·일곱·아홉을 더한 합계도 슬픔을 가져온다.",
+    "transcriptionEdition": "Breiter 1907년 라틴어 지면 직접 전사·대조. 영어 중역 아님."
+  },
+  {
+    "id": "manilius-iv-473-485-passage",
+    "translationId": "manilius-iv-473-485",
+    "language": "la",
+    "termIds": [
+      "manilius-damnandae-partes",
+      "manilius-signum",
+      "manilius-ratio"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=121",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 473–485행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 473–485행 · 인쇄본 105–106쪽 · PDF 121–122쪽",
+    "notes": [
+      "천칭의 474행은 undecimae에 tertia가 더해진다는 압축된 구문으로 읽어 14를 취했다. 3과 11을 각각 독립 항목으로 추가하지 않는다. 이어 17·24·27·29·30이며 처음 5·7을 포함한다.",
+      "전갈의 목록은 1·3·6·10·15·22·25·28·29이다. 사수는 4·8·12·16·20·24·26·28·30으로 읽었다. 사수 483~484행은 두 배라는 지시가 병렬 표현에도 미친다고 해석한 것이며, 압축되어 있다는 점을 남긴다.",
+      "불리한 도수를 피하라는 말은 역사 문헌 본문의 명령형을 옮긴 것이다. 현재의 의사결정이나 건강·안전의 기준으로 권하지 않는다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "korean-reference",
+    "targetText": "집게발에서는 다섯째와 일곱째가 열 때문에 이롭지 않다. 열한째에 셋째를 더한 것, 열째에 일곱째를 더한 것, 스물을 지나 넷째와 일곱째, 그리고 수를 닫는 마지막 둘인 스물아홉째와 서른째도 그러하다.\n\n전갈자리는 첫째에서 해로움의 책임을 지며, 셋째와 여섯째, 열째, 다섯을 세 번 센 도수도 같다. 열한째를 두 배로 한 것, 스물다섯째, 스물여덟째에 머무는 수와 스물아홉째에 이른 수도 그러하다.\n\n운명이 허락한다면 켄타우로스의 넷째 도수를 고르지 마라. 여덟째도 피하라. 여섯을 두 번 채운 때, 여덟 또는 열을 두 번 센 때에도 그 공기는 두렵다고 한다. 열둘을 다시 두 배로 한 것, 열과 셋도 마찬가지로 센 것, 일곱을 네 번 센 것, 또는 열을 세 번 나타낸 때도 그러하다."
+  },
+  {
+    "id": "manilius-iv-473-485-pair-1",
+    "translationId": "manilius-iv-473-485",
+    "language": "la",
+    "termIds": [
+      "manilius-damnandae-partes",
+      "manilius-signum",
+      "manilius-ratio"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=121",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 473–485행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 473–485행 · 인쇄본 105–106쪽 · PDF 121–122쪽",
+    "notes": [
+      "천칭의 474행은 undecimae에 tertia가 더해진다는 압축된 구문으로 읽어 14를 취했다. 3과 11을 각각 독립 항목으로 추가하지 않는다. 이어 17·24·27·29·30이며 처음 5·7을 포함한다.",
+      "전갈의 목록은 1·3·6·10·15·22·25·28·29이다. 사수는 4·8·12·16·20·24·26·28·30으로 읽었다. 사수 483~484행은 두 배라는 지시가 병렬 표현에도 미친다고 해석한 것이며, 압축되어 있다는 점을 남긴다.",
+      "불리한 도수를 피하라는 말은 역사 문헌 본문의 명령형을 옮긴 것이다. 현재의 의사결정이나 건강·안전의 기준으로 권하지 않는다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "parallel-translation",
+    "paragraphIndex": 0,
+    "sourceText": "at quinta in chelis et septima inutilis aestu,\ntertia et undecimae et decumae quae septima iuncta est,\nquartaque bis denis actis et septima et ambae,\nquae numerum claudunt, nona et tricesima partes.",
+    "sourceTextHash": "da4f66911d0e4bcece6f8020643033309006e521f918980cee3997e60c25f086",
+    "sourceVerseIds": [
+      473,
+      474,
+      475,
+      476
+    ],
+    "targetText": "집게발에서는 다섯째와 일곱째가 열 때문에 이롭지 않다. 열한째에 셋째를 더한 것, 열째에 일곱째를 더한 것, 스물을 지나 넷째와 일곱째, 그리고 수를 닫는 마지막 둘인 스물아홉째와 서른째도 그러하다.",
+    "transcriptionEdition": "Breiter 1907년 라틴어 지면 직접 전사·대조. 영어 중역 아님."
+  },
+  {
+    "id": "manilius-iv-486-501-passage",
+    "translationId": "manilius-iv-486-501",
+    "language": "la",
+    "termIds": [
+      "manilius-damnandae-partes",
+      "manilius-signum",
+      "manilius-critical-marks"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=122",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 486–501행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 486–501행 · 인쇄본 106–106쪽 · PDF 122–122쪽",
+    "notes": [
+      "염소의 목록은 7·9·13·17·19·25·27, 물병은 1·3·5·9·11·21·25·29, 물고기는 3·5·7·11·17·25·27로 읽었다. 도수의 순번과 실제 효력에 대한 주장은 구별한다.",
+      "저본에는 숫자에 문자가 붙은 489b행이 실제 인쇄되어 있다. 교감란은 Bentley가 제2권 232행에서 이 줄을 가져와 넣었다고 기록한다. 이 줄을 원래 번호 없는 단순 설명으로 빼거나 보통 490행으로 다시 번호 매기지 않았다.",
+      "인쇄 순서는 489·489b·491·490·492이다. 500·501번은 본문에서 제외되어 있고 교감란에 전승이 있으므로 한국어 본문에 채워 넣지 않았다. 이 묶음은 486–501번 범위지만 실제 인쇄 본문은 15행이다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "korean-reference",
+    "targetText": "염소자리의 일곱째 도수는 바랄 만하지 않다. 아홉째도 이에 동의하고, 열째 다음에 셋째를 더해 표시한 것도 그렇다. 스무째여, 그대에게서 셋 또는 하나를 빼앗는 것, 다섯을 더하거나 일곱째만큼 더 나아간 것도 그렇다.\n\n언제나 물을 쏟는 물병자리의 첫째 도수는 해로우며, 셋째와 다섯째, 아홉이라는 수에 놓인 것도 같다. 열을 채운 다음 첫째, 스물 다음 첫째, 스물다섯째, 거기에 넷을 더한 스물아홉째도 피해야 한다.\n\n두 물고기에서는 셋째와 다섯째와 일곱째, 열한째와 열에 일곱을 더한 것을 두려워해야 한다. 다섯을 다섯 번 센 것과, 거기에 둘을 더 받은 합계도 두려운 것으로 여겨질 것이다.\n\n이 도수들은 차가움과 불, 건조함이나 넘치는 습기로 공기를 불모로 만든다."
+  },
+  {
+    "id": "manilius-iv-486-501-pair-1",
+    "translationId": "manilius-iv-486-501",
+    "language": "la",
+    "termIds": [
+      "manilius-damnandae-partes",
+      "manilius-signum",
+      "manilius-critical-marks"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=122",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 486–501행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 486–501행 · 인쇄본 106–106쪽 · PDF 122–122쪽",
+    "notes": [
+      "염소의 목록은 7·9·13·17·19·25·27, 물병은 1·3·5·9·11·21·25·29, 물고기는 3·5·7·11·17·25·27로 읽었다. 도수의 순번과 실제 효력에 대한 주장은 구별한다.",
+      "저본에는 숫자에 문자가 붙은 489b행이 실제 인쇄되어 있다. 교감란은 Bentley가 제2권 232행에서 이 줄을 가져와 넣었다고 기록한다. 이 줄을 원래 번호 없는 단순 설명으로 빼거나 보통 490행으로 다시 번호 매기지 않았다.",
+      "인쇄 순서는 489·489b·491·490·492이다. 500·501번은 본문에서 제외되어 있고 교감란에 전승이 있으므로 한국어 본문에 채워 넣지 않았다. 이 묶음은 486–501번 범위지만 실제 인쇄 본문은 15행이다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "parallel-translation",
+    "paragraphIndex": 0,
+    "sourceText": "nec pars optanda est capricorni septima; nona\nconsentit, decumamque sequens quam tertia signat,\net tribus aut una, quae te, uicesima, fraudat,\nquaeue auget quinto numero uel septima fertur.",
+    "sourceTextHash": "abfabca638c86bbc62c52fe0ec60ead42da2bbb393df61ec292676eac66cba1a",
+    "sourceVerseIds": [
+      486,
+      487,
+      488,
+      489
+    ],
+    "targetText": "염소자리의 일곱째 도수는 바랄 만하지 않다. 아홉째도 이에 동의하고, 열째 다음에 셋째를 더해 표시한 것도 그렇다. 스무째여, 그대에게서 셋 또는 하나를 빼앗는 것, 다섯을 더하거나 일곱째만큼 더 나아간 것도 그렇다.",
+    "transcriptionEdition": "Breiter 1907년 라틴어 지면 직접 전사·대조. 영어 중역 아님."
+  },
+  {
+    "id": "manilius-iv-502-534-passage",
+    "translationId": "manilius-iv-502-534",
+    "language": "la",
+    "termIds": [
+      "manilius-signum",
+      "manilius-poetic-sign-names",
+      "manilius-critical-marks",
+      "ascendant-and-descendant"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=122",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 502–534행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 502–534행 · 인쇄본 106–107쪽 · PDF 122–123쪽",
+    "notes": [
+      "본문은 사인의 일반적인 성질에 더하여 상승 순간의 조건을 따로 보라고 한다. 단순한 태양 사인 성격표로 축약하지 않았다.",
+      "황소자리의 성별 표현과 게자리의 시력·죽음에 관한 비유는 역사 문헌의 주장이다. 현대의 성별 표현을 평가하거나 실명·질환·사망을 예측하는 기준이 아니다.",
+      "플레이아데스의 작은 무리라는 522행은 난문 표지를 함께 보존했다. 보조 전사에서 읽기 쉬운 표현을 가져와 저본의 표지를 삭제하지 않았다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "korean-reference",
+    "targetText": "사인의 도수들을 알았다고 해서 주의를 놓지 마라. 어떤 것들은 시간에 따라 달라지며, 떠오를 때 고유한 힘을 얻고 그 뒤에는 힘을 늦춘다.\n\n양자리가 수면에서 몸을 일으켜 뿔보다 굽힌 목을 먼저 내밀 때, 자기 재산에 만족하지 못하는 마음을 낳고 약탈을 향한 의욕을 주며 부끄러움을 풀어 버린다. 그만큼 대담하게 나아가기를 즐긴다. 자신도 뿔을 들이밀어 쓰러지거나 이기려 하기 때문이다.\n\n그들에게는 같은 자리에 머물며 평온한 관심사 속에서 부드러운 한가로움을 누리는 일이 즐겁지 않다. 언제나 낯선 도시들을 지나고 새로운 바다를 탐색하며 온 세계의 손님이 되기를 좋아한다. 숫양 자신이 증인이다. 유리 같은 바다를 가르며 양털로 황금빛을 물들이고, 운명에 따라 누이를 잃은 프릭소스를 등에 태워 파시스 강둑과 콜키스까지 데려갔기 때문이다.\n\n떠오르는 황소자리의 첫 별들이 낳은 이들은 여성적으로 걸어간다. 원인을 통해 자연을 찾는 것이 허용된다면 그 까닭을 멀리서 찾을 필요가 없다. 황소는 뒤돌아 하늘에 오르고, 작은 무리의 플레이아데스 별자리를 지녀 처녀들이 풍성하기 때문이다. 농촌의 부도 더해진다. 어린 황소에게 고유한 몫에 따라 쟁기로 뒤집힌 들판을 일군다.\n\n물결이 쌍둥이를 똑같은 몫으로 드러내고 가릴 때에는 배움의 관심을 주고 익힌 기술로 이끈다. 침울한 기질이 아니라 부드러운 매력에 물든 마음을 만들며, 좋은 목소리와 울리는 키타라를 갖추게 하고 춤의 재능을 현악의 연주와 결합한다.\n\n그러나 검은 게자리가 어두운 구름과 함께 나타날 때, 마치 포이보스의 불에 타서 그 빛이 사라진 듯 짙은 어둠이 별자리를 흐리게 하면, 출생은 눈빛을 잃고 운명은 태어나는 이에게 두 겹의 죽음을 줄 것이다. 각자는 스스로 살아가면서 스스로를 장사지내기도 한다."
+  },
+  {
+    "id": "manilius-iv-502-534-pair-1",
+    "translationId": "manilius-iv-502-534",
+    "language": "la",
+    "termIds": [
+      "manilius-signum",
+      "manilius-poetic-sign-names",
+      "manilius-critical-marks",
+      "ascendant-and-descendant"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=122",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 502–534행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 502–534행 · 인쇄본 106–107쪽 · PDF 122–123쪽",
+    "notes": [
+      "본문은 사인의 일반적인 성질에 더하여 상승 순간의 조건을 따로 보라고 한다. 단순한 태양 사인 성격표로 축약하지 않았다.",
+      "황소자리의 성별 표현과 게자리의 시력·죽음에 관한 비유는 역사 문헌의 주장이다. 현대의 성별 표현을 평가하거나 실명·질환·사망을 예측하는 기준이 아니다.",
+      "플레이아데스의 작은 무리라는 522행은 난문 표지를 함께 보존했다. 보조 전사에서 읽기 쉬운 표현을 가져와 저본의 표지를 삭제하지 않았다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "parallel-translation",
+    "paragraphIndex": 0,
+    "sourceText": "nec te perceptis signorum cura relinquat\npartibus; in tempus quaedam mutantur et ortu\naccipiunt proprias uires ultraque remittunt.",
+    "sourceTextHash": "0fb742ca0083e2c0ea520c3532e3923bb765cc2cfbcfdf52ec6e0b21897940b1",
+    "sourceVerseIds": [
+      502,
+      503,
+      504
+    ],
+    "targetText": "사인의 도수들을 알았다고 해서 주의를 놓지 마라. 어떤 것들은 시간에 따라 달라지며, 떠오를 때 고유한 힘을 얻고 그 뒤에는 힘을 늦춘다.",
+    "transcriptionEdition": "Breiter 1907년 라틴어 지면 직접 전사·대조. 영어 중역 아님."
+  },
+  {
+    "id": "manilius-iv-535-567-passage",
+    "translationId": "manilius-iv-535-567",
+    "language": "la",
+    "termIds": [
+      "manilius-signum",
+      "manilius-poetic-sign-names",
+      "manilius-fata"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=123",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 535–567행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 535–567행 · 인쇄본 107–109쪽 · PDF 123–125쪽",
+    "notes": [
+      "도시의 창건·파괴와 법·통치의 배정을 저본대로 옮겼다. 출생 사인으로 현재 사람의 정치적 성공이나 도덕성을 판단하는 규칙으로 제시하지 않는다.",
+      "552행은 땅 이후의 하늘 권한이라는 제국적·종교적 찬양의 표현을 남겼다. 실제 관측 천체의 지배권 정의로 바꾸지 않았다.",
+      "566~567행은 특정 전쟁의 승리와 얼굴의 상해를 압축해 연결한다. 암시된 인물의 상세 전기를 라틴어에 없는 본문으로 추가하지 않았다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "korean-reference",
+    "targetText": "누군가 태어날 때 굶주린 사자가 수면 위로 얼굴을 내밀고 벌린 턱으로 천구에 오른다면, 그 사람은 아버지와 자녀에게 잘못을 저지를 것이다. 자신이 얻은 부를 남겨 주지 않고 재산을 자기 몸속에 가라앉힌다. 그토록 큰 굶주림과 무서운 식욕이 마음을 붙잡아, 자신을 잡아먹어도 결코 다 채우지 못한다. 장례와 무덤에 쓸 값마저 잔칫상으로 바꿔 버린다.\n\n옛 시대를 정의로 다스리다가 그 시대가 쇠하자 다시 떠났던 에리고네가 떠오르면, 최고의 지배권을 통해 높은 자리를 줄 것이다. 법과 신성한 규범의 지배자, 정결함으로 신들의 성소를 섬기는 이를 낳는다.\n\n가을의 집게발이 떠오르기 시작할 때, 균등한 천칭의 무게 아래 태어난 이는 행복하다! 생사에 관한 저울을 바로 세우는 재판관이 되고, 땅에 멍에를 씌우며 법을 제안할 것이다. 도시와 왕국은 그를 두려워하고 한 사람의 뜻으로 다스려질 것이며, 땅의 권한 뒤에는 하늘의 권한도 기다릴 것이다.\n\n전갈이 꼬리 끝의 빛을 들어 올릴 때 별들의 지지를 받으며 태어난 사람이 있다면, 그는 땅에 도시들을 더할 것이다. 옷을 걷어 매고 멍에를 함께 멘 소와 굽은 쟁기로 성벽의 윤곽을 그을 것이다. 또는 세워진 도시를 무너뜨려 마을을 들판으로 돌리고, 집터에서 익은 이삭이 다시 나오게 할 것이다. 그만큼 큰 역량과 그에 따른 권력을 지닐 것이다.\n\n활잡이가 첫 모습을 드러내어 다시 떠오를 때에도 전쟁에서 이름날 마음을 준다. 큰 개선으로 두드러진 승리자를 조국의 성채로 이끌고, 그 사람은 높은 성벽을 세우기도 하고 무너뜨리기도 할 것이다. 그러나 성공에 지나치게 너그럽던 운은 얼굴에서는 시기하여, 이마에 가장 가혹하게 군다. 전쟁에서 두려운 그 승리자는 달아나기 전, 트레비아와 칸나이와 호수의 승리 값을 그런 얼굴로 치르고 있었다."
+  },
+  {
+    "id": "manilius-iv-535-567-pair-1",
+    "translationId": "manilius-iv-535-567",
+    "language": "la",
+    "termIds": [
+      "manilius-signum",
+      "manilius-poetic-sign-names",
+      "manilius-fata"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=123",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 535–567행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 535–567행 · 인쇄본 107–109쪽 · PDF 123–125쪽",
+    "notes": [
+      "도시의 창건·파괴와 법·통치의 배정을 저본대로 옮겼다. 출생 사인으로 현재 사람의 정치적 성공이나 도덕성을 판단하는 규칙으로 제시하지 않는다.",
+      "552행은 땅 이후의 하늘 권한이라는 제국적·종교적 찬양의 표현을 남겼다. 실제 관측 천체의 지배권 정의로 바꾸지 않았다.",
+      "566~567행은 특정 전쟁의 승리와 얼굴의 상해를 압축해 연결한다. 암시된 인물의 상세 전기를 라틴어에 없는 본문으로 추가하지 않았다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "parallel-translation",
+    "paragraphIndex": 0,
+    "sourceText": "si cui per summas auidus produxerit undas\nora leo et scandat malis hiscentibus orbem,\nille patri natisque reus, quas ceperit ipse,\nnon legabit opes censumque inmerget in ipso.\ntanta fames animumque cibi tam dira cupido\ncorripit, ut capiat semet nec compleat umquam;\ninque epulas funus rediget pretiumque sepulcri.",
+    "sourceTextHash": "9e65e071812ef7b4bca652423a999467c84d852f86dd198138ae9bd55d6092ea",
+    "sourceVerseIds": [
+      535,
+      536,
+      537,
+      538,
+      539,
+      540,
+      541
+    ],
+    "targetText": "누군가 태어날 때 굶주린 사자가 수면 위로 얼굴을 내밀고 벌린 턱으로 천구에 오른다면, 그 사람은 아버지와 자녀에게 잘못을 저지를 것이다. 자신이 얻은 부를 남겨 주지 않고 재산을 자기 몸속에 가라앉힌다. 그토록 큰 굶주림과 무서운 식욕이 마음을 붙잡아, 자신을 잡아먹어도 결코 다 채우지 못한다. 장례와 무덤에 쓸 값마저 잔칫상으로 바꿔 버린다.",
+    "transcriptionEdition": "Breiter 1907년 라틴어 지면 직접 전사·대조. 영어 중역 아님."
+  },
+  {
+    "id": "manilius-iv-568-584-passage",
+    "translationId": "manilius-iv-568-584",
+    "language": "la",
+    "termIds": [
+      "manilius-signum",
+      "manilius-poetic-sign-names",
+      "manilius-critical-marks"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=125",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 568–584행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 568–584행 · 인쇄본 109–109쪽 · PDF 125–125쪽",
+    "notes": [
+      "581행 전체의 삽입 의심 서체를 보존했다. 저본의 튀폰 묘사를 삭제하지도, 반대로 확정적인 원작 구절로 표시하지도 않는다.",
+      "물고기자리의 언어·도덕·성에 대한 비난과 출생·형제에 대한 배정은 저본의 역사적 가치 판단이다. 현대의 개인이나 집단에 대한 성격 평가로 제시하지 않는다.",
+      "579~582행의 베누스의 불은 신화적 욕망의 비유이다. 물과 불의 시적 대비를 물리적 연소 사건으로 바꾸지 않았다. 584행에서 상승 때의 사인별 묘사가 끝난다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "korean-reference",
+    "targetText": "염소자리의 마지막 꼬리 끝은 바다에서의 복무와 배를 돌보는 혹독한 일, 힘없이 내맡겨진 생명의 위험을 정한다.\n\n그러나 성스럽고 정결하며 올바른 사람을 바란다면, 물병자리의 첫 부분이 나올 때 그런 사람이 태어날 것이다.\n\n물고기자리의 첫 부분으로 나아가려는 마음은 품지 마라. 미움받는 수다와 해로운 말이 주어진다. 언제나 새로운 귀로 옮겨 다니며 말들을 퍼뜨리는 혀는, 두 갈래 입으로 민중 사이에 민중의 허물을 나른다. 태어나는 이들에게 신의는 없고 욕정은 극심할 것이다. 불타는 마음은 불길 한가운데로 지나가기를 즐긴다.\n\n키테레이아가 자신을 물고기로 바꾸었기 때문이다. 날개 달린 어깨를 지닌 뱀발의 튀폰을 피해 바빌론의 물속으로 잠겨 달아났을 때, 비늘 있는 물고기들에게 자신의 불을 심어 놓았다. 두 물고기 아래 태어난 이는 혼자가 아닐 것이다. 형제이거나 사랑스러운 자매이거나, 둘의 어머니가 될 것이다."
+  },
+  {
+    "id": "manilius-iv-568-584-pair-1",
+    "translationId": "manilius-iv-568-584",
+    "language": "la",
+    "termIds": [
+      "manilius-signum",
+      "manilius-poetic-sign-names",
+      "manilius-critical-marks"
+    ],
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=125",
+    "sourceLicense": "Public domain",
+    "sourceTitle": "『아스트로노미카』 제4권 568–584행 — Breiter 라틴어판(1907)",
+    "glossaryVersion": "2026-09-18.4",
+    "locator": "제4권 568–584행 · 인쇄본 109–109쪽 · PDF 125–125쪽",
+    "notes": [
+      "581행 전체의 삽입 의심 서체를 보존했다. 저본의 튀폰 묘사를 삭제하지도, 반대로 확정적인 원작 구절로 표시하지도 않는다.",
+      "물고기자리의 언어·도덕·성에 대한 비난과 출생·형제에 대한 배정은 저본의 역사적 가치 판단이다. 현대의 개인이나 집단에 대한 성격 평가로 제시하지 않는다.",
+      "579~582행의 베누스의 불은 신화적 욕망의 비유이다. 물과 불의 시적 대비를 물리적 연소 사건으로 바꾸지 않았다. 584행에서 상승 때의 사인별 묘사가 끝난다.",
+      "라틴어 지면과 한국어는 GPT-6 Astra Pro가 직접 작성·대조했다. 제목과 읽기 구간은 편집자의 것이며 원저자의 장 구분이 아니다. 영어역을 한국어로 중역한 번역이 아니다.",
+      "원자료 SHA-256은 행 번호와 라틴어 전사문을 인쇄 순서로 이어 붙인 UTF-8 문자열의 해시이다. 원본 파일·전사·문단 대응·교정 기록은 저장소의 참고 자료에 구별해 보존한다."
+    ],
+    "kind": "parallel-translation",
+    "paragraphIndex": 0,
+    "sourceText": "ultimus in caudae capricornus acumine summo\nmilitiam in ponto dictat puppisque colendae\ndira ministeria et uitae discrimen inertis.",
+    "sourceTextHash": "03dc808e904ab316bb982370b2400e9104857abb7eccc8018300283cb8a1bd4c",
+    "sourceVerseIds": [
+      568,
+      569,
+      570
+    ],
+    "targetText": "염소자리의 마지막 꼬리 끝은 바다에서의 복무와 배를 돌보는 혹독한 일, 힘없이 내맡겨진 생명의 위험을 정한다.",
+    "transcriptionEdition": "Breiter 1907년 라틴어 지면 직접 전사·대조. 영어 중역 아님."
   }
 ]

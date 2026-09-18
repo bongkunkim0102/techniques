@@ -50,6 +50,6 @@ test('each new reference is truly Latin-aligned and all earlier objects remain u
  assert.equal(p.preservedTranslations.length,136);assert.equal(p.preservedReferences.length,260);for(const old of p.preservedTranslations)assert.equal(hash(JSON.stringify(find(old.id))),old.sha256,old.id);for(const old of p.preservedReferences)assert.equal(hash(JSON.stringify(refs.find(r=>r.id===old.id))),old.sha256,old.id);
 });
 test('three books form distinct continuous reading series with historical safeguards',()=>{
- const volumes=translationVolumes(ts.filter(t=>t.sourceId==='manilius-breiter1907'));assert.deepEqual(volumes.map(v=>v.entries.length),[28,36,22]);for(const v of volumes)assert.deepEqual(v.entries.map(t=>t.series.order),v.entries.map((_,i)=>i+1));
+ const volumes=translationVolumes(ts.filter(t=>t.sourceId==='manilius-breiter1907'));assert.deepEqual(volumes.map(v=>v.entries.length),[28,36,22,22]);for(const v of volumes)assert.deepEqual(v.entries.map(t=>t.series.order),v.entries.map((_,i)=>i+1));
  for(const u of p.units)assert.match(find(u.translationId).contentNotice,/현대 천문 계산|건강/);assert.equal(p.completion.lastVerse,682);assert.equal(p.counts.cumulativeManiliusVerses,2569);
 });

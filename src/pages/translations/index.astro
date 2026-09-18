@@ -4,7 +4,7 @@ import translations from '../../data/translations.json';
 import {translationVolumes} from '../../lib/translations.mjs';
 const groups=[
   {name:'프톨레마이오스 · 테트라비블로스',id:'ptolemy-ashmand1822',description:'1822년 Ashmand 영어판 제1권 I–XXVII장·제2권 I–XIV장·제3권 I–XIX장·제4권 I–X장, 네 권 70개 장의 본문 전체를 옮겼습니다. 두 텀 표·지역 배정표·애스펙트 도식과 계산 예제를 포함합니다. 영어판 각주·역자 서문·부록은 이번 완역 범위에서 제외했습니다.'},
-  {name:'마닐리우스 · 아스트로노미카',id:'manilius-breiter1907',description:'Breiter 1907년 라틴어판의 제1·2·3권 인쇄 본문 전체를 직접 옮겼습니다. 제1권은 실제 920행·158문단, 제2권은 967행·161문단, 제3권은 682행·107문단입니다. 저본의 행 이동·삽입 의심·제외·결락과 수치상 난점은 구별해 기록했습니다. 제4–5권은 아직 번역하지 않았습니다.'},
+  {name:'마닐리우스 · 아스트로노미카',id:'manilius-breiter1907',description:'Breiter 1907년 라틴어판 제1–3권 인쇄 본문 전체와 제4권 1–584번 범위를 직접 옮겼습니다. 제1권 실제 920행, 제2권 967행, 제3권 682행, 제4권 이번 범위 582행입니다. 제외·이동·삽입·난문 표시는 보존했습니다. 제4권 585행 이후와 제5권은 아직 번역하지 않았습니다.'},
   {name:'중국 성명학 · 성명소원',id:'xingming',description:'사고전서 제요와 권1의 판단 원칙 발췌를 고전 중국어에서 직접 옮겼습니다.'}
 ].map(group=>({...group,volumes:translationVolumes(translations.filter(t=>group.id==='xingming'?t.sourceId.startsWith('xingming'):t.sourceId===group.id))}));
 ---
