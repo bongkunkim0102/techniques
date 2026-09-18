@@ -11,7 +11,7 @@ const added=provenance.chapters.map(c=>translations.find(t=>t.id===c.translation
 await mkdir('test-results',{recursive:true});
 try {
   await page.goto(origin+'/translations/',{waitUntil:'networkidle'});
-  for(const [volume,count] of [['ptolemy-book1',27],['ptolemy-book2',2]]){
+  for(const [volume,count] of [['ptolemy-book1',27],['ptolemy-book2',14]]){
     const actual=await page.locator(`#${volume} .source-item a`).evaluateAll(links=>links.map(a=>a.getAttribute('href')));
     const expected=translations.filter(t=>t.series?.id===volume).sort((a,b)=>a.series.order-b.series.order).map(t=>`/translations/${t.id}/`);
     assert.equal(actual.length,count);assert.deepEqual(actual,expected);
@@ -29,7 +29,7 @@ try {
   await page.goto(origin+'/translations/ptolemy-prescience-usefulness/');await page.locator('a[rel="next"]').click();await page.waitForURL('**/translations/ptolemy-planetary-qualities/');
   await page.goto(origin+'/translations/ptolemy-application-separation/');await page.locator('a[rel="next"]').click();await page.waitForURL('**/translations/ptolemy-universal-particular/');
   await page.locator('a[rel="prev"]').click();await page.waitForURL('**/translations/ptolemy-application-separation/');
-  await page.goto(origin+'/translations/ptolemy-climates-peoples/');assert.equal(await page.locator('a[rel="next"]').count(),0);
+  await page.goto(origin+'/translations/ptolemy-climates-peoples/');assert.equal(await page.locator('a[rel="next"]').getAttribute('href'),'/translations/ptolemy-regional-triplicities/');
   await page.screenshot({path:'test-results/translation-continuation-desktop.png',fullPage:false});
   await page.goto(origin+'/search/');await page.locator('#fulltext-search input').fill('예지가 유용한 까닭');
   await page.waitForSelector('.pagefind-ui__result a[href*="/translations/ptolemy-prescience-usefulness/"]');

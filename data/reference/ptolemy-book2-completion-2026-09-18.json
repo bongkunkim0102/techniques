@@ -1,0 +1,1574 @@
+{
+  "version": 1,
+  "batch": "ptolemy-book2-completion",
+  "date": "2026-09-18",
+  "editor": "ChatGPT (GPT-6 Astra Pro)",
+  "method": "direct-editor",
+  "externalTranslationModelCalls": 0,
+  "sourceLicense": "Public domain",
+  "sourcePdf": {
+    "url": "https://iapsop.com/ssoc/1822__ashmand___ptolemys_tetrabiblos.pdf",
+    "sha256": "eed35a5ee2125967edc6789719b599af84f16fbba72d1b1546d37de3b4dc8655",
+    "pages": 273
+  },
+  "transcription": {
+    "url": "https://www.gutenberg.org/cache/epub/70850/pg70850-images.html",
+    "edition": "Ashmand 영어 번역의 1900년 재간본; Project Gutenberg 전사",
+    "htmlSha256": "38b0fed08e4a471618c857861ea033cddbc93d700b1a4d7ad70ab68d90b93826"
+  },
+  "hashBasis": "UTF-8 bytes of sourceParagraphs.join(\"\\n\\n\"); no trailing newline. Tables have a separate SHA-256 over JSON.stringify(source).",
+  "reviewScope": "제2권 III–XIV장: 1822년 PDF 95–136쪽의 모든 지면 이미지를 직접 읽어 장 본문을 대조하고, 108쪽 표는 회전한 별도 이미지로 확인했다. 1900년 재간본 전사는 보조로 사용했다. 공백·구두점·서체의 완전한 외교적 전사 또는 그리스어 교감은 아니다. 역주는 본문과 구별하며 독립된 사람의 감수는 수행하지 않았다.",
+  "chapters": [
+    {
+      "translationId": "ptolemy-regional-triplicities",
+      "anchor": "CHAPTER_II_III",
+      "pdfPages": [
+        95,
+        108
+      ],
+      "printedPages": [
+        62,
+        75
+      ],
+      "sourceHash": "8b58e020cfbc8a744d5abc7d6839241976c3c7e419cf99928116a4143d935d5f",
+      "sourceParagraphs": [
+        "It has been already stated that there are four triplicities distinguishable in the zodiac. The first, composed of Aries, Leo, and Sagittarius, is the north-west triplicity; and Jupiter has chief dominion over it on behalf of its northern proportion; but Mars also rules with him in reference to the west. The second, consisting of Taurus, Virgo, and Capricorn, is the south-east; and in this triplicity Venus bears chief rule, in consequence of the southern proportion; but Saturn also governs with her in consideration of the east. The third, composed of Gemini, Libra, and Aquarius, is north-east; and Saturn is here the principal lord, in consequence of the eastern proportion; Jupiter, however, governs with him in reference to the north. The fourth triplicity is constituted of Cancer, Scorpio, and Pisces, and is south-west; it owns Mars as its principal ruler, in consideration of its western proportion; and, on behalf of the south, it is also governed by Venus.",
+        "The four triplicities being thus established, the whole inhabited earth is accordingly divided into four parts, agreeing with the number of the triplicities. It is divided latitudinally by the line of the Mediterranean Sea, from the Straits of Hercules to the Issican Gulf, continued onwards through the mountainous ridge extending towards the east; and by this latitudinal division its southern and northern parts are defined. Its longitudinal division is made by the line of the Arabian Gulf, the Ægean Sea, Pontus, and the lake Mæotis; and by this line are separated its eastern and western parts.",
+        "The four quadrants of the earth, thus agreeing in number with the four triplicities, one is situated in the north-west of the entire earth, and contains Celto-galatia; or, as it is commonly called, Europe. Opposed to this quadrant lies that of the south-east, towards Eastern Æthiopia; it is called the southern part of Asia Magna. Another quadrant of the entire earth is in the north-east, about Scythia, and is called the northern part of Asia Magna. To this is opposed the quadrant of the south-west, which lies about Western Æthiopia, and is known by the general name of Libya.",
+        "Each of these quadrants contains certain parts, which, in comparison with its other parts, lie more contiguous to the middle of the earth; and these parts, in respect of the quadrant to which they belong, have a situation opposite to the rest of that quadrant, in the same manner as that quadrant itself is situated in regard to the rest of the earth. For instance, in the quadrant of Europe, which is situated on the north-west of the whole earth, those parts of it which lie towards the middle of the earth, and near the angles of the other quadrants, are manifestly situated in the south-east of that quadrant. The like rule obtains in regard to the other quadrants. And hence it is evident that each quadrant is in familiarity with two oppositely-placed triplicities, its whole extent being adapted to the one triplicity which governs it as an entire quadrant; but its particular parts, situated about the middle of the earth, and lying, as regards the rest of the quadrant, in a direction contrary to that assigned to the whole quadrant altogether, being adapted to the other triplicity which rules the particular quadrant lying opposite to it. The planets exercising dominion in both these triplicities also hold familiarity with these particular parts; but, with the other more remote parts of any quadrant, only those planets hold familiarity which rule in the single triplicity to which the whole quadrant is allotted. With the said particular parts about the middle of the earth, Mercury also, as well as the other planets in dominion, bears familiarity, in consideration of his mediative condition and common nature.",
+        "Under this arrangement, it follows that the north-western parts of the first quadrant, or that of Europe, are in familiarity with the north-west triplicity, composed of Aries, Leo, and Sagittarius; and they are accordingly governed by the lords of that triplicity, Jupiter and Mars, vespertine. These parts, as distinguished by their appropriation to entire nations, are Britain, Galatia, Germany, Barsania, Italy, Apulia, Sicily, Gaul, Tuscany, Celtica, and Spain. And, since the triplicity itself and the planets connected with it in dominion are adapted to command, the natives of these countries are consequently impatient of restraint, lovers of freedom, warlike, industrious, imperious, cleanly, and high-minded. But, owing to the vespertine configuration of Jupiter and Mars, as well as the masculine condition of the anterior parts of the triplicity, and the feminine condition of its latter parts, the said nations regard women with scorn and indifference. They are, however, still careful of the community, brave and faithful, affectionate in their families, and perform good and kind actions.",
+        "Among the countries before named, Britain, Galatia, Germany, and Barsania have a greater share of familiarity with Aries and Mars; and their inhabitants are accordingly wilder, bolder, and more ferocious. Italy, Apulia, Sicily, and Gaul are in familiarity with Leo and the Sun; and the natives of these countries are more imperious, yet kind and benevolent, and careful of the commonwealth. Tuscany, Celtica, and Spain, are connected with Sagittarius and Jupiter; and their inhabitants are lovers of freedom, simplicity, and elegance.",
+        "The south-eastern parts of this quadrant, which are situated towards the middle of the earth, viz. Thrace, Macedonia, Illyria, Hellas, Achaia, and Crete, as well as the Cyclad Isles and the shores of Asia Minor and of Cyprus, assume, in addition, a connection with the south-east triplicity, which is composed of Taurus, Virgo, and Capricorn, and ruled by Venus and Saturn; and, in consequence of the vicinity of these regions to the middle of the earth, Mercury likewise has a proportionate dominion over them. Hence their inhabitants, being subjected to the rulers of both triplicities, enjoy a favourable temperament of mind and of body. From Mars they imbibe their fitness for command, their courage, and impatience of restraint; from Jupiter their love of freedom, their self-rule, their skill in guiding public affairs, and in legislation: through the influence of Venus they are also lovers of the arts and sciences, as well as of music and poetry, of public shows, and all the refinements of life; and from Mercury they deduce their hospitality, their fondness for society and communion, their love of equity and of literature, and their power of eloquence. They are also in the highest degree conversant with sacred mysteries, owing to the vespertine figuration of Venus.",
+        "It is further to be observed of these last-named countries, that the inhabitants of the Cyclad Isles, and of the shores of Asia Minor and of Cyprus, are more particularly under the influence of Taurus and Venus, and are therefore voluptuous, fond of elegance, and over-studious in their attention to the body. The people of Hellas, Achaia, and Crete, have a stronger familiarity with Virgo and Mercury, and are therefore learned and scientific, preferring the cultivation of the mind to the care of the body. The people of Macedonia, Thrace, and Illyria, are chiefly influenced by Capricorn and Saturn; whence they are greedy of wealth, inferior in civilization, and have no ordinances of civil polity.",
+        "The second quadrant consists of the southern division of Asia Magna. Such of its parts as are contained in India, Arriana, Gedrosia, Parthia, Media, Persia, Babylonia, Mesopotamia, and Assyria, are situated in the south-east of the whole earth, and have due familiarity with the south-east triplicity (composed of Taurus, Virgo, and Capricorn), and consequently with Venus, Mercury, and Saturn, in matutine figuration. The nature of the inhabitants of these countries is obedient to the dominion of these ruling influences; they worship Venus under the name of Isis; and they also pay devotion to Saturn, invoking him by the name of Mithranhelios. Many of them likewise foretell future events; and they consecrate to the gods some of their bodily members, to which superstition they are induced by the nature of the figuration of the planets before mentioned. They are, moreover, hot in constitution, amorous and lustful, fond of acting, singing, and dancing, gaudy in their dresses and ornaments; owing to the influence of Venus. Saturn, however, inclines them to simplicity of conduct; and, in consequence of the matutine figuration, they address their women publicly. There are also many among them who beget children by their own mothers. The matutine figurations also influence their mode of worship, which is performed by prostration of the breast; because the heart is the nobler part of the body, and, in its vivifying faculties, acts like the Sun. And, although the influence of Venus makes the people, generally speaking, finical and effeminate in their personal adornment and apparel, yet the connection which Saturn holds with them, by means of the east, still renders them great in mind, eminent in council, courageous and warlike.",
+        "It is to be remarked, that Parthia, Media, and Persia, have a more particular familiarity with Taurus and Venus; whence it follows that the dwellers in those countries wear splendid garments, and clothe the whole person entirely, except the breast; they are also fond of elegance and refinement. The countries about Babylon, Mesopotamia, and Assyria, are connected with Virgo and Mercury; their inhabitants are consequently studious of the sciences, and, among other attainments, excel in making observations on the five planets. India, Arriana, and Gedrosia, are connected with Capricorn and Saturn; the natives of these regions are, therefore, ill-formed in person, of dirty habits, and barbarous manners.",
+        "The remaining parts of this second quadrant, viz. Idumæa, Cœlesyria, Judæa, Phœnicia, Chaldæa, Orchynia, and Arabia Felix, occupy a situation in the vicinity of the middle of the earth, and in the north-west of the quadrant to which they actually belong: hence they are in familiarity with the north-west triplicity (which consists of Aries, Leo, and Sagittarius), and they have for their rulers, Jupiter and Mars, together with Mercury. By means of the figuration of these planets, the natives of the said countries are skilful in trade and all mercantile affairs, heedless of danger, yet treacherous, servile, and thoroughly fickle.",
+        "The inhabitants of Cœlesyria, Idumæa, and Judæa, are principally influenced by Aries and Mars, and are generally audacious, atheistical, and treacherous. The Phœnicians, Chaldæans, and Orchynians, have familiarity with Leo and the Sun, and are therefore more simple and humane in disposition; they are also studious of astrology, and pay greater reverence than all other nations to the Sun. The people of Arabia Felix are connected with Sagittarius and Jupiter: the country is fertile, and abundantly productive of spices, and its inhabitants are well-proportioned in person, free in all their habits of life, and liberal in all their contracts and dealings.",
+        "The third quadrant occupies the northern division of Asia Magna. Those several parts of it which lie to the north-east of the whole earth, and comprise Hyrcania, Armenia, Mantiana, Bactriana, Casperia, Serica, Sauromatica, Oxiana, and Sogdiana, are in familiarity with the north-east triplicity, composed of Gemini, Libra, and Aquarius, and have for their rulers Saturn and Jupiter, in matutine positions; hence the inhabitants worship Jupiter and the Sun. They are abundantly rich in all things: they possess much gold, and are dainty and luxurious in their diet. They are also learned in theology, skilled in magic, just in all their dealings, free and noble-minded, holding dishonesty and wickedness in abhorrence, strongly imbued with the softer affections of nature; and, in a worthy cause, they will even readily embrace death to preserve their friends. They are, furthermore, chaste in marriage, elegant and splendid in their dress, charitable and beneficent, and of enlightened intellect. All these qualities are principally produced by the matutine positions of Saturn and Jupiter, who influence the region.",
+        "Among these nations, however, Hyrcania, Armenia, and Mantiana, have a greater familiarity with Gemini and Mercury; and the inhabitants are consequently more acute in apprehension, but less tenacious of their probity. The countries about Bactriana, Casperia, and Serica, are connected with Libra and Venus; and the natives are endowed with much wealth and many luxuries, and take delight in poetry and songs. The nations about Sauromatica, Oxiana and Sogdiana, are influenced by Aquarius and Saturn; and are therefore less polished in manners, and more austere and uncouth.",
+        "The other parts of this quadrant, lying near the middle of the entire earth, consist of Bithynia, Phrygia, Colchis, Laxica, Syria, Commagene, Cappadocia, Lydia, Lycia, Cilicia, and Pamphylia. These, being situated in the south-west of their quadrant, have familiarity accordingly with the south-west triplicity, composed of Cancer, Scorpio, and Pisces, and are ruled by Mars and Venus, together with Mercury. In these countries Venus is principally worshipped; she is invoked as the Mother of the Gods, and by various local and indigenous appellations; Mars likewise receives adoration here, under the name of Adonis, as well as by other titles; and some of the religious services to these deities are performed by loud lamentations. The people are servile in mind, diligent in labour, yet fraudulent, knavish, and thievish; they enter into foreign armies for the sake of hire, and make prisoners and slaves of their own countrymen: besides which, they are continually subject to intestine broils. These traits arise from the matutine figurations of Mars and Venus. It is further to be observed, that, from the circumstance of Mars receiving his exaltation in Capricorn (one of the signs of the triplicity ruled by Venus), and Venus hers in Pisces (a sign belonging to the triplicity of Mars), it thence follows that the women have strong attachments and kindly affections to their husbands, are vigilant and careful in domestic affairs, and highly industrious: they also act as servants, and labour for the men, with all due obedience, in every thing.",
+        "Bithynia, Phrygia, and Colchis, must however be excepted from sharing in this general propriety of the female character; for, as these nations are chiefly connected with Cancer and the Moon, their male population is, generally speaking, slavish in its habits, timid and superstitious, while the greater part of the women, owing to the matutine and masculine position of the Moon, are of masculine manners, ambitious of command, and warlike. These females shun the addresses of men, as the Amazons did of old, and delight in the use of arms, and in manly occupations: they also amputate the right breasts of their female children for the sake of adapting them to military service, and in order that, when in combat and exposing that part of their body, they may appear to be of the male sex. Again, Syria, Commagene, and Cappadocia, are principally influenced by Scorpio and Mars; and their inhabitants are accordingly bold, wicked, treacherous, and laborious. Lydia, Cilicia, and Pamphylia, have a greater familiarity with Pisces and Jupiter; whence the inhabitants are wealthy, of mercantile habits, living in freedom and in community, faithful to their engagements, and honest in their dealings.",
+        "The remaining quadrant is the vast tract known by the general name of Libya. Its several parts, distinguished by the particular names of Numidia, Carthage, Africa, Phazania, Nasamonitis, Garamantica, Mauritania, Getulia, and Metagonitis, are situated in the south-west of the entire earth, and have due familiarity with the south-west triplicity, composed of Cancer, Scorpio, and Pisces; their rulers therefore are Mars and Venus, in vespertine position. From this figuration of the planets it results that the dwellers in these regions are doubly governed by a man and a woman, who are both children of the same mother; the man rules the males, and the woman the females. They are extremely hot in constitution, and desirous of women; their marriages are usually made by violence, and in many districts the local princes first enjoy the brides of their subjects: in some places, however, the women are common to all. The influence of Venus causes the whole people to delight in personal ornaments, and in being arrayed in female attire: nevertheless, that of Mars renders them courageous, crafty, addicted to magic, and fearless of dangers.",
+        "Again, however, of the above-named countries, Numidia, Carthage, and Africa, are more particularly in familiarity with Cancer and the Moon: their inhabitants, consequently, live in community, attend to mercantile pursuits, and enjoy abundantly all the blessings of nature. The natives of Metagonitis, Mauritania, and Getulia, are influenced by Scorpio and Mars, and are consequently ferocious and pugnacious in the highest degree; eaters of human flesh, utterly indifferent to danger, and so regardless and prodigal of blood, as to slay each other without hesitation on the slightest cause. The people in Phazania, Nasamonitis, and Garamantica, are connected with Pisces and Jupiter, and are accordingly frank and simple in manners, fond of employment, well disposed, fond of the decencies of life, and, for the most part, free and unrestrained in their actions: they worship Jupiter by the name of Ammon.",
+        "The other parts of this quadrant, which lies near the middle of the entire earth, are Cyrenaica, Marmarica, Ægypt, Thebais, Oasis, Troglodytica, Arabia, Azania, and Middle Æthiopia. These countries, being situated in the north-east of their quadrant, have due familiarity with the north-east triplicity (consisting of Gemini, Libra, and Aquarius), and are governed by Saturn and Jupiter, and also by Mercury. Their inhabitants, therefore, participate in the influence of all the five planets in vespertine figuration, and consequently cherish due love and reverence for the gods, and dedicate themselves to their service. They are addicted to sepulchral ceremonies; and, owing to the said vespertine position, they bury their dead in the earth, and remove them from the public eye. They use various laws and customs, and worship divers gods. In a state of subjection, they are submissive, cowardly, abject, and most patient; but when they command, they are brave, generous, and high-minded. Polygamy is frequent among them, and practised by the women as well as the men: they are most licentious in sexual intercourse, and allow incestuous commerce between brothers and sisters. Both men and women are extraordinarily prolific, and correspond in this respect with the fecundity of their soil. Many of the men are, however, effeminate and debased in mind; in consequence of the figuration of the malefics, together with the vespertine position of Venus; and some of them mutilate their persons.",
+        "Among these last-named countries, Cyrenaica, Marmarica, and particularly Lower Ægypt, are chiefly influenced by Gemini and Mercury: the natives are therefore highly intellectual and sensible, and gifted with capacity for every undertaking; above all, for the attainment of wisdom, and an insight into divine mysteries. They are also magicians, performing secret rites and ceremonies, and are in every respect calculated for the prosecution of all scientific inquiry. The inhabitants of Thebais, Oasis, and Troglodytica, are connected with Libra and Venus; they are of warmer constitution, and more hasty disposition, and enjoy life in all its plentitude and abundance. The natives of Arabia, Azania, and Middle Æthiopia, have familiarity with Aquarius and Saturn; they consequently feed on flesh and fish indiscriminately, and live in a state of dispersion like wild beasts; they never unite in society, but lead a wandering and savage life.",
+        "The familiarities exercised by the Planets, and by the Signs of the Zodiac, together with the manners, customs, and qualities, particular as well as general, which they produce, have now been concisely described; but in order to facilitate the knowledge and use of them, the subjoined table is inserted, to show, at one view, what countries are in connection with each sign, respectively, according to the mode above detailed."
+      ],
+      "alignment": [
+        {
+          "sourceParagraphIndex": 0,
+          "targetParagraphIndices": [
+            0,
+            1
+          ]
+        },
+        {
+          "sourceParagraphIndex": 1,
+          "targetParagraphIndices": [
+            2
+          ]
+        },
+        {
+          "sourceParagraphIndex": 2,
+          "targetParagraphIndices": [
+            3
+          ]
+        },
+        {
+          "sourceParagraphIndex": 3,
+          "targetParagraphIndices": [
+            4,
+            5
+          ]
+        },
+        {
+          "sourceParagraphIndex": 4,
+          "targetParagraphIndices": [
+            6,
+            7
+          ]
+        },
+        {
+          "sourceParagraphIndex": 5,
+          "targetParagraphIndices": [
+            8
+          ]
+        },
+        {
+          "sourceParagraphIndex": 6,
+          "targetParagraphIndices": [
+            9,
+            10
+          ]
+        },
+        {
+          "sourceParagraphIndex": 7,
+          "targetParagraphIndices": [
+            11
+          ]
+        },
+        {
+          "sourceParagraphIndex": 8,
+          "targetParagraphIndices": [
+            12,
+            13,
+            14
+          ]
+        },
+        {
+          "sourceParagraphIndex": 9,
+          "targetParagraphIndices": [
+            15
+          ]
+        },
+        {
+          "sourceParagraphIndex": 10,
+          "targetParagraphIndices": [
+            16
+          ]
+        },
+        {
+          "sourceParagraphIndex": 11,
+          "targetParagraphIndices": [
+            17
+          ]
+        },
+        {
+          "sourceParagraphIndex": 12,
+          "targetParagraphIndices": [
+            18,
+            19
+          ]
+        },
+        {
+          "sourceParagraphIndex": 13,
+          "targetParagraphIndices": [
+            20
+          ]
+        },
+        {
+          "sourceParagraphIndex": 14,
+          "targetParagraphIndices": [
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "sourceParagraphIndex": 15,
+          "targetParagraphIndices": [
+            24,
+            25
+          ]
+        },
+        {
+          "sourceParagraphIndex": 16,
+          "targetParagraphIndices": [
+            26,
+            27
+          ]
+        },
+        {
+          "sourceParagraphIndex": 17,
+          "targetParagraphIndices": [
+            28,
+            29
+          ]
+        },
+        {
+          "sourceParagraphIndex": 18,
+          "targetParagraphIndices": [
+            30,
+            31,
+            32
+          ]
+        },
+        {
+          "sourceParagraphIndex": 19,
+          "targetParagraphIndices": [
+            33,
+            34
+          ]
+        },
+        {
+          "sourceParagraphIndex": 20,
+          "targetParagraphIndices": [
+            35
+          ]
+        }
+      ],
+      "targetParagraphHashes": [
+        "5f86cdd21ae40b8fbd165c2d5cb8672652b9441d8953fc6217d22523c224b698",
+        "52100f787e31ed3211572e35b70ab1dfe2bf5a26f6cc292a25a91d05e968007c",
+        "b5ca544a6f79028623ab797d3b23d68cb7ffd39cd71643b8d2b8913ad4da506d",
+        "3694ca9577120caf75163ec62878060fac5192f3f8d96f5717f209d5ad442aee",
+        "15634101217112b3ca58fc86c5c8a8121ee90c263f045804928dbdc3dd012a05",
+        "e3d79baaf2e6d184e40542dec2a7f7160edeea3a8ee2541e33f216ae43a7f343",
+        "09970f1a1a98e9022fe14563e9b3219f1197f8630533fa8975a4bca3cb9444d6",
+        "7cff5e9557a7086a4131a03d7bbe83f14b33dc92a8fb97c773065439792fcc74",
+        "e7042d88b45c49d4cd378f80a9549266ccf2f7d47c8cae20f45ad5886d02d482",
+        "bb737676c7b786f5ae0f9be1a48b2fd83df559830e736c9456bb652c1c1661e0",
+        "b2aef52db8244ef3fa885f42142ce794b9bdf9bcd800c71a5849c2675920f02b",
+        "c942cbb35f5ebd08510aa898a62025b034b0721611c232b49517088e9c07f70c",
+        "b818d200d44d2a6af0823bebe49cc8919d3575ba75f63849a68497281560d53d",
+        "cc8d6f8a084e7b46e4d170d0064e41ce345c29d4144601a340ec1e423faedce0",
+        "c6031f4aea7b7f9d525381ec41036b61a2b4f51434c8809e5ea5734a9bfe1c56",
+        "aecdc764cdda48b9d726a338caad4c38efcfb97b5d7d82ba567c90e75807327e",
+        "889dbbb6bc253e7695987e51cb179352f38c827918aa16eb089dbf1a78f51a2f",
+        "db432ede17e3e093edc714744db4d0ae105147d42d190550e7486b0db0782609",
+        "78f9e6066a898a923f048daf77bb8e7573701bc023cb5536e6f960a4724b0611",
+        "334ff46c9a3ccf97d0a9628f83ed42b1c812b83fb427bc3a346100e2f4ad8fd9",
+        "cc5769a1f2bc8a7039df95e8b9dcb2db85c99060478a788fbe34ecb7a5ba36a9",
+        "cfc730df25b76d4bf5e35ae76b55373c1e0132e9a04ea8b6220cd44fa924a060",
+        "ca308a09d7b4143a35dda740ebe6d3331d03c5eb703fc82bd092a1d8064112cc",
+        "6876715506220ebfc9913851e0b43648bdacb8775d20dc617ab1a26877eb1aae",
+        "b0b76feff140639f5ea8e958f0e30b993e098c3197429df7dd41dfe3bb6ec860",
+        "7ffe924ed9f738f8e29c9576b18a12142ce04c4d39e89106cda72f0218149083",
+        "20f341169bab8ff16e5a18d54f4a2f4d2b2bdc71ebd185c0895c631567f34a36",
+        "5f7ac57599d70224658a7a964c1be8f7f4b905e0df4b1fdbba8adb50e207b6fb",
+        "fa722bd8a28b0bcba79eec3a2279d84278bdcba4dce91be47f76a19c14053b42",
+        "9e04f8d78b6c223a240b672396c5b70e488eb5c430f6636f3e590c2548c9137b",
+        "dad252932af76213ff561c4bbcc850201eaee8d4d1e20a38e1151c26db4b655b",
+        "32d3464cf14b74174b2c767d78a20db893125c1cc51e7da9fe69b43210c30aa1",
+        "af5689a0eb2f9843bf775873852a018956cce8fc4f07eadf684e89ec54f5f15d",
+        "995e8d6c10829434dbbd6d99e6fd9dc263cb7e2c7a1f9363d5fbcaf39498a9ce",
+        "662819c24047902ff8554cb33629b84d26a7a98f74ec2bc3a6df4407fc5600d5",
+        "369d339c81c1883f0ee41c11341e1565fb1572977536f33b9c837732644150a1"
+      ],
+      "variants": [
+        {
+          "chapter": 3,
+          "paragraph": 2,
+          "page": 96,
+          "from": "Of the four quadrants of the earth",
+          "to": "The four quadrants of the earth",
+          "kind": "printed-text-versus-marginal-correction"
+        },
+        {
+          "chapter": 3,
+          "paragraph": 3,
+          "page": 97,
+          "from": "his meditative condition",
+          "to": "his mediative condition",
+          "kind": "edition-wording"
+        },
+        {
+          "chapter": 3,
+          "paragraph": 15,
+          "page": 104,
+          "from": "These females, like the Amazons, shun the addresses of men,",
+          "to": "These females shun the addresses of men, as the Amazons did of old,",
+          "kind": "edition-wording"
+        },
+        {
+          "chapter": 3,
+          "paragraph": 15,
+          "page": 104,
+          "from": "when their inhabitants are wealthy",
+          "to": "whence the inhabitants are wealthy",
+          "kind": "transcription-correction"
+        }
+      ],
+      "excludedBlocks": [
+        {
+          "originalParagraphIndex": 20,
+          "reason": "표 제목: 번역 표의 캡션으로 별도 표시",
+          "text": "Table Showing all the Countries Belonging to Each Sign Respectively"
+        }
+      ],
+      "tables": [
+        {
+          "id": "ptolemy-regional-signs-table",
+          "pdfPage": 108,
+          "printedPage": 75,
+          "source": {
+            "columns": [
+              "Signs",
+              "Triplicity",
+              "Quadrant of remote countries",
+              "Countries remote from the middle of the earth",
+              "Quadrant of near countries",
+              "Countries near the middle of the earth"
+            ],
+            "rows": [
+              [
+                "Aries",
+                "North West",
+                "North West",
+                "Britain; Galatia; Germany; Barsania",
+                "South East",
+                "Cœlesyria; Idumæa; Judæa"
+              ],
+              [
+                "Taurus",
+                "South East",
+                "South East",
+                "Parthia; Media; Persia",
+                "North West",
+                "Cyclades; Cyprus; Asia Minor"
+              ],
+              [
+                "Gemini",
+                "North East",
+                "North East",
+                "Hyrcania; Armenia; Mantiana",
+                "South West",
+                "Cyrenaica; Marmarica; Lower Ægypt"
+              ],
+              [
+                "Cancer",
+                "South West",
+                "South West",
+                "Numidia; Carthage; Africa",
+                "North East",
+                "Bithynia; Phrygia; Colchis"
+              ],
+              [
+                "Leo",
+                "North West",
+                "North West",
+                "Italy; Apulia; Sicily; Gaul",
+                "South East",
+                "Phœnicia; Chaldæa; Orchynia"
+              ],
+              [
+                "Virgo",
+                "South East",
+                "South East",
+                "Mesopotamia; Babylonia; Assyria",
+                "North West",
+                "Hellas; Achaia; Crete"
+              ],
+              [
+                "Libra",
+                "North East",
+                "North East",
+                "Bactriana; Casperia; Serica",
+                "South West",
+                "Thebais; Oasis; Troglodytica"
+              ],
+              [
+                "Scorpio",
+                "South West",
+                "South West",
+                "Metagonitis; Mauritania; Getulia",
+                "North East",
+                "Syria; Commagene; Cappadocia"
+              ],
+              [
+                "Sagittarius",
+                "North West",
+                "North West",
+                "Tuscany; Celtica; Spain",
+                "South East",
+                "Arabia Felix"
+              ],
+              [
+                "Capricorn",
+                "South East",
+                "South East",
+                "India; Arriana; Gedrosia",
+                "North West",
+                "Thrace; Macedonia; Illyria"
+              ],
+              [
+                "Aquarius",
+                "North East",
+                "North East",
+                "Sauromatica; Oxiana; Sogdiana",
+                "South West",
+                "Arabia; Azania; Middle Æthiopia"
+              ],
+              [
+                "Pisces",
+                "South West",
+                "South West",
+                "Phazania; Nasamonitis; Garamantica",
+                "North East",
+                "Lydia; Cilicia; Pamphylia"
+              ]
+            ]
+          },
+          "target": {
+            "caption": "각 사인에 속하는 지역 — Ashmand 1822년판 75쪽",
+            "columns": [
+              "사인",
+              "트리플리시티 방향",
+              "먼 지역의 사분면",
+              "가운데에서 먼 지역",
+              "가까운 지역의 사분면",
+              "가운데에 가까운 지역"
+            ],
+            "note": "원판의 가로 배열을 사인별 행으로 바꾸었다. 가운데는 이 문헌이 전제하는 거주 세계의 가운데이며, 사분면은 그 세계 전체에 대한 지역의 방위이다. 옛 지역명을 현대 국가의 경계로 대체하지 않았다. 락시카·리키아처럼 본문에는 있으나 원판 표에는 없는 이름을 표에 임의로 보충하지 않았다.",
+            "rows": [
+              [
+                "양자리",
+                "북서",
+                "북서",
+                "브리튼·갈라티아·게르마니아·바르사니아",
+                "남동",
+                "코일레시리아·이두마이아·유다이아"
+              ],
+              [
+                "황소자리",
+                "남동",
+                "남동",
+                "파르티아·메디아·페르시아",
+                "북서",
+                "키클라데스 제도·키프로스·소아시아"
+              ],
+              [
+                "쌍둥이자리",
+                "북동",
+                "북동",
+                "히르카니아·아르메니아·만티아나",
+                "남서",
+                "키레나이카·마르마리카·하이집트"
+              ],
+              [
+                "게자리",
+                "남서",
+                "남서",
+                "누미디아·카르타고·아프리카",
+                "북동",
+                "비티니아·프리기아·콜키스"
+              ],
+              [
+                "사자자리",
+                "북서",
+                "북서",
+                "이탈리아·아풀리아·시칠리아·갈리아",
+                "남동",
+                "페니키아·칼데아·오르키니아"
+              ],
+              [
+                "처녀자리",
+                "남동",
+                "남동",
+                "메소포타미아·바빌로니아·아시리아",
+                "북서",
+                "헬라스·아카이아·크레타"
+              ],
+              [
+                "천칭자리",
+                "북동",
+                "북동",
+                "박트리아나·카스페리아·세리카",
+                "남서",
+                "테바이스·오아시스·트로글로디티카"
+              ],
+              [
+                "전갈자리",
+                "남서",
+                "남서",
+                "메타고니티스·마우레타니아·게툴리아",
+                "북동",
+                "시리아·콤마게네·카파도키아"
+              ],
+              [
+                "사수자리",
+                "북서",
+                "북서",
+                "투스카니·켈티카·히스파니아",
+                "남동",
+                "아라비아 펠릭스"
+              ],
+              [
+                "염소자리",
+                "남동",
+                "남동",
+                "인디아·아리아나·게드로시아",
+                "북서",
+                "트라키아·마케도니아·일리리아"
+              ],
+              [
+                "물병자리",
+                "북동",
+                "북동",
+                "사우로마티카·옥시아나·소그디아나",
+                "남서",
+                "아라비아·아자니아·중부 에티오피아"
+              ],
+              [
+                "물고기자리",
+                "남서",
+                "남서",
+                "파자니아·나사모니티스·가라만티카",
+                "북동",
+                "리디아·킬리키아·팜필리아"
+              ]
+            ]
+          },
+          "sourceTableHash": "e53263436053a64a8f66631591d5dfef15cf4c683c8247f31cfd74990c9afda0"
+        }
+      ]
+    },
+    {
+      "translationId": "ptolemy-regional-fixed-stars",
+      "anchor": "CHAPTER_II_IV",
+      "pdfPages": [
+        109,
+        109
+      ],
+      "printedPages": [
+        76,
+        76
+      ],
+      "sourceHash": "8596eb128cde52dd3eb41feca6f458916d4fc99bb2014598551415875c99bd53",
+      "sourceParagraphs": [
+        "In addition to the rules which have been already given, respecting the familiarity of the regions of the earth with the signs and planets, it must be observed, that all fixed stars which may be posited on any line, drawn from one zodiacal pole to the other, through such parts of the zodiac as may be connected with any particular country, are also in familiarity with that particular country.",
+        "And, with regard to metropolitan cities, it is necessary to state, that those points or degrees of the zodiac, over which the Sun and Moon were in transit, at the time when the construction of any such city was undertaken and commenced, are to be considered as sympathizing with that city in an especial manner; and that, among the angles, the ascendant is principally in accordance with it. In certain cases, however, where the date of foundation of a metropolis cannot be ascertained, the mid-heaven in the nativity of the reigning king, or other actual chief magistrate, is to be substituted, and considered as that part of the zodiac with which it chiefly sympathizes."
+      ],
+      "alignment": [
+        {
+          "sourceParagraphIndex": 0,
+          "targetParagraphIndices": [
+            0
+          ]
+        },
+        {
+          "sourceParagraphIndex": 1,
+          "targetParagraphIndices": [
+            1,
+            2
+          ]
+        }
+      ],
+      "targetParagraphHashes": [
+        "578dbc4595ccb689b493a0d308969a0d25c5baedbb874ab186e9fc6245e62be9",
+        "f3536a26a7a2ec54a3107604486ef0c702acdcd2548346ed2dd0c8b356ddf17d",
+        "cf6fc4ae50f787a8d9fc4556b84d030f9cf4c19c2fc9816939e871eb68ad9079"
+      ],
+      "variants": [
+        {
+          "chapter": 4,
+          "paragraph": 1,
+          "page": 109,
+          "from": "was first undertaken and commenced",
+          "to": "was undertaken and commenced",
+          "kind": "edition-wording"
+        }
+      ],
+      "excludedBlocks": []
+    },
+    {
+      "translationId": "ptolemy-eclipse-inquiry",
+      "anchor": "CHAPTER_II_V",
+      "pdfPages": [
+        109,
+        110
+      ],
+      "printedPages": [
+        76,
+        77
+      ],
+      "sourceHash": "c9743b543b91fbd0256d01a36ad1b17baab2886e3c2a2362e25cdc335b4c51c3",
+      "sourceParagraphs": [
+        "After having gone through the necessary preliminary topics, it is now proper to speak of the manner in which predictions are to be formed and considered; beginning with those which relate to general events, affecting either certain cities, or districts, or entire countries.",
+        "The strongest and principal cause of all these events exists in the ecliptical conjunctions of the Sun and Moon, and in the several transits made by the planets during those conjunctions.",
+        "One part of the observations, required in forming predictions in cases of this nature, relates to the locality of the event, and points out the cities or countries liable to be influenced by particular eclipses, or by occasional continued stations of certain planets, which at times remain for a certain period in one situation. These planets are Saturn, Jupiter, and Mars; and they furnish portentous indications, when they are stationary.",
+        "Another branch relates to time, and gives pre-information of the period at which the event will occur, and how long it will continue to operate.",
+        "The third branch is generic; and points out the classes, or kinds, which the event will affect.",
+        "The last part is specific; and foreshows the actual quality and character of the coming event."
+      ],
+      "alignment": [
+        {
+          "sourceParagraphIndex": 0,
+          "targetParagraphIndices": [
+            0
+          ]
+        },
+        {
+          "sourceParagraphIndex": 1,
+          "targetParagraphIndices": [
+            1
+          ]
+        },
+        {
+          "sourceParagraphIndex": 2,
+          "targetParagraphIndices": [
+            2
+          ]
+        },
+        {
+          "sourceParagraphIndex": 3,
+          "targetParagraphIndices": [
+            3
+          ]
+        },
+        {
+          "sourceParagraphIndex": 4,
+          "targetParagraphIndices": [
+            4
+          ]
+        },
+        {
+          "sourceParagraphIndex": 5,
+          "targetParagraphIndices": [
+            5
+          ]
+        }
+      ],
+      "targetParagraphHashes": [
+        "9b75a3ccec774c19af1e75cab79ceb54197e8b141602602f7c32337fe57f971a",
+        "7e969234ceda9c27d838bc9ef32ffdd9a1bb0685ee68e8e735295af90585f188",
+        "0dde1fe77c31d349f3d49194195d8c8f5339a0be76aa8c1267331c27d4a35cab",
+        "2f10fd306873d71d697b120781b6e4c1328e327104c90c7a4493f6a00f789744",
+        "4c77129aaea78d2e40c7f61b550b041e64e5e51ec565978b0d076899a3686f87",
+        "8da065d2f0ea3368a06742167a4f77084a8fdb1f27759877a294f4d690ecb49f"
+      ],
+      "variants": [],
+      "excludedBlocks": []
+    },
+    {
+      "translationId": "ptolemy-eclipse-regions",
+      "anchor": "CHAPTER_II_VI",
+      "pdfPages": [
+        110,
+        111
+      ],
+      "printedPages": [
+        77,
+        78
+      ],
+      "sourceHash": "24d88dc6e5496e463af4b86f6075f57329e7396c70732b16738904227c167c97",
+      "sourceParagraphs": [
+        "The first of the several branches of consideration just enumerated relates to locality, and is to be exercised in the following manner:—",
+        "In all eclipses of the Sun and Moon, and especially in such as are fully visible, the place in the zodiac, where the eclipse happens, is to be noted; and it must be seen what countries are in familiarity with that place, according to the rules laid down regarding the quadrants and the triplicities; and in like manner it must be observed what cities are under the influence of the sign in which the eclipse happens; either by means of the ascendant, and the situations of the luminaries at the time of their foundation, or by means of the mid-heaven of their kings or governors, actually ruling at the time of the eclipse; although such time may be subsequent to the building of the said cities. Whatever countries or cities shall be thus found in familiarity with the ecliptical place, will all be comprehended in the event; which will, however, principally attach to all those parts which may be connected with the identical sign of the eclipse, and in which it was visible while above the earth."
+      ],
+      "alignment": [
+        {
+          "sourceParagraphIndex": 0,
+          "targetParagraphIndices": [
+            0
+          ]
+        },
+        {
+          "sourceParagraphIndex": 1,
+          "targetParagraphIndices": [
+            1,
+            2
+          ]
+        }
+      ],
+      "targetParagraphHashes": [
+        "10e3f17cffdadb4c05dac56e8380c7eeecb21814de677a8aca88efd1efed0688",
+        "aec0a462bcb11591b96859d3f3d789c50979faf468010b0824a6844522d00170",
+        "be1025122e47bc8d75af57378a087d7e751ee75c3eca90ecaf8febf34b9614a3"
+      ],
+      "variants": [],
+      "excludedBlocks": []
+    },
+    {
+      "translationId": "ptolemy-eclipse-timing",
+      "anchor": "CHAPTER_II_VII",
+      "pdfPages": [
+        111,
+        113
+      ],
+      "printedPages": [
+        78,
+        80
+      ],
+      "sourceHash": "2ab709dc4cfd6032b5110c3ae937e67d26c23e8beb02ff472a84d61af15159c6",
+      "sourceParagraphs": [
+        "The second point requiring attention relates to time, and indicates the date when the event will take place, and the period during which its effect will continue: these are to be ascertained in the following manner.",
+        "It must however be premised, that as an eclipse, occurring at any particular season, cannot happen in all climates at the same temporal or solar hour, so neither will the magnitude of the obscuration, nor the time of its continuance, be equal in all parts of the world. First, therefore (as is done in a nativity), the angles are to be arranged, in every country connected with the eclipse, according to the hour at which the eclipse takes place and the elevation of the pole in that country. The time, during which the obscuration of the eclipse may continue in each country, is then to be noted in equatorial hours. And, after these particulars have been carefully observed, it is to be understood that the effect will endure as many years as the obscuration lasted hours, provided the eclipse was solar; but if lunar, a like number of months is to be reckoned instead of years.",
+        "The commencement of the effect, and the period of its general intensity, or strength, are to be inferred from the situation of the place of the eclipse with respect to the angles. For, if the ecliptical place be near the eastern horizon, the effect will begin to be manifested in the course of the first four months after the date of the eclipse; and its general height, or intensity, will take place in, or about, the first third part of the whole extent of its duration. If the ecliptical place happen to be in or near the mid-heaven, the effect will begin to appear in the second four months, and its general intensity will occur about the second third part; and, if the place should fall near the western horizon, the effect will begin in the third four months, and take its general intensity in the last third part of its whole duration.",
+        "Partial intensities, or relaxations of the effect, are, however, to be inferred from any combinations which may happen during the intermediate period, either in the actual places where the primary cause was presented, or in other places configurated therewith. They are also to be conjectured by the various courses, or transits, of such planets as co-operate in producing the effect, by being configurated with the sign in which the primary cause was situated; and, with this view, the matutine, vespertine, or stationary position, or midnight culmination of those planets must be observed; for the effect will be strengthened and augmented by their matutine or stationary position; but weakened and diminished by their being vespertine, or situated under the sunbeams, or by their midnight culmination."
+      ],
+      "alignment": [
+        {
+          "sourceParagraphIndex": 0,
+          "targetParagraphIndices": [
+            0
+          ]
+        },
+        {
+          "sourceParagraphIndex": 1,
+          "targetParagraphIndices": [
+            1,
+            2
+          ]
+        },
+        {
+          "sourceParagraphIndex": 2,
+          "targetParagraphIndices": [
+            3
+          ]
+        },
+        {
+          "sourceParagraphIndex": 3,
+          "targetParagraphIndices": [
+            4,
+            5
+          ]
+        }
+      ],
+      "targetParagraphHashes": [
+        "8678a50c7293d96755a58052f9713d7428910605ac4a79fbb14188c3bff5f58d",
+        "be4a94588847c3e59643e3b3ab07b53d3876247b69134bd38c6a41e8a174cd5b",
+        "fb6008c33f3be0688197da2bbacbbcb56d239e042fdb9846039bc0456c4d392c",
+        "c63dd5b5d5713ef576693cb97917df5264f11a551a6a19bf502ac2d885170544",
+        "e7c96a3a750e0ab08421768d474219f0459a53f11abd64734930ce957fc10ef8",
+        "fc193ff5d6593c4282486988da5f9238261d851f0f5f2f786deace3dbdc48e6d"
+      ],
+      "variants": [],
+      "excludedBlocks": []
+    },
+    {
+      "translationId": "ptolemy-eclipse-affected-kinds",
+      "anchor": "CHAPTER_II_VIII",
+      "pdfPages": [
+        113,
+        117
+      ],
+      "printedPages": [
+        80,
+        84
+      ],
+      "sourceHash": "a585b014bb206cc545a69bfc66f9c1269d2f206ea446d95a6ae2548920387235",
+      "sourceParagraphs": [
+        "The third division of these observations relates to the mode of distinguishing the genus, or species, of animals or things about to sustain the expected effect. This distinction is made by means of the conformation and peculiar properties of those signs in which the place of the eclipse, and the places of such fixed stars and planets, as are in dominion according to the actual sign of the eclipse, and that of the angle before it, may be found. And a planet, or fixed star, is to be considered as holding dominion when circumstanced as follows.",
+        "If there be found one planet having more numerous claims than any other to the place of the eclipse, as well as to that of the angle, being also in the immediate vicinity of those places, and visibly applying to, or receding from them, and having likewise more rights over other places connected with them by configuration; the said planet being, at the same time, lord by house, triplicity, exaltation, and terms; in such a case, only that single planet is entitled to dominion. But, if the lord of the eclipse and the lord of the angle be not identical, then those two planets which have most connections with each place are to be noted; and, of these two, the lord of the eclipse is to be preferred to the chief dominion, “although the other is to be considered as bearing rule conjointly.” And if more than two should be found, having equal pretensions to each place, that particular one among them which may be nearest to an angle, or most concerned with the places in question, by the nature of its condition, is to be selected for dominion.",
+        "But, among the fixed stars, the chief bright one (which, during the time of the eclipse, may hold connection, in any of the nine modes of apparent configuration detailed in the First Syntaxis with the angles then actually in passage), is to be admitted to dominion; as also that one which, at the ecliptical hour, may be in an eminent situation, either having risen, or having culminated with the angle following the place of the eclipse.",
+        "Having considered, according to the foregoing rules, what stars co-operate in regulating the coming event, the conformation and figure of the signs, in which the eclipse takes place and the said ruling stars may be posited, are also to be observed; and, from the properties and characteristics of those signs, the genus or species, to be comprehended in the event, is chiefly to be inferred.",
+        "For instance, should the zodiacal constellations, and those of the ruling fixed stars out of the zodiac, be of human shape, the effect will fall upon the human race. If the signs be not of human shape, but yet terrestrial, or quadrupedal, the event would be indicated to happen to animals of similar form: the signs shaped like reptiles signify that serpents and creatures of that description will be affected; those bearing the figure of ferocious beasts denote that the event will affect savage and destructive animals; and those figured like tame beasts show that it will operate on animals serviceable to mankind, and of domestic character; as intimated by the shape and figure of the signs, whether resembling horses, oxen, sheep, or any other useful animals. In addition to this, the terrestrial signs situated in the north, about the Arctic circle, indicate sudden earthquakes; and those in the south, sudden deluges of rain. And, should the ruling places be situated in signs shaped like winged animals, as in that of Aquila, or in others of similar form, the event will take effect on birds; and will chiefly attach to those which afford food to man. If the said places should be in signs formed like creatures which swim, and in marine signs, such as Delphinus, the effect will be felt by marine animals, and in the navigation of fleets; if in river signs, such as Aquarius and Pisces, it will attach to animals living in rivers and in fresh waters: and, if in Argo, both sea and fresh-water animals will be affected by it.",
+        "Again, should the ruling places be situated in tropical or in equinoctial signs, in either case alike they presignify changes in the state of the atmosphere, at the respective season to which each sign is appropriated. For example, with regard to the season of spring and the productions of the earth, if the said places should be in the sign of the vernal equinox, they will produce an effect on the buds of the vine and fig, and of such other trees as sprout forth at that season. Should they be in the sign of the summer tropic, the event will affect the gathering and depositing of fruits; and, with respect to Ægypt in particular, it will impede the rising of the Nile. If they should be in the sign of the autumnal equinox, they foreshow that it will operate on grain and on various sorts of herbs; if in the sign of the winter tropic, on potherbs, esculent vegetables, and such birds and fishes as arrive in that season.",
+        "The equinoctial signs further indicate the circumstances liable to happen in ecclesiastical concerns, and in religious matters: the tropical signs give warning of changes in the atmosphere and in political affairs; the fixed signs, of changes in institutions and in buildings; and the bicorporeal signs show that the future event will fall alike on princes and their subjects.",
+        "Again, the ruling places situated in the east, during the time of the eclipse, signify that fruits and seeds, incipient institutions, and the age of youth, will be affected; those, which may be in the mid-heaven above the earth announce that the coming event will relate to ecclesiastical affairs, to kings and princes, and to the middle age; those in the west, that it will influence the laws, old age, and persons about to die.",
+        "The proportion liable to be affected, of that genus or kind on which the event will fall, is to be ascertained by the magnitude of the obscuration caused by the eclipse, and by the positions held by the operative stars in regard to the ecliptical place; as, in vespertine position to a solar eclipse, or in matutine position to a lunar eclipse, the said stars will most usually much diminish the effect; in opposition they render it moderate; but in matutine position to a solar eclipse, or in vespertine to a lunar, they greatly augment and extend it."
+      ],
+      "alignment": [
+        {
+          "sourceParagraphIndex": 0,
+          "targetParagraphIndices": [
+            0
+          ]
+        },
+        {
+          "sourceParagraphIndex": 1,
+          "targetParagraphIndices": [
+            1,
+            2
+          ]
+        },
+        {
+          "sourceParagraphIndex": 2,
+          "targetParagraphIndices": [
+            3
+          ]
+        },
+        {
+          "sourceParagraphIndex": 3,
+          "targetParagraphIndices": [
+            4
+          ]
+        },
+        {
+          "sourceParagraphIndex": 4,
+          "targetParagraphIndices": [
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "sourceParagraphIndex": 5,
+          "targetParagraphIndices": [
+            8
+          ]
+        },
+        {
+          "sourceParagraphIndex": 6,
+          "targetParagraphIndices": [
+            9
+          ]
+        },
+        {
+          "sourceParagraphIndex": 7,
+          "targetParagraphIndices": [
+            10
+          ]
+        },
+        {
+          "sourceParagraphIndex": 8,
+          "targetParagraphIndices": [
+            11
+          ]
+        }
+      ],
+      "targetParagraphHashes": [
+        "b7807287682dc20cadfeee37a252fd53db93713f4768d2114bc66ef96d969427",
+        "361e4c94e909277a4aec06a4eaf5202cfbbf2891fe543ba5f505374a14d49ecc",
+        "6e8b354e932037960946842123ed49a99800a573bd3754823726c1bf5b37f7f8",
+        "338f5d44907c0433cd8e0e8d3188c1d0bd317fd819a852b4d2613e5988ff754f",
+        "3f69649905b2663c71730e4c2c9fd878907bc1a6b5815424b15412c449b8a4b2",
+        "df99ca4c4b7236daaa571bba27cf9189e823aa3ec485cd969ae9e04b0cd67646",
+        "113ac1e36852bc46c6033a37f64e4a03a68e14951f23881c6ba0cc9f6f6ad3c6",
+        "1fc7a593c69de523ba842ad1e73589871b6d5ea81f7a412af1c5c92546ebfb8a",
+        "8884eadfab9732ea4d47aac6391fcd7b34dedaf0f8e69b47f0c050571d7a0c2b",
+        "c4b83c59dfc4d250bfa6442c587764712feab2c09b2ac39ecdb919a00359bed2",
+        "3f850679b42f4938d2204ffe076788700a0ac1d054758ae2207e2de1b26d5ef9",
+        "877ae9869997eef8698ddb4acd35d4cdda9bf7fe9ef30748aa4d28ba6ed49802"
+      ],
+      "variants": [
+        {
+          "chapter": 8,
+          "paragraph": 1,
+          "page": 114,
+          "from": "equal preensions",
+          "to": "equal pretensions",
+          "kind": "transcription-correction"
+        }
+      ],
+      "excludedBlocks": []
+    },
+    {
+      "translationId": "ptolemy-eclipse-effects",
+      "anchor": "CHAPTER_II_IX",
+      "pdfPages": [
+        117,
+        123
+      ],
+      "printedPages": [
+        84,
+        90
+      ],
+      "sourceHash": "c663991732fec1d89a9a0edbc17eb732aa7532789d6e3cf86fcb5920f2e1735d",
+      "sourceParagraphs": [
+        "The discrimination of the peculiar properties and character of the effect about to be produced, and of its good or evil nature, occupies the fourth and last division of this part of the subject.",
+        "These properties must be gathered from the power of the stars which control the ruling places, and from the contemperament created by their relative admixture with each other and with the places which they control. For, although the Sun and Moon are the acknowledged sources of all the efficacy and dominion of the stars, and of their strength or weakness, and in a certain manner regulate and command them, still, it is by the theory of the contemperament, produced by the stars in dominion, that the effect is indicated.",
+        "In order to understand the indications thus made, it is necessary to begin by attending to the following detail of the effective property of each planet—previously observing, however, that, when any circumstance is said, for the sake of brevity, to come to pass by the general influence of the five planets, their temperament, and the power and assistance they may derive from natures similar to their own, the actual continuance of their own proper constitution, or the casual combination of any analogous influence, arising from fixed stars or places in the zodiac, are all, at the same time, to be kept in view. Consequently, whenever any general remark is herein made relative to the five planets, it will likewise be necessary to bear in mind both their temperament and quality; as fully, indeed, as if the stars themselves had not been named, but only their effective quality and nature. And, it is further to be remembered, that, in every case of compound temperament, not only the combination of the planets with each other requires to be considered, but also that of such fixed stars and zodiacal places as share in the natures of the planets, by being respectively connected with them according to the familiarities already described.",
+        "Hence, when Saturn may be sole governor, he will produce disasters concomitant with cold. And, in as far as the event may apply to the human race in particular, it will induce among men lingering diseases, consumptions, declines, rheumatisms, disorders from watery humours, and attacks of the quartan ague; as well as exile, poverty, and a general mass of evils, griefs, and alarms: deaths also will be frequent, but chiefly among persons advanced in age. That part of the brute creation which is most serviceable to man will likewise suffer, and be destroyed by disease; and men who make use of the animals thus diseased will be infected by them, and perish with them. The atmosphere will become dreadfully chilly and frosty, unwholesome, turbid and gloomy, presenting only clouds and pestilence. Copious and destructive storms of snow and hail will descend, generating and fostering insects and reptiles noxious to mankind. In rivers, and at sea, tempests will be frequent and general, causing disastrous voyages and many shipwrecks; and even fish will be destroyed. The waters of the sea will retire for a time, and again return and produce inundations; rivers will overflow their banks, and cause stagnant pools; and the fruits of the earth, especially such as are necessary to sustain life, will be lost and cut off by blight, locusts, floods, rains, hail, or some similar agency; and the loss will be so extensive as to threaten even famine.",
+        "Jupiter, if he should be lord alone, will thoroughly improve and benefit all things. Among mankind, in particular, this planet promotes honour, happiness, content, and peace, by augmenting all the necessaries and comforts of life, and all mental and bodily advantages. It induces also favours, benefits, and gifts emanating from royalty, and adds greater lustre to kings themselves, increasing their dignity and magnanimity: all men, in short, will share in the prosperity created by its influence. With regard to the operation of the event on brutes, those which are domestic and adapted to man’s service will be multiplied and will thrive; while others, which are useless and hostile to man, will be destroyed. The constitution of the atmosphere will be healthy and temperate, filled with gentle breezes and moisture, and favourable to fruits. Navigation will be safe and successful; rivers will rise to their just proportion; fruit and grain, and all other productions of the earth conducive to the welfare and happiness of the world, will be presented in abundance.",
+        "Mars, when governing alone, generally causes such mischief and destruction as is concomitant with dryness. And, among mankind, foreign wars will be excited, accompanied with intestine divisions, captivity, slaughter, insurrections of the people, and wrath of princes against their subjects; together with sudden and untimely death, the consequence of these disturbances. Feverish disorders, tertian agues, and hæmorrhages will take place, and will be rapidly followed by painful death, carrying off chiefly youthful persons: and conflagration, murder, impiety, every infraction of the law, adultery, rape, robbery, and all kinds of violence will be practised. The atmosphere will be parched by hot, pestilential, and blasting winds, accompanied by drought, lightnings, and fires emitted from the sky. At sea, ships will be suddenly wrecked by the turbulence of the wind and strokes of lightning. Rivers will fail, springs will be dried up, and there will be a scarcity of water proper for food and sustenance. All the creatures and productions of the earth adapted to the use of man, whether beasts, grain, or fruits, will be damaged or destroyed by excessive heat, by storms of thunder and lightning, or by violent winds; and whatever has been deposited in store will be destroyed or injured by fire, or by heat.",
+        "Venus, alone in domination, generally produces the same effects as Jupiter, yet with greater suavity and more agreeably. Glory, honour, and joy will attend mankind; happy marriages will be contracted, and the fortunate pairs will be blest with numerous children. Every undertaking will proceed prosperously, wealth will increase, and the conduct of human life will be altogether pure, simple and pious; due reverence being paid to all holy and sacred institutions, and harmony subsisting between princes and their subjects. The weather also will be of a favourable temperature, cooled by moistening breezes; the air altogether pure and salubrious, frequently refreshed by fertilising showers. Voyages will be performed in safety, and be attended by success and profit. Rivers will be improved, and receive their adequate supply of waters; and all things valuable and useful to mankind, whether animal or vegetable, will abundantly thrive and multiply.",
+        "Mercury, if possessing dominion, is usually conjoined with one or other of the planets before-mentioned, and is conformed and assimilated to their natures; yet as, in itself, it presents a certain addition to their power, this planet increases the respective impulses of them all. And, in regard to the operation of the event on mankind, it will promote industry and skill in business; but, at the same time, thievish propensities, robberies, and plots of treachery: if configurated with the malefics, it will produce calamities in navigation, and will also cause dry and parching diseases, quotidian fever, cough, consumption, and hæmorrhage. All parts of the ceremonies and services of religion, the affairs of the executive government, as well as manners, customs, and laws, are disposed and regulated by this planet, conformably to its admixture and familiarity with each of the others. And in consequence of the dryness of its nature, arising from its proximity to the Sun, and the rapidity of its motion, it will generate in the atmosphere turbulent, sharp and variable winds, together with thunders, meteors, and lightnings, accompanied by sudden chasms in the earth, and earthquakes: by these means it not unfrequently occasions the destruction of animals and plants assigned to the service of mankind. Besides the foregoing effects, it produces, when in vespertine position, a diminution of waters, and, when matutine, an augmentation.",
+        "Each of the planets, when fully exercising its own separate and distinct influence, will properly produce the peculiar effects above ascribed to it; but should it be combined with others, whether by configuration, by familiarity arising from the sign in which it may be posited, or by its position towards the Sun, the coming event will then happen agreeably to the admixture and compound temperament which arise from the whole communion actually subsisting among the influencing powers. It would, however, be a business of infinite labour and innumerable combinations, quite beyond the limits of this treatise, to set forth fully every contemperament and all configurations, in every mode in which they can possibly exist; and the knowledge of them must therefore be acquired by particular discrimination in every instance, under the guidance of the precepts of science. Yet the following additional remark must not be here omitted.",
+        "The nature of the familiarities, subsisting between the stars, lords of the coming event, and the countries or cities over which the event will extend, requires to be observed; for, should the stars be benefic, and their familiarity with the countries liable to sustain the effect be unimpeded by any opposing influence, they will then exercise the favourable energies of their own nature in a greater degree. And, on the other hand, when any obstacle may intervene to obstruct their familiarity, or when they themselves may be overpowered by some opposing influence, the advantages of their operation will be diminished. Again, should the stars, lords of the coming event, not be benefic, but injurious, their effect will be less severe, provided they may either have familiarity with the countries on which the event will fall, or be restrained by some opposing influence. If, however, they should have no such familiarity, and not be subjected to restraint by any others, endowed with a nature contrary to their own and possessing a familiarity with the countries in question, the evils which they produce will then be more violent and intense. And all these general affections, of whatever kind, whether good or evil, will be principally felt by those persons in whose individual nativities there may be found the same disposition of the luminaries (which are the most essential significators), or the same angles, as those existing during the eclipse which operates the general affection. The same remark equally applies to other persons, in whose nativities the disposition of the luminaries and of the angles may be in opposition to that existing during the eclipse. With respect to these coincidences, the partile agreement, or opposition, of the ecliptical place of the luminaries to the place of either luminary in a nativity, produces an effect least capable of being guarded against."
+      ],
+      "alignment": [
+        {
+          "sourceParagraphIndex": 0,
+          "targetParagraphIndices": [
+            0
+          ]
+        },
+        {
+          "sourceParagraphIndex": 1,
+          "targetParagraphIndices": [
+            1
+          ]
+        },
+        {
+          "sourceParagraphIndex": 2,
+          "targetParagraphIndices": [
+            2,
+            3
+          ]
+        },
+        {
+          "sourceParagraphIndex": 3,
+          "targetParagraphIndices": [
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "sourceParagraphIndex": 4,
+          "targetParagraphIndices": [
+            7,
+            8
+          ]
+        },
+        {
+          "sourceParagraphIndex": 5,
+          "targetParagraphIndices": [
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "sourceParagraphIndex": 6,
+          "targetParagraphIndices": [
+            12,
+            13
+          ]
+        },
+        {
+          "sourceParagraphIndex": 7,
+          "targetParagraphIndices": [
+            14,
+            15
+          ]
+        },
+        {
+          "sourceParagraphIndex": 8,
+          "targetParagraphIndices": [
+            16,
+            17
+          ]
+        },
+        {
+          "sourceParagraphIndex": 9,
+          "targetParagraphIndices": [
+            18,
+            19,
+            20,
+            21
+          ]
+        }
+      ],
+      "targetParagraphHashes": [
+        "f083cb03daf0be99e39ce59da71d197d58721e273a8b12ada8775d0689346adc",
+        "940868a73dec7a010787dd8a347e8019d5ca7c958424f68cf831244032463b07",
+        "2197c28370ddce571f56eb7db7c92f6776b32532d63d83c745b2b57d8e71948a",
+        "f86757de5d7d959fe03e9defafba52c50d2ceef7e356a6e5ca124b20bf18a088",
+        "b701e9779bc924af151d953fa166173a8e3f6599145fc1bee20902224d60b24e",
+        "4c151a2c96959da8fb08c87b1a1c92dfdf4454e82038cc25ad0b5a2073a3b31b",
+        "6300b9b8f27b308144f3b60ac9e187ddd4e50e0593ca77a872d6ffdf4a2303e3",
+        "bef12ef74f00d997e05c3a0144cd731a488b87c8c31e085bde72d4601795f408",
+        "d2acf8f648b6eb7a0a787cfb64336b48c72ba75fd4a71e9fa73f5b1189438637",
+        "88f82ca4afe64624f6be5d212166e9d6aeaaacf37b4db8ca940dabf401c736d4",
+        "42451c22deab89a170ddf0eda65f9cb1c8c717a6e793b764c287d4c11ed50586",
+        "405ba0e99fd7a92647345f6cfcc9974a8cafa40e6810cffd1e69827d55ad42d0",
+        "77c99635b65439e34ba9f546e466a09e3ffa3b1ecfa8c7936a24075f6c7da70f",
+        "0b9ab23ba488545d8aab322f35432b08c4133db78a294ce143117833789c9051",
+        "3349eeaab5da28492f3d44e414a2c4d7d7a8fede7fe879643e1aa79fa98f6a98",
+        "c305fdc07b8b735bc10e7cd336b86fb5ee1688e3288fd417ee296f88269fe04d",
+        "95e529d814c44045796d80a0b8d19c1c43f6dc64ff23d764205d36857cc65634",
+        "ed7127d9c88c5f7dd4706ec6db62fc5a1433ff193b2f7dba5b805373ac97490d",
+        "83fd6ed553d64270255a730bb0c3214c348c0605e1594ea2ed5ab21e6b0b2bd5",
+        "923c4278ac319c2837dc372dd377d1ae6e935ce8fea177bef61538652aa9ca1a",
+        "f59a2302020dcbbd44acb2e1f4d3173924c48d149d466356f95e85cff4794ad0",
+        "8911633da53f86d0f16ea35aeea9dcef748322d61e7ae76aeaa5633d114032c6"
+      ],
+      "variants": [
+        {
+          "chapter": 9,
+          "paragraph": 4,
+          "page": 119,
+          "from": "welfare and happiness of mankind",
+          "to": "welfare and happiness of the world",
+          "kind": "edition-wording"
+        },
+        {
+          "chapter": 9,
+          "paragraph": 5,
+          "page": 120,
+          "from": "as are concomitant with dryness",
+          "to": "as is concomitant with dryness",
+          "kind": "printed-grammar"
+        },
+        {
+          "chapter": 9,
+          "paragraph": 7,
+          "page": 121,
+          "from": "sharp and varied winds",
+          "to": "sharp and variable winds",
+          "kind": "edition-wording"
+        },
+        {
+          "chapter": 9,
+          "paragraph": 9,
+          "page": 123,
+          "from": "an effect at least capable of being guarded against",
+          "to": "an effect least capable of being guarded against",
+          "kind": "meaning-changing-edition-difference"
+        }
+      ],
+      "excludedBlocks": []
+    },
+    {
+      "translationId": "ptolemy-eclipse-colours-comets",
+      "anchor": "CHAPTER_II_X",
+      "pdfPages": [
+        124,
+        125
+      ],
+      "printedPages": [
+        91,
+        92
+      ],
+      "sourceHash": "1177d80eeb80a03af40211236de6a2dde7e3825dfd13f9b3abb15f946cd53ba7",
+      "sourceParagraphs": [
+        "In investigating general events, it is necessary further to observe the colours or hues displayed during an eclipse, either in the luminaries, or around them; in the shape of rods or rays, or in other similar forms. For, if these colours or hues should be black, or greenish, they portend effects similar to those produced by Saturn’s nature; if white, to those operated by Jupiter; if reddish, to those by Mars; if yellow, to those by Venus; and if of various colours, to those by Mercury.",
+        "And, if the entire bodies of the luminaries be thus coloured, or should the hues extend over all the parts immediately circumjacent to the luminaries, it is an indication that the effects will attach to most parts of the region, or countries, with which the eclipse and its ruling places may be in familiarity. If, however, the colouring should not spread over the whole surface of the luminaries, nor over all the parts around them, but be limited to some particular quarter, then only such a portion of the said countries, as may be indicated by the situation of the visible hues, will be comprehended in the event.",
+        "It is also requisite to notice, with respect to general events, the risings or first appearances of those celestial phenomena called comets, whether presenting themselves at ecliptical times or at any other periods. They are displayed in the shape of beams, trumpets, pipes, and in other similar figures, and operate effects like those of Mars and Mercury; exciting wars, heated and turbulent dispositions in the atmosphere, and in the constitutions of men, with all their evil consequences. The parts of the zodiac in which they may be posited when they first appear, and the direction and inclination of their trains, point out the regions or places liable to be affected by the events which they threaten; and their form indicates the quality and nature of those events, as well as the genus, class, or kind, on which the effect will fall. The time of their continuance shows the duration of their effect; and their position, with regard to the Sun, the period when it will commence; as, if they first appear matutine, they denote an early commencement; but, if vespertine, that it will be late and tardy.",
+        "The general and more comprehensive parts of the consideration regarding regions, countries, and cities, having now been explained, it becomes necessary to discuss certain particular points of the same consideration; that is to say, the annual occurrences which take place at certain fixed seasons, and the chief of which is that called the New Moon of the Year."
+      ],
+      "alignment": [
+        {
+          "sourceParagraphIndex": 0,
+          "targetParagraphIndices": [
+            0
+          ]
+        },
+        {
+          "sourceParagraphIndex": 1,
+          "targetParagraphIndices": [
+            1
+          ]
+        },
+        {
+          "sourceParagraphIndex": 2,
+          "targetParagraphIndices": [
+            2,
+            3
+          ]
+        },
+        {
+          "sourceParagraphIndex": 3,
+          "targetParagraphIndices": [
+            4
+          ]
+        }
+      ],
+      "targetParagraphHashes": [
+        "c4df1acc7771c47dfe2f174ed035476be4e249ad062640e8b9452c834905adab",
+        "4e9593519acda73fb760607668c15e402dc27a9131e0ad582a7268137636b953",
+        "642c0e4aff573e886b2e965b342c9615e86e1a0dada008b9f00c53b89f1a01bd",
+        "650a47b4add1b5466e170e9c301108760892149378aa1cca4a99ee2ec0bb85f8",
+        "5db3908e919207cc76ec5398240dadfdc0526c42c53f886c51d535bea81a8a48"
+      ],
+      "variants": [
+        {
+          "chapter": 10,
+          "paragraph": 2,
+          "page": 125,
+          "from": "and the form of the signs indicates",
+          "to": "and their form indicates",
+          "kind": "edition-wording"
+        }
+      ],
+      "excludedBlocks": []
+    },
+    {
+      "translationId": "ptolemy-new-moon-year",
+      "anchor": "CHAPTER_II_XI",
+      "pdfPages": [
+        125,
+        127
+      ],
+      "printedPages": [
+        92,
+        94
+      ],
+      "sourceHash": "fbd27e0a701f43c3256008084c7cd2915bd0c5928d4d1cda917d8a7cbe78f906",
+      "sourceParagraphs": [
+        "In every annual revolution made by the Sun, the first new Moon of the year is to be considered as the point of the commencement of his circuit; this is evident not only from its denomination, but from its virtue also.",
+        "The case stands thus: In the ecliptic, which, as a circle, has in fact no actual or definite beginning, the two equinoctial and the two tropical points, marked by the equator and the tropical circles, are reasonably assumed as beginnings. And to obviate any doubt as to which of these four points should preferably be considered as the primary beginning (since in the regular simple motion of a circle no part of it has any apparent precedence), the appropriate quality naturally belonging to each of these four points has been taken into consideration by the writers on this subject. And the point of the vernal equinox has been consequently designated by them as the beginning of the year; because, from that time, the duration of the day begins to exceed that of the night, and because the season then produced partakes highly of moisture, which is always a predominant quality in all incipient generation and growth. After the vernal equinox comes the summer solstice; when the day attains its greatest length, and in Ægypt, at the same period, the rise of the Nile takes place and the Dog Star appears. Then follows the autumnal equinox, when all fruits are gathered in, and the sowing of seeds recommences anew; lastly, comes the winter solstice, when the day proceeds from its shortest duration towards its increase.",
+        "Although the foregoing arrangement has been adopted by men of science to denote the commencement of the several seasons of the year, it yet seems to be more consonant to nature, and more consistent with the facts, that the combined positions of the Sun, and the new, or full, Moon, which happen when the Sun is nearest to the points above mentioned, should mark the four beginnings; and more especially if such combined positions should produce eclipses: thus, from the new or full Moon, taking place when the Sun is nearest to the first point of Aries, the spring should be dated; from that when the Sun is nearest to the first point of Cancer, the summer; from that when he is nearest to the first point of Libra, the autumn; and from that when he is nearest to the first point of Capricorn, the winter. The Sun not only produces the general qualities and constitutions of the seasons, by means of which very illiterate persons are enabled, in a certain degree, to form predictions, but he also regulates the proper significations of the signs with regard to the excitation of the winds, as well as other general occurrences, more or less subjected to occasional variation. All these general effects are usually brought about by the new or full Moon which takes place at the aforesaid points, and by the configurations then existing between the luminaries and the planets: but there are certain particular consequences which result from the new and full Moon in every sign, and from the transits of the planets; “and which require monthly investigation.”",
+        "It therefore becomes necessary to explain, in the first instance, the particular natures and attributes exercised by each sign in influencing the several constitutions of the weather, as it exists at various times of the year; these natures and attributes shall now be immediately detailed. It will be recollected, that the particular properties of the planets and the fixed stars, as affecting the wind and the atmosphere, as well as the manner in which the entire signs hold familiarity with the winds and the seasons, have been already set forth."
+      ],
+      "alignment": [
+        {
+          "sourceParagraphIndex": 0,
+          "targetParagraphIndices": [
+            0
+          ]
+        },
+        {
+          "sourceParagraphIndex": 1,
+          "targetParagraphIndices": [
+            1,
+            2
+          ]
+        },
+        {
+          "sourceParagraphIndex": 2,
+          "targetParagraphIndices": [
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "sourceParagraphIndex": 3,
+          "targetParagraphIndices": [
+            6
+          ]
+        }
+      ],
+      "targetParagraphHashes": [
+        "cd8c9026f0894722845de88f0ecebb4c725bab0b200b5c501612f20c15eb6e60",
+        "66db3ced932c41a223f22cc0c55aa0bdf70e74a95138db463df62067ac96e1a2",
+        "af7d4586877292d8ba3904b64f35182efd36936d96858de1b322be38482d9711",
+        "5f83b84a74046108687804c8cd05afcbfa2651d2b2055cd12230720a2e2724d2",
+        "2a7b1daa1dde3af8e48f954d5d7e78edaa36467e1dbd0b54a141b721fe910e13",
+        "679daa86172f4d8c2d6defba82b37cc067c919d3f2b75f25be7aa96a096f17d2",
+        "0a4d7acfdb291a9d85c31df3d28901b75cb18d0d976d2f170c8cd44143940cc5"
+      ],
+      "variants": [
+        {
+          "chapter": 11,
+          "paragraph": 1,
+          "page": 126,
+          "from": "which, as circle,",
+          "to": "which, as a circle,",
+          "kind": "transcription-correction"
+        }
+      ],
+      "excludedBlocks": []
+    },
+    {
+      "translationId": "ptolemy-signs-weather",
+      "anchor": "CHAPTER_II_XII",
+      "pdfPages": [
+        127,
+        129
+      ],
+      "printedPages": [
+        94,
+        96
+      ],
+      "sourceHash": "cc7c9d08a6070b66fe3d12991225758ce8f3d5daa7c3793ecb8cb867ffce2a27",
+      "sourceParagraphs": [
+        "The sign of Aries has a general tendency, arising from the presence of the Equinox, to promote thunder and hail. Certain of its parts, however, operate in a greater or less degree, according to the nature of the stars which compose the sign: for instance, the front parts excite rain and wind; the middle are temperate; and those behind are heating and pestilential. The northern parts, also, are heating and pernicious, but the southern cooling and frosty.",
+        "The sign of Taurus, in its general character, partakes of both temperaments, but is nevertheless chiefly warm. Its front parts, and especially those near the Pleiades, produce earthquakes, clouds and winds: the middle parts are moistening and cooling; those behind, and near the Hyades, are fiery, and cause meteors and lightnings. The northern parts are temperate; the southern turbulent and variable.",
+        "Gemini, in its general tendency, is temperate; but its leading parts produce mischief by moisture; its middle parts are entirely temperate; its latter parts mixed and turbulent. The northern parts promote earthquakes and wind; and the southern are dry and heating.",
+        "Cancer is, in the whole, serene and warm, but its anterior parts near the Præsepe are oppressively hot and suffocating; the middle parts are temperate, and the latter parts excite wind. And both its northern and southern parts are equally fiery and scorching.",
+        "Leo has a general tendency operative of stifling heat. The anterior parts are oppressively and pestilentially hot; yet the middle parts are temperate; and those behind are injurious by means of moisture. The northern parts produce variation and heat, and the southern moisture.",
+        "Virgo, in its general tendency, excites moisture and thunder. The front parts, however, are chiefly warm and noxious; the middle temperate; and the latter parts watery. The northern parts promote wind; the southern are temperate.",
+        "Libra has a general tendency to produce change and variation. Its front and middle parts are temperate; its hinder parts watery. The northern parts cause variable winds, and the southern are moistening and pestilential.",
+        "Scorpio, in its general character, is fiery and productive of thunder. The front parts cause snow; the middle are temperate; the latter parts excite earthquakes. Its northern parts are heating; its southern, moistening.",
+        "Sagittarius, generally, is effective of wind. The front parts are moistening; the middle temperate; and the hinder parts fiery. The northern parts promote wind, and the southern variation and moisture.",
+        "Capricorn’s general tendency is to operate moisture. But its anterior parts are pernicious by means of heat, its middle parts are temperate, and its latter parts promote rain. Both its northern and southern parts are injurious by means of moisture.",
+        "Aquarius, in its general character, is cold and watery. The front parts are moistening; the middle temperate; and the latter parts productive of wind. The northern parts are heating; the southern cause snow.",
+        "Pisces, in its general character, is cold and effective of wind. The front parts are temperate; the middle moistening; the hinder parts highly heating. The northern parts excite wind, and the southern are watery."
+      ],
+      "alignment": [
+        {
+          "sourceParagraphIndex": 0,
+          "targetParagraphIndices": [
+            0
+          ]
+        },
+        {
+          "sourceParagraphIndex": 1,
+          "targetParagraphIndices": [
+            1
+          ]
+        },
+        {
+          "sourceParagraphIndex": 2,
+          "targetParagraphIndices": [
+            2
+          ]
+        },
+        {
+          "sourceParagraphIndex": 3,
+          "targetParagraphIndices": [
+            3
+          ]
+        },
+        {
+          "sourceParagraphIndex": 4,
+          "targetParagraphIndices": [
+            4
+          ]
+        },
+        {
+          "sourceParagraphIndex": 5,
+          "targetParagraphIndices": [
+            5
+          ]
+        },
+        {
+          "sourceParagraphIndex": 6,
+          "targetParagraphIndices": [
+            6
+          ]
+        },
+        {
+          "sourceParagraphIndex": 7,
+          "targetParagraphIndices": [
+            7
+          ]
+        },
+        {
+          "sourceParagraphIndex": 8,
+          "targetParagraphIndices": [
+            8
+          ]
+        },
+        {
+          "sourceParagraphIndex": 9,
+          "targetParagraphIndices": [
+            9
+          ]
+        },
+        {
+          "sourceParagraphIndex": 10,
+          "targetParagraphIndices": [
+            10
+          ]
+        },
+        {
+          "sourceParagraphIndex": 11,
+          "targetParagraphIndices": [
+            11
+          ]
+        }
+      ],
+      "targetParagraphHashes": [
+        "610f1da97f22e290cb7539263076b2d3a7ec0111b39999321eb5e097b2747fdb",
+        "2df4e0e54c936f1d5dddae7fad7d6ad9fc5497507bf8bcec7221b9b8acc222f2",
+        "289467dd31a2f4a9918a23c518a5253915ed12aeef167816417b4aea6b6ef10a",
+        "29177fb6f3b741f1e88b04b362ba199e69d5e33d417197d1ce8055dcd2863e9a",
+        "33c87d2332badc2a1a9f63541564ef716c719f287f3adc4839a83e98893d905d",
+        "4f9da493613ebe1de3c97de38bf981535e1bfec7ab64a504847a51ce1dd4ce3d",
+        "36917364300d0b42862d8d73369f4ed834f7638f5d6ee2b1aa31441ce034b2df",
+        "96b488d22891400f5d1099d070fcf959f3c5d20f9a5568500ff0f92df28f495d",
+        "e81b7d1d71180048eded24c363d1c38d2353a496c4d5a278f7799e0ae100ba6c",
+        "947e630f3614ec72aea00ed637eefcbdc6d37f8fe525a0f6aa880a30cd860d40",
+        "4712bae6b90fb7a825c292950ef96f5f465233a746e2e83b3d69d4ebb12be885",
+        "4f650b10a8f4f6ea154e040f99430264151e85ff6a021d4ae56254d9d9fca305"
+      ],
+      "variants": [
+        {
+          "chapter": 12,
+          "paragraph": 3,
+          "page": 128,
+          "from": "its anterior part near",
+          "to": "its anterior parts near",
+          "kind": "transcription-correction"
+        }
+      ],
+      "excludedBlocks": []
+    },
+    {
+      "translationId": "ptolemy-weather-judgment",
+      "anchor": "CHAPTER_II_XIII",
+      "pdfPages": [
+        129,
+        133
+      ],
+      "printedPages": [
+        96,
+        100
+      ],
+      "sourceHash": "6b8e227413e5ecb948216273240636c0f740858681b017bee8bb6925f4702955",
+      "sourceParagraphs": [
+        "The first part of the consideration, requisite to form an estimate of the various constitutions liable to take effect in the atmosphere, applies to the general qualities pervading the several quarters of the year, and has therefore the most extended scope. In order to learn these qualities, it is necessary, in every quarter, to observe, as above directed, the new or full Moon which may happen before the period of the Sun’s transit through either tropical or equinoctial point, whichever it may be; and to arrange the angles (as in the case of a nativity) according to the degree and hour at which the new or full Moon may be found to happen, in every latitude for which the consideration may be desired. Such planets and stars as may have dominion over the places where the said new or full Moon happens, and over the following angle, are then to be noted, in the same manner as that stated with regard to eclipses. And after these preliminary steps have been attended to, a general inference may be drawn as to the proper qualities of the whole quarter; and the intensity or relaxation of their operation is to be contemplated from the natures of the ruling planets and stars, distinguished by the faculties they possess, and by the mode in which they affect the atmosphere.",
+        "The second part of the consideration relates to each month, and requires a similar observation of the new or full Moon first taking place on the Sun’s progress through each sign: and it must be remembered, that, if a new Moon should have happened at a period nearest to the Sun’s transit over the past tropical or equinoctial point, the new Moon also in each succeeding sign, until the commencement of the next quarter, are to be observed; but, if a full Moon should have so happened, then similar observation is to be made of each subsequent full Moon. The angles, also, must be duly attended to, as well as the planets and stars ruling in both the places; and especially the nearest phases, applications, and separations of the planets, and their properties. The peculiar qualities of the two places, and the winds, liable to be excited by the planets themselves and by those parts of the signs in which they may be situated, are likewise to be considered; and also that particular wind, which is indicated by the direction of the Moon’s ecliptical latitude. By the aid of these observations, and by weighing and comparing the existing vigour of each of the several properties and qualities, the general constitution of the atmosphere during each month may be predicted.",
+        "The third part of this consideration appertains to significations applying more minutely, and points out their force or weakness. In this case, the partile configurations of the Sun and Moon, at the intermediate quarters, as well as at the new or full Moon, are to be attentively regarded; since there is a certain variation in the constitution of the atmosphere, which usually commences about three days before, and sometimes, also, about three days after the Moon has equated her course to the Sun. The configurations effected between the Moon, at each quarterly equation, and the planets, whether by the trine, sextile, or other authorized distances, are also to be observed; because the peculiar property of the change in the constitutions of the atmosphere depends much upon such configurations, and may be accordingly perceived by considering the nature of the influence which the said configurated planets and the signs exercise over the atmosphere and the winds.",
+        "The particular quality of the weather, thus produced, will be more fully established on certain days; especially when the brighter and more efficacious fixed stars may be near the Sun, either matutine or vespertine; as, when so posited, they most frequently convert the constitution of the atmosphere to an agreement with their own natures: and, when the Luminaries may transit any one of the angles, a similar effect is also produced. At all such positions the particular constitutions of the atmosphere are subject to variation, and thus become alternately more intense or more relaxed in their respective qualities. In this manner, by certain positions of the Moon, the flux and reflux of the sea are caused: and, when the Luminaries may be in angles, a change of the wind is produced, according to the direction of the Moon’s ecliptical latitude.",
+        "Finally, in all these considerations, it must be remembered that the more general and first constituted cause takes precedence, and that the particular cause comes subsequently and secondarily: and, that the operation is in the highest degree confirmed and strengthened, when the stars, which regulate the general effects, may be also configurated towards the production of the particular effects."
+      ],
+      "alignment": [
+        {
+          "sourceParagraphIndex": 0,
+          "targetParagraphIndices": [
+            0,
+            1
+          ]
+        },
+        {
+          "sourceParagraphIndex": 1,
+          "targetParagraphIndices": [
+            2,
+            3
+          ]
+        },
+        {
+          "sourceParagraphIndex": 2,
+          "targetParagraphIndices": [
+            4,
+            5
+          ]
+        },
+        {
+          "sourceParagraphIndex": 3,
+          "targetParagraphIndices": [
+            6,
+            7
+          ]
+        },
+        {
+          "sourceParagraphIndex": 4,
+          "targetParagraphIndices": [
+            8
+          ]
+        }
+      ],
+      "targetParagraphHashes": [
+        "2aef49fcd67f92097857a3103ba990d738c85a1bd3af5b2ae5fa8c1a7cf4f411",
+        "78f7536848bbb432dfe8216f25b12dd238356aa4fb2b0b31f5d89c8778a4c091",
+        "dfba9f3c0096856eba3d4c091ccc3b4e9a38e48daf1f58e52286e2a9dca1662d",
+        "4acbe9abd111b5eac3e9fdd8ed760563f052e8044c744c2c1dbfdfd41cb241e5",
+        "173c0090b291f4a158f5e379eaeb81ce7f9f99258c91f42e52d27237f5dd7486",
+        "0129d6f7ee52b8a2abc9520df67d8d3f5790fa5242da8a6e7b9be4d5b41f042b",
+        "ae72d65e6430f88aeeeb1bdf480e8fdbac8d9833e3a2711254225fb8bde760a7",
+        "4fbfe6db3acb4b3e4e5838b590e14d1a153616aa9961a2fa847ed8f0fd66b459",
+        "6c9ee71bc9e574753d78fbc17337f88a2e5131fbb77d3791fce8ccd3cf0d8196"
+      ],
+      "variants": [
+        {
+          "chapter": 13,
+          "paragraph": 3,
+          "page": 132,
+          "from": "fixed stars maybe near",
+          "to": "fixed stars may be near",
+          "kind": "transcription-spacing"
+        }
+      ],
+      "excludedBlocks": []
+    },
+    {
+      "translationId": "ptolemy-sky-weather-signs",
+      "anchor": "CHAPTER_II_XIV",
+      "pdfPages": [
+        133,
+        136
+      ],
+      "printedPages": [
+        100,
+        103
+      ],
+      "sourceHash": "c1031fcb80495bcf51bb3b1f55a57f5367bbbf285072f901edecec16988c8434",
+      "sourceParagraphs": [
+        "In order to facilitate prognostication in minor and more limited instances, it is important to make further observation of all remarkable appearances occasionally visible around or near the Sun, Moon, and stars. And, for the diurnal state of the atmosphere, the Sun’s rising should be remarked; for the nocturnal state, his setting; but the probable duration of any such state must be considered by reference to the Sun’s configuration with the Moon; for, in most cases, each aspect, made between them, indicates the continuance of a certain state until another aspect shall take place.",
+        "Hence, the Sun, when rising or setting, if he shine clear and open, free from mists, gloom, and clouds, promises serene weather. But, if he have a wavering or fiery orb, or seem to emit or attract red rays, or if he be accompanied in any one part by the clouds called parhelia, or by other reddish clouds of extended figure, in the form of long rays, he then portends violent winds, chiefly liable to arise from those parts in which the said phenomena may have shown themselves. If he should be pale or lurid, and rise or set encumbered with clouds, or surrounded by halos, he indicates storms and winds coming from the quarter of his apparent situation: and, if he be also accompanied by parhelia, or by lurid or dark rays, similar effects are also threatened from the parts where those appearances may be situated.",
+        "The Moon’s course is to be carefully observed, at the third day before or after her conjunction with the Sun, her opposition, and her intermediate quarters; for, if she then shine thin and clear, with no other phenomena about her, she indicates serenity; but, if she appear thin and red, and have her whole unilluminated part visible, and in a state of vibration, she portends winds from the quarter of her latitude and declination: and if she appear dark, or pale and thick, she threatens storms and showers. All halos formed around the Moon should also be observed; for, if there appear one only, bright and clear, and decaying by degrees, it promises serene weather; but, if two or three appear, tempests are indicated: and, if they seem reddish and broken, they threaten tempests, with violent and boisterous winds; if dark and thick, they foreshow storms and snow; if pale, or black and broken, tempests with winds and snow, both; and, whenever a greater number may appear, storms of greater fury are portended.",
+        "The planets, also, and the brighter fixed stars, occasionally have halos, which indicate certain effects appropriate to their tinctures, and to the nature of the stars around which they may be situated.",
+        "The apparent magnitudes of the fixed stars, and the colours of the luminous masses among them, are likewise to be remarked: for, when the stars appear brighter and larger than usual, they indicate an excitation of the wind from that quarter in which they may be situated. The nebulous mass of the Præsepe in Cancer, and others similar to it, also require observation; as, if in fine weather they appear gloomy and indistinct, or thick, they thereby threaten a fall of rain; but, if clear and in continual vibration, they announce rough gales of wind.",
+        "Appearances occasionally visible in the sky, resembling the trains of comets, usually indicate wind and drought; in a degree proportionate to their multitude and continuance.",
+        "Appearances, resembling shooting or falling stars, when presented in one part only, threaten a movement of wind from that part; when in various and opposite parts, they portend the approach of all kinds of tempestuous weather, together with thunder and lightning. Clouds resembling fleeces of wool will also sometimes presage tempests; and the occasional appearance of the rainbow denotes, in stormy weather, the approach of serenity; in fine weather, storms. And, in a word, all remarkable phenomena, visible in the sky, universally portend that certain appropriate events will be produced, each harmonising with its proper cause, in the manner herein described.",
+        "After the foregoing brief investigation of the more limited as well as more extensive significations, regarding general events, it becomes proper to proceed to the doctrine of genethliacal prognostication, or judgments of individual nativities."
+      ],
+      "alignment": [
+        {
+          "sourceParagraphIndex": 0,
+          "targetParagraphIndices": [
+            0
+          ]
+        },
+        {
+          "sourceParagraphIndex": 1,
+          "targetParagraphIndices": [
+            1,
+            2
+          ]
+        },
+        {
+          "sourceParagraphIndex": 2,
+          "targetParagraphIndices": [
+            3,
+            4
+          ]
+        },
+        {
+          "sourceParagraphIndex": 3,
+          "targetParagraphIndices": [
+            5
+          ]
+        },
+        {
+          "sourceParagraphIndex": 4,
+          "targetParagraphIndices": [
+            6
+          ]
+        },
+        {
+          "sourceParagraphIndex": 5,
+          "targetParagraphIndices": [
+            7
+          ]
+        },
+        {
+          "sourceParagraphIndex": 6,
+          "targetParagraphIndices": [
+            8
+          ]
+        },
+        {
+          "sourceParagraphIndex": 7,
+          "targetParagraphIndices": [
+            9
+          ]
+        }
+      ],
+      "targetParagraphHashes": [
+        "8d42ce0b8177f4f6f3baa0fd99956946fab111ae383e59fe29e1c75d3d04d60e",
+        "07dffed4613621290da03fa9caf9670481e895949852302db44f2ca2e87da1de",
+        "f57b23f5773cb5f0cb918f1197f58327d621d8ea864eac9a8bbc6c1d45d2817e",
+        "5835767828788e4bd7d1306406dc23395b562a215f62b871d7f6c66871e929ae",
+        "3928df5d8ac6bd6151b7d4cd06cd5f3c8882a00bc24503bf2764eb959bfaae37",
+        "dfb7d75621ef26d87a3735a06009588b6c4ed1c3b53830a60a7fbaa06ff008cb",
+        "afa943b58827e048b6a7ca062f1fa7483fa97f68a58b9ba9d66893f409dc17db",
+        "a289ce3d2d318d697720e92317373d5d3641b8f92d3335228871d1ce21893b2c",
+        "617e0f1646da81a50684ffbd8192350e647ad347b7a41a0d565ac28f94ee257b",
+        "ac70212a4b38a8cb1c102bef8394c952a43b4dea8dc6f5f2a5b7b513f460ec32"
+      ],
+      "variants": [
+        {
+          "chapter": 14,
+          "paragraph": 2,
+          "page": 134,
+          "from": "if black and broken, tempests with both winds and snow",
+          "to": "if pale, or black and broken, tempests with winds and snow, both",
+          "kind": "omitted-condition"
+        },
+        {
+          "chapter": 14,
+          "paragraph": 7,
+          "page": 136,
+          "from": "After the forgoing",
+          "to": "After the foregoing",
+          "kind": "transcription-correction"
+        }
+      ],
+      "excludedBlocks": [
+        {
+          "originalParagraphIndex": 8,
+          "reason": "권말 표지이며 장 본문이 아님",
+          "text": "End of Book II"
+        }
+      ]
+    }
+  ],
+  "counts": {
+    "addedChapters": 12,
+    "sourceParagraphs": 87,
+    "targetParagraphs": 131,
+    "sourceTableRows": 12
+  },
+  "preservedTranslations": [
+    {
+      "id": "xingming-suyuan",
+      "sha256": "1c2e4bae36ea103c503039a7c595a25b40e4af9e2322b9350f53bd1a48dc0ea6"
+    },
+    {
+      "id": "ptolemy-planetary-qualities",
+      "sha256": "ccd43d8df8d9fe0c4ff9b7ac82fc66cdc4a0900f9ea0b613cb6bb9433e5194e9"
+    },
+    {
+      "id": "ptolemy-benefics-malefics",
+      "sha256": "c6182a5f5b02b82cc014e96c8b76ffbd225657ab9be09848f0590dfcea1f16eb"
+    },
+    {
+      "id": "ptolemy-masculine-feminine",
+      "sha256": "d2d2b2547d6c3f1ed7b297db74dfedb6ce5d9c7dd7125b9714af8bccf42365c4"
+    },
+    {
+      "id": "ptolemy-diurnal-nocturnal",
+      "sha256": "9c64a930db70e9efecfeae0d64277a4f4ab388aac23d8a30413153b18b377707"
+    },
+    {
+      "id": "ptolemy-solar-phases",
+      "sha256": "5c7a9dd58af2ac01558269ae95382b1496fc7017edf55cafce24f75348842250"
+    },
+    {
+      "id": "ptolemy-sign-modalities",
+      "sha256": "1a5a257704d7c3a8ba3c813aef1867ecb6e533de7b330a49855e0f25692bbf36"
+    },
+    {
+      "id": "ptolemy-inconjunct",
+      "sha256": "6dffce4a73495e00c70ccf07747c4c9ee0918baaf82dcad8722542e767883270"
+    },
+    {
+      "id": "ptolemy-domiciles",
+      "sha256": "bdf6d636a8837e5a2f53c6f5d6ff5bbb58deba569c9fcb1c78c183c709ba70ed"
+    },
+    {
+      "id": "ptolemy-triplicities",
+      "sha256": "d32d43092fbb79d35b658baa157376a4b5db7353d06211068a71f6b4dc65fd2e"
+    },
+    {
+      "id": "ptolemy-exaltations",
+      "sha256": "f5ea63f2aeea70adc7ecd6461d6b63a60fb6ead3be226c6bda5e6c40cd30a361"
+    },
+    {
+      "id": "xingming-judgment-passages",
+      "sha256": "eaa45fd521d4412244b9776fe3d7b491f56d415e8281355ea51930447d1b1d47"
+    },
+    {
+      "id": "ptolemy-zodiacal-stars",
+      "sha256": "aa18579933dfc49c1bd94145b629829ad162252b331dfac4f8f0f3782a8c1331"
+    },
+    {
+      "id": "ptolemy-northern-constellations",
+      "sha256": "32e0412d15790af7144da662f9e8d4c0a4701ca96a0496e0c4197c7c126f3ea8"
+    },
+    {
+      "id": "ptolemy-southern-constellations",
+      "sha256": "4e20e3e27c6b074da56b810468baca36bf2849c14ad15d524dc12425c97e357d"
+    },
+    {
+      "id": "ptolemy-annual-seasons",
+      "sha256": "5bf97d6b59c8ec18fe70f0da8e0ba63d0e6d653bb12766c3889511fb043ef311"
+    },
+    {
+      "id": "ptolemy-four-angles",
+      "sha256": "c16ffed300284b0c4766dcb85420d94fa7b13e308eabc2f4c7a2fb3fb723dac1"
+    },
+    {
+      "id": "ptolemy-sign-genders",
+      "sha256": "22bb666b15df12d4c9ba9a22b7c2b08855beb2252defae29a56b98cfef29b1b8"
+    },
+    {
+      "id": "ptolemy-aspect-geometry",
+      "sha256": "87314d0d9a87d7469fb1c5e347e200ec588e70f3343bfe105fbee64035fbe818"
+    },
+    {
+      "id": "ptolemy-commanding-obeying",
+      "sha256": "ff85627047e8ec1b31ad436a3d210754fdc300659ff26e16e004d846022a896b"
+    },
+    {
+      "id": "ptolemy-beholding-signs",
+      "sha256": "89e71012f061393f1e1722d27fa204351ba8509dc1be213fbbc36787f790f66f"
+    },
+    {
+      "id": "ptolemy-egyptian-chaldean-terms",
+      "sha256": "dcdfc5ee1404d72a9ed6c9c27467ff1a54136e60c2f5434a7500a1c375972e7e"
+    },
+    {
+      "id": "ptolemy-terms-rule",
+      "sha256": "a40a1145df5889b6d6902537bb27d593a11e639f4437f0b61a8463f82f59de96"
+    },
+    {
+      "id": "ptolemy-zodiac-subdivisions",
+      "sha256": "d4290f60d99bdffd100bb1a36f0dc6e9df5c8b31ed9869fec53c308a45dce32f"
+    },
+    {
+      "id": "ptolemy-faces-chariots",
+      "sha256": "e8d0a6d70a517de7b0aaf0e0d4c2bba55fae96afd7a66da201fdd6832f2944f1"
+    },
+    {
+      "id": "ptolemy-application-separation",
+      "sha256": "fe4ea871715fa5fa3e79f86fdbe447c2bdb151a85e32fb746c22230232f357dc"
+    },
+    {
+      "id": "ptolemy-proem",
+      "sha256": "c6fe69f690fb8603cf8320d522001c59fc16ccd52a3953c4a9f4a613f0bf9305"
+    },
+    {
+      "id": "ptolemy-knowledge-limits",
+      "sha256": "833049e9b728ba8e60adc0436041efcbd2b5d49cb6e31dab9e2728f9d9d9d9a8"
+    },
+    {
+      "id": "ptolemy-prescience-usefulness",
+      "sha256": "1f38a83b210eb9800733d2943031648b18b7d6f22f8b6a9cdd470d10b3c9fb85"
+    },
+    {
+      "id": "ptolemy-universal-particular",
+      "sha256": "b019b18c24569c62deec9f296d14450ab4909ddc9c702102452ec56b267ae7b5"
+    },
+    {
+      "id": "ptolemy-climates-peoples",
+      "sha256": "2679f22b957245877976cf8c7597eced940fab647ed1ae641c05b27fe73f1780"
+    }
+  ],
+  "next": {
+    "book": 3,
+    "chapter": 1,
+    "anchor": "CHAPTER_III_I",
+    "pdfPage": 137,
+    "printedPage": 104,
+    "title": "서문"
+  }
+}

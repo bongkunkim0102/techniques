@@ -3,7 +3,7 @@ import Base from '../../layouts/Base.astro';
 import translations from '../../data/translations.json';
 import {translationVolumes} from '../../lib/translations.mjs';
 const groups=[
-  {name:'프톨레마이오스 · 테트라비블로스',id:'ptolemy-ashmand1822',description:'1822년 Ashmand 영어판 제1권 I–XXVII장 전체와 제2권 I–II장의 본문을 옮겼습니다. 두 텀 표와 애스펙트 도식을 포함하며 영어판 각주는 제외했습니다. 제2권 III장 이후와 제3–4권은 아직 번역하지 않았습니다.'},
+  {name:'프톨레마이오스 · 테트라비블로스',id:'ptolemy-ashmand1822',description:'1822년 Ashmand 영어판 제1권 I–XXVII장과 제2권 I–XIV장, 두 권의 본문 전체를 옮겼습니다. 두 텀 표·지역 배정표·애스펙트 도식을 포함하며 영어판 각주는 제외했습니다. 제3–4권은 아직 번역하지 않았습니다.'},
   {name:'중국 성명학 · 성명소원',id:'xingming',description:'사고전서 제요와 권1의 판단 원칙 발췌를 고전 중국어에서 직접 옮겼습니다.'}
 ].map(group=>({...group,volumes:translationVolumes(translations.filter(t=>group.id==='xingming'?t.sourceId.startsWith('xingming'):t.sourceId===group.id))}));
 ---
