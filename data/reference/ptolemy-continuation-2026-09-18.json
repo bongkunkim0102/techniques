@@ -1,0 +1,527 @@
+{
+  "version": 1,
+  "date": "2026-09-18",
+  "editor": "ChatGPT (GPT-6 Astra Pro)",
+  "sourcePdf": {
+    "url": "https://iapsop.com/ssoc/1822__ashmand___ptolemys_tetrabiblos.pdf",
+    "sha256": "eed35a5ee2125967edc6789719b599af84f16fbba72d1b1546d37de3b4dc8655",
+    "pages": 273
+  },
+  "transcription": {
+    "url": "https://www.gutenberg.org/cache/epub/70850/pg70850-images.html",
+    "edition": "Ashmand 영어 번역의 1900년 재간본; Project Gutenberg 전사",
+    "htmlSha256": "38b0fed08e4a471618c857861ea033cddbc93d700b1a4d7ad70ab68d90b93826"
+  },
+  "hashBasis": "UTF-8 bytes of sourceParagraphs.join(\"\\n\\n\"); SHA-256; no trailing newline",
+  "reviewScope": "1822년판 PDF 34–52·91–95쪽의 장 본문을 지면 이미지로 대조. 영어판 각주·장 제목·쪽수 제외. 구두점·서체를 보존하는 외교적 전사는 아니며, 그리스어 교감이나 독립된 사람의 감수는 수행하지 않았다.",
+  "chapters": [
+    {
+      "translationId": "ptolemy-proem",
+      "anchor": "CHAPTER_I_I",
+      "pdfPages": [
+        34,
+        35
+      ],
+      "printedPages": [
+        1,
+        2
+      ],
+      "sourceHash": "68f8836edb370662f47feb02c06aa016ffe3a92c02bed7aed843c3eb07fe35a4",
+      "sourceParagraphs": [
+        "The studies preliminary to astronomical prognostication, O Syrus! are two: the one, first alike in order and in power, leads to the knowledge of the figurations of the Sun, the Moon, and the stars; and of their relative aspects to each other, and to the earth: the other takes into consideration the changes which their aspects create, by means of their natural properties, in objects under their influence.",
+        "The first mentioned study has been already explained in the Syntaxis to the utmost practicable extent; for it is complete in itself, and of essential utility even without being blended with the second; to which this treatise will be devoted, and which is not equally self-complete. The present work shall, however, be regulated by that due regard for truth which philosophy demands: and since the material quality of the objects acted upon renders them weak and variable, and difficult to be accurately apprehended, no positive or infallible rules (as were given in detailing the first doctrine, which is always governed by the same immutable laws) can be here set forth: while, on the other hand, a due observation of most of those general events, which evidently trace their causes to the Ambient, shall not be omitted.",
+        "It is, however, a common practice with the vulgar to slander everything which is difficult of attainment, and surely they who condemn the first of these two studies must be considered totally blind, whatever arguments may be produced in support of those who impugn the second. There are also persons who imagine that whatever they themselves have not been able to acquire, must be utterly beyond the reach of all understanding; while others again will consider as useless any science of which (although they may have been often instructed in it) they have failed to preserve the recollection, owing to its difficulty of retention. In reference to these opinions, therefore, an endeavour shall be made to investigate the extent to which prognostication by astronomy is practicable, as well as serviceable, previously to detailing the particulars of the doctrine."
+      ],
+      "alignment": [
+        {
+          "sourceParagraphIndex": 0,
+          "targetParagraphIndices": [
+            0
+          ]
+        },
+        {
+          "sourceParagraphIndex": 1,
+          "targetParagraphIndices": [
+            1
+          ]
+        },
+        {
+          "sourceParagraphIndex": 2,
+          "targetParagraphIndices": [
+            2
+          ]
+        }
+      ],
+      "targetParagraphHashes": [
+        "82029a7b70e0a90b2f3e6042a65cbaa4141c80f25a1bdc1de6475fae3a222479",
+        "f6763bf993c01b6c6f8752f2675f262af456b974657ae22b967b51626425bcff",
+        "d2ffb8d8a2a88d51c92a9c230bf03f4b720e2b902f0cc1c87159d11633864f44"
+      ],
+      "variants": []
+    },
+    {
+      "translationId": "ptolemy-knowledge-limits",
+      "anchor": "CHAPTER_I_II",
+      "pdfPages": [
+        35,
+        44
+      ],
+      "printedPages": [
+        2,
+        11
+      ],
+      "sourceHash": "2bb818aeb36e29416f3f26727406ac3715ab6a8789ec741367e59957e48c88cd",
+      "sourceParagraphs": [
+        "That a certain power, derived from the æthereal nature, is diffused over and pervades the whole atmosphere of the earth, is clearly evident to all men. Fire and air, the first of the sublunary elements, are encompassed and altered by the motions of the æther. These elements in their turn encompass all inferior matter, and vary it as they themselves are varied; acting on earth and water, on plants and animals.",
+        "The Sun, always acting in connection with the Ambient, contributes to the regulation of all earthly things: not only by the revolution of the seasons does he bring to perfection the embryo of animals, the buds of plants, the spring of waters, and the alteration of bodies, but by his daily progress also he operates other changes in light, heat, moisture, dryness and cold; dependent upon his situation with regard to the zenith.",
+        "The Moon, being of all the heavenly bodies the nearest to the Earth, also dispenses much influence; and things animate and inanimate sympathize and vary with her. By the changes of her illumination, rivers swell and are reduced; the tides of the sea are ruled by her risings and settings; and plants and animals are expanded or collapsed, if not entirely at least partially, as she waxes or wanes.",
+        "The stars likewise (as well the fixed stars as the planets), in performing their revolutions, produce many impressions on the Ambient. They cause heats, winds, and storms, to the influence of which earthly things are conformably subjected.",
+        "And, further, the mutual configurations of all these heavenly bodies, by commingling the influence with which each is separately invested, produce a multiplicity of changes. The power of the Sun however predominates, because it is more generally distributed; the others either co-operate with his power or diminish its effect: the Moon more frequently and more plainly performs this at her conjunction, at her first and last quarter, and at her opposition: the stars act also to a similar purpose, but at longer intervals and more obscurely than the Moon; and their operation principally depends upon the mode of their visibility, their occultation and their declination.",
+        "From these premises it follows not only that all bodies, which may be already compounded, are subjected to the motion of the stars, but also that the impregnation and growth of the seeds from which all bodies proceed, are framed and moulded by the quality existing in the Ambient at the time of such impregnation and growth. And it is upon this principle that the more observant husbandmen and shepherds are accustomed, by drawing their inferences from the particular breezes which may happen at seed-time and at the impregnation of their cattle, to form predictions as to the quality of the expected produce. In short, however unlearned in the philosophy of nature, these men can foretell, solely by their previous observation, all the more general and usual effects which result from the plainer and more visible configurations of the Sun, Moon, and stars. It is daily seen that even most illiterate persons, with no other aid than their own experienced observation, are capable of predicting events which may be consequent on the more extended influence of the Sun and the more simple order of the Ambient, and which may not be open to variation by any complex configurations of the Moon and stars towards the Sun. There are, moreover, among the brute creation, animals who evidently form prognostication, and use this wonderful instinct at the changes of the several seasons of the year, spring, summer, autumn, and winter; and, also, at the changes of the wind.",
+        "In producing the changes last mentioned, the Sun itself is chiefly the operating and visible cause. There are, however, other events which, although they are not indicated in so simple a manner, but dependent on a slight complication of causes in the Ambient, are also foreknown by persons who have applied their observation to that end. Of this kind, are tempests and gales of wind, produced by certain aspects of the Moon, or the fixed stars, towards the Sun, according to their several courses, and the approach of which is usually foreseen by mariners. At the same time, prognostication made by persons of this class must be frequently fallacious, owing to their deficiency in science and their consequent inability to give necessary consideration to the time and place, or to the revolutions of the planets; all which circumstances, when exactly defined and understood, certainly tend towards accurate foreknowledge.",
+        "When, therefore, a thorough knowledge of the motions of the stars, and of the Sun and Moon, shall have been acquired, and when the situation of the place, the time, and all the configurations actually existing at that place and time, shall also be duly known; and such knowledge be yet further improved by an acquaintance with the natures of the heavenly bodies—not of what they are composed, but of the efficiency of their influences; as, for instance, that heat is the property of the Sun, and moisture of the Moon, and that other peculiar properties respectively appertain to the rest of them;—when all these qualifications for prescience may be possessed by any individual, there seems no obstacle to deprive him of the insight, offered at once by nature and his own judgment, into the effects arising out of the quality of all the various influences compounded together. So that he will thus be competent to predict the peculiar constitution of the atmosphere in every season, as, for instance, with regard to its greater heat or moisture, or other similar qualities; all which may be foreseen by the visible position or configuration of the stars and the Moon towards the Sun.",
+        "Since it is thus clearly practicable, by an accurate knowledge of the points above enumerated, to make predictions concerning the proper quality of the seasons, there also seems no impediment to the formation of similar prognostication concerning the destiny and disposition of every human being. For by the constitution of the Ambient, even at the time of any individual’s primary conformation, the general quality of that individual’s temperament may be perceived; and the corporeal shape and mental capacity with which the person will be endowed at birth may be pronounced; as well as the favourable and unfavourable events indicated by the state of the Ambient, and liable to attend the individual at certain future periods; since, for instance, an event dependent on one disposition of the Ambient will be advantageous to a particular temperament, and that resulting from another unfavourable and injurious. From these circumstances, and others of similar import, the possibility of prescience is certainly evident.",
+        "There are, however, some plausible assailants of this doctrine, whose attacks although greatly misapplied seem yet worthy of the following observations.",
+        "In the first place, the science demands the greatest study and a constant attention to a multitude of different points; and as all persons who are but imperfectly practised in it must necessarily commit frequent mistakes, it has been supposed that even such events as have been truly predicted have taken place by chance only, and not from any operative cause in nature. But it should be remembered that these mistakes arise, not from any deficiency or want of power in the science itself, but from the incompetency of unqualified persons who pretend to exercise it. And, besides this, the majority of the persons who set themselves up as professors of this science, avail themselves of its name and credit for the sake of passing off some other mode of divination; by that means defrauding the ignorant, and pretending to foretell many things which from their nature cannot possibly be foreknown; and consequently affording opportunities to more intelligent people to impugn the value even of such predictions as can rationally be made. The reproach, however, thus brought upon the science is wholly unmerited; for it would be equally just to condemn all other branches of philosophy, because each numbers among its professors some mischievous pretenders.",
+        "Secondly, it is not attempted to be denied that any individual, although he may have attained to the greatest possible accuracy in the science, must still be liable to frequent error, arising out of the very nature of his undertaking, and from the weakness of his limited capacity in comparison with the magnitude of his object. For the whole theory of the quality of matter is supported by inference rather than by positive and scientific proof; and this is caused principally by the concretion of its temperament out of a multitude of dissimilar ingredients. And, although the former configurations of the planets have been observed to produce certain consequences (which have been adapted to configurations now taking place), and are, after long periods, and in a greater or less degree, resembled by subsequent configurations, yet these subsequent configurations never become exactly similar to those which have preceded them. For an entire return of all the heavenly bodies to the exact situation in which they have once stood with regard to the earth will never take place, or at least not in any period determinable by human calculation, whatever vain attempts may be made to acquire such unattainable knowledge. The examples referred to for guidance being therefore not exactly similar to the existing cases to which they are now applied, it must naturally follow that predictions are sometimes not borne out by the events. Hence arises the sole difficulty in the consideration of events produced by the Ambient. For no other concurrent cause has been hitherto combined with the motion of the heavenly bodies; although the doctrine of nativities, particularly that part of it relating to peculiar individual temperament, demands also the consideration of other concomitant causes, which are neither trifling nor unimportant, but essentially potent in affecting the individual properties of the creatures born. Thus the variety in seed has the chief influence in supplying the peculiar quality of each species; for, under the same disposition of the Ambient and of the horizon, each various kind of seed prevails in determining the distinct formation of its own proper species; thus man is born, or the horse is foaled; and by the same law are brought forth all the other various creatures and productions of the earth. It is also to be remembered, that considerable variations are caused in all creatures by the respective places where they may be brought forth: for although, under the same disposition of the Ambient, the germs of the future creatures may be of one species, whether human or of the horse, the difference in situation, of the places in which they are generated, produces a dissimilarity in the body and spirit of one from the body and spirit of another: and in addition to this it must be considered that different modes of nurture, and the variety of ranks, manners, and customs, contribute to render the course of life of one individual greatly different from that of another; consequently, unless every one of these varieties be duly blended with the causes arising in the Ambient, the prejudgment of any event will doubtless be very incomplete. For, although the greatest multiplicity of power exists in the Ambient, and although all other things act as concurrent causes in unison with it, and can never claim it as a concurrent cause in subservience to them, there will still, nevertheless, be a great deficiency in predictions attempted to be made by means of the heavenly motions alone, without regard to the other concurrent causes just now adverted to.",
+        "Under these circumstances, it would seem judicious neither to deny altogether the practicability of prescience, because prognostications thus imperfectly derived are sometimes liable to be fallacious; nor, on the other hand, to admit that all events, whatever, are open to previous inquiry; as if such inquiry could in all cases be securely conducted without having recourse to mere inference, and as if it were not limited by the narrow extent of mere human abilities. The art of navigation, for instance, is not rejected, although it is in many points incomplete; therefore the bare fact that predictions are frequently imperfect cannot authorise the rejection of the art of prescience: the magnitude of its scope, and the faint resemblance that it bears to a divine attribute, should rather demand grateful commendations, and receive the utmost regard and attention. And, since no weakness is imputed to a physician, because he inquires into the individual habit of his patient, as well as into the nature of the disease, no imputation can justly attach to the professor of prognostication, because he combines the consideration of species, nurture, education and country, with that of the motion of the heavens: for as the physician acts but reasonably, in thus considering the proper constitution of the sick person as well as his disease; so, in forming predictions, it must surely be justifiably allowable to comprehend in that consideration every other thing connected with the subject in addition to the motion of the heavens, and to collect and compare with that motion all other co-operating circumstances arising elsewhere."
+      ],
+      "alignment": [
+        {
+          "sourceParagraphIndex": 0,
+          "targetParagraphIndices": [
+            0
+          ]
+        },
+        {
+          "sourceParagraphIndex": 1,
+          "targetParagraphIndices": [
+            1
+          ]
+        },
+        {
+          "sourceParagraphIndex": 2,
+          "targetParagraphIndices": [
+            2
+          ]
+        },
+        {
+          "sourceParagraphIndex": 3,
+          "targetParagraphIndices": [
+            3
+          ]
+        },
+        {
+          "sourceParagraphIndex": 4,
+          "targetParagraphIndices": [
+            4
+          ]
+        },
+        {
+          "sourceParagraphIndex": 5,
+          "targetParagraphIndices": [
+            5,
+            6
+          ]
+        },
+        {
+          "sourceParagraphIndex": 6,
+          "targetParagraphIndices": [
+            7
+          ]
+        },
+        {
+          "sourceParagraphIndex": 7,
+          "targetParagraphIndices": [
+            8,
+            9
+          ]
+        },
+        {
+          "sourceParagraphIndex": 8,
+          "targetParagraphIndices": [
+            10
+          ]
+        },
+        {
+          "sourceParagraphIndex": 9,
+          "targetParagraphIndices": [
+            11
+          ]
+        },
+        {
+          "sourceParagraphIndex": 10,
+          "targetParagraphIndices": [
+            12,
+            13
+          ]
+        },
+        {
+          "sourceParagraphIndex": 11,
+          "targetParagraphIndices": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "sourceParagraphIndex": 12,
+          "targetParagraphIndices": [
+            20,
+            21,
+            22
+          ]
+        }
+      ],
+      "targetParagraphHashes": [
+        "6b7d243eb690fad9703e2a29fe59ff3dc4c37ad7f5a8429b67dd5f6ed56d1f28",
+        "5e5489573995af469dac2f6c299596e881406fab32ff27f1e0ae3bdd621ead33",
+        "cf53b099dfcc2dbf623bc4e81eba8dd86bfd744fcb3509a3c9db415224e692f7",
+        "49955a56eabd4538cfb1f6f9168906e1890512cbefb0063bd593b9d99f30de22",
+        "96d8b6d0e0417eece37d93b2aae85cfc4e59c50ab704842768fd7568194084ac",
+        "def7e15cdac8f42884aa24f8a6c07dc5668bd2cb58fe14c005d939d08141aeb4",
+        "943675602048f51cd472ecce5a2f99d95f2cb6864d447f8387503ed6baed84bb",
+        "e0d1e10bad5d4e490984f24440dbe6696f36d75079cd6b790e7edb515384de07",
+        "f855d1fe5dc366fa664ffb30fff46b90de3aa75732d59f243afaf613e9a821aa",
+        "f99bf6068078c9d9c319d93dda0eecea562c0e5beddf802d61c4e4bfd4713cb4",
+        "0c15574c94d2c52e4c639df4d6cb3347a87d3ff8cf8ff0a277bcb1860bd9fefa",
+        "5394b04471bc76433ef3890c4d016ae0e2ddfa956169fa0a44d847d281e27761",
+        "91b618338fdcbda4ac210e746a86b3fb8b5fa657087366b1955f2c3590b01231",
+        "bd7d4ce6e9d26c363895d4a0819b6bb51fbe6f4a91323efeb0cae28f31c9012c",
+        "ad4dbb2244cde573f1aad64b1dce77318a224d32420502374dabf291a5ceb03c",
+        "373797b53fd3f8a23ff0b8212a91f80c9d8c0bbfe24bd58f063f9c4d5287732a",
+        "f3ac14b2490bdb4c6ddcad1adf5e4a366518fbd469bc627c45e38b7a60e4bb3c",
+        "90f9bc80f6e80cc40934ce5e898be6eef105535a68c16cee43b011c1f0e628ee",
+        "cff8d94c9885d188334f13533c60b2aceb8c34cd36ecfe449edc82dd1d9f27d5",
+        "cacb9becc00979a2576f55f3ed79b552467348197ff13112e01289a957b9118b",
+        "eef8fe6e147edc725b2c131bc042a5333e551e1c1a4b699ede64f9c5f40d0167",
+        "567cc525d33ff6bca7f3181f8e80abe2948a9675df88cf2c37edecde057a95a9",
+        "1a595f8a7ed1be442991c6815dcb503f6293935122d98b7f5ea7dd05aee77fdf"
+      ],
+      "variants": [
+        {
+          "anchor": "CHAPTER_I_II",
+          "paragraph": 6,
+          "page": 38,
+          "from": "In producing the changes of the seasons,",
+          "to": "In producing the changes last mentioned,"
+        },
+        {
+          "anchor": "CHAPTER_I_II",
+          "paragraph": 7,
+          "page": 39,
+          "from": "of the effective influences they possess",
+          "to": "of the efficiency of their influences"
+        }
+      ]
+    },
+    {
+      "translationId": "ptolemy-prescience-usefulness",
+      "anchor": "CHAPTER_I_III",
+      "pdfPages": [
+        44,
+        52
+      ],
+      "printedPages": [
+        11,
+        19
+      ],
+      "sourceHash": "dd24888d640c87c3005f498c7c8e398afe85bc4436ea35edd7c2b8e97657811e",
+      "sourceParagraphs": [
+        "It appears, then, that prescience by astronomy is possible under certain adaptation; and that alone it will afford premonition, as far as symptoms in the Ambient enable it to do so, of all such events as happen to men by the influence of the Ambient. These events are, from their commencement, always in conformity with the spiritual and corporeal faculties, and their occasional affections; as well as with the shorter or longer duration of those affections. They are also conformable with other things which, although not actually in man’s immediate person, are still absolutely and naturally connected with him: in connection with his body they are applicable to his estate, and his conjugal cohabitations; in connection with his spirit, they relate to his offspring and his rank; and they are also connected with all fortuitous circumstances which may occasionally befall him.",
+        "That the foreknowledge of these can be attained has already been demonstrated; and it remains to speak of the utility of the attainment. First, however, let it be said in what respect and with what view it is proposed to draw advantage from this science; if it be considered in its tendency to promote the good of the mind, no object more advantageous can surely be wanting to induce the world to rejoice and delight in it, since it offers an acquaintance with things divine and human: if it be considered in respect to the benefits it is capable of conferring on the body, its utility in this view also, will be found on comparison to excel that of all other arts conducive to the comforts of life, for it is of more general application and service than all the others together. And, although it may be objected to the art of prescience, that it does not co-operate towards the acquirement of riches or glory, let it also be remembered that the same objection attaches to every other art and science; since there is not one which can of itself produce either riches or glory, nor yet is there one which is on that plea deemed useless: it seems, therefore, that the science of prognostication, with its high qualifications and its aptitude to the most important objects, does not, in any greater degree, deserve to be condemned.",
+        "In general, however, the persons who attack and reprobate it as being useless, do not pay due regard to the manner in which it becomes necessary; but deny its utility on the specious argument that it is superfluous and puerile to attempt to foreknow things which must inevitably come to pass: thus considering it in a mode at once abstracted, unlearned, and unfair. For, in the first place, this fact ought to be kept in view, that events which necessarily and fully happen, whether exciting fear or creating joy, if arriving unforeseen, will either overwhelm the mind with terror or destroy its composure by sudden delight; if, however, such events should have been foreknown, the mind will have been previously prepared for their reception, and will preserve an equable calmness, by having been accustomed to contemplate the approaching event as though it were present, so that, on its actual arrival, it will be sustained with tranquillity and constancy.",
+        "In the next place, it must not be imagined that all things happen to mankind, as though every individual circumstance were ordained by divine decree and some indissoluble supernal cause; nor is it to be thought that all events are shown to proceed from one single inevitable fate, without being influenced by the interposition of any other agency. Such an opinion is entirely inadmissable; for it is on the contrary most essential to observe, not only the heavenly motion which, perfect in its divine institution and order, is eternally regular and undeviating; but also the variety which exists in earthly things, subjected to and diversified by the institutions and courses of nature, and in connection with which the superior cause operates in respect to the accidents produced.",
+        "It is further to be remarked that man is subject, not only to events applicable to his own private and individual nature, but also to others arising from general causes. He suffers, for instance, by pestilences, inundations, or conflagrations, produced by certain extensive changes in the Ambient, and destroying multitudes at once; since a greater and more powerful agency must of course always absorb and overcome one that is more minute and weaker. In great changes, therefore, where a stronger cause predominates, more general affections, like those just mentioned, are put in operation, but affections which attach to one individual solely are excited when his own natural constitution peculiar to himself may be overcome by some opposing impulse of the Ambient, however small or faint. And in this point of view it is manifest that all events whatsoever, whether general or particular, of which the primary cause is strong and irresistible, and against which no other contrary agency has sufficient power to interpose, must of necessity be wholly fulfilled; and that events indicated by a minor cause must of course be prevented and annihilated, when some other agency may be found contending for an opposite effect; if, however, no such opposing agency can be found, they also must be fulfilled, in due succession to the primary cause. Nevertheless, the fulfilment of events thus indicated must not be ascribed solely to the vigour of the cause producing them, nor to any inevitable fate, but rather to the absence of any opposing influence capable of prevention. And thus, with all things whatsoever which trace their causes and origin to nature, the case is exactly similar; for stones, plants, animals, wounds, passions, and diseases, all will of necessity operate on man to a certain degree; and they fail to do so, if antidotes be found and applied against their influence.",
+        "In exercising prognostication, therefore, strict care must be taken to foretell future events by that natural process only which is admitted in the doctrine here delivered; and, setting aside all vain and unfounded opinions, to predict that, when the existing agency is manifold and great, and of a power impossible to be resisted, the corresponding event which it indicates shall absolutely take place; and also, in other cases, that another event shall not happen when its exciting causes are counteracted by some interposing influence. It is in this manner that experienced physicians, accustomed to the observation of diseases, foresee that some will be inevitably mortal, and that others are susceptible of cure.",
+        "Thus, when any opinion is given by the astrologer with respect to the various accidents liable to happen, it should be understood that he advances nothing more than this proposition; viz. that, by the property inherent in the Ambient, any conformation of it, suitable to a particular temperament, being varied more or less, will produce in that temperament some particular affection. And it is also to be understood that he ventures this opinion with the same degree of confidence, as that with which a physician may declare that a certain wound will increase or grow putrid; or a man acquainted with metals say that the magnet will attract iron. But neither the increase nor putrefaction of the wound nor the magnet’s attraction of iron, is ordained by any inevitable law, although these consequences must necessarily follow, in due obedience to the first principles of the existing order of nature, when no means of prevention can be found and applied. But, however, neither of these consequences will take place, when such antidotes shall be presented as will naturally prevent them—and a similar consideration should be given to the predictions of the astrologer—because, if garlick be rubbed on the magnet, iron will experience no attraction; and if proper medicines be applied to the wound, it will cease to increase or to putrefy. And therefore all events which happen to mankind take place also in the regular course of nature, when no impediments thereto are found or known: but again, on the other hand, if any impediments or obstructions be found in the way of events which may be predicted by the regular course of nature to happen, such events will either not take place at all, or, if they should take place, will be much diminished in their force and extent.",
+        "The same order and consequence exist in all cases, whether the events have a general or only a particular operation; and it may therefore well be demanded, why prescience is believed to be possible as far as it regards general events, and why it is allowed to be serviceable in preparing for their approach; while in particular instances its power and use are altogether denied. That the weather and the seasons, and the indications of the fixed stars, as well as the configurations of the Moon, afford means of prognostication, many persons admit; and they exercise this foreknowledge for their own preservation and comfort, adapting their constitutions to the expected temperature, by cooling and refreshing things for the summer, and by warm things for the winter. They also watch the significations of the fixed stars, to avoid dangerous weather, in making voyages by sea; and they notice the aspects of the Moon, when at the full, in order to direct the copulation of their herds and flocks, and the setting of plants or sowing of seeds: and there is not an individual who considers these general precautions as impossible or unprofitable. Still, however, these same persons withhold their assent to the possibility of applying prescience to particular cases; such, for instance, as any particular excess or diminution of cold or heat, whether arising out of the peculiar temperament producing the original cold or heat, or from the combination of other properties; nor do they admit that there are any means of guarding against many of these particular circumstances. And yet, if it be clear that persons, who prepare themselves by cooling things, are less affected by any general heat of the weather, there seems no reason for supposing that a similar preparation would not be equally effectual against any particular conjuncture oppressed by immoderate heat. It appears, however, that this idea, of the impracticability of attaining foreknowledge of particular circumstances, must originate solely in the mere difficulty of the acquirement; which difficulty is certainly rendered peculiarly arduous by the necessity of conducting the enquiry with the greatest accuracy and precision: and to this it must be added, that, as there is rarely found a person capable of arranging the whole subject so perfectly that no part of the opposing influence can escape his attention, it frequently happens that predictions are not properly regulated by due consideration of that opposing influence, and that the effects are at once considered fully liable to be brought to pass, agreeably to the primary agency and without any intervention. This defect, of not sufficiently considering the opposing influence, has naturally induced an opinion that all future events are entirely unalterable and inevitable. But, since the foreknowledge of particular circumstances, although it may not wholly claim infallibility, seems yet so far practicable as to merit consideration, so the precaution it affords, in particular circumstances, deserves in like manner to be attended to; and, if it be not of universal advantage, but useful in few instances only, it is still most worthy of estimation, and to be considered of no moderate value. Of this, the Ægyptians seem to have been well aware; their discoveries of the great faculties of this science have exceeded those of other nations, and they have in all cases combined the medical art with astronomical prognostication. And, had they been of opinion that all expected events are unalterable and not to be averted, they never would have instituted any propitiations, remedies, and preservatives against the influence of the Ambient, whether present or approaching, general or particular. But, by means of the science called by them Medical Mathematics, they combined with the power of prognostication the concurrent secondary influence arising out of the institutions and courses of nature, as well as the contrary influence which might be procured out of nature’s variety; and by means of these they rendered the indicated agency useful and advantageous: since their astronomy pointed out to them the kind of temperament liable to be acted upon, as well as the events about to proceed from the Ambient, and the peculiar influence of those events, while their medical skill made them acquainted with everything suitable or unsuitable to each of the effects to be procured. And it is by this process that remedies for present and preservatives against future disorders are to be acquired: for, without astronomical knowledge, medical aid would be most frequently unavailing; since the same identical remedies are not better calculated for all persons whatsoever, than they are for all diseases whatsoever.",
+        "The practicability and utility of prescience having been thus far briefly explained, the ensuing discourse must be proceeded with. It commences, introductorily, with an account of the efficient properties of each of the heavenly bodies, taken from the rules of the ancients, whose observations were founded in nature. And, first, of the influences of the planets and of the Sun and Moon."
+      ],
+      "alignment": [
+        {
+          "sourceParagraphIndex": 0,
+          "targetParagraphIndices": [
+            0
+          ]
+        },
+        {
+          "sourceParagraphIndex": 1,
+          "targetParagraphIndices": [
+            1,
+            2
+          ]
+        },
+        {
+          "sourceParagraphIndex": 2,
+          "targetParagraphIndices": [
+            3
+          ]
+        },
+        {
+          "sourceParagraphIndex": 3,
+          "targetParagraphIndices": [
+            4
+          ]
+        },
+        {
+          "sourceParagraphIndex": 4,
+          "targetParagraphIndices": [
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "sourceParagraphIndex": 5,
+          "targetParagraphIndices": [
+            8
+          ]
+        },
+        {
+          "sourceParagraphIndex": 6,
+          "targetParagraphIndices": [
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "sourceParagraphIndex": 7,
+          "targetParagraphIndices": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "sourceParagraphIndex": 8,
+          "targetParagraphIndices": [
+            20
+          ]
+        }
+      ],
+      "targetParagraphHashes": [
+        "0cf0db224fbaadde0dcd34a75e6e40ff0fe22f5db29a8fd4c993e8875dcdbbbe",
+        "519b7cf372b92b56358e20789a66d5109080aa46fe714e0fd65aab98417dad2c",
+        "d95464332e3e51597b3081299556313e650fe88f7439366fa12160cd524f3b05",
+        "443c6beb0287a03155183eed46662418bf5ca14316180286db4faebe78089cc1",
+        "374ff6eea5ee6df142d5f2a2beb8247f8ba578f9e7a5c2e08e1b4621f94337eb",
+        "70cb127f3d610e391cbf809f0925d0c4adb0945ca570633d0960f8d7f3c13b03",
+        "6f5211f2f76c1e00af945003b1c2e22bfe78b10e8f809ed5b2e7d5884d467b1f",
+        "7b3f3b8af3beb0701661b82c770c7611d78b60fcda627a61e7647f7f996fd978",
+        "6979fa18a1f1cb9e6097eebe5b687abd5b7bc5c2f3534a77b8cd9d5f8844f6ce",
+        "7acd0875f90d17b3e8f8c9e718a8c925f514bcdb2858402438806babaf91886a",
+        "4f9a6517e662bfb2334ef43b096e57ac0696a112b0312e495e93f2732cc22855",
+        "eeb35e32acf65f19104748efa4d7e997c3d287acf3d1eb2f8a31782805dbf236",
+        "9bc284bf8657f353f846c787ceb911807cc274a739d8844e1a9858f9a3362613",
+        "b7a25cd88262a4dcac8e1c08e248a3bc636cae366889ea337a6d8023794c9f2d",
+        "8d8eaec2a6f16c59bd51a13ebc585cdd0fa5a1d72462af08ee5f091919f4249f",
+        "cc6bc13e6d796f53e4a4d878e017dea40e66e2b0be8d05d1f7228b9c3a0c5ef2",
+        "7cddda80c402d9880d872be4f7a729e7c7d5b4d8ce384233cef58d908a00cff0",
+        "afdf1bd290f169ddb0b756868c3028c661f50c0b6e39ecba48ecc606a36422ca",
+        "0bff85cd779e53dbbd33748253dd0a98eadc4d63d2fc0c2736421e23d5978c58",
+        "438f9d62be79b805070d0c677f777dbe45a055f11195259ea3a0be7cb10af51c",
+        "94b99f4cb42a2e1c8b1d4ce4cc00465e020bfb1fc870485450db339c95f5585c"
+      ],
+      "variants": [
+        {
+          "anchor": "CHAPTER_I_III",
+          "paragraph": 1,
+          "page": 45,
+          "from": "not yet is there one",
+          "to": "nor yet is there one",
+          "kind": "transcription-correction"
+        },
+        {
+          "anchor": "CHAPTER_I_III",
+          "paragraph": 4,
+          "page": 47,
+          "from": "whatsoeverwhich",
+          "to": "whatsoever which",
+          "kind": "transcription-spacing"
+        },
+        {
+          "anchor": "CHAPTER_I_III",
+          "paragraph": 7,
+          "page": 50,
+          "from": "sewing of seeds",
+          "to": "sowing of seeds",
+          "kind": "transcription-correction"
+        }
+      ]
+    },
+    {
+      "translationId": "ptolemy-universal-particular",
+      "anchor": "CHAPTER_II_I",
+      "pdfPages": [
+        91,
+        93
+      ],
+      "printedPages": [
+        58,
+        60
+      ],
+      "sourceHash": "6c490b19fdb816cebd64b466bca6764de347efb65a1e70304cbef82a6d6eab0c",
+      "sourceParagraphs": [
+        "The great and leading points, requiring to be attended to as a necessary means of introduction to the consideration of particular predictions, having been succinctly defined, the further parts of the subject, comprehending everything which may tend to facilitate prediction, and render it complete, shall now be duly proceeded in; and, at the same time, care shall be taken to confine the whole doctrine within the limits of natural reason.",
+        "The foreknowledge to be acquired by means of Astronomy is to be regarded in two great and principal divisions. The first, which may be properly called General, or Universal, concerns entire nations, countries, or cities; and the second, denominated Particular, or Genethliacal, relates to men individually.",
+        "In considering these respective divisions, it seems proper to give priority to that which has the more general application and influence: because, in the first place, general events are produced by causes greater and more compulsatory than the causes of particular events; secondly, because natures of more extended potency must invariably control those which are more limited in action; and, thirdly, because particular events, or individual affections, are comprehended in those of general influence. It is therefore especially necessary, in desiring to investigate particular events, to treat first of those which are general.",
+        "Again, general events are subdivided according to their operation upon entire countries, and upon certain cities or districts: one sub-division being regarded as affecting entire countries, and the other certain cities or districts only. They are also separately considered according to the causes by which they are produced; war, pestilence, famine, earthquakes, inundations, and other similar visitations being dependent on such greater and more important causes, as arise only after considerable periods; while slighter causes, arising more frequently, have reference only to the revolution of the seasons; their greater or less variation in cold and heat; the severity or mildness of the weather; the occasional abundance or scarcity of provisions; and other like occurrences.",
+        "Hence the consideration of those events which concern whole countries, and are dependent on the greater causes (since it has a more extended scope than the other, which attaches only to certain cities, or districts, and is subject to slighter causes) takes precedence. And, for its due investigation, two essential points are to be attended to: the first is, the appropriate familiarity of the zodiacal signs and the fixed stars with the several regions which may be concerned; and the second comprises the indications occasionally arising in those parts of the heavens where such familiarity is found: for instance, the eclipses of the Sun and Moon, and such transits as may be made by the planets, when matutine, and in their respective stations.",
+        "The nature of the sympathy between these things must, however, be explained first; and a brief description will therefore be given of the chief peculiarities observable in whole nations; in regard to their manners and customs, as well as to their bodily formation and temperament; considered agreeably to their familiarity with those stars and signs whence the natural cause of their peculiarities duly proceeds."
+      ],
+      "alignment": [
+        {
+          "sourceParagraphIndex": 0,
+          "targetParagraphIndices": [
+            0
+          ]
+        },
+        {
+          "sourceParagraphIndex": 1,
+          "targetParagraphIndices": [
+            1
+          ]
+        },
+        {
+          "sourceParagraphIndex": 2,
+          "targetParagraphIndices": [
+            2
+          ]
+        },
+        {
+          "sourceParagraphIndex": 3,
+          "targetParagraphIndices": [
+            3
+          ]
+        },
+        {
+          "sourceParagraphIndex": 4,
+          "targetParagraphIndices": [
+            4
+          ]
+        },
+        {
+          "sourceParagraphIndex": 5,
+          "targetParagraphIndices": [
+            5
+          ]
+        }
+      ],
+      "targetParagraphHashes": [
+        "d3b5803a1dd07d3786d560140a96d22643e302cff56eb1ad74a29d0396c293d2",
+        "d466883a15052b96b7bcbe25b10207dd3ab6efb9d5b0a989001786e03fda1f78",
+        "b75d07aaa638d6b88e4da6fa8442e64416ed439e95654128792c05248cdefa1c",
+        "99ab0d0e747a256ef75f0bff65012c07c5264acb85cb799536498393c584a089",
+        "2e1e4e3da7a34235f7ae39a5999f3f8455ce9ddbcb60ff045baf9affcc2b220e",
+        "58cb421df85a659e9d9a3c6bb7ba5862e1f1638e8888a87b23a0c0c232d3f0e8"
+      ],
+      "variants": [
+        {
+          "anchor": "CHAPTER_II_I",
+          "paragraph": 1,
+          "page": 91,
+          "from": "by means of Astrology",
+          "to": "by means of Astronomy"
+        }
+      ]
+    },
+    {
+      "translationId": "ptolemy-climates-peoples",
+      "anchor": "CHAPTER_II_II",
+      "pdfPages": [
+        93,
+        95
+      ],
+      "printedPages": [
+        60,
+        62
+      ],
+      "sourceHash": "afd0c6d4314bb46cefe46a48609c32538dbdcd8086fd3a75d031f8ff69551623",
+      "sourceParagraphs": [
+        "The peculiarities of all nations are distinguished according to entire parallels and entire angles, and by their situation with regard to the Sun and the Ecliptic.",
+        "The climate which we inhabit is situated in one of the Northern Quadrants: but other nations, which lie under more southern parallels, that is to say, in the space between the equinoctial line and the summer tropic, have the Sun in their zenith, and are continually scorched by it. They are consequently black in complexion, and have thick and curled hair. They are, moreover, ugly in person, of contracted stature, hot in disposition, and fierce in manners, in consequence of the incessant heats to which they are exposed; and they are called by the common name of Æthiopians. But the human race does not alone afford evidence of the violent heat in these regions; it is shown also by all other animals and by the state of the surrounding atmosphere.",
+        "The natives of those countries which lie under the more remote northern parallels (that is to say, under the Arctic circle and beyond it) have their zenith far distant from the zodiac and the Sun’s heat. Their constitutions, therefore, abound in cold, and are also highly imbued with moisture, which is in itself a most nutritive quality, and, in these latitudes, is not exhausted by heat: hence they are fair in complexion, with straight hair, of large bodies and full stature. They are cold in disposition, and wild in manners, owing to the constant cold. The state of the surrounding atmosphere and of animals and plants, corresponds with that of men; who are here designated by the general name of Scythians.",
+        "The nations situated between the summer tropic and the Arctic circle, having the meridian Sun neither in their zenith nor yet far remote from it, enjoy a well-temperated atmosphere. This favourable temperature, however, still undergoes variation, and changes alternatively from heat to cold; but the variation is never vast nor violent. The people who enjoy this kindly atmosphere are consequently of proportionate stature and complexion, and of good natural disposition: they live not in a state of dispersion, but dwell together in societies, and are civilised in their habits. Among the nations comprehended in this division, those verging towards the south are more industrious and ingenious than the others, and more adapted to the sciences: and these qualifications are engendered in them by the vicinity of the zodiac to their zenith, and by the familiarity thus subsisting between them and the planets moving in the zodiac, which familiarly gives activity and an intellectual impulse to their minds. Again, the natives of those countries which lie towards the east excel in courage, acting boldly and openly under all circumstances; for in all their characteristics they are principally conformed to the Sun’s nature, which is oriental, diurnal, masculine and dexter—(and it is plainly apparent that the dexter parts of all animals are much stronger than others)—hence results the greater courage of the inhabitants of the East. And as the Moon, on her first appearance after conjunction, is always seen in the west, the western parts are therefore lunar, and consequently feminine and sinister; whence it follows that the inhabitants of the west are milder, more effeminate and reserved.",
+        "Thus, in all countries, certain respective peculiarities exist in regard to manners, customs and laws; and in each it is found that some portion of the inhabitants differs partially and individually from the usual habits and condition of their race. These variations arise similarly to the variations perceptible in the condition of the atmosphere; as, in all countries, the general state of whose atmosphere may be either hot, or cold, or temperate, certain districts are found to possess a particular temperature of their own, and to be more or less hot, or cold, by being more or less elevated than the general face of the country. So, likewise, certain people become navigators owing to their proximity to the sea, while others are equestrian, because their country is a plain; and others, again, become domesticated by the fertility of their soil.",
+        "And thus, in each particular climate, certain peculiar qualities are to be found, arising from the natural familiarity which it holds with the stars and the twelve signs. And although these qualities do not pervade it, in such a manner as to be necessarily exhibited by every individual native, yet they are so far generally distributed as to be of much utility in investigating particular events; and it is highly important to take at least a brief notice of them."
+      ],
+      "alignment": [
+        {
+          "sourceParagraphIndex": 0,
+          "targetParagraphIndices": [
+            0
+          ]
+        },
+        {
+          "sourceParagraphIndex": 1,
+          "targetParagraphIndices": [
+            1
+          ]
+        },
+        {
+          "sourceParagraphIndex": 2,
+          "targetParagraphIndices": [
+            2
+          ]
+        },
+        {
+          "sourceParagraphIndex": 3,
+          "targetParagraphIndices": [
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "sourceParagraphIndex": 4,
+          "targetParagraphIndices": [
+            6
+          ]
+        },
+        {
+          "sourceParagraphIndex": 5,
+          "targetParagraphIndices": [
+            7
+          ]
+        }
+      ],
+      "targetParagraphHashes": [
+        "609dcba8e3599d9b2ee3cffd54782961852049bfb54764d649e76a57ca40fcd7",
+        "79fe2a71c8912a9cb9da134ab928317f98b95a014a337e194f86266ece6c30a6",
+        "238e7ab54fdadbf92b3bf5dee560ceb8104caaa9ff6620a257fdb05c3866669d",
+        "e5fb94e2f836eeb2e6da30cdec70765ea7193635d37ca70e885c696681f1f9a9",
+        "95f40e305ff566155e1a4fe153e85615d1bcc7ba7f5535b48932a985d5912055",
+        "c507c41af9cdf6e10f1187ebb03a2930036099e6769f4fab32cf07c4555427c9",
+        "e2ae6a4e78d33631dc75e216a5096927d936dcbaf8aeb3609f73cef1c262c043",
+        "0cc39131ab3c0f3695d799d0dccd7f3cceff05a6b661e61c6b2f29d9df4dcf26"
+      ],
+      "variants": [
+        {
+          "anchor": "CHAPTER_II_II",
+          "paragraph": 2,
+          "page": 94,
+          "from": "who (as natives of these countries) are designated",
+          "to": "who are here designated"
+        },
+        {
+          "anchor": "CHAPTER_II_II",
+          "paragraph": 4,
+          "page": 95,
+          "from": "become domiciliated",
+          "to": "become domesticated"
+        }
+      ]
+    }
+  ],
+  "sourceLicense": "Public domain"
+}

@@ -1,11 +1,27 @@
 ---
 import Base from '../../layouts/Base.astro';
 import translations from '../../data/translations.json';
-const groups=[{name:'프톨레마이오스 · 테트라비블로스',id:'ptolemy-ashmand1822',description:'1822년 Ashmand 영어판 제1권 IV–XXVII장, 연속된 24개 장의 본문을 옮겼습니다. 항성·사인·애스펙트·디그니티·접근과 분리까지 읽을 수 있습니다. 두 텀 표와 애스펙트 도식을 포함하며 영어판 각주는 제외했습니다. 제1권 I–III장과 제2–4권은 아직 번역하지 않았습니다.'},{name:'중국 성명학 · 성명소원',id:'xingming',description:'사고전서 제요와 권1의 판단 원칙 발췌를 고전 중국어에서 직접 옮겼습니다.'}];
+import {translationVolumes} from '../../lib/translations.mjs';
+const groups=[
+  {name:'프톨레마이오스 · 테트라비블로스',id:'ptolemy-ashmand1822',description:'1822년 Ashmand 영어판 제1권 I–XXVII장 전체와 제2권 I–II장의 본문을 옮겼습니다. 두 텀 표와 애스펙트 도식을 포함하며 영어판 각주는 제외했습니다. 제2권 III장 이후와 제3–4권은 아직 번역하지 않았습니다.'},
+  {name:'중국 성명학 · 성명소원',id:'xingming',description:'사고전서 제요와 권1의 판단 원칙 발췌를 고전 중국어에서 직접 옮겼습니다.'}
+].map(group=>({...group,volumes:translationVolumes(translations.filter(t=>group.id==='xingming'?t.sourceId.startsWith('xingming'):t.sourceId===group.id))}));
 ---
 <Base title="한국어 번역실" description="점성술 문헌을 한국어로 읽습니다. 번역 범위, 판본, 용어 메모와 원자료 링크를 함께 제공합니다.">
   <h1>한국어 번역실</h1><p class="intro">용어의 실제 쓰임을 문헌 속에서 읽습니다.</p>
   <div class="stats"><div class="stat"><strong>{translations.length}편</strong>한국어 번역</div><div class="stat"><strong>{translations.reduce((n,t)=>n+t.paragraphs.length,0)}문단</strong>번역 본문</div><div class="stat"><strong>Astra</strong>직접 번역 초판</div></div>
-  <p>장 전체 번역과 발췌 번역을 구별했습니다. 각 문서 하단에서 판본과 원자료를 확인할 수 있습니다. <a href="/glossary/">한국어 용어집</a>과 함께 읽어 보세요.</p>
-  {groups.map(group=><section id={group.id}><h2>{group.name}</h2><p class="meta">{group.description}</p><div class="source-list">{translations.filter(t=>group.id==='xingming'?t.sourceId.startsWith('xingming'):t.sourceId===group.id).sort((a,b)=>(a.series?.order||0)-(b.series?.order||0)).map(t=><article class="source-item"><h3><a href={`/translations/${t.id}/`}>{t.title || '성명소원: 사고전서 제요'}</a></h3><p>{t.sourceTitle}</p><p class="meta">{t.scope || '제요 본문 전체 · 각 권 본문 제외'}</p><p class="meta">{t.paragraphs.length}문단 · {t.status}</p></article>)}</div></section>)}
+  <p>장 전체 번역과 발췌 번역을 구별했습니다. 각 문서 하단에서 판본과 실제 번역 주체를 확인할 수 있습니다. <a href="/glossary/">한국어 용어집</a>과 함께 읽어 보세요.</p>
+  <nav class="related" aria-label="번역 문헌과 권별 목차">{groups.flatMap(group=>group.volumes.map(volume=><a href={`#${volume.label?volume.id:group.id}`}>{volume.label || group.name} · {volume.entries.length}편</a>))}</nav>
+  {groups.map(group=><section id={group.id}>
+    <h2>{group.name}</h2><p class="meta">{group.description}</p>
+    {group.volumes.map(volume=><section id={volume.label?volume.id:undefined} data-translation-volume={volume.id}>
+      {volume.label && <h3>{volume.label} <span class="meta">· {volume.entries.length}개 장</span></h3>}
+      <div class="source-list">{volume.entries.map(t=><article class="source-item">
+        <h4><a href={`/translations/${t.id}/`}>{t.title || '성명소원: 사고전서 제요'}</a></h4>
+        <p>{t.sourceTitle}</p><p class="meta">{t.scope || '제요 본문 전체 · 각 권 본문 제외'}</p>
+        <p class="meta">{t.paragraphs.length}문단 · {t.status}</p>
+      </article>)}</div>
+    </section>)}
+  </section>)}
 </Base>
+<style>.source-item h4{font-size:1.08rem;line-height:1.6;margin:0 0 .35rem}</style>

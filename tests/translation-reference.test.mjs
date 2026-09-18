@@ -31,9 +31,9 @@ test('retrieval uses source language and related terms, with a bounded prompt bu
 test('changed reference corpus cannot reuse a completed translation job',()=>{
   assert.notEqual(jobKey('source','glossary','auto','https://example.test','old'),jobKey('source','glossary','auto','https://example.test','new'));
 });
-test('Ptolemy technical chapters are continuous and source-specific distinctions resolve',()=>{
+test('Ptolemy Book I is complete and source-specific distinctions resolve',()=>{
   const chapters=translations.filter(t=>t.series?.id==='ptolemy-book1');
-  assert.deepEqual(chapters.map(t=>t.series.order).sort((a,b)=>a-b),Array.from({length:24},(_,i)=>i+4));
+  assert.deepEqual(chapters.map(t=>t.series.order).sort((a,b)=>a-b),Array.from({length:27},(_,i)=>i+1));
   for(const t of chapters)assert(examples.some(e=>e.translationId===t.id));
   const selected=selectGlossaryTerms('proper face and chariot; tropical signs; commanding and obeying signs',glossary).map(t=>t.id);
   for(const id of ['proper-face','planetary-chariot','solstitial-signs','commanding-obeying-signs'])assert(selected.includes(id),id);
