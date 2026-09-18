@@ -5,8 +5,8 @@ const origin=process.env.TEST_ORIGIN||'http://127.0.0.1:4326',browser=await chro
 const page=await browser.newPage({viewport:{width:1440,height:1000}}),errors=[];page.on('pageerror',e=>errors.push(e.message));
 const units=provenance.units.map(u=>translations.find(t=>t.id===u.translationId));await mkdir('test-results',{recursive:true});
 try {
- await page.goto(origin+'/translations/',{waitUntil:'networkidle'});assert.equal(await page.locator('main .source-item').count(),translations.length);assert.equal(await page.locator('#manilius-breiter1907 .source-item').count(),8);assert.equal(await page.locator('#ptolemy-ashmand1822 .source-item').count(),70);
- assert.deepEqual(await page.locator('#manilius-book1 .source-item a').evaluateAll(xs=>xs.map(a=>a.getAttribute('href'))),units.map(t=>`/translations/${t.id}/`));
+ await page.goto(origin+'/translations/',{waitUntil:'networkidle'});assert.equal(await page.locator('main .source-item').count(),translations.length);assert.equal(await page.locator('#manilius-breiter1907 .source-item').count(),translations.filter(t=>t.sourceId==='manilius-breiter1907').length);assert.equal(await page.locator('#ptolemy-ashmand1822 .source-item').count(),70);
+ assert.deepEqual(await page.locator('#manilius-book1 .source-item a').evaluateAll((xs,n)=>xs.slice(0,n).map(a=>a.getAttribute('href')),units.length),units.map(t=>`/translations/${t.id}/`));
  await page.locator('nav[aria-label="번역 문헌과 권별 목차"] a[href="#manilius-book1"]').click();await page.screenshot({path:'test-results/manilius-toc-desktop.png',fullPage:false});
  let total=0;
  for(const [i,t] of units.entries()){
@@ -14,7 +14,7 @@ try {
   assert.equal(await page.locator('.latin-parallel').count(),t.paragraphs.length);assert.deepEqual(await page.locator('.latin-verse').allTextContents(),t.paragraphLatinVerses.flat().map(v=>v.text));total+=await page.locator('.latin-verse').count();
   assert.equal(await page.locator('#references a').first().getAttribute('href'),t.sourceUrl);assert.match(await page.locator('#references details').textContent(),/GPT-6 Astra Pro/);
   if(i)assert.equal(await page.locator('a[rel=prev]').getAttribute('href'),`/translations/${units[i-1].id}/`);else assert.equal(await page.locator('a[rel=prev]').count(),0);
-  if(i<units.length-1)assert.equal(await page.locator('a[rel=next]').getAttribute('href'),`/translations/${units[i+1].id}/`);else assert.equal(await page.locator('a[rel=next]').count(),0);
+  if(i<units.length-1)assert.equal(await page.locator('a[rel=next]').getAttribute('href'),`/translations/${units[i+1].id}/`);else assert.equal(await page.locator('a[rel=next]').getAttribute('href'),'/translations/manilius-i-255-274/');
  }
  assert.equal(total,252);
  await page.goto(origin+'/translations/manilius-i-001-024/#paragraph-4');await page.locator('.latin-parallel').nth(3).locator('summary').click();await page.locator('#paragraph-4').evaluate(el=>el.scrollIntoView({block:'start'}));assert.match(await page.locator('.latin-parallel').nth(3).textContent(),/Phoebo/);await page.screenshot({path:'test-results/manilius-latin-desktop.png',fullPage:false});

@@ -6028,5 +6028,4267 @@
         }
       ]
     ]
+  },
+  {
+    "id": "manilius-i-255-274",
+    "title": "아스트로노미카 I.255–274: 열두 황도 사인의 행렬",
+    "sourceId": "manilius-breiter1907",
+    "sourceHash": "5e9e129f14be7b3c3c79cb7b685c88dd76a9c50a9ddfe544c5e78fe67fabd0f5",
+    "sourceHashKind": "latin-verse-transcription",
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=25",
+    "sourceTitle": "『아스트로노미카』 제1권 255–274행 — Breiter 라틴어판(1907)",
+    "author": "Marcus Manilius · 라틴어 원작; Theodor Breiter 편집(1907)",
+    "license": "Public domain",
+    "translationLicense": "CC BY 4.0",
+    "glossaryVersion": "2026-09-18.4",
+    "method": "direct-editor",
+    "editor": "ChatGPT (GPT-6 Astra Pro)",
+    "date": "2026-09-18",
+    "status": "Astra 라틴어 직접 번역 초판",
+    "language": "la",
+    "locator": "제1권 255–274행 · 인쇄본 9–9쪽 · PDF 25–25쪽",
+    "scope": "표시한 행 범위의 저본 본문 번역 · 교감란·결락 보충 제외",
+    "edition": "Breiter 1907년 라틴어판에서 직접 옮겼습니다. 이번 묶음의 한국어 초역을 모두 작성한 뒤 Creech 1697년 영어역의 기하학 설명 일부만 비교했습니다. Housman·Goold와의 추가 교감이나 독립된 사람의 감수를 수행한 번역은 아닙니다.",
+    "termIds": [
+      "manilius-signum",
+      "manilius-sidera",
+      "manilius-poetic-sign-names",
+      "zodiac-sign",
+      "constellation"
+    ],
+    "editorialNotes": [
+      "황도의 열두 사인을 나열하지만 원문은 별자리의 몸짓과 형상을 노래한다. 한국어 본문에서는 숫양·황소·게 등의 형상을 살리고, 사인이라는 구획과 별자리라는 형상을 같은 말로 일괄 치환하지 않았다.",
+      "265행의 저본은 notantem이다. 보조 전사의 vocantem을 따라 쌍둥이를 부른다는 동작으로 바꾸지 않았다. 271행의 angusto ... sidere는 좁고 굽은 형상이라는 표현을 보존했다.",
+      "천계의 회전에 맞서는 다른 천체라는 말은 일주 회전과 그에 대한 천체의 운행을 구별하는 저본의 설명이다. 이것만으로 현대의 역행 판정 규칙을 뜻한다고 덧붙이지 않았다.",
+      "한국어 본문은 Breiter 라틴어 지면에서 직접 작성했다. 읽기 구간의 제목·문단 구분은 편집자가 붙였으며, 원문의 번호와 실제 인쇄 순서를 따랐다. 본문에 없는 시구·교감란의 전승·결락은 새 문장으로 채워 넣지 않았다.",
+      "라틴어 원자료 SHA-256은 이 구간의 행 번호와 전사문을 인쇄 순서대로 이은 문자열의 해시이다. 원본 PDF 파일의 해시와 문단 대응표·지면 번호·삽입 의심 표시는 저장소의 참고 자료에 따로 보존했다."
+    ],
+    "series": {
+      "id": "manilius-book1",
+      "label": "마닐리우스 아스트로노미카 제1권",
+      "order": 9
+    },
+    "paragraphs": [
+      "이제 사방에서 빛나는 별자리들의 불꽃을 일정한 순서로 전하겠다. 먼저 우주의 가운데를 비스듬한 띠로 두르고, 계절을 따라 차례로 태양을 나르며, 천계의 회전에 맞서 나아가는 다른 천체들도 실어 나르는 것들을 노래하겠다. 맑은 하늘에서 셀 수 있는 그 모든 것들이다. 운명을 헤아리는 모든 이치도 거기에서 나오므로, 우주에서 으뜸가는 자리를 차지한 것이 내 노래에서도 첫머리가 되도록 하겠다.",
+      "첫째인 숫양은 황금빛 털을 빛내며 뒤를 돌아본다. 황소가 등을 먼저 보이며 떠오르는 모습에 놀란다. 황소는 고개를 숙이고 이마로 쌍둥이를 가리킨다. 그들을 게가 따르고, 게를 사자가, 사자를 처녀가 따른다.",
+      "이어서 낮을 밤의 길이와 같게 만드는 천칭이, 타오르는 별빛으로 빛나는 전갈을 끌어온다. 말과 섞인 몸의 활잡이는 활을 팽팽하게 당겨 전갈의 꼬리를 겨눈다. 지금이라도 날아갈 화살을 쏘려 한다.",
+      "그다음에는 좁게 굽은 별자리의 염소가 온다. 뒤따르는 물병잡이는 기울인 항아리에서 물을 쏟아낸다. 물고기들은 익숙한 물결 속으로 탐내듯 들어간다. 그들이 마지막 사인들을 닫는 자리에서 숫양이 다시 맞닿는다."
+    ],
+    "paragraphLocators": [
+      "제1권 255–262행",
+      "제1권 263–266행",
+      "제1권 267–270행",
+      "제1권 271–274행"
+    ],
+    "paragraphCriticalNotes": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "paragraphLatinVerses": [
+      [
+        {
+          "number": 255,
+          "text": "nunc tibi signorum lucentis undique flammas"
+        },
+        {
+          "number": 256,
+          "text": "ordinibus certis referam, primumque canentur"
+        },
+        {
+          "number": 257,
+          "text": "quae media obliquo praecingunt ordine mundum"
+        },
+        {
+          "number": 258,
+          "text": "solemque alternis uicibus per tempora portant"
+        },
+        {
+          "number": 259,
+          "text": "atque alia aduerso luctantia sidera mundo;"
+        },
+        {
+          "number": 260,
+          "text": "omnia, quae possis caelo numerare sereno;"
+        },
+        {
+          "number": 261,
+          "text": "e quibus et ratio fatorum ducitur omnis,"
+        },
+        {
+          "number": 262,
+          "text": "ut sit idem mundi primum quod continet arcem."
+        }
+      ],
+      [
+        {
+          "number": 263,
+          "text": "aurato princeps aries in uellere fulgens"
+        },
+        {
+          "number": 264,
+          "text": "respicit admirans auersum surgere taurum"
+        },
+        {
+          "number": 265,
+          "text": "summisso uultu geminos et fronte notantem."
+        },
+        {
+          "number": 266,
+          "text": "quos sequitur cancer, cancrum leo, uirgo leonem."
+        }
+      ],
+      [
+        {
+          "number": 267,
+          "text": "aequato tum libra die cum tempore noctis"
+        },
+        {
+          "number": 268,
+          "text": "attrahit ardenti fulgentem scorpion astro."
+        },
+        {
+          "number": 269,
+          "text": "in cuius caudam contento dirigit arcu"
+        },
+        {
+          "number": 270,
+          "text": "mixtus equo uolucrem missurus iamque sagittam."
+        }
+      ],
+      [
+        {
+          "number": 271,
+          "text": "tum uenit angusto capricornus sidere flexus;"
+        },
+        {
+          "number": 272,
+          "text": "post hunc inflexa defundit aquarius urna"
+        },
+        {
+          "number": 273,
+          "text": "piscibus assuetas auide subeuntibus undas,"
+        },
+        {
+          "number": 274,
+          "text": "quos aries tangit claudentis ultima signa."
+        }
+      ]
+    ],
+    "contentNotice": "저본의 신화·운명·우주론·정치적 찬양과 역사적 가치 판단을 옮긴 문헌 번역입니다. 현대의 천문학·의료·재난 예측이나 개인·집단에 대한 평가로 제시하지 않습니다."
+  },
+  {
+    "id": "manilius-i-275-307",
+    "title": "아스트로노미카 I.275–307: 천구의 축과 두 곰자리",
+    "sourceId": "manilius-breiter1907",
+    "sourceHash": "d83bac08e3ad6be23ca49893a2603d71edff02f0afc75c8bba05f9a0cd2b30c7",
+    "sourceHashKind": "latin-verse-transcription",
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=25",
+    "sourceTitle": "『아스트로노미카』 제1권 275–307행 — Breiter 라틴어판(1907)",
+    "author": "Marcus Manilius · 라틴어 원작; Theodor Breiter 편집(1907)",
+    "license": "Public domain",
+    "translationLicense": "CC BY 4.0",
+    "glossaryVersion": "2026-09-18.4",
+    "method": "direct-editor",
+    "editor": "ChatGPT (GPT-6 Astra Pro)",
+    "date": "2026-09-18",
+    "status": "Astra 라틴어 직접 번역 초판",
+    "language": "la",
+    "locator": "제1권 275–307행 · 인쇄본 9–10쪽 · PDF 25–26쪽",
+    "scope": "표시한 행 범위의 저본 본문 번역 · 교감란·결락 보충 제외",
+    "edition": "Breiter 1907년 라틴어판에서 직접 옮겼습니다. 이번 묶음의 한국어 초역을 모두 작성한 뒤 Creech 1697년 영어역의 기하학 설명 일부만 비교했습니다. Housman·Goold와의 추가 교감이나 독립된 사람의 감수를 수행한 번역은 아닙니다.",
+    "termIds": [
+      "manilius-cardines",
+      "manilius-mundus",
+      "constellation"
+    ],
+    "editorialNotes": [
+      "헬리케·키노수라는 이 문맥에서 각각 큰곰·작은곰에 연결되는 이름이다. 그 사이의 anguis는 용 모양의 별자리이며, 뒤에 나오는 뱀주인자리가 붙든 뱀 및 남쪽 물뱀과 구별한다.",
+      "285~293행은 축이 물질적인 기둥이 아니라 움직이지 않는 회전 중심이라는 설명이다. axis를 거대한 고체 막대로 그리거나 번역하지 않았다.",
+      "Tyrius·Poeni는 각각 티로스와 페니키아계 항해자들을 가리키는 저본의 명칭으로 옮겼다. 현재의 국경·민족 범주를 덧붙이지 않았다.",
+      "한국어 본문은 Breiter 라틴어 지면에서 직접 작성했다. 읽기 구간의 제목·문단 구분은 편집자가 붙였으며, 원문의 번호와 실제 인쇄 순서를 따랐다. 본문에 없는 시구·교감란의 전승·결락은 새 문장으로 채워 넣지 않았다.",
+      "라틴어 원자료 SHA-256은 이 구간의 행 번호와 전사문을 인쇄 순서대로 이은 문자열의 해시이다. 원본 PDF 파일의 해시와 문단 대응표·지면 번호·삽입 의심 표시는 저장소의 참고 자료에 따로 보존했다."
+    ],
+    "series": {
+      "id": "manilius-book1",
+      "label": "마닐리우스 아스트로노미카 제1권",
+      "order": 10
+    },
+    "paragraphs": [
+      "한편 천계가 빛나는 곰자리들 쪽으로 높아지는 곳, 가장 높은 하늘에서 모든 별을 내려다보며 질 줄 모르고 하나의 꼭짓점 둘레를 도는 그 자리에는 가느다란 축이 차가운 공기를 가로질러 뻗어 있다. 서로 반대편을 잇는 위치에서 하늘과 별들을 회전시키며, 양끝의 회전점으로 균형 잡힌 우주를 이끈다. 별이 박힌 천구는 그 축을 중심으로 돌며 높은 하늘의 운행을 거듭한다. 그러나 축 자체는 움직이지 않는다. 거대한 우주의 빈 공간과 땅덩어리 자체를 곧게 관통하여, 두 곰자리를 향해 서 있다.",
+      "그렇다고 그 축이 단단한 물체의 강도로 서 있는 것은 아니다. 높은 하늘의 짐을 떠받치는 무거운 중량을 가진 것도 아니다. 모든 공기가 늘 둥글게 회전하고, 한 번 시작한 방향을 따라 전체가 사방에서 제자리로 돌아온다. 그때 만물이 주위를 돌고 있는 바로 가운데는 너무나 가늘어서 스스로 회전할 수도, 기울 수도, 원을 그리며 돌 수도 없다. 사람들은 그곳을 축이라 불렀다. 아무 움직임 없이 주위에서 날아가는 모든 것의 운동을 바라보기 때문이다.",
+      "그 꼭대기에는 고달픈 뱃사람들에게 너무나 익숙한 별자리들이 자리한다. 멀리 나아가려는 이들을 광대한 바다로 인도하는 별자리들이다. 더 큰 헬리케는 더 큰 원호를 그리며, 밝기를 다투는 일곱 별로 표시된다. 그 별자리를 길잡이로 그리스의 배들이 물결 위에 돛을 펼친다. 작은 키노수라는 좁은 원을 돈다. 크기만큼이나 빛도 작지만, 티로스 사람의 판단으로는 큰 곰을 이긴다. 바다에서 보이지 않는 육지를 찾는 페니키아 사람들에게는 이 별자리가 더 확실한 길잡이이다.",
+      "두 별자리는 같은 쪽으로 얼굴을 향하지 않는다. 저마다 꼬리를 다른 쪽의 주둥이로 돌리고, 자신을 뒤따르는 쪽을 뒤따른다. 그 사이로 뱀이 길게 뻗어 둘 모두를 감싼다. 타오르는 별들로 그들을 갈라놓으면서 둘러싸, 서로 합쳐지거나 제자리에서 떠나지 못하게 한다."
+    ],
+    "paragraphLocators": [
+      "제1권 275–284행",
+      "제1권 285–293행",
+      "제1권 294–302행",
+      "제1권 303–307행"
+    ],
+    "paragraphCriticalNotes": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "paragraphLatinVerses": [
+      [
+        {
+          "number": 275,
+          "text": "at qua fulgentis caelum consurgit ad arctos,"
+        },
+        {
+          "number": 276,
+          "text": "omnia quae summo despectant sidera mundo,"
+        },
+        {
+          "number": 277,
+          "text": "nec norunt obitus unoque in uertice tendunt,"
+        },
+        {
+          "number": 278,
+          "text": "in diuersa situ caelumque et sidera torquens"
+        },
+        {
+          "number": 279,
+          "text": "aera per gelidum tenuis deducitur axis"
+        },
+        {
+          "number": 280,
+          "text": "libratumque regit diuerso cardine mundum,"
+        },
+        {
+          "number": 281,
+          "text": "sidereus circa medium quem uoluitur orbis"
+        },
+        {
+          "number": 282,
+          "text": "aetheriosque rotat cursus; immotus at ille"
+        },
+        {
+          "number": 283,
+          "text": "in binas arctos magni per inania mundi"
+        },
+        {
+          "number": 284,
+          "text": "perque ipsum terrae derectus constitit orbem."
+        }
+      ],
+      [
+        {
+          "number": 285,
+          "text": "nec uero e solido stant robora corporis illi"
+        },
+        {
+          "number": 286,
+          "text": "nec graue pondus habet, quod onus ferat aetheris alti;"
+        },
+        {
+          "number": 287,
+          "text": "sed cum aer omnis semper uoluatur in orbem,"
+        },
+        {
+          "number": 288,
+          "text": "quoque semel coepit, totus uolet undique in ipsum,"
+        },
+        {
+          "number": 289,
+          "text": "quodcumque in medio est, circa quod cuncta mouentur,"
+        },
+        {
+          "number": 290,
+          "text": "usque adeo tenue, ut uerti non possit in ipsum"
+        },
+        {
+          "number": 291,
+          "text": "nec iam inclinari nec se conuertere in orbem,"
+        },
+        {
+          "number": 292,
+          "text": "hoc dixere axem, quia motum non habet ullum,"
+        },
+        {
+          "number": 293,
+          "text": "ipse uidet circa uolitantia cuncta moueri."
+        }
+      ],
+      [
+        {
+          "number": 294,
+          "text": "summa tenent eius miseris notissima nautis"
+        },
+        {
+          "number": 295,
+          "text": "signa per immensum cupidos ducentia pontum:"
+        },
+        {
+          "number": 296,
+          "text": "maioremque Helice maior decircinat arcum,"
+        },
+        {
+          "number": 297,
+          "text": "septem illam stellae certantes lumine signant,"
+        },
+        {
+          "number": 298,
+          "text": "qua duce per fluctus Graiae dant uela carinae."
+        },
+        {
+          "number": 299,
+          "text": "angusto Cynosura breuis torquetur in orbe"
+        },
+        {
+          "number": 300,
+          "text": "quam spatio, tam luce minor; sed iudice uincit"
+        },
+        {
+          "number": 301,
+          "text": "maiorem Tyrio. Poenis haec certior auctor"
+        },
+        {
+          "number": 302,
+          "text": "non apparentem pelago quaerentibus orbem."
+        }
+      ],
+      [
+        {
+          "number": 303,
+          "text": "nec paribus positae sunt frontibus; utraque caudam"
+        },
+        {
+          "number": 304,
+          "text": "uergit in alterius rostro sequiturque sequentem."
+        },
+        {
+          "number": 305,
+          "text": "has inter fusus circumque amplexus utramque"
+        },
+        {
+          "number": 306,
+          "text": "diuidit et cingit stellis ardentibus anguis,"
+        },
+        {
+          "number": 307,
+          "text": "ne coeant abeantue suis a sedibus umquam."
+        }
+      ]
+    ],
+    "contentNotice": "저본의 신화·운명·우주론·정치적 찬양과 역사적 가치 판단을 옮긴 문헌 번역입니다. 현대의 천문학·의료·재난 예측이나 개인·집단에 대한 평가로 제시하지 않습니다."
+  },
+  {
+    "id": "manilius-i-308-345",
+    "title": "아스트로노미카 I.308–345: 북쪽 별자리와 리라의 노래",
+    "sourceId": "manilius-breiter1907",
+    "sourceHash": "9d3e3d0ccd900c707b90ffc7e3649c00672150d66e35da03aaa57967335882b0",
+    "sourceHashKind": "latin-verse-transcription",
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=26",
+    "sourceTitle": "『아스트로노미카』 제1권 308–345행 — Breiter 라틴어판(1907)",
+    "author": "Marcus Manilius · 라틴어 원작; Theodor Breiter 편집(1907)",
+    "license": "Public domain",
+    "translationLicense": "CC BY 4.0",
+    "glossaryVersion": "2026-09-18.4",
+    "method": "direct-editor",
+    "editor": "ChatGPT (GPT-6 Astra Pro)",
+    "date": "2026-09-18",
+    "status": "Astra 라틴어 직접 번역 초판",
+    "language": "la",
+    "locator": "제1권 308–345행 · 인쇄본 10–12쪽 · PDF 26–28쪽",
+    "scope": "표시한 행 범위의 저본 본문 번역 · 교감란·결락 보충 제외",
+    "edition": "Breiter 1907년 라틴어판에서 직접 옮겼습니다. 이번 묶음의 한국어 초역을 모두 작성한 뒤 Creech 1697년 영어역의 기하학 설명 일부만 비교했습니다. Housman·Goold와의 추가 교감이나 독립된 사람의 감수를 수행한 번역은 아닙니다.",
+    "termIds": [
+      "manilius-sidera",
+      "manilius-mundus",
+      "constellation",
+      "manilius-poetic-sign-names"
+    ],
+    "editorialNotes": [
+      "리라·백조·화살·독수리를 설명하는 신화와 천상 운행을 보존했다. 신화적 행위와 현재의 천체 운동을 물리적 인과로 통일하지 않았다.",
+      "315행은 무릎 꿇은 형상이 자신의 자세의 이유를 안다고만 말한다. 본문에 이름이 없는 영웅을 확정하여 집어넣지 않았다. 아르크토필락스·보오테스·아르크투루스는 별자리 명칭들과 그 안의 별을 구별하여 옮겼다.",
+      "331행의 Breiter는 pugnis, 곧 주먹들이라고 인쇄한다. 다른 전사의 signis를 그대로 가져와 큰 별자리들로 뱀을 나눈다는 문장으로 바꾸지 않았다.",
+      "한국어 본문은 Breiter 라틴어 지면에서 직접 작성했다. 읽기 구간의 제목·문단 구분은 편집자가 붙였으며, 원문의 번호와 실제 인쇄 순서를 따랐다. 본문에 없는 시구·교감란의 전승·결락은 새 문장으로 채워 넣지 않았다.",
+      "라틴어 원자료 SHA-256은 이 구간의 행 번호와 전사문을 인쇄 순서대로 이은 문자열의 해시이다. 원본 PDF 파일의 해시와 문단 대응표·지면 번호·삽입 의심 표시는 저장소의 참고 자료에 따로 보존했다."
+    ],
+    "series": {
+      "id": "manilius-book1",
+      "label": "마닐리우스 아스트로노미카 제1권",
+      "order": 11
+    },
+    "paragraphs": [
+      "이 뱀과 가운데의 원 사이, 일곱 천체가 열두 사인을 가로질러 반대 방향으로 힘써 나아가는 그 원과의 사이에는 서로 다른 힘들이 섞인 별자리들이 떠오른다. 한쪽으로는 극에 가깝고 다른 쪽으로는 포이보스의 불길에 가깝다. 서로 다른 기운이 맞서는 곳에서 대기가 조화를 이루게 하므로, 그 별자리들은 아래의 땅을 인간을 위해 열매 맺는 곳으로 만든다.",
+      "차가운 곰자리들과 얼어붙은 북풍 가까이에는 무릎을 꿇은 형상이 나타난다. 자신이 왜 그 자세인지 스스로는 알고 있다. 그 뒤에는 아르크토필락스가 빛난다. 보오테스라고도 부르는데, 멍에를 함께 멘 소들을 몰듯 채찍으로 재촉하기 때문이다. 그는 가슴 한가운데 아래에서 아르크투루스를 함께 끌고 간다.",
+      "다른 쪽에서는 왕관이 뚜렷한 원을 그리며 날고, 여러 밝기의 빛으로 반짝인다. 둥근 테는 한 별에 빛을 양보한다. 이마 한가운데에서 가장 큰 그 별이 타오르는 불꽃으로 희게 빛나는 별들을 구별해 준다. 버림받은 크노소스 처녀의 기념물이 그곳에서 빛난다.",
+      "리라는 두 뿔을 벌린 채 하늘의 별들 사이에서 모습을 드러낸다. 옛날 오르페우스는 이 악기의 노래가 닿는 모든 것을 사로잡았고, 죽은 이들의 세계까지 길을 내어 노래로 지하의 법칙을 굴복시켰다. 그로부터 하늘의 영예를 얻었으며, 지금의 힘도 그 계기에 걸맞다. 그때에는 숲과 바위를 이끌었고, 지금은 별들을 이끌며 회전하는 우주의 거대한 원을 끌어간다.",
+      "오피우쿠스라는 이름의 형상은 커다란 두 주먹으로 뱀을 벌려 잡는다. 자기 몸을 온몸으로 감싼 뱀의 매듭과 둥글게 굽은 등을 풀어내려는 것이다. 그러나 뱀은 유연한 목을 뒤로 젖혀 돌아보며, 손을 빠져나와 느슨한 고리들을 따라 되돌아온다. 힘이 맞먹으므로 이 대등한 상대들의 싸움은 영원히 이어질 것이다.",
+      "그다음 자리는 백조의 것이다. 유피테르 자신이 사랑하는 이를 사로잡은 형상에 대한 보답으로 하늘에 올려놓았다. 신은 눈처럼 흰 백조의 모습으로 내려와, 자신을 믿은 레다에게 깃털 덮인 등을 내주었다. 지금도 별이 박힌 날개를 펼치고 날아간다.",
+      "이어서 화살의 날아가는 모습과 형태를 본뜬 별들이 빛난다. 그리고 위대한 유피테르의 새가 높이 날아간다. 익숙한 하늘에서 벼락을 나르는 듯하다. 신성한 무기를 하늘에 갖추어 주는 이 새는 유피테르와 천계의 영예를 누리기에 합당하다."
+    ],
+    "paragraphLocators": [
+      "제1권 308–313행",
+      "제1권 314–318행",
+      "제1권 319–323행",
+      "제1권 324–330행",
+      "제1권 331–336행",
+      "제1권 337–341행",
+      "제1권 342–345행"
+    ],
+    "paragraphCriticalNotes": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "paragraphLatinVerses": [
+      [
+        {
+          "number": 308,
+          "text": "hunc inter mediumque orbem, quo sidera septem"
+        },
+        {
+          "number": 309,
+          "text": "per bis sena uolant contra nitentia signa,"
+        },
+        {
+          "number": 310,
+          "text": "mixta ex diuersis consurgunt uiribus astra"
+        },
+        {
+          "number": 311,
+          "text": "hinc uicina polo Phoebique hinc proxima flammis;"
+        },
+        {
+          "number": 312,
+          "text": "quae quia dissimilis, qua pugnat, temperat aer,"
+        },
+        {
+          "number": 313,
+          "text": "frugiferum sub se reddunt mortalibus orbem."
+        }
+      ],
+      [
+        {
+          "number": 314,
+          "text": "proxima frigentis arctos boreamque rigentem"
+        },
+        {
+          "number": 315,
+          "text": "nixa uenit species genibus sibi conscia causae."
+        },
+        {
+          "number": 316,
+          "text": "a tergo nitet arctophylax, idemque bootes,"
+        },
+        {
+          "number": 317,
+          "text": "quod stimulis iunctis instat de more iuuencis,"
+        },
+        {
+          "number": 318,
+          "text": "arcturumque rapit medio sub pectore secum."
+        }
+      ],
+      [
+        {
+          "number": 319,
+          "text": "at parte ex alia claro uolat orbe corona"
+        },
+        {
+          "number": 320,
+          "text": "luce micans uaria; nam stella uincitur una"
+        },
+        {
+          "number": 321,
+          "text": "circulus in media radiat quae maxima fronte"
+        },
+        {
+          "number": 322,
+          "text": "candidaque ardenti distinguit lumina flamma:"
+        },
+        {
+          "number": 323,
+          "text": "Gnosia desertae fulgent monimenta puellae."
+        }
+      ],
+      [
+        {
+          "number": 324,
+          "text": "at lyra diductis per caelum cornibus inter"
+        },
+        {
+          "number": 325,
+          "text": "sidera conspicitur, qua quondam ceperat Orpheus"
+        },
+        {
+          "number": 326,
+          "text": "omne quod attigerat cantu manesque per ipsos"
+        },
+        {
+          "number": 327,
+          "text": "fecit iter domuitque infernas carmine leges."
+        },
+        {
+          "number": 328,
+          "text": "hinc caelestis honos similisque potentia causae:"
+        },
+        {
+          "number": 329,
+          "text": "tunc siluas et saxa trahens nunc sidera ducit"
+        },
+        {
+          "number": 330,
+          "text": "et rapit immensum mundi reuolubilis orbem."
+        }
+      ],
+      [
+        {
+          "number": 331,
+          "text": "serpentem magnis ophiuchus nomine pugnis"
+        },
+        {
+          "number": 332,
+          "text": "diuidit, ut toto cingentem corpore corpus"
+        },
+        {
+          "number": 333,
+          "text": "explicet et nodos sinuataque terga per orbes;"
+        },
+        {
+          "number": 334,
+          "text": "respicit ille tamen molli ceruice reflexus"
+        },
+        {
+          "number": 335,
+          "text": "et redit elusis per laxa uolumina palmis:"
+        },
+        {
+          "number": 336,
+          "text": "semper erit paribus bellum, quia uiribus aequant."
+        }
+      ],
+      [
+        {
+          "number": 337,
+          "text": "proxima sors cycni, quem caelo Iuppiter ipse"
+        },
+        {
+          "number": 338,
+          "text": "imposuit, formae pretium, qua cepit amantem,"
+        },
+        {
+          "number": 339,
+          "text": "cum deus in niueum descendit uersus olorem"
+        },
+        {
+          "number": 340,
+          "text": "tergaque fidenti subiecit plumea Ledae."
+        },
+        {
+          "number": 341,
+          "text": "nunc quoque diductas uolitat stellatus in alas."
+        }
+      ],
+      [
+        {
+          "number": 342,
+          "text": "hinc imitata nitent cursumque habitumque sagittae"
+        },
+        {
+          "number": 343,
+          "text": "sidera. tum magni Iouis ales fertur in altum"
+        },
+        {
+          "number": 344,
+          "text": "assueto uolitans gestet ceu fulmina mundo"
+        },
+        {
+          "number": 345,
+          "text": "digna Ioue et caelo, quod sacris instruit armis."
+        }
+      ]
+    ],
+    "contentNotice": "저본의 신화·운명·우주론·정치적 찬양과 역사적 가치 판단을 옮긴 문헌 번역입니다. 현대의 천문학·의료·재난 예측이나 개인·집단에 대한 평가로 제시하지 않습니다."
+  },
+  {
+    "id": "manilius-i-346-372",
+    "title": "아스트로노미카 I.346–372: 안드로메다와 북쪽 별자리의 끝",
+    "sourceId": "manilius-breiter1907",
+    "sourceHash": "cf4a9678c8019ff13714a8b34657b1ecfa9157aba76f5590bbd1644e564b8e6e",
+    "sourceHashKind": "latin-verse-transcription",
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=28",
+    "sourceTitle": "『아스트로노미카』 제1권 346–372행 — Breiter 라틴어판(1907)",
+    "author": "Marcus Manilius · 라틴어 원작; Theodor Breiter 편집(1907)",
+    "license": "Public domain",
+    "translationLicense": "CC BY 4.0",
+    "glossaryVersion": "2026-09-18.4",
+    "method": "direct-editor",
+    "editor": "ChatGPT (GPT-6 Astra Pro)",
+    "date": "2026-09-18",
+    "status": "Astra 라틴어 직접 번역 초판",
+    "language": "la",
+    "locator": "제1권 346–372행 · 인쇄본 12–12쪽 · PDF 28–28쪽",
+    "scope": "표시한 행 범위의 저본 본문 번역 · 교감란·결락 보충 제외",
+    "edition": "Breiter 1907년 라틴어판에서 직접 옮겼습니다. 이번 묶음의 한국어 초역을 모두 작성한 뒤 Creech 1697년 영어역의 기하학 설명 일부만 비교했습니다. Housman·Goold와의 추가 교감이나 독립된 사람의 감수를 수행한 번역은 아닙니다.",
+    "termIds": [
+      "manilius-sidera",
+      "constellation",
+      "manilius-critical-marks"
+    ],
+    "editorialNotes": [
+      "350~351행의 구출·결합 어구만 기울임꼴이다. 행 전체를 삽입 의심이라고 표시하지 않고 해당 어구를 따로 기록한다. 첫 문장의 안드로메다에서 끝난다는 말은 말자리의 경계를 설명한다.",
+      "358행의 저본은 in ... feruet이다. 다른 전사의 ni ... seruet로 바꾸지 않고 사랑에 불탄다는 본문과 뒤의 기원형 동사를 구별했다.",
+      "371행의 pars iuraque라는 Breiter 독법을 영역이라는 말로 옮겼다. 전사 보조본의 pars utraque로 조용히 고치지 않았다. 헤니오쿠스는 전차를 모는 이라는 이름이며, 별자리로는 마차부자리에 해당한다.",
+      "350행 안에서 두 문장이 이어지므로 346–357행을 하나의 한국어 문단으로 묶었다. 같은 행을 둘로 쪼개 중복 산입하지 않는다.",
+      "한국어 본문은 Breiter 라틴어 지면에서 직접 작성했다. 읽기 구간의 제목·문단 구분은 편집자가 붙였으며, 원문의 번호와 실제 인쇄 순서를 따랐다. 본문에 없는 시구·교감란의 전승·결락은 새 문장으로 채워 넣지 않았다.",
+      "라틴어 원자료 SHA-256은 이 구간의 행 번호와 전사문을 인쇄 순서대로 이은 문자열의 해시이다. 원본 PDF 파일의 해시와 문단 대응표·지면 번호·삽입 의심 표시는 저장소의 참고 자료에 따로 보존했다."
+    ],
+    "series": {
+      "id": "manilius-book1",
+      "label": "마닐리우스 아스트로노미카 제1권",
+      "order": 12
+    },
+    "paragraphs": [
+      "돌고래도 바다에서 별들로 솟아오른다. 바다와 하늘의 영광이며 두 곳 모두에서 성스러운 존재이다. 가슴의 빛나는 별이 뚜렷한 말은 빠른 걸음으로 돌고래를 따라잡으려 서두른다. 그 몸은 안드로메다에서 끝난다. 페르세우스는 무력으로 그녀를 구하여 자신의 짝으로 삼는다. 그 곁에는 델토톤이라는 별자리가 뒤따른다. 두 빛과 달리 셋째 빛이 불균등한 간격을 이루어 보이므로, 그 닮은 모양에서 이름을 얻었다. 케페우스와, 자신이 받은 벌을 새긴 카시오페아도 있다. 곁에 남겨진 카시오페아는 바위에 묶여 바다에 내놓인 안드로메다를 슬퍼한다. 처녀는 바다 괴물의 거대한 입을 두려워하고 있다.",
+      "페르세우스는 하늘에서도 옛사랑에 불타고 있다. 그가 도움을 보태고, 바라보아서는 안 되는 고르곤의 얼굴을 높이 들기를. 자신에게는 전리품이지만 보는 이에게는 파멸인 그 얼굴을.",
+      "다음에는 무릎을 굽힌 황소 가까이 발을 디딘 헤니오쿠스가 있다. 그 기술로 하늘의 자리와 이름을 얻은 이다. 유피테르는 그가 처음으로 네 말이 끄는 높은 전차를 몰며 달리는 것을 보고, 하늘에 올려 성스럽게 하였다.",
+      "그 아래에는 바다의 길을 닫는 별자리의 새끼염소들이 있고, 우주의 왕을 길러 이름 높은 암염소도 있다. 그 왕은 암염소의 젖가슴에서 위대한 올림포스로 올랐다. 짐승의 젖을 먹고 자라 벼락과 천둥의 힘을 얻었던 것이다. 그러므로 유피테르는 마땅한 보답으로 암염소를 영원한 별들 가운데 성스럽게 두고, 하늘을 얻은 대가로 하늘을 되돌려 주었다.",
+      "사나운 황소의 일부이자 그 영역을 이루는 플레이아데스와 히아데스도 북쪽으로 오른다. 이것들이 북쪽 별자리들이다."
+    ],
+    "paragraphLocators": [
+      "제1권 346–357행",
+      "제1권 358–360행",
+      "제1권 361–364행",
+      "제1권 365–370행",
+      "제1권 371–372행"
+    ],
+    "paragraphCriticalNotes": [
+      "350–351행의 구출·결합 어구만 저본의 삽입 의심 구절",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "paragraphLatinVerses": [
+      [
+        {
+          "number": 346,
+          "text": "tum quoque de ponto surgit delphinus ad astra"
+        },
+        {
+          "number": 347,
+          "text": "oceani caelique decus per utrumque sacratus."
+        },
+        {
+          "number": 348,
+          "text": "quem rapido conatus equus comprendere cursu"
+        },
+        {
+          "number": 349,
+          "text": "festinat pectus fulgenti sidere clarus."
+        },
+        {
+          "number": 350,
+          "text": "et finitur in Andromeda; quam Perseus armis",
+          "status": "contains-suspected-interpolation",
+          "fragments": [
+            {
+              "text": "et finitur in Andromeda; "
+            },
+            {
+              "text": "quam Perseus armis",
+              "suspected": true
+            }
+          ]
+        },
+        {
+          "number": 351,
+          "text": "eripit et sociat sibi, cui succedit iniquo",
+          "status": "contains-suspected-interpolation",
+          "fragments": [
+            {
+              "text": "eripit et sociat sibi, cui",
+              "suspected": true
+            },
+            {
+              "text": " succedit iniquo"
+            }
+          ]
+        },
+        {
+          "number": 352,
+          "text": "diuisum spatio deltoton nomine sidus"
+        },
+        {
+          "number": 353,
+          "text": "ex simili dictum, quod lampas tertia dispar"
+        },
+        {
+          "number": 354,
+          "text": "conspicitur paribus; Cepheusque et Cassiopea"
+        },
+        {
+          "number": 355,
+          "text": "in poenas signata suas iuxtaque relicta"
+        },
+        {
+          "number": 356,
+          "text": "Andromedam uastos metuentem pristis hiatus"
+        },
+        {
+          "number": 357,
+          "text": "expositam ponto deflet scopulisque reuinctam."
+        }
+      ],
+      [
+        {
+          "number": 358,
+          "text": "in ueterem Perseus caelo quoque feruet amorem"
+        },
+        {
+          "number": 359,
+          "text": "auxilioque iuuet fugiendaque Gorgonis ora"
+        },
+        {
+          "number": 360,
+          "text": "sustineat spoliumque sibi pestemque uidenti."
+        }
+      ],
+      [
+        {
+          "number": 361,
+          "text": "tum uicina ferens nixo uestigia tauro"
+        },
+        {
+          "number": 362,
+          "text": "heniochus studio mundumque et nomen adeptus,"
+        },
+        {
+          "number": 363,
+          "text": "quem primum curru uolitantem Iuppiter alto"
+        },
+        {
+          "number": 364,
+          "text": "quadriiugis conspexit equis caeloque sacrauit."
+        }
+      ],
+      [
+        {
+          "number": 365,
+          "text": "hunc subeunt haedi claudentes sidere pontum,"
+        },
+        {
+          "number": 366,
+          "text": "nobilis et mundi nutrito rege capella,"
+        },
+        {
+          "number": 367,
+          "text": "cuius ab uberibus magnum ille ascendit Olympum"
+        },
+        {
+          "number": 368,
+          "text": "lacte fero crescens ad fulmina uimque tonandi;"
+        },
+        {
+          "number": 369,
+          "text": "hanc ergo aeternis merito sacrauit in astris"
+        },
+        {
+          "number": 370,
+          "text": "Iuppiter et caeli caelum mercede rependit."
+        }
+      ],
+      [
+        {
+          "number": 371,
+          "text": "pleiadesque hyadesque feri pars iuraque tauri"
+        },
+        {
+          "number": 372,
+          "text": "in boream scandunt. haec sunt aquilonia signa."
+        }
+      ]
+    ],
+    "contentNotice": "저본의 신화·운명·우주론·정치적 찬양과 역사적 가치 판단을 옮긴 문헌 번역입니다. 현대의 천문학·의료·재난 예측이나 개인·집단에 대한 평가로 제시하지 않습니다."
+  },
+  {
+    "id": "manilius-i-373-411",
+    "title": "아스트로노미카 I.373–411: 남쪽 하늘과 오리온·카니쿨라",
+    "sourceId": "manilius-breiter1907",
+    "sourceHash": "5a85b14b6f89e249052c577f3c000e466c58b585d019751f2eec9ee9648d5fc5",
+    "sourceHashKind": "latin-verse-transcription",
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=29",
+    "sourceTitle": "『아스트로노미카』 제1권 373–411행 — Breiter 라틴어판(1907)",
+    "author": "Marcus Manilius · 라틴어 원작; Theodor Breiter 편집(1907)",
+    "license": "Public domain",
+    "translationLicense": "CC BY 4.0",
+    "glossaryVersion": "2026-09-18.4",
+    "method": "direct-editor",
+    "editor": "ChatGPT (GPT-6 Astra Pro)",
+    "date": "2026-09-18",
+    "status": "Astra 라틴어 직접 번역 초판",
+    "language": "la",
+    "locator": "제1권 373–411행 · 인쇄본 13–14쪽 · PDF 29–30쪽",
+    "scope": "표시한 행 범위의 저본 본문 번역 · 교감란·결락 보충 제외",
+    "edition": "Breiter 1907년 라틴어판에서 직접 옮겼습니다. 이번 묶음의 한국어 초역을 모두 작성한 뒤 Creech 1697년 영어역의 기하학 설명 일부만 비교했습니다. Housman·Goold와의 추가 교감이나 독립된 사람의 감수를 수행한 번역은 아닙니다.",
+    "termIds": [
+      "manilius-sidera",
+      "manilius-canicula",
+      "manilius-poetic-sign-names",
+      "manilius-critical-marks",
+      "constellation"
+    ],
+    "editorialNotes": [
+      "402행의 Tauri는 타우로스 산이며 황소자리 자체가 아니다. 396행의 카니쿨라는 뒤에 따로 등장하는 프로키온과 구별한다.",
+      "385~386행은 정치적 찬양을 담은 삽입 의심 구절로 인쇄되어 있다. 번역하되 그 상태를 남긴다. 이를 현재의 천체 목록에 실재하는 아우구스투스라는 별로 처리하지 않았다.",
+      "카니쿨라의 계절·전쟁·건강에 대한 작용과 별빛의 원근 설명은 저본의 주장이다. 현대의 관측 결과 또는 의료적 예측으로 제시하지 않는다.",
+      "한국어 본문은 Breiter 라틴어 지면에서 직접 작성했다. 읽기 구간의 제목·문단 구분은 편집자가 붙였으며, 원문의 번호와 실제 인쇄 순서를 따랐다. 본문에 없는 시구·교감란의 전승·결락은 새 문장으로 채워 넣지 않았다.",
+      "라틴어 원자료 SHA-256은 이 구간의 행 번호와 전사문을 인쇄 순서대로 이은 문자열의 해시이다. 원본 PDF 파일의 해시와 문단 대응표·지면 번호·삽입 의심 표시는 저장소의 참고 자료에 따로 보존했다."
+    ],
+    "series": {
+      "id": "manilius-book1",
+      "label": "마닐리우스 아스트로노미카 제1권",
+      "order": 13
+    },
+    "paragraphs": [
+      "이제 태양의 길 아래에서 떠오르는 별들을 보라. 불볕에 탄 땅들 위로 흘러가는 별자리들, 차가운 염소의 별자리와 우주를 받치는 아래쪽 축 사이를 도는 빛들이다. 그 아래에는 우리가 갈 수 없는 지구의 다른 부분이 놓여 있다. 알지 못하는 민족들과 건너가 본 적 없는 나라들이 하나의 태양에서 같은 빛을 받는다. 그러나 뒤집힌 하늘을 보므로 그림자는 반대이며, 별자리들은 왼쪽으로 지고 오른쪽에서 떠오른다.",
+      "그들에게 보이는 우주가 더 작거나 빛이 모자라는 것도 아니다. 둥글게 떠오르는 별의 수도 더 적지 않다. 다른 무엇에도 뒤지지 않지만, 오직 하나의 별에서는 뒤진다.",
+      "우리 쪽 세계에 주어진 별, 아우구스투스에서이다. 지금은 지상의 카이사르이며, 뒤에는 하늘에서도 가장 큰 권위를 지닐 이이다.",
+      "쌍둥이 가까이에는 오리온을 볼 수 있다. 하늘의 넓은 부분을 향해 팔을 뻗고, 그만큼이나 넓은 보폭으로 별들에 솟아오른다. 양쪽 어깨에는 각각 하나씩 밝은 빛이 표시되어 있고, 세 개의 비스듬한 빛을 따라 칼이 아래로 드리워져 있다. 높은 하늘에 잠긴 오리온의 머리는 들어 올린 얼굴의 세 빛으로 표시된다. 그 빛들이 덜 밝아서가 아니라 더 높은 곳으로 멀어져 있기 때문이다. 그를 앞세워 별자리들이 우주 전체를 돌아간다.",
+      "카니쿨라가 빠른 달리기로 힘껏 뒤따른다. 이보다 더 격렬하게 땅에 찾아오거나 더 무겁게 떠나가는 별은 없다. 어떤 때에는 혹독한 추위와 함께 떠오르고, 어떤 때에는 빛나는 세계를 태양 홀로 남겨 두고 떠난다. 이렇게 우주를 양쪽으로 움직이며 서로 반대되는 결과를 낳는다.",
+      "그 별이 처음 다시 떠오르는 때, 사람들은 타우로스 산의 높은 꼭대기에서 그 출현을 살핀다. 수확이 어떻게 될지와 계절의 양상, 어떤 건강 상태가 찾아올지, 화합이 얼마나 이루어질지를 말한다. 그 별은 전쟁을 일으키고 평화를 되돌린다. 서로 다른 모습으로 돌아와, 자신이 바라본 세계의 상태에 맞게 움직이며 그 얼굴로 다스린다.",
+      "그런 힘이 있다는 큰 증거는 빛깔과 번쩍이는 광선의 뻗음이다. 멀리 자리하여 푸른 얼굴에서 차가운 빛을 던진다는 점만 아니면 태양에 거의 뒤지지 않는다. 다른 별들은 그 모습에 빛을 양보하며, 이보다 밝게 대양에 몸을 적시거나 물결에서 하늘로 되돌아오는 별은 없다."
+    ],
+    "paragraphLocators": [
+      "제1권 373–381행",
+      "제1권 382–384행",
+      "제1권 385–386행",
+      "제1권 387–395행",
+      "제1권 396–400행",
+      "제1권 401–406행",
+      "제1권 407–411행"
+    ],
+    "paragraphCriticalNotes": [
+      "",
+      "",
+      "385–386행은 Breiter가 삽입 의심으로 표시한 구절",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "paragraphLatinVerses": [
+      [
+        {
+          "number": 373,
+          "text": "aspice nunc infra solis surgentia cursus"
+        },
+        {
+          "number": 374,
+          "text": "quae super exustas labuntur sidera terras,"
+        },
+        {
+          "number": 375,
+          "text": "quaeque inter gelidum capricorni sidus et axe"
+        },
+        {
+          "number": 376,
+          "text": "imo subnixum uertuntur lumina mundum,"
+        },
+        {
+          "number": 377,
+          "text": "altera pars orbis sub quis iacet inuia nobis"
+        },
+        {
+          "number": 378,
+          "text": "ignotaeque hominum gentes nec transita regna"
+        },
+        {
+          "number": 379,
+          "text": "commune ex uno lumen ducentia sole"
+        },
+        {
+          "number": 380,
+          "text": "diuersasque umbras laeuaque cadentia signa"
+        },
+        {
+          "number": 381,
+          "text": "et dextros ortus caelo spectantia uerso."
+        }
+      ],
+      [
+        {
+          "number": 382,
+          "text": "nec minor est illis mundus nec lumine peior,"
+        },
+        {
+          "number": 383,
+          "text": "nec numerosa minus nascuntur sidera in orbem."
+        },
+        {
+          "number": 384,
+          "text": "cetera non cedunt; uno uincuntur in astro:"
+        }
+      ],
+      [
+        {
+          "number": 385,
+          "text": "Augusto, sidus nostro quod contigit orbi,",
+          "status": "suspected-interpolation"
+        },
+        {
+          "number": 386,
+          "text": "Caesar nunc terris, post caelo maximus auctor.",
+          "status": "suspected-interpolation"
+        }
+      ],
+      [
+        {
+          "number": 387,
+          "text": "cernere uicinum geminis licet Oriona,"
+        },
+        {
+          "number": 388,
+          "text": "in magnam caeli tendentem bracchia partem,"
+        },
+        {
+          "number": 389,
+          "text": "nec minus extento surgentem ad sidera passu,"
+        },
+        {
+          "number": 390,
+          "text": "singula fulgentis umeros cui lumina signant,"
+        },
+        {
+          "number": 391,
+          "text": "et tribus obliquis demissus ducitur ensis."
+        },
+        {
+          "number": 392,
+          "text": "at caput Orion excelso inmersus Olympo"
+        },
+        {
+          "number": 393,
+          "text": "per tria subducto signatur lumina uultu;"
+        },
+        {
+          "number": 394,
+          "text": "non quod clara minus, sed quod magis alta recedunt."
+        },
+        {
+          "number": 395,
+          "text": "hoc duce per totum decurrunt sidera mundum."
+        }
+      ],
+      [
+        {
+          "number": 396,
+          "text": "subsequitur rapido contenta canicula cursu,"
+        },
+        {
+          "number": 397,
+          "text": "qua nullum terris uiolentius aduenit astrum"
+        },
+        {
+          "number": 398,
+          "text": "nec grauius cedit: nunc horrida frigore surgit,"
+        },
+        {
+          "number": 399,
+          "text": "nunc uacuum soli fulgentem deserit orbem."
+        },
+        {
+          "number": 400,
+          "text": "sic in utrumque mouet mundum et contraria reddit."
+        }
+      ],
+      [
+        {
+          "number": 401,
+          "text": "hanc surgentem, primo cum redditur ortu,"
+        },
+        {
+          "number": 402,
+          "text": "montis ab excelso speculantur uertice Tauri,"
+        },
+        {
+          "number": 403,
+          "text": "euentus frugum uarios et tempora dicunt,"
+        },
+        {
+          "number": 404,
+          "text": "quaeque ualetudo ueniat, concordia quanta;"
+        },
+        {
+          "number": 405,
+          "text": "bella facit pacemque refert uarieque reuertens"
+        },
+        {
+          "number": 406,
+          "text": "sic mouet, ut uidit mundum, uultuque gubernat."
+        }
+      ],
+      [
+        {
+          "number": 407,
+          "text": "magna fides hoc posse color cursusque micantis"
+        },
+        {
+          "number": 408,
+          "text": "in radios: uix sole minor, nisi quod procul haerens"
+        },
+        {
+          "number": 409,
+          "text": "frigida caeruleo contorquet lumina uultu."
+        },
+        {
+          "number": 410,
+          "text": "cetera uincuntur specie, nec clarius astrum"
+        },
+        {
+          "number": 411,
+          "text": "tinguitur oceano caelumue reuisit ab undis."
+        }
+      ]
+    ],
+    "contentNotice": "저본의 신화·운명·우주론·정치적 찬양과 역사적 가치 판단을 옮긴 문헌 번역입니다. 현대의 천문학·의료·재난 예측이나 개인·집단에 대한 평가로 제시하지 않습니다."
+  },
+  {
+    "id": "manilius-i-412-455",
+    "title": "아스트로노미카 I.412–455: 아르고호·제단과 보이지 않는 남쪽 극",
+    "sourceId": "manilius-breiter1907",
+    "sourceHash": "eb1981e4da02db326d9e923aad7ac6ee2ef5625ea291ae62216a0f4db8aef1a2",
+    "sourceHashKind": "latin-verse-transcription",
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=30",
+    "sourceTitle": "『아스트로노미카』 제1권 412–455행 — Breiter 라틴어판(1907)",
+    "author": "Marcus Manilius · 라틴어 원작; Theodor Breiter 편집(1907)",
+    "license": "Public domain",
+    "translationLicense": "CC BY 4.0",
+    "glossaryVersion": "2026-09-18.4",
+    "method": "direct-editor",
+    "editor": "ChatGPT (GPT-6 Astra Pro)",
+    "date": "2026-09-18",
+    "status": "Astra 라틴어 직접 번역 초판",
+    "language": "la",
+    "locator": "제1권 412–455행 · 인쇄본 14–15쪽 · PDF 30–31쪽",
+    "scope": "표시한 행 범위의 저본 본문 번역 · 교감란·결락 보충 제외",
+    "edition": "Breiter 1907년 라틴어판에서 직접 옮겼습니다. 이번 묶음의 한국어 초역을 모두 작성한 뒤 Creech 1697년 영어역의 기하학 설명 일부만 비교했습니다. Housman·Goold와의 추가 교감이나 독립된 사람의 감수를 수행한 번역은 아닙니다.",
+    "termIds": [
+      "manilius-sidera",
+      "manilius-templa",
+      "manilius-canicula",
+      "manilius-critical-marks",
+      "constellation"
+    ],
+    "editorialNotes": [
+      "429행은 421행 뒤에 인쇄되어 있으므로 라틴어·한국어 모두 그 순서를 따른다. 428·444행은 삽입 의심 서체로 표시된 채로 번역했다.",
+      "415행의 뱀은 이 남쪽 목록에서 물뱀의 형상이다. 433행 pristis는 안드로메다를 위협하는 바다 괴물이며, 뒤의 남쪽 물고기와 다르다. 켄타우로스도 황도의 활잡이와 별개의 별자리로 읽는다.",
+      "마지막 단락은 보이지 않는 남쪽 하늘을 북쪽의 사례에서 유추한다. 실제로 남극의 두 곰자리를 관측했다는 기록으로 바꾸지 않았다.",
+      "445행은 저본에 인쇄된 짧은 형태를 그대로 전사했다. 보조 전사의 orbe 등을 넣어 운율을 임의로 완성하지 않았다.",
+      "한국어 본문은 Breiter 라틴어 지면에서 직접 작성했다. 읽기 구간의 제목·문단 구분은 편집자가 붙였으며, 원문의 번호와 실제 인쇄 순서를 따랐다. 본문에 없는 시구·교감란의 전승·결락은 새 문장으로 채워 넣지 않았다.",
+      "라틴어 원자료 SHA-256은 이 구간의 행 번호와 전사문을 인쇄 순서대로 이은 문자열의 해시이다. 원본 PDF 파일의 해시와 문단 대응표·지면 번호·삽입 의심 표시는 저장소의 참고 자료에 따로 보존했다."
+    ],
+    "series": {
+      "id": "manilius-book1",
+      "label": "마닐리우스 아스트로노미카 제1권",
+      "order": 14
+    },
+    "paragraphs": [
+      "이어서 프로키온과 날쌘 토끼, 그리고 이름 높은 아르고호가 있다. 처음으로 달렸던 바다에서 하늘로 들어 올려진 배이다. 큰 위험을 겪어 얻어 낸 천상의 자리를 차지하고, 신들을 구함으로써 스스로도 여신이 되었다. 그 곁의 뱀은 늘어선 불꽃들로 비늘의 반짝임을 본뜬다.",
+      "포이보스에게 성스러운 새와 이아코스가 반기는 술잔이 함께 있다. 두 형상이 합쳐진 켄타우로스도 빛난다. 일부는 사람이며, 말의 등에 사람의 가슴이 이어져 있다.",
+      "그 곁에는 우주 자신을 위한 성역이 있으며, 제사를 올려 승리를 얻은 제단이 빛난다. 땅은 미쳐 날뛰며 거대한 거인들을 하늘로 보냈다. 얼굴이 기이하고 태어날 때부터 몸이 뒤섞인 존재들이었다. 그때에는 신들조차 더 큰 신들을 찾았다. 유피테르 자신도 망설이며, 자신이 할 수 있는 일을 하지 못하게 될까 두려워했다. 땅이 솟아오르고 산 위에 다른 산이 쌓여 커지는 모습, 너무 가까워진 봉우리를 별들이 피하는 모습을 보며 자연 전체가 뒤집힌다고 여겼다. 그 거인들은 무기를 들이밀며 어머니를 찢고 태어났다. 신들은 그때까지 자신들을 해칠 자가 있는지, 자신의 힘보다 더 큰 신적 힘이 있는지 알지 못했다. 그때 유피테르는 제단의 별들을 세웠고, 그 별들은 지금도 크게 빛난다.",
+      "그 근처의 바다 괴물은 비늘 덮인 등을 말아 올리고, 몸의 고리를 비틀며 솟아 배를 출렁인다. 막 물어뜯어 붙잡으려는 듯 입을 내민다. 물결에 내놓인 케페우스의 딸을 죽이러 왔을 때, 바다를 밀어 해안 너머로 넘치게 했던 모습 그대로이다.",
+      "다음에는 바람의 이름을 따서 부르는 남쪽 물고기가 남풍 쪽에서 떠오른다. 그와 이어진 별들의 강들이 거대한 굽이를 그리며 흐른다. 물병잡이는 그중 한 강의 머리에 물을 합치며, 강들은 가운데에서 만나 별들을 서로 섞는다.",
+      "태양의 길과 숨어 있는 곰자리들 사이에서, 이 낯선 별들이 하늘을 수놓는다. 그 곰자리들은 무게로 삐걱거리는 우주의 축을 돌린다. 옛 시인들은 이 별들을 남쪽 별자리들이라고 불렀다.",
+      "항상 우주의 가장 아래에서 도는 가장 먼 별들, 빛나는 하늘의 성역들이 의지하는 그 별들은 회전점이 돌아가도 결코 우리 눈에 들어오지 않는다. 그러나 높은 하늘과 같은 모습, 비슷한 별자리 형상을 드러낼 것이다. 우리 쪽의 사례에 따라, 그곳에서도 서로 반대쪽으로 얼굴을 돌린 곰자리들 사이에 하나의 용이 놓여 둘을 둘러싸리라 믿는다. 눈길을 벗어나 있어도, 운행하며 하늘을 돌리는 별들은 이 천구를 수놓는다. 이쪽 꼭대기와 마찬가지인 회전점이 그곳을 받치고 있다."
+    ],
+    "paragraphLocators": [
+      "제1권 412–416행",
+      "제1권 417–419행",
+      "제1권 420–421, 429, 422–428, 430–432행",
+      "제1권 433–437행",
+      "제1권 438–442행",
+      "제1권 443–446행",
+      "제1권 447–455행"
+    ],
+    "paragraphCriticalNotes": [
+      "",
+      "",
+      "429행이 421행 뒤로 이동되어 있으며, 428행은 삽입 의심 구절",
+      "",
+      "",
+      "축의 삐걱거림을 말하는 444행은 저본의 삽입 의심 구절",
+      ""
+    ],
+    "paragraphLatinVerses": [
+      [
+        {
+          "number": 412,
+          "text": "tum procyon ueloxque lepus, tum nobilis argo"
+        },
+        {
+          "number": 413,
+          "text": "in caelum subducta mari, quod prima cucurrit,"
+        },
+        {
+          "number": 414,
+          "text": "emeritum magnis mundum tenet acta periclis"
+        },
+        {
+          "number": 415,
+          "text": "seruando dea facta deos. cui proximus anguis"
+        },
+        {
+          "number": 416,
+          "text": "squamea dispositis imitatur lumina flammis."
+        }
+      ],
+      [
+        {
+          "number": 417,
+          "text": "et Phoebo sacer ales et una gratus Iaccho"
+        },
+        {
+          "number": 418,
+          "text": "crater et duplici centaurus imagine fulget,"
+        },
+        {
+          "number": 419,
+          "text": "pars hominis, tergo pectus commissus equino."
+        }
+      ],
+      [
+        {
+          "number": 420,
+          "text": "ipsius hinc mundo templum est, uictrixque solutis"
+        },
+        {
+          "number": 421,
+          "text": "ara nitet sacris, uastos cum terra gigantes"
+        },
+        {
+          "number": 429,
+          "text": "discordes uultu permixtaque corpora partu"
+        },
+        {
+          "number": 422,
+          "text": "in caelum furibunda tulit. tum di quoque magnos"
+        },
+        {
+          "number": 423,
+          "text": "quaesiuere deos; dubitauit Iuppiter ipse"
+        },
+        {
+          "number": 424,
+          "text": "quod poterat non posse timens, cum surgere terram"
+        },
+        {
+          "number": 425,
+          "text": "cerneret, ut uerti naturam crederet omnem,"
+        },
+        {
+          "number": 426,
+          "text": "montibus atque aliis aggestos crescere montes,"
+        },
+        {
+          "number": 427,
+          "text": "et tam uicinos fugientia sidera colles."
+        },
+        {
+          "number": 428,
+          "text": "arma importantis et rupta matre creatos,",
+          "status": "suspected-interpolation"
+        },
+        {
+          "number": 430,
+          "text": "necdum pestiferum sibi quemquam aut numina norant"
+        },
+        {
+          "number": 431,
+          "text": "si qua forent maiora suis. tunc Iuppiter arae"
+        },
+        {
+          "number": 432,
+          "text": "sidera constituit, quae nunc quoque maxima fulgent."
+        }
+      ],
+      [
+        {
+          "number": 433,
+          "text": "quam propter pristis conuoluens squamea terga"
+        },
+        {
+          "number": 434,
+          "text": "orbibus insurgit tortis et fluctuat aluo,"
+        },
+        {
+          "number": 435,
+          "text": "intentans morsum similis iam iamque tenenti,"
+        },
+        {
+          "number": 436,
+          "text": "qualis ad expositae fatum Cepheidos undis"
+        },
+        {
+          "number": 437,
+          "text": "expulit adueniens ultra sua litora pontum."
+        }
+      ],
+      [
+        {
+          "number": 438,
+          "text": "tum notius piscis uenti de nomine dictus"
+        },
+        {
+          "number": 439,
+          "text": "exurgit de parte noti; cui iuncta feruntur"
+        },
+        {
+          "number": 440,
+          "text": "flexa per ingentis stellarum flumina gyros."
+        },
+        {
+          "number": 441,
+          "text": "alterius capiti coniungit aquarius undas"
+        },
+        {
+          "number": 442,
+          "text": "amnis, et in medium coeunt et sidera miscent."
+        }
+      ],
+      [
+        {
+          "number": 443,
+          "text": "his inter solisque uias arctosque latentis"
+        },
+        {
+          "number": 444,
+          "text": "axem quae mundi stridentem pondere torquent,",
+          "status": "suspected-interpolation"
+        },
+        {
+          "number": 445,
+          "text": "peregrino caelum depingitur astris,"
+        },
+        {
+          "number": 446,
+          "text": "quae notia antiqui dixerunt sidera uates."
+        }
+      ],
+      [
+        {
+          "number": 447,
+          "text": "ultima quae mundo semper uoluuntur in imo,"
+        },
+        {
+          "number": 448,
+          "text": "quis innixa manent caeli fulgentia templa,"
+        },
+        {
+          "number": 449,
+          "text": "nusquam in conspectum redeuntia cardine uerso"
+        },
+        {
+          "number": 450,
+          "text": "sublimis speciem mundi similisque figuras"
+        },
+        {
+          "number": 451,
+          "text": "astrorum referunt. et uersas frontibus arctos"
+        },
+        {
+          "number": 452,
+          "text": "uno distingui medias claudique dracone"
+        },
+        {
+          "number": 453,
+          "text": "credimus exemplo. quamuis fugientia uisus"
+        },
+        {
+          "number": 454,
+          "text": "hunc orbem caeli uertentis sidera cursu"
+        },
+        {
+          "number": 455,
+          "text": "cardine tam simili fultum quam uertice pingunt."
+        }
+      ]
+    ],
+    "contentNotice": "저본의 신화·운명·우주론·정치적 찬양과 역사적 가치 판단을 옮긴 문헌 번역입니다. 현대의 천문학·의료·재난 예측이나 개인·집단에 대한 평가로 제시하지 않습니다."
+  },
+  {
+    "id": "manilius-i-456-482",
+    "title": "아스트로노미카 I.456–482: 점들로 그린 형상과 일정한 운행",
+    "sourceId": "manilius-breiter1907",
+    "sourceHash": "89c74a0337d7e2492e8cbe244b5efb53fc26a56cd66cc2395ba897c6746e6f4b",
+    "sourceHashKind": "latin-verse-transcription",
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=31",
+    "sourceTitle": "『아스트로노미카』 제1권 456–482행 — Breiter 라틴어판(1907)",
+    "author": "Marcus Manilius · 라틴어 원작; Theodor Breiter 편집(1907)",
+    "license": "Public domain",
+    "translationLicense": "CC BY 4.0",
+    "glossaryVersion": "2026-09-18.4",
+    "method": "direct-editor",
+    "editor": "ChatGPT (GPT-6 Astra Pro)",
+    "date": "2026-09-18",
+    "status": "Astra 라틴어 직접 번역 초판",
+    "language": "la",
+    "locator": "제1권 456–482행 · 인쇄본 15–16쪽 · PDF 31–32쪽",
+    "scope": "표시한 행 범위의 저본 본문 번역 · 교감란·결락 보충 제외",
+    "edition": "Breiter 1907년 라틴어판에서 직접 옮겼습니다. 이번 묶음의 한국어 초역을 모두 작성한 뒤 Creech 1697년 영어역의 기하학 설명 일부만 비교했습니다. Housman·Goold와의 추가 교감이나 독립된 사람의 감수를 수행한 번역은 아닙니다.",
+    "termIds": [
+      "manilius-signum",
+      "manilius-sidera",
+      "manilius-ratio",
+      "constellation"
+    ],
+    "editorialNotes": [
+      "별자리가 별들 사이를 잇는 형상이라는 설명과, 빛나지 않는 부분은 추정해 읽는다는 논리를 살렸다. 실제 동물·사람의 윤곽을 모두 채운 발광체라고 옮기지 않았다.",
+      "469~473행은 보름달 아래에서 희미한 별들이 가려지고 밝은 별자리 형태가 구별된다는 저본의 관찰 설명이다. 여기서 certa lumina를 모든 별이 동일한 밝기라는 뜻으로 바꾸지 않았다.",
+      "한국어 본문은 Breiter 라틴어 지면에서 직접 작성했다. 읽기 구간의 제목·문단 구분은 편집자가 붙였으며, 원문의 번호와 실제 인쇄 순서를 따랐다. 본문에 없는 시구·교감란의 전승·결락은 새 문장으로 채워 넣지 않았다.",
+      "라틴어 원자료 SHA-256은 이 구간의 행 번호와 전사문을 인쇄 순서대로 이은 문자열의 해시이다. 원본 PDF 파일의 해시와 문단 대응표·지면 번호·삽입 의심 표시는 저장소의 참고 자료에 따로 보존했다."
+    ],
+    "series": {
+      "id": "manilius-book1",
+      "label": "마닐리우스 아스트로노미카 제1권",
+      "order": 15
+    },
+    "paragraphs": [
+      "이 별자리들은 거대한 에테르 안에서 나뉜 자리를 차지하며, 우주의 온 둘레에 펼쳐져 있다. 다만 실제 몸과 똑같은 형상을 찾지는 말라. 모든 지체가 같은 밝기로 빛나, 빠진 곳도 빛이 비어 있는 곳도 전혀 없는 모습을 기대하지 말라는 것이다. 모든 별자리가 온몸으로 불탄다면 우주는 그토록 큰 불길을 견딜 수 없을 것이다. 자연은 그 무게에 짓눌리지 않으려고, 불꽃에서 거두어 둔 만큼을 아껴 두었다. 형상들을 구별하고 일정한 별들로 별자리를 드러내는 것으로 만족했다.",
+      "선이 형상을 그려 주며, 빛과 빛이 서로 응답한다. 끝부분을 보고 가운데를, 높은 부분을 보고 나머지 끝을 믿어 그린다. 모든 부분이 숨겨져 있지 않기만 해도 충분하다.",
+      "특히 달이 궤도의 중간에서 둥글게 차오르면 일정한 밝은 별들만 천계에 빛난다. 이름 없는 수많은 별은 모두 가려지고 희미한 형상들은 달아난다. 그때에는 비어 보이는 하늘에서 별자리들을 뚜렷이 볼 수 있다. 작은 별들과 뒤섞이지 않으므로 그 수 때문에 속는 일도 없다.",
+      "별자리들을 더욱 분명하게 알아볼 수 있는 까닭은 또 있다. 그들은 아무렇게나 지거나 돌아오지 않는다. 일정한 별들은 각자의 빛에 맞추어 떠오르며, 자신의 탄생과 지는 때를 순서대로 지킨다. 이 거대한 구조에서 이치와 정해진 법칙에 만물이 복종한다는 사실보다 더 경이로운 것은 없다. 많은 수가 어디에서도 방해가 되지 않으며, 어느 부분도 길을 벗어나 더 느슨하게 또는 더 짧게 나아가거나 순서를 바꾸지 않는다. 겉으로는 이보다 더 뒤섞인 것이 어디 있으며, 되풀이되는 질서로는 이보다 더 확실한 것이 어디 있는가?"
+    ],
+    "paragraphLocators": [
+      "제1권 456–465행",
+      "제1권 466–468행",
+      "제1권 469–473행",
+      "제1권 474–482행"
+    ],
+    "paragraphCriticalNotes": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "paragraphLatinVerses": [
+      [
+        {
+          "number": 456,
+          "text": "haec igitur magno diuisas aethere sedes"
+        },
+        {
+          "number": 457,
+          "text": "signa tenent mundi totum deducta per orbem."
+        },
+        {
+          "number": 458,
+          "text": "tu modo corporeis similis ne quaere figuras,"
+        },
+        {
+          "number": 459,
+          "text": "omnia ut aequali fulgentia membra colore"
+        },
+        {
+          "number": 460,
+          "text": "deficiat nihil aut uacuum qua lumine cesset."
+        },
+        {
+          "number": 461,
+          "text": "non poterit mundus sufferre incendia tanta,"
+        },
+        {
+          "number": 462,
+          "text": "omnia si plenis ardebunt sidera membris."
+        },
+        {
+          "number": 463,
+          "text": "quicquid subduxit flammis natura pepercit"
+        },
+        {
+          "number": 464,
+          "text": "succubitura oneri, formas disiungere tantum"
+        },
+        {
+          "number": 465,
+          "text": "contenta et stellis ostendere sidera certis."
+        }
+      ],
+      [
+        {
+          "number": 466,
+          "text": "linea designat species, atque ignibus ignes"
+        },
+        {
+          "number": 467,
+          "text": "respondent, media extremis atque ultima summis"
+        },
+        {
+          "number": 468,
+          "text": "creduntur; satis est, si se non omnia celant."
+        }
+      ],
+      [
+        {
+          "number": 469,
+          "text": "praecipue medio cum luna implebitur orbe,"
+        },
+        {
+          "number": 470,
+          "text": "certa nitent mundo tum lumina: conditur omne"
+        },
+        {
+          "number": 471,
+          "text": "stellarum uulgus, fugiunt sine nomine signa."
+        },
+        {
+          "number": 472,
+          "text": "pura licet uacuo tum cernere sidera caelo,"
+        },
+        {
+          "number": 473,
+          "text": "nec fallunt numero paruis nec mixta feruntur."
+        }
+      ],
+      [
+        {
+          "number": 474,
+          "text": "et quo clara magis possis cognoscere signa,"
+        },
+        {
+          "number": 475,
+          "text": "non uarios obitus norunt uariosue recursus;"
+        },
+        {
+          "number": 476,
+          "text": "certa sed in proprias oriuntur sidera luces"
+        },
+        {
+          "number": 477,
+          "text": "natalesque suos occasumque in ordine seruant."
+        },
+        {
+          "number": 478,
+          "text": "nec quicquam in tanta magis est mirabile mole,"
+        },
+        {
+          "number": 479,
+          "text": "quam ratio et certis quod legibus omnia parent."
+        },
+        {
+          "number": 480,
+          "text": "nusquam turba nocet, nihil ullis partibus errat,"
+        },
+        {
+          "number": 481,
+          "text": "laxius aut breuius mutatoue ordine fertur."
+        },
+        {
+          "number": 482,
+          "text": "quid tam confusum specie, quid tam uice certum est?"
+        }
+      ]
+    ],
+    "contentNotice": "저본의 신화·운명·우주론·정치적 찬양과 역사적 가치 판단을 옮긴 문헌 번역입니다. 현대의 천문학·의료·재난 예측이나 개인·집단에 대한 평가로 제시하지 않습니다."
+  },
+  {
+    "id": "manilius-i-483-531",
+    "title": "아스트로노미카 I.483–531: 변하는 지상과 변하지 않는 천계",
+    "sourceId": "manilius-breiter1907",
+    "sourceHash": "cc5c780e91b9a47f503bcc4ffeb86f08908c9034874282428bacd61bf1198418",
+    "sourceHashKind": "latin-verse-transcription",
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=32",
+    "sourceTitle": "『아스트로노미카』 제1권 483–531행 — Breiter 라틴어판(1907)",
+    "author": "Marcus Manilius · 라틴어 원작; Theodor Breiter 편집(1907)",
+    "license": "Public domain",
+    "translationLicense": "CC BY 4.0",
+    "glossaryVersion": "2026-09-18.4",
+    "method": "direct-editor",
+    "editor": "ChatGPT (GPT-6 Astra Pro)",
+    "date": "2026-09-18",
+    "status": "Astra 라틴어 직접 번역 초판",
+    "language": "la",
+    "locator": "제1권 483–531행 · 인쇄본 16–18쪽 · PDF 32–34쪽",
+    "scope": "표시한 행 범위의 저본 본문 번역 · 교감란·결락 보충 제외",
+    "edition": "Breiter 1907년 라틴어판에서 직접 옮겼습니다. 이번 묶음의 한국어 초역을 모두 작성한 뒤 Creech 1697년 영어역의 기하학 설명 일부만 비교했습니다. Housman·Goold와의 추가 교감이나 독립된 사람의 감수를 수행한 번역은 아닙니다.",
+    "termIds": [
+      "manilius-mundus",
+      "manilius-ratio",
+      "manilius-fata",
+      "manilius-sidera"
+    ],
+    "editorialNotes": [
+      "이 단락의 원자적 우주 설명에 대한 반박과 불변의 천계라는 주장은 저본 저자의 논증이다. 본문에 없는 철학자의 이름을 확정하여 삽입하지 않았고, 현대 물리학으로 교체하지 않았다.",
+      "501행의 Pergama는 바로 뒤의 Troia와 연결되는 트로이아의 성채이다. 같은 이름을 가진 다른 도시를 지칭한다고 옮기지 않았다.",
+      "518~531행의 천계 불변성은 별의 출몰과 시간 질서를 근거로 펼치는 저자의 신학적 주장이다. 오늘날 관측으로 검증된 영원불변의 우주라는 해설을 덧붙이지 않았다.",
+      "한국어 본문은 Breiter 라틴어 지면에서 직접 작성했다. 읽기 구간의 제목·문단 구분은 편집자가 붙였으며, 원문의 번호와 실제 인쇄 순서를 따랐다. 본문에 없는 시구·교감란의 전승·결락은 새 문장으로 채워 넣지 않았다.",
+      "라틴어 원자료 SHA-256은 이 구간의 행 번호와 전사문을 인쇄 순서대로 이은 문자열의 해시이다. 원본 PDF 파일의 해시와 문단 대응표·지면 번호·삽입 의심 표시는 저장소의 참고 자료에 따로 보존했다."
+    ],
+    "series": {
+      "id": "manilius-book1",
+      "label": "마닐리우스 아스트로노미카 제1권",
+      "order": 16
+    },
+    "paragraphs": [
+      "우주가 신적인 힘에 따라 회전하며 그 자체가 신이라는 것, 우연을 스승 삼아 한데 모인 것이 아니라는 것을 드러내는 데 이보다 더 분명한 논거는 없어 보인다. 가장 작은 씨앗들로 우주의 성벽을 세웠다가 다시 그 씨앗들로 풀어낸 최초의 사상가는 다르게 믿게 하려 했다. 바다와 땅, 하늘의 별들, 한없이 넓은 곳에서 어떤 세계들을 만들고 다른 세계들을 해체하는 에테르가 그 씨앗들로 이루어졌으며, 모든 것이 제 근원으로 돌아가 사물의 모습을 바꾼다고 했던 것이다.",
+      "누가 이토록 거대한 구조가 신적 힘 없이 이루어졌으며, 우주가 아주 작은 것들의 눈먼 결합에서 생겼다고 믿겠는가? 우연이 이 모든 것을 우리에게 주었다면, 우연 자신이 다스리게 하라.",
+      "그런데 왜 우리는 별자리들이 정해진 차례로 떠오르고, 명령을 받은 듯 미리 정해진 길을 되풀이하며, 어느 것도 앞질러 다른 것을 뒤에 남기지 않는 모습을 보는가? 왜 언제나 같은 별들이 여름밤을, 같은 별들이 겨울밤을 꾸미는가? 왜 각각의 날은 우주에 정해진 형상을 돌려주고 또 정해진 형상을 남기는가?",
+      "그리스 민족들이 트로이아의 성채를 무너뜨렸을 때에도, 곰과 오리온은 서로 반대쪽으로 얼굴을 향해 나아갔다. 곰은 꼭대기에서 제 원을 도는 것으로 만족했고, 오리온은 반대편에서 떠오르며 돌아가는 곰과 마주하여 언제나 우주 전체를 달렸다. 그때에도 사람들은 별자리로 어두운 밤의 시간을 알아낼 수 있었고, 하늘은 이미 자신의 시간들을 나누어 두었다.",
+      "트로이아가 무너진 뒤 얼마나 많은 왕국이 파헤쳐졌는가! 얼마나 많은 민족이 사로잡혔는가! 운은 세계 곳곳에 예속과 지배를 몇 번이나 가져오고, 되돌아오며 그 자리를 바꾸었는가! 지나간 일을 잊은 듯 트로이아의 재에서 얼마나 큰 제국을 다시 길러 냈는가! 이제 그리스는 아시아의 운명에 눌려 있다. 지나간 세대들과, 불타는 태양이 서로 다른 원을 돌며 우주를 몇 번이나 순행했는지 일일이 세기도 싫다.",
+      "생겨난 모든 것은 죽음의 법칙에 따라 변한다. 해가 거듭 돌아 민족들이 여러 세대 동안 각기 다른 모습을 벗어 놓으면, 땅도 자신을 알아보지 못한다. 그러나 우주는 손상 없이 머물며 자신의 모든 것을 지킨다. 오랜 시간이 그것들을 늘리지도, 노년이 줄이지도 않는다. 움직임을 한 점만큼 휘게 하거나 운행을 지치게 하지도 않는다. 언제나 같았으므로 언제나 같을 것이다. 아버지들이 다른 우주를 본 것도 아니고 후손들이 다른 우주를 보게 될 것도 아니다. 세월 속에서 변하지 않는 것은 신이다.",
+      "태양이 곰자리들을 향해 가로질러 달려가지 않으며, 길을 바꾸어 동쪽으로 되돌아가 새로운 땅에서 새벽이 솟게 하지 않는 것, 달이 정해진 밝기의 주기를 넘지 않고 차고 기우는 한도를 지키는 것, 하늘에 매달린 별들이 땅에 떨어지지 않고 제자리에서 측정된 시간을 채워 가는 것, 이 모두는 우연의 일이 아니라 위대한 신적 힘의 질서이다."
+    ],
+    "paragraphLocators": [
+      "제1권 483–491행",
+      "제1권 492–494행",
+      "제1권 495–500행",
+      "제1권 501–507행",
+      "제1권 508–514행",
+      "제1권 515–523행",
+      "제1권 524–531행"
+    ],
+    "paragraphCriticalNotes": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "paragraphLatinVerses": [
+      [
+        {
+          "number": 483,
+          "text": "ac mihi tam praesens ratio non ulla uidetur,"
+        },
+        {
+          "number": 484,
+          "text": "qua pateat mundum diuino numine uerti"
+        },
+        {
+          "number": 485,
+          "text": "atque ipsum esse deum nec forte coisse magistra,"
+        },
+        {
+          "number": 486,
+          "text": "ut uoluit credi, qui primus moenia mundi"
+        },
+        {
+          "number": 487,
+          "text": "seminibus struxit minimis inque illa resoluit,"
+        },
+        {
+          "number": 488,
+          "text": "e quis et maria et terras et sidera caeli"
+        },
+        {
+          "number": 489,
+          "text": "aetheraque immensis fabricantem finibus orbes"
+        },
+        {
+          "number": 490,
+          "text": "soluentemque alios constare et cuncta reuerti"
+        },
+        {
+          "number": 491,
+          "text": "in sua principia et rerum mutare figuras."
+        }
+      ],
+      [
+        {
+          "number": 492,
+          "text": "quis credat tantas operum sine numine moles"
+        },
+        {
+          "number": 493,
+          "text": "ex minimis caecoque creatum foedere mundum?"
+        },
+        {
+          "number": 494,
+          "text": "si fors ista dedit nobis, fors ipsa gubernet."
+        }
+      ],
+      [
+        {
+          "number": 495,
+          "text": "at cur dispositis uicibus consurgere signa"
+        },
+        {
+          "number": 496,
+          "text": "et uelut imperio praescriptos reddere cursus"
+        },
+        {
+          "number": 497,
+          "text": "cernimus ac nullis properantibus ulla relinqui?"
+        },
+        {
+          "number": 498,
+          "text": "cur eadem aestiuas exornant sidera noctes"
+        },
+        {
+          "number": 499,
+          "text": "semper et hibernas eadem, certamque figuram"
+        },
+        {
+          "number": 500,
+          "text": "quisque dies reddit mundo certamque relinquit?"
+        }
+      ],
+      [
+        {
+          "number": 501,
+          "text": "iam tum, cum Graiae uerterunt Pergama gentes,"
+        },
+        {
+          "number": 502,
+          "text": "arctos et Orion aduersis frontibus ibant,"
+        },
+        {
+          "number": 503,
+          "text": "haec contenta suos in uertice flectere gyros,"
+        },
+        {
+          "number": 504,
+          "text": "ille ex diuerso uertentem surgere contra"
+        },
+        {
+          "number": 505,
+          "text": "obuius et toto semper decurrere mundo."
+        },
+        {
+          "number": 506,
+          "text": "temporaque obscurae noctis deprendere signis"
+        },
+        {
+          "number": 507,
+          "text": "iam poterant, caelumque suas distinxerat horas."
+        }
+      ],
+      [
+        {
+          "number": 508,
+          "text": "quot post excidium Troiae sunt eruta regna!"
+        },
+        {
+          "number": 509,
+          "text": "quot capti populi! quotiens fortuna per orbem"
+        },
+        {
+          "number": 510,
+          "text": "seruitium imperiumque tulit uarieque reuertit!"
+        },
+        {
+          "number": 511,
+          "text": "Troianos cineres in quantum oblita refouit"
+        },
+        {
+          "number": 512,
+          "text": "imperium! fatis Asiae iam Graecia pressa est."
+        },
+        {
+          "number": 513,
+          "text": "saecula dinumerare piget, quotiensque recurrens"
+        },
+        {
+          "number": 514,
+          "text": "lustrauit mundum uario sol igneus orbe."
+        }
+      ],
+      [
+        {
+          "number": 515,
+          "text": "omnia mortali mutantur lege creata,"
+        },
+        {
+          "number": 516,
+          "text": "nec se cognoscunt terrae, uertentibus annis"
+        },
+        {
+          "number": 517,
+          "text": "exutas uariam faciem per saecula gentes."
+        },
+        {
+          "number": 518,
+          "text": "at manet incolumis mundus suaque omnia seruat,"
+        },
+        {
+          "number": 519,
+          "text": "quae nec longa dies auget minuitue senectus,"
+        },
+        {
+          "number": 520,
+          "text": "nec motus puncto curuat cursusue fatigat:"
+        },
+        {
+          "number": 521,
+          "text": "idem semper erit, quoniam semper fuit idem."
+        },
+        {
+          "number": 522,
+          "text": "non alium uidere patres aliumue nepotes"
+        },
+        {
+          "number": 523,
+          "text": "aspicient: deus est, qui non mutatur in aeuo."
+        }
+      ],
+      [
+        {
+          "number": 524,
+          "text": "numquam transuersas solem decurrere ad arctos"
+        },
+        {
+          "number": 525,
+          "text": "nec mutare uias et in ortum uertere cursus"
+        },
+        {
+          "number": 526,
+          "text": "auroramque nouis nascentem ostendere terris,"
+        },
+        {
+          "number": 527,
+          "text": "nec lunam certos excedere luminis orbes"
+        },
+        {
+          "number": 528,
+          "text": "sed seruare modum, quo crescat quoue recedat,"
+        },
+        {
+          "number": 529,
+          "text": "nec cadere in terram pendentia sidera caelo"
+        },
+        {
+          "number": 530,
+          "text": "sed dimensa suis consumere tempora signis:"
+        },
+        {
+          "number": 531,
+          "text": "non casus opus est, magni sed numinis ordo."
+        }
+      ]
+    ],
+    "contentNotice": "저본의 신화·운명·우주론·정치적 찬양과 역사적 가치 판단을 옮긴 문헌 번역입니다. 현대의 천문학·의료·재난 예측이나 개인·집단에 대한 평가로 제시하지 않습니다."
+  },
+  {
+    "id": "manilius-i-532-560",
+    "title": "아스트로노미카 I.532–560: 천구의 크기와 원주의 비례",
+    "sourceId": "manilius-breiter1907",
+    "sourceHash": "7087eba5da26b41b6c2161859640b2d9643536f42d2ade15e01ee4e0f8b13c48",
+    "sourceHashKind": "latin-verse-transcription",
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=34",
+    "sourceTitle": "『아스트로노미카』 제1권 532–560행 — Breiter 라틴어판(1907)",
+    "author": "Marcus Manilius · 라틴어 원작; Theodor Breiter 편집(1907)",
+    "license": "Public domain",
+    "translationLicense": "CC BY 4.0",
+    "glossaryVersion": "2026-09-18.4",
+    "method": "direct-editor",
+    "editor": "ChatGPT (GPT-6 Astra Pro)",
+    "date": "2026-09-18",
+    "status": "Astra 라틴어 직접 번역 초판",
+    "language": "la",
+    "locator": "제1권 532–560행 · 인쇄본 18–19쪽 · PDF 34–35쪽",
+    "scope": "표시한 행 범위의 저본 본문 번역 · 교감란·결락 보충 제외",
+    "edition": "Breiter 1907년 라틴어판에서 직접 옮겼습니다. 이번 묶음의 한국어 초역을 모두 작성한 뒤 Creech 1697년 영어역의 기하학 설명 일부만 비교했습니다. Housman·Goold와의 추가 교감이나 독립된 사람의 감수를 수행한 번역은 아닙니다.",
+    "termIds": [
+      "manilius-mundus",
+      "manilius-ratio",
+      "zodiac-sign",
+      "manilius-critical-marks"
+    ],
+    "editorialNotes": [
+      "544~551행은 원의 지름을 둘레의 약 3분의 1로 보는 저본의 근사 관계이다. 열두 사인 가운데 네 사인에 해당하는 둘레 길이와 지름을 비교하며, 중심의 땅에서 천계까지는 그 절반으로 설명한다. 현대의 정확한 원주율로 본문 숫자를 바꾸지 않았다.",
+      "558행의 저본은 fetum, 곧 출생 또는 태어난 존재이다. 전사 보조본의 fatum을 따라 운명이라는 말로 바꾸지 않았다.",
+      "560행 뒤에는 문장이 끊긴 채 결락 표시가 있다. 라틴어의 끝과 한국어의 말줄임·결락 안내를 함께 보존하며, 누락된 행 수를 임의로 확정하지 않았다.",
+      "한국어 초역 뒤 영어 해석 증인 대조: Creech 인쇄본 23쪽도 지름을 원주의 거의 3분의 1로 설명한다. 한국어 초역의 근사 관계를 유지했으며 정확한 원주율로 본문을 교체하지 않았다.",
+      "한국어 본문은 Breiter 라틴어 지면에서 직접 작성했다. 읽기 구간의 제목·문단 구분은 편집자가 붙였으며, 원문의 번호와 실제 인쇄 순서를 따랐다. 본문에 없는 시구·교감란의 전승·결락은 새 문장으로 채워 넣지 않았다.",
+      "라틴어 원자료 SHA-256은 이 구간의 행 번호와 전사문을 인쇄 순서대로 이은 문자열의 해시이다. 원본 PDF 파일의 해시와 문단 대응표·지면 번호·삽입 의심 표시는 저장소의 참고 자료에 따로 보존했다."
+    ],
+    "series": {
+      "id": "manilius-book1",
+      "label": "마닐리우스 아스트로노미카 제1권",
+      "order": 17
+    },
+    "paragraphs": [
+      "이 별들은 같은 흐름으로 하늘을 짜며, 불꽃들로 여러 형상을 새겨 넣는다. 그보다 높은 것은 없다. 그것들이 우주의 꼭대기이다. 자연의 공동 거처는 이 경계 안에 담겨 바다와 펼쳐진 땅을 품는다. 모든 것은 조화로운 흐름으로 찾아오고 져 간다. 하늘이 한 번 기울어 내려간 곳에서 다시 돌아 솟아오른다.",
+      "우주 자체가 둥근 하늘 안에서 얼마나 넓은 공간을 차지하는지, 열두 사인이 얼마나 큰 경계를 따라 움직이는지는 이성이 가르쳐 준다. 어떤 빗장도 거대한 덩어리도 이성에 맞서지 못한다. 숨은 곳들은 자리를 내주고 모든 것이 굴복하며, 하늘 자체도 꿰뚫어 들어갈 수 있다.",
+      "별자리들이 땅과 바다에서 떨어져 있는 거리는 두 사인이 펼쳐진 길이와 같다. 원을 어느 방향으로든 가운데를 지나 잘라 보면, 그 길이는 둘레의 3분의 1이며 완전한 값에서 아주 조금만 차이 난다. 그러므로 하늘의 가장 높은 곳은 가장 낮은 곳에서 네 사인만큼 떨어져 있다. 열두 사인의 3분의 1인 셈이다. 그러나 땅은 그 깊이의 가운데에 매달려 있으므로, 가장 높은 곳과 가장 낮은 곳 각각에서 두 사인만큼 떨어져 있다.",
+      "따라서 네가 머리 위로 올려다보는 모든 높이, 시선이 허공을 지나가는 곳과 더는 나아가지 못하는 곳까지를 두 사인의 길이와 같게 보아야 한다. 그 여섯 배가 둥근 띠의 둘레를 이룬다. 열두 사인이 같은 간격으로 하늘을 짜며 나아가는 바로 그 띠이다.",
+      "같은 사인 아래에서도 출생들이 다양하고, 태어난 존재들이 종류에서 큰 차이를 보이며 뒤섞인다는 것을 이상히 여기지 말라. 각각의 사인이 그토록 넓은 공간을 차지하고 그토록 긴 시간 동안 움직이기 때문이다. 여섯 사인이 온 낮 동안 떠오르며…〔이 뒤 원문 결락〕"
+    ],
+    "paragraphLocators": [
+      "제1권 532–538행",
+      "제1권 539–543행",
+      "제1권 544–551행",
+      "제1권 552–556행",
+      "제1권 557–560행"
+    ],
+    "paragraphCriticalNotes": [
+      "",
+      "",
+      "",
+      "",
+      "560행 뒤에 저본이 별표로 표시한 결락이 있음. 빠진 내용을 보충하지 않음"
+    ],
+    "paragraphLatinVerses": [
+      [
+        {
+          "number": 532,
+          "text": "haec igitur texunt aequali sidera tractu"
+        },
+        {
+          "number": 533,
+          "text": "ignibus in uarias caelum laqueantia formas."
+        },
+        {
+          "number": 534,
+          "text": "altius his nihil est; haec sunt fastigia mundi;"
+        },
+        {
+          "number": 535,
+          "text": "publica naturae domus his contenta tenetur"
+        },
+        {
+          "number": 536,
+          "text": "finibus amplectens pontum terrasque iacentis."
+        },
+        {
+          "number": 537,
+          "text": "omnia concordi tractu ueniuntque caduntque,"
+        },
+        {
+          "number": 538,
+          "text": "qua semel incubuit caelum uersumque resurgit."
+        }
+      ],
+      [
+        {
+          "number": 539,
+          "text": "ipse autem quantum conuexo mundus Olympo"
+        },
+        {
+          "number": 540,
+          "text": "obtineat spatium, quantis bis sena ferantur"
+        },
+        {
+          "number": 541,
+          "text": "finibus astra, docet ratio, cui nulla resistunt"
+        },
+        {
+          "number": 542,
+          "text": "claustra nec immensae moles ceduntque recessus,"
+        },
+        {
+          "number": 543,
+          "text": "omnia succumbunt, ipsum est penetrabile caelum."
+        }
+      ],
+      [
+        {
+          "number": 544,
+          "text": "nam quantum a terris atque aequore signa recedunt,"
+        },
+        {
+          "number": 545,
+          "text": "tantum bina patent. quacumque inciditur orbis"
+        },
+        {
+          "number": 546,
+          "text": "per medium, pars efficitur tum tertia gyri"
+        },
+        {
+          "number": 547,
+          "text": "exiguo dirimens solidam discrimine summam."
+        },
+        {
+          "number": 548,
+          "text": "astra igitur caelum bis bina refugit ab imo"
+        },
+        {
+          "number": 549,
+          "text": "summum, bis senis ut sit pars tertia signis."
+        },
+        {
+          "number": 550,
+          "text": "sed quia per medium est tellus suspensa profundum,"
+        },
+        {
+          "number": 551,
+          "text": "binis a summo signis discedit et imo."
+        }
+      ],
+      [
+        {
+          "number": 552,
+          "text": "hinc igitur quodcumque supra te suspicis ipse,"
+        },
+        {
+          "number": 553,
+          "text": "qua per inane meant oculi quaque ire recusant,"
+        },
+        {
+          "number": 554,
+          "text": "binis aequandum est signis, sex tanta rotundae"
+        },
+        {
+          "number": 555,
+          "text": "efficiunt orbem zonae, qua signa feruntur"
+        },
+        {
+          "number": 556,
+          "text": "bis sex aequali spatio texentia caelum."
+        }
+      ],
+      [
+        {
+          "number": 557,
+          "text": "nec mirere uagos partus eadem esse per astra"
+        },
+        {
+          "number": 558,
+          "text": "et mixtum ingenti generis discrimine fetum,"
+        },
+        {
+          "number": 559,
+          "text": "singula cum tantum teneant tantoque ferantur"
+        },
+        {
+          "number": 560,
+          "text": "tempore; sex tota surgentia sidera luce"
+        }
+      ]
+    ],
+    "additionalSources": [
+      {
+        "title": "Creech 1697년 영어 운문역 · 초역 뒤 선택 대조",
+        "url": "https://archive.org/details/bim_early-english-books-1641-1700_the-five-books-of-m-man_manilius-marcus_1697",
+        "locator": "PDF 95쪽만 비교. 영어는 이 한국어 번역의 저본이 아니다."
+      }
+    ],
+    "contentNotice": "저본의 신화·운명·우주론·정치적 찬양과 역사적 가치 판단을 옮긴 문헌 번역입니다. 현대의 천문학·의료·재난 예측이나 개인·집단에 대한 평가로 제시하지 않습니다."
+  },
+  {
+    "id": "manilius-i-561-602",
+    "title": "아스트로노미카 I.561–602: 하늘의 다섯 평행권",
+    "sourceId": "manilius-breiter1907",
+    "sourceHash": "2c493c478658e722b5281198e07fa2076af3a3c5e85b6c7c097257a5568c8539",
+    "sourceHashKind": "latin-verse-transcription",
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=35",
+    "sourceTitle": "『아스트로노미카』 제1권 561–602행 — Breiter 라틴어판(1907)",
+    "author": "Marcus Manilius · 라틴어 원작; Theodor Breiter 편집(1907)",
+    "license": "Public domain",
+    "translationLicense": "CC BY 4.0",
+    "glossaryVersion": "2026-09-18.4",
+    "method": "direct-editor",
+    "editor": "ChatGPT (GPT-6 Astra Pro)",
+    "date": "2026-09-18",
+    "status": "Astra 라틴어 직접 번역 초판",
+    "language": "la",
+    "locator": "제1권 561–602행 · 인쇄본 19–20쪽 · PDF 35–36쪽",
+    "scope": "표시한 행 범위의 저본 본문 번역 · 교감란·결락 보충 제외",
+    "edition": "Breiter 1907년 라틴어판에서 직접 옮겼습니다. 이번 묶음의 한국어 초역을 모두 작성한 뒤 Creech 1697년 영어역의 기하학 설명 일부만 비교했습니다. Housman·Goold와의 추가 교감이나 독립된 사람의 감수를 수행한 번역은 아닙니다.",
+    "termIds": [
+      "manilius-mundus",
+      "manilius-ratio",
+      "manilius-tropical-signs",
+      "manilius-critical-marks"
+    ],
+    "editorialNotes": [
+      "이 다섯 원은 북쪽 원·여름의 원·중앙의 원·겨울의 원·남쪽 원으로 차례로 설명된다. partes와 gradus의 여섯·다섯·넷이라는 구획 수를 현대 360도 좌표의 6°·5°·4°로 곧바로 바꾸지 않았다.",
+      "564~565행은 Breiter 본문에 없고 관련 전승이 교감란에 제시된다. 다른 전사에서 가져와 본문에 채워 넣지 않았다. 594~596행의 압축된 요약도 저본의 삽입 의심 상태를 유지한다.",
+      "겨울의 원에서 우리 쪽 낮이 짧고 반대 지역의 낮이 길다는 상대적 설명을 보존했다. 북반구 계절을 전 지구에 동시에 적용하는 문장으로 바꾸지 않았다.",
+      "한국어 본문은 Breiter 라틴어 지면에서 직접 작성했다. 읽기 구간의 제목·문단 구분은 편집자가 붙였으며, 원문의 번호와 실제 인쇄 순서를 따랐다. 본문에 없는 시구·교감란의 전승·결락은 새 문장으로 채워 넣지 않았다.",
+      "라틴어 원자료 SHA-256은 이 구간의 행 번호와 전사문을 인쇄 순서대로 이은 문자열의 해시이다. 원본 PDF 파일의 해시와 문단 대응표·지면 번호·삽입 의심 표시는 저장소의 참고 자료에 따로 보존했다."
+    ],
+    "series": {
+      "id": "manilius-book1",
+      "label": "마닐리우스 아스트로노미카 제1권",
+      "order": 18
+    },
+    "paragraphs": [
+      "이제 높은 하늘의 경계들과, 정해진 차례로 하늘을 따라가는 선들을 설명해야 한다. 그 선들을 따라 불꽃 같은 별자리들의 줄이 이끌린다.",
+      "북쪽의 한 원은 빛나는 곰자리들을 받치며, 하늘의 꼭대기에서 온전한 여섯 구획만큼 떨어져 있다.",
+      "다른 원은 가장 먼 게의 별자리를 지나간다. 그곳에서 포이보스는 낮의 빛과 머무는 시간을 끝까지 늘리고, 긴 굽이를 따라 느린 빛을 돌아가게 한다. 한여름의 열기에서 여름이라는 이름을 얻은 원이다. 그 이름을 차지한 뜨거운 원은 달리는 태양이 돌아갈 지점과 가장 멀리 나아가는 경계를 표시하며, 북쪽 원에서 다섯 구획만큼 떨어져 있다.",
+      "셋째 원은 우주의 가운데에 자리하여 거대한 고리로 하늘 전체를 두른다. 양쪽에서 축을 마주 보는 이 경계에서 포이보스는 밤과 낮의 길이를 같게 만든다. 봄과 가을의 섞인 계절을 지나며, 균등한 선으로 하늘을 가운데에서 나누기 때문이다. 이 원의 선들은 여름의 경계에서 네 구획만큼 물러나 있다.",
+      "그 너머의 다음 경계는 겨울이라는 이름을 지닌다. 멀어지는 태양의 빛이 이르는 끝을 표시하며, 가장 짧은 길을 따라 우리에게 비스듬한 불꽃의 인색한 햇살을 준다. 그러나 태양이 바로 위에 기울어 있는 그 지역들에서는 낮의 밝은 시간이 길고, 빛나는 열기 속에 늘어난 하루가 좀처럼 지나가지 않는다. 이 원은 네 구획만큼 떨어져 있다.",
+      "이들 밖에 원이 하나 남는다. 반대편 끝의 축에 가장 가까워 남쪽 곰자리들을 감싸는 원이다. 이 원도 겨울의 원에서 다섯 구획만큼 떨어져 있다. 높은 북쪽 원이 우리 쪽 회전점에서 떨어진 만큼, 이 원도 반대편의 가까운 회전점에서 떨어져 있다.",
+      "이와 같이 극에서 극에 이르는 두 부분이 나뉘어, 두 몫을 합친 전체로 하늘을 둘러싼다. 그리고 때를 표시하는 다섯 경계를 그린다.",
+      "이 원들은 우주와 같은 길을 따르며 함께 회전한다. 기울어진 채 서로 짝인 뜨는 곳과 지는 곳을 맞춘다. 천구 전체가 회전하는 짜임을 따라 높은 하늘의 운행과 함께하는 선들을 그리기 때문이다. 그들은 언제나 같은 간격을 유지하며, 한 번 나누어진 경계와 배정된 몫을 지킨다."
+    ],
+    "paragraphLocators": [
+      "제1권 561–563행",
+      "제1권 566–567행",
+      "제1권 568–574행",
+      "제1권 575–581행",
+      "제1권 582–588행",
+      "제1권 589–593행",
+      "제1권 594–596행",
+      "제1권 597–602행"
+    ],
+    "paragraphCriticalNotes": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "594–596행은 Breiter가 삽입 의심으로 표시한 요약 구절",
+      ""
+    ],
+    "paragraphLatinVerses": [
+      [
+        {
+          "number": 561,
+          "text": "restat ut aetherios fines tibi reddere coner"
+        },
+        {
+          "number": 562,
+          "text": "filaque dispositis uicibus comitantia caelum,"
+        },
+        {
+          "number": 563,
+          "text": "per quae dirigitur signorum flammeus ordo."
+        }
+      ],
+      [
+        {
+          "number": 566,
+          "text": "circulus ad boream fulgentis sustinet arctos"
+        },
+        {
+          "number": 567,
+          "text": "sexque fugit solidas a caeli uertice partes."
+        }
+      ],
+      [
+        {
+          "number": 568,
+          "text": "alter ad extremi decurrens sidera cancri,"
+        },
+        {
+          "number": 569,
+          "text": "in quo consummat Phoebus lucemque moramque"
+        },
+        {
+          "number": 570,
+          "text": "tardaque per longos circumfert lumina flexus,"
+        },
+        {
+          "number": 571,
+          "text": "aestiuum medio nomen sibi sumit ab aestu"
+        },
+        {
+          "number": 572,
+          "text": "temporis et titulo potitur metamque uolantis"
+        },
+        {
+          "number": 573,
+          "text": "solis et extremos designat feruidus actus"
+        },
+        {
+          "number": 574,
+          "text": "et quinque in partes aquilonis distat ab orbe."
+        }
+      ],
+      [
+        {
+          "number": 575,
+          "text": "tertius in media mundi regione locatus"
+        },
+        {
+          "number": 576,
+          "text": "ingenti spira totum praecingit Olympum"
+        },
+        {
+          "number": 577,
+          "text": "parte ab utraque uidens axem, quo limite Phoebus"
+        },
+        {
+          "number": 578,
+          "text": "componit paribus numeris noctemque diemque"
+        },
+        {
+          "number": 579,
+          "text": "ueris et autumni currens per tempora mixta,"
+        },
+        {
+          "number": 580,
+          "text": "cum media aequali distinguit limite caelum"
+        },
+        {
+          "number": 581,
+          "text": "quattuor et gradibus sua fila reducit ab aestu."
+        }
+      ],
+      [
+        {
+          "number": 582,
+          "text": "proximus hunc ultra brumalis nomine limes"
+        },
+        {
+          "number": 583,
+          "text": "ultima designat fugientis lumina solis"
+        },
+        {
+          "number": 584,
+          "text": "inuidiaque obliqua radiorum munera flamma"
+        },
+        {
+          "number": 585,
+          "text": "dat per iter minimum nobis; sed finibus illis,"
+        },
+        {
+          "number": 586,
+          "text": "quos super incubuit, longa stant tempora luce,"
+        },
+        {
+          "number": 587,
+          "text": "uixque dies transit candentem extenta per aestum,"
+        },
+        {
+          "number": 588,
+          "text": "bisque iacet binis summotus partibus orbis."
+        }
+      ],
+      [
+        {
+          "number": 589,
+          "text": "unus ab his superest extremo proximus axi"
+        },
+        {
+          "number": 590,
+          "text": "circulus, austrinas qui stringit et obsidet arctos."
+        },
+        {
+          "number": 591,
+          "text": "hic quoque brumalem per partes quinque relinquit,"
+        },
+        {
+          "number": 592,
+          "text": "et quantum a nostro sublimis cardine gyrus,"
+        },
+        {
+          "number": 593,
+          "text": "distat ab aduerso tantundem proximus illi."
+        }
+      ],
+      [
+        {
+          "number": 594,
+          "text": "sic tibi per binas uertex a uertice partes",
+          "status": "suspected-interpolation"
+        },
+        {
+          "number": 595,
+          "text": "diuisus duplici summa circumdat Olympum",
+          "status": "suspected-interpolation"
+        },
+        {
+          "number": 596,
+          "text": "et per quinque notat signantis tempora fines.",
+          "status": "suspected-interpolation"
+        }
+      ],
+      [
+        {
+          "number": 597,
+          "text": "his eadem est uia quae mundo pariterque rotantur"
+        },
+        {
+          "number": 598,
+          "text": "inclines sociosque ortus occasibus aequant,"
+        },
+        {
+          "number": 599,
+          "text": "quandoquidem textu, quo totus uoluitur orbis,"
+        },
+        {
+          "number": 600,
+          "text": "fila trahunt alti cursum comitantia caeli"
+        },
+        {
+          "number": 601,
+          "text": "interualla pari seruantes limite semper"
+        },
+        {
+          "number": 602,
+          "text": "diuisosque semel fines sortemque dicatam."
+        }
+      ]
+    ],
+    "contentNotice": "저본의 신화·운명·우주론·정치적 찬양과 역사적 가치 판단을 옮긴 문헌 번역입니다. 현대의 천문학·의료·재난 예측이나 개인·집단에 대한 평가로 제시하지 않습니다."
+  },
+  {
+    "id": "manilius-i-603-632",
+    "title": "아스트로노미카 I.603–632: 극을 잇는 두 원",
+    "sourceId": "manilius-breiter1907",
+    "sourceHash": "33ee1a13cabc1e4241bb63e714382cf24dace7a869154d5f41e2d04749fa7eed",
+    "sourceHashKind": "latin-verse-transcription",
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=36",
+    "sourceTitle": "『아스트로노미카』 제1권 603–632행 — Breiter 라틴어판(1907)",
+    "author": "Marcus Manilius · 라틴어 원작; Theodor Breiter 편집(1907)",
+    "license": "Public domain",
+    "translationLicense": "CC BY 4.0",
+    "glossaryVersion": "2026-09-18.4",
+    "method": "direct-editor",
+    "editor": "ChatGPT (GPT-6 Astra Pro)",
+    "date": "2026-09-18",
+    "status": "Astra 라틴어 직접 번역 초판",
+    "language": "la",
+    "locator": "제1권 603–632행 · 인쇄본 20–21쪽 · PDF 36–37쪽",
+    "scope": "표시한 행 범위의 저본 본문 번역 · 교감란·결락 보충 제외",
+    "edition": "Breiter 1907년 라틴어판에서 직접 옮겼습니다. 이번 묶음의 한국어 초역을 모두 작성한 뒤 Creech 1697년 영어역의 기하학 설명 일부만 비교했습니다. Housman·Goold와의 추가 교감이나 독립된 사람의 감수를 수행한 번역은 아닙니다.",
+    "termIds": [
+      "manilius-cardines",
+      "manilius-poetic-sign-names",
+      "constellation"
+    ],
+    "editorialNotes": [
+      "앞의 평행권과 달리 극을 잇는 두 원을 설명한다. 여기서의 별자리 통과 위치는 저본의 기하학적·형상적 서술을 옮겼으며, 현재 좌표에 맞추어 별자리 경계를 다시 배치하지 않았다.",
+      "집게발·숫양 등은 앞에서 정한 시적 이명을 유지한다. 안드로메다의 어머니는 목록의 카시오페아에 연결되지만 라틴어가 이름 대신 친족어를 쓰는 자리에서는 그대로 친족어로 옮겼다.",
+      "한국어 본문은 Breiter 라틴어 지면에서 직접 작성했다. 읽기 구간의 제목·문단 구분은 편집자가 붙였으며, 원문의 번호와 실제 인쇄 순서를 따랐다. 본문에 없는 시구·교감란의 전승·결락은 새 문장으로 채워 넣지 않았다.",
+      "라틴어 원자료 SHA-256은 이 구간의 행 번호와 전사문을 인쇄 순서대로 이은 문자열의 해시이다. 원본 PDF 파일의 해시와 문단 대응표·지면 번호·삽입 의심 표시는 저장소의 참고 자료에 따로 보존했다."
+    ],
+    "series": {
+      "id": "manilius-book1",
+      "label": "마닐리우스 아스트로노미카 제1권",
+      "order": 19
+    },
+    "paragraphs": [
+      "한 극에서 뻗어 반대 극이 받아들이는 원 둘이 있다. 서로 마주하며 앞서 말한 모든 원과 서로를 가른다. 우주의 두 회전점에서 만나, 하늘을 가로질러 축을 향해 곧게 이어진다. 그들은 한 해의 계절들을 표시하고, 같은 수의 달을 배정하여 별자리들을 지나는 하늘을 네 부분으로 나눈다.",
+      "한 경계는 높은 하늘에서 내려오며 뱀의 꼬리와 물에 잠기지 않는 곰자리들을 가른다. 가운데 원을 따라 움직이는 집게발의 가로대를 지나고, 남쪽에서 물뱀의 끝과 켄타우로스의 가운데를 가르며 반대편 축에서 다시 만난다. 다시 하늘로 돌아와 비늘 덮인 바다 괴물의 등, 숫양의 경계와 밝은 삼각형을 표시한다. 안드로메다의 옷자락 아래와 그 어머니의 발자국을 지나, 회전점으로 되돌아가 출발한 곳에서 원을 닫는다.",
+      "다른 원은 앞의 원 한가운데와 위쪽 축에 놓여, 곰의 앞발과 목을 통과한다. 태양이 물러나면 일곱 별이 이 곰을 먼저 내놓아 검은 밤에 빛을 주게 한다. 그 원은 쌍둥이와 게를 나누고, 입에서 불타는 개와 바다를 정복한 배의 키를 스친다. 이어 앞의 원이 지나는 별자리들을 가로질러 보이지 않는 축에 이른다. 그 경계에서 다시 올라와 염소인 너를 만지고, 네 별들에서 독수리를 표시한다. 뒤집힌 리라와 용의 고리를 지나 키노수라 발의 뒤쪽 별들을 통과하고, 가까운 회전점에서 꼬리를 가로질러 자른다. 어디에서 출발했는지 기억하며 다시 스스로와 만난다.",
+      "계절들은 이 원들에게 영원한 자리를 정해 주었다. 별자리들 사이에서 움직이지 않는 간격과 언제나 같은 위치를 유지하게 하였다."
+    ],
+    "paragraphLocators": [
+      "제1권 603–608행",
+      "제1권 609–617행",
+      "제1권 618–630행",
+      "제1권 631–632행"
+    ],
+    "paragraphCriticalNotes": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "paragraphLatinVerses": [
+      [
+        {
+          "number": 603,
+          "text": "sunt duo, quos recipit ductos a uertice uertex,"
+        },
+        {
+          "number": 604,
+          "text": "inter se aduersi, qui cunctos ante relatos"
+        },
+        {
+          "number": 605,
+          "text": "seque secant gemino coeuntes cardine mundi"
+        },
+        {
+          "number": 606,
+          "text": "transuersoque polo rectum ducuntur in axem,"
+        },
+        {
+          "number": 607,
+          "text": "tempora signantes anni caelumque per astra"
+        },
+        {
+          "number": 608,
+          "text": "quattuor in partes diuisum mensibus aequis."
+        }
+      ],
+      [
+        {
+          "number": 609,
+          "text": "alter ab excelso decurrens limes Olympo"
+        },
+        {
+          "number": 610,
+          "text": "serpentis caudam siccas et diuidit arctos"
+        },
+        {
+          "number": 611,
+          "text": "et iuga chelarum medio uolitantia gyro"
+        },
+        {
+          "number": 612,
+          "text": "extremamque secans hydram mediumque sub austris"
+        },
+        {
+          "number": 613,
+          "text": "centaurum aduerso concurrit rursus in axe"
+        },
+        {
+          "number": 614,
+          "text": "et redit in caelum squamosaque tergora ceti"
+        },
+        {
+          "number": 615,
+          "text": "lanigerique notat fines clarumque trigonum"
+        },
+        {
+          "number": 616,
+          "text": "Andromedaeque sinus imos, uestigia matris"
+        },
+        {
+          "number": 617,
+          "text": "principiumque suum repetito cardine claudit."
+        }
+      ],
+      [
+        {
+          "number": 618,
+          "text": "alter in hunc medium summumque incumbit in axem"
+        },
+        {
+          "number": 619,
+          "text": "perque pedes primos ceruicem transit et ursae,"
+        },
+        {
+          "number": 620,
+          "text": "quam septem stellae primam iam sole remoto"
+        },
+        {
+          "number": 621,
+          "text": "producunt nigrae praebentem lumina nocti,"
+        },
+        {
+          "number": 622,
+          "text": "et geminis cancrum dirimit stringitque flagrantem"
+        },
+        {
+          "number": 623,
+          "text": "ore canem clauumque ratis, quae uicerat aequor."
+        },
+        {
+          "number": 624,
+          "text": "inde axem occultum per gyri signa prioris"
+        },
+        {
+          "number": 625,
+          "text": "transuersa atque illo rursus de limite tangit"
+        },
+        {
+          "number": 626,
+          "text": "te, capricorne, tuisque aquilam designat ab astris"
+        },
+        {
+          "number": 627,
+          "text": "perque lyram inuersam currens spirasque draconis"
+        },
+        {
+          "number": 628,
+          "text": "posteriora pedum Cynosurae praeterit astra"
+        },
+        {
+          "number": 629,
+          "text": "transuersamque secat uicino cardine caudam."
+        },
+        {
+          "number": 630,
+          "text": "hic iterum coit ipse sibi memor unde profectus."
+        }
+      ],
+      [
+        {
+          "number": 631,
+          "text": "atque his aeternam fixerunt tempora sedem"
+        },
+        {
+          "number": 632,
+          "text": "immotis per signa modis statione perenni."
+        }
+      ]
+    ],
+    "contentNotice": "저본의 신화·운명·우주론·정치적 찬양과 역사적 가치 판단을 옮긴 문헌 번역입니다. 현대의 천문학·의료·재난 예측이나 개인·집단에 대한 평가로 제시하지 않습니다."
+  },
+  {
+    "id": "manilius-i-633-665",
+    "title": "아스트로노미카 I.633–665: 관찰자에 따라 달라지는 자오선과 지평선",
+    "sourceId": "manilius-breiter1907",
+    "sourceHash": "88e88b50c7ed9168773fa2d03cd189b2b63450d113d2f83035a9d2d053361e87",
+    "sourceHashKind": "latin-verse-transcription",
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=37",
+    "sourceTitle": "『아스트로노미카』 제1권 633–665행 — Breiter 라틴어판(1907)",
+    "author": "Marcus Manilius · 라틴어 원작; Theodor Breiter 편집(1907)",
+    "license": "Public domain",
+    "translationLicense": "CC BY 4.0",
+    "glossaryVersion": "2026-09-18.4",
+    "method": "direct-editor",
+    "editor": "ChatGPT (GPT-6 Astra Pro)",
+    "date": "2026-09-18",
+    "status": "Astra 라틴어 직접 번역 초판",
+    "language": "la",
+    "locator": "제1권 633–665행 · 인쇄본 21–22쪽 · PDF 37–38쪽",
+    "scope": "표시한 행 범위의 저본 본문 번역 · 교감란·결락 보충 제외",
+    "edition": "Breiter 1907년 라틴어판에서 직접 옮겼습니다. 이번 묶음의 한국어 초역을 모두 작성한 뒤 Creech 1697년 영어역의 기하학 설명 일부만 비교했습니다. Housman·Goold와의 추가 교감이나 독립된 사람의 감수를 수행한 번역은 아닙니다.",
+    "termIds": [
+      "manilius-hours",
+      "manilius-mundus",
+      "manilius-critical-marks",
+      "midheaven-and-ic",
+      "ascendant-and-descendant"
+    ],
+    "editorialNotes": [
+      "앞의 원들은 별자리에 대한 위치가 고정되어 있지만 여기서는 관찰 장소와 함께 바뀌는 두 원을 설명한다. 한국어 제목의 자오선·지평선은 문맥을 밝히는 편집 명칭이다.",
+      "여섯째 시간은 낮의 가운데를 가리키는 저본의 시간 표현이다. 이를 현대의 시계 시각 오전 6시로 바꾸지 않았다. 646행의 압축된 상호 관계는 한 곳의 해 뜨고 지는 때가 다른 곳의 낮 가운데와 대응한다는 문맥으로 풀어 옮겼다.",
+      "655~656행은 연결이 압축되고 불명확한 독법을 가진다. 전사문은 저본 그대로 두고, 한국어에서는 뒤의 어디를 걷든 경계가 바뀐다는 논증에 연결했다. 보조본의 단어를 조합해 확정된 교정문을 만들지 않았다.",
+      "664행의 요약은 삽입 의심 표시를 유지했다. horizon은 지평선을 가리키는 원어 명칭으로 병기하며 점성술 전체의 호로스코프와 혼동하지 않는다.",
+      "한국어 초역 뒤 영어 해석 증인 대조: Creech 인쇄본 27쪽은 이동과 시선에 따라 지평선의 경계가 바뀐다고 풀어 쓴다. 영어의 간명한 설명으로 Breiter 655–656행의 불명확한 표현을 감추거나 교정문을 확정하지 않았다.",
+      "한국어 본문은 Breiter 라틴어 지면에서 직접 작성했다. 읽기 구간의 제목·문단 구분은 편집자가 붙였으며, 원문의 번호와 실제 인쇄 순서를 따랐다. 본문에 없는 시구·교감란의 전승·결락은 새 문장으로 채워 넣지 않았다.",
+      "라틴어 원자료 SHA-256은 이 구간의 행 번호와 전사문을 인쇄 순서대로 이은 문자열의 해시이다. 원본 PDF 파일의 해시와 문단 대응표·지면 번호·삽입 의심 표시는 저장소의 참고 자료에 따로 보존했다."
+    ],
+    "series": {
+      "id": "manilius-book1",
+      "label": "마닐리우스 아스트로노미카 제1권",
+      "order": 20
+    },
+    "paragraphs": [
+      "이와 달리 두 원은 옮겨 다니게 만들어졌다. 하나는 헬리케에서 솟아올라 하늘의 가운데를 자르고, 낮을 나누어 여섯째 시간을 가늠한다. 뜨는 곳과 지는 곳을 똑같은 거리에서 바라본다.",
+      "이 원이 별자리들과 맺는 관계는 달라진다. 동쪽으로 가든 서쪽으로 가든, 사람은 제 머리 위에 둥근 원을 그린다. 꼭대기 위에 서서 하늘을 가운데에서 자르고, 정상을 나누어 천계를 표시하는 원이다. 땅에서의 장소와 함께 하늘도 시간도 바뀐다. 사람마다 가운데가 다르기 때문이다. 시간은 세계를 가로질러 날아간다.",
+      "포이보스가 처음 물결에서 솟아오를 때, 그 황금 원반이 머리 위를 누르는 사람들에게는 여섯째 시간이 머물러 있다. 다시 그가 그림자 속으로 물러날 때에는 서쪽 사람들에게 여섯째 시간이다. 우리는 첫 시간과 마지막 시간을, 다른 곳의 그 두 여섯째 시간에 대응하여 센다. 멀리 있는 불길의 가장자리에서 차가운 빛을 느낀다.",
+      "다른 원의 경계를 알고 싶다면 눈과 얼굴을 편히 돌려 사방을 둘러보라. 하늘의 가장 낮은 곳과 땅의 가장 높은 곳, 우주가 구별 없이 스스로와 맞닿아 빛나는 별들을 바다에서 내놓거나 받아들이는 곳이, 가느다란 경계로 우주를 가로질러 두른다.",
+      "이 선도 하늘 전체를 옮겨 다닌다. 가운데를 향해 기울거나, 갑자기 중앙의 원 또는 일곱 별 쪽에 놓이는 데만 그치는 것이 아니다. 떠도는 발걸음이 땅의 이쪽저쪽으로 어디를 향하든, 그 원호는 언제나 새로워지고 땅의 위치에 따라 달라진다. 다른 하늘을 보여 주며 다른 하늘을 뒤에 남기기 때문이다. 한 절반을 가리고 다른 절반을 드러내면서, 시선과 함께 움직이는 선으로 달라지는 경계를 표시한다.",
+      "이 원은 땅을 감싸므로 지상의 원이라 할 수 있다. 완전한 경계로 우주를 둘러싼 원이다. 그리고 경계라는 말에서 이름을 얻어 호리존이라 불린다."
+    ],
+    "paragraphLocators": [
+      "제1권 633–636행",
+      "제1권 637–640, 642, 641행",
+      "제1권 643–647행",
+      "제1권 648–653행",
+      "제1권 654–662행",
+      "제1권 663–665행"
+    ],
+    "paragraphCriticalNotes": [
+      "",
+      "642행을 641행보다 먼저 둔 저본의 순서를 따름",
+      "",
+      "",
+      "",
+      "664행은 Breiter가 삽입 의심으로 표시한 구절"
+    ],
+    "paragraphLatinVerses": [
+      [
+        {
+          "number": 633,
+          "text": "hos uolucris fecere duos; namque alter ab ipsa"
+        },
+        {
+          "number": 634,
+          "text": "consurgens Helice medium praecidit Olympum"
+        },
+        {
+          "number": 635,
+          "text": "discernitque diem sextamque examinat horam"
+        },
+        {
+          "number": 636,
+          "text": "et paribus spatiis occasus cernit et ortus."
+        }
+      ],
+      [
+        {
+          "number": 637,
+          "text": "hic mutat per signa uices: seu si quis eoos"
+        },
+        {
+          "number": 638,
+          "text": "seu petit hesperios, supra se circinat orbem"
+        },
+        {
+          "number": 639,
+          "text": "uerticibus super astantem mediumque secantem"
+        },
+        {
+          "number": 640,
+          "text": "caelum et diuiso signantem culmine mundum"
+        },
+        {
+          "number": 642,
+          "text": "cumque loco terrae caelumque et tempora mutat,"
+        },
+        {
+          "number": 641,
+          "text": "quando aliis aliud medium est; uolat hora per orbem."
+        }
+      ],
+      [
+        {
+          "number": 643,
+          "text": "atque ubi se primis extollit Phoebus ab undis,"
+        },
+        {
+          "number": 644,
+          "text": "illis sexta manet, quos tum premit aureus orbis."
+        },
+        {
+          "number": 645,
+          "text": "rursus ad hesperios sexta est, ubi cedit in umbras;"
+        },
+        {
+          "number": 646,
+          "text": "nos primam ac summam sextam numeramus utramque"
+        },
+        {
+          "number": 647,
+          "text": "et gelidum extremo lumen sentimus ab igni."
+        }
+      ],
+      [
+        {
+          "number": 648,
+          "text": "alterius fines si uis cognoscere gyri,"
+        },
+        {
+          "number": 649,
+          "text": "circumfer facilis oculos uultumque per orbem."
+        },
+        {
+          "number": 650,
+          "text": "quicquid erit caelique imum terraeque supremum,"
+        },
+        {
+          "number": 651,
+          "text": "qua coit ipse sibi nullo discrimine mundus"
+        },
+        {
+          "number": 652,
+          "text": "redditque aut recipit fulgentia sidera ponto,"
+        },
+        {
+          "number": 653,
+          "text": "praecingit tenui transuersum limite mundum."
+        }
+      ],
+      [
+        {
+          "number": 654,
+          "text": "haec quoque per totum uolitabit linea caelum,"
+        },
+        {
+          "number": 655,
+          "text": "non tantum ad medium uergens mediumque repente"
+        },
+        {
+          "number": 656,
+          "text": "orbem nunc septem ad stellas nec mota sub astra,"
+        },
+        {
+          "number": 657,
+          "text": "sed quaecumque uagae tulerint uestigia plantae"
+        },
+        {
+          "number": 658,
+          "text": "has modo terrarum nunc has gradientis in oras,"
+        },
+        {
+          "number": 659,
+          "text": "semper erit nouus et terris mutabitur arcus;"
+        },
+        {
+          "number": 660,
+          "text": "quippe aliud caelum ostendens aliudque relinquens"
+        },
+        {
+          "number": 661,
+          "text": "dimidium teget et referet uarioque notabit"
+        },
+        {
+          "number": 662,
+          "text": "fine et cum uisu pariter sua fila mouente."
+        }
+      ],
+      [
+        {
+          "number": 663,
+          "text": "hic terrestris erit, quia terram amplectitur orbis,"
+        },
+        {
+          "number": 664,
+          "text": "et mundum pleno praecingit limite gyrus.",
+          "status": "suspected-interpolation"
+        },
+        {
+          "number": 665,
+          "text": "atque a fine trahens titulum memoratur horizon."
+        }
+      ]
+    ],
+    "additionalSources": [
+      {
+        "title": "Creech 1697년 영어 운문역 · 초역 뒤 선택 대조",
+        "url": "https://archive.org/details/bim_early-english-books-1641-1700_the-five-books-of-m-man_manilius-marcus_1697",
+        "locator": "PDF 99쪽만 비교. 영어는 이 한국어 번역의 저본이 아니다."
+      }
+    ],
+    "contentNotice": "저본의 신화·운명·우주론·정치적 찬양과 역사적 가치 판단을 옮긴 문헌 번역입니다. 현대의 천문학·의료·재난 예측이나 개인·집단에 대한 평가로 제시하지 않습니다."
+  },
+  {
+    "id": "manilius-i-666-683",
+    "title": "아스트로노미카 I.666–683: 비스듬한 황도의 띠",
+    "sourceId": "manilius-breiter1907",
+    "sourceHash": "a11fc43a959ce0c5732c138639b1ada32f35b693bb19cc41cc97f0d4b2198aa9",
+    "sourceHashKind": "latin-verse-transcription",
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=38",
+    "sourceTitle": "『아스트로노미카』 제1권 666–683행 — Breiter 라틴어판(1907)",
+    "author": "Marcus Manilius · 라틴어 원작; Theodor Breiter 편집(1907)",
+    "license": "Public domain",
+    "translationLicense": "CC BY 4.0",
+    "glossaryVersion": "2026-09-18.4",
+    "method": "direct-editor",
+    "editor": "ChatGPT (GPT-6 Astra Pro)",
+    "date": "2026-09-18",
+    "status": "Astra 라틴어 직접 번역 초판",
+    "language": "la",
+    "locator": "제1권 666–683행 · 인쇄본 22–23쪽 · PDF 38–39쪽",
+    "scope": "표시한 행 범위의 저본 본문 번역 · 교감란·결락 보충 제외",
+    "edition": "Breiter 1907년 라틴어판에서 직접 옮겼습니다. 이번 묶음의 한국어 초역을 모두 작성한 뒤 Creech 1697년 영어역의 기하학 설명 일부만 비교했습니다. Housman·Goold와의 추가 교감이나 독립된 사람의 감수를 수행한 번역은 아닙니다.",
+    "termIds": [
+      "manilius-signum",
+      "manilius-mundus",
+      "zodiac-sign",
+      "ecliptic-longitude",
+      "ecliptic-latitude"
+    ],
+    "editorialNotes": [
+      "681~683행은 길이 360, 너비 12의 황도 띠를 설명한다. 라틴어의 수치를 유지하며, 폭이 없는 한 줄인 황도와 띠의 폭을 구별한다.",
+      "앞서 정신으로 그린 원들과 달리 별들로 눈에 드러나는 띠라는 대조를 보존했다. 델리아는 이 문맥의 달이며, 다섯 별은 태양·달과 나누어 열거된다.",
+      "한국어 초역 뒤 영어 해석 증인 대조: Creech 인쇄본 27쪽에서도 너비 12와 길이 360을 구별한다. 한국어는 라틴어의 수량 표현을 먼저 번역한 상태로 유지했다.",
+      "한국어 본문은 Breiter 라틴어 지면에서 직접 작성했다. 읽기 구간의 제목·문단 구분은 편집자가 붙였으며, 원문의 번호와 실제 인쇄 순서를 따랐다. 본문에 없는 시구·교감란의 전승·결락은 새 문장으로 채워 넣지 않았다.",
+      "라틴어 원자료 SHA-256은 이 구간의 행 번호와 전사문을 인쇄 순서대로 이은 문자열의 해시이다. 원본 PDF 파일의 해시와 문단 대응표·지면 번호·삽입 의심 표시는 저장소의 참고 자료에 따로 보존했다."
+    ],
+    "series": {
+      "id": "manilius-book1",
+      "label": "마닐리우스 아스트로노미카 제1권",
+      "order": 21
+    },
+    "paragraphs": [
+      "이 원들에 서로 반대 방향의 선을 그리는 두 비스듬한 원을 더하라. 하나에는 빛나는 사인들이 있다. 그 사이로 포이보스가 고삐를 다스리고, 떠도는 델리아가 자기 전차로 태양을 뒤따른다. 천계의 회전에 맞서 나아가는 다섯 별도 자연의 법칙에 따라 서로 다른 춤을 춘다.",
+      "이 원의 위쪽 끝은 게가, 아래쪽 끝은 염소가 차지한다. 빛과 어둠의 길이를 같게 하는 원은 그것을 두 번 맞아들인다. 숫양과 천칭의 사인에서 그 원의 선을 가로지르기 때문이다. 이처럼 세 원을 지나 비스듬히 이끌리는 원은 경사진 비탈을 따라가며 곧은 길에서 벗어난다.",
+      "이 원은 앞서 말한 원들처럼 눈에 보이지 않아 정신으로만 알아보아야 하는 것은 아니다. 별이 박힌 띠가 거대한 둘레를 따라 빛나며, 아로새겨진 경계로 우주를 뚜렷하게 꾸민다. 길이는 삼백에 세 번의 스물을 더한 구획만큼 펼쳐지고, 너비는 열두 구획에 이른다. 이 띠 안에 서로 다른 길로 흘러가는 천체들이 담긴다."
+    ],
+    "paragraphLocators": [
+      "제1권 666–671행",
+      "제1권 672–676행",
+      "제1권 677–683행"
+    ],
+    "paragraphCriticalNotes": [
+      "",
+      "",
+      ""
+    ],
+    "paragraphLatinVerses": [
+      [
+        {
+          "number": 666,
+          "text": "his adice obliquos aduersaque fila trahentis"
+        },
+        {
+          "number": 667,
+          "text": "inter se gyros, quorum fulgentia signa"
+        },
+        {
+          "number": 668,
+          "text": "alter habet, per quae Phoebus moderatur habenas,"
+        },
+        {
+          "number": 669,
+          "text": "subsequiturque suo solem uaga Delia curru,"
+        },
+        {
+          "number": 670,
+          "text": "et quinque aduerso luctantia sidera mundo"
+        },
+        {
+          "number": 671,
+          "text": "exercent uarias naturae lege choreas."
+        }
+      ],
+      [
+        {
+          "number": 672,
+          "text": "hunc tenet a summo cancer, capricornus ab imo,"
+        },
+        {
+          "number": 673,
+          "text": "bis recipit, lucem qui circulus aequat et umbras,"
+        },
+        {
+          "number": 674,
+          "text": "lanigeri et librae signo sua fila secantem."
+        },
+        {
+          "number": 675,
+          "text": "sic per tris gyros inflexus ducitur orbis"
+        },
+        {
+          "number": 676,
+          "text": "rectaque deuexo fallit uestigia cliuo;"
+        }
+      ],
+      [
+        {
+          "number": 677,
+          "text": "nec uisus aciemque fugit tantumque notari"
+        },
+        {
+          "number": 678,
+          "text": "mente potest, sicut cernuntur mente priores."
+        },
+        {
+          "number": 679,
+          "text": "sed nitet ingenti stellatus balteus orbe"
+        },
+        {
+          "number": 680,
+          "text": "insignemque facit caelato limite mundum"
+        },
+        {
+          "number": 681,
+          "text": "et ter uicenas partes patet atque trecentas"
+        },
+        {
+          "number": 682,
+          "text": "in longum; bis sex latescit fascia partes,"
+        },
+        {
+          "number": 683,
+          "text": "quae cohibet uario labentia sidera cursu."
+        }
+      ]
+    ],
+    "additionalSources": [
+      {
+        "title": "Creech 1697년 영어 운문역 · 초역 뒤 선택 대조",
+        "url": "https://archive.org/details/bim_early-english-books-1641-1700_the-five-books-of-m-man_manilius-marcus_1697",
+        "locator": "PDF 99쪽만 비교. 영어는 이 한국어 번역의 저본이 아니다."
+      }
+    ],
+    "contentNotice": "저본의 신화·운명·우주론·정치적 찬양과 역사적 가치 판단을 옮긴 문헌 번역입니다. 현대의 천문학·의료·재난 예측이나 개인·집단에 대한 평가로 제시하지 않습니다."
+  },
+  {
+    "id": "manilius-i-684-728",
+    "title": "아스트로노미카 I.684–728: 은하수의 길과 하늘의 이음매",
+    "sourceId": "manilius-breiter1907",
+    "sourceHash": "8f52d914531d94639603bc400aaa6cf9b94463381d5ca1d72e2076376d692bd5",
+    "sourceHashKind": "latin-verse-transcription",
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=39",
+    "sourceTitle": "『아스트로노미카』 제1권 684–728행 — Breiter 라틴어판(1907)",
+    "author": "Marcus Manilius · 라틴어 원작; Theodor Breiter 편집(1907)",
+    "license": "Public domain",
+    "translationLicense": "CC BY 4.0",
+    "glossaryVersion": "2026-09-18.4",
+    "method": "direct-editor",
+    "editor": "ChatGPT (GPT-6 Astra Pro)",
+    "date": "2026-09-18",
+    "status": "Astra 라틴어 직접 번역 초판",
+    "language": "la",
+    "locator": "제1권 684–728행 · 인쇄본 23–24쪽 · PDF 39–40쪽",
+    "scope": "표시한 행 범위의 저본 본문 번역 · 교감란·결락 보충 제외",
+    "edition": "Breiter 1907년 라틴어판에서 직접 옮겼습니다. 이번 묶음의 한국어 초역을 모두 작성한 뒤 Creech 1697년 영어역의 기하학 설명 일부만 비교했습니다. Housman·Goold와의 추가 교감이나 독립된 사람의 감수를 수행한 번역은 아닙니다.",
+    "termIds": [
+      "manilius-lacteus-orbis",
+      "manilius-mundus",
+      "manilius-critical-marks",
+      "constellation"
+    ],
+    "editorialNotes": [
+      "이 원은 뒤에서 젖빛 원이라는 이름이 제시되는 은하수이다. 제목은 독해를 돕는 편집 명칭이며, 저본이 제시하는 별자리 통과 순서를 현재 좌표로 교정하지 않았다.",
+      "692~693행의 다른 켄타우로스는 앞의 황도 활잡이와 구별되는 형상이다. 여러 원을 두 곳에서 가른다는 교차 수를 보존했다.",
+      "716행의 Breiter 독법은 uibrantur이다. 다른 전사의 mirantur와 달리 여기서는 새로운 빛들이 떨린다는 문장으로 옮겼다.",
+      "균열·이음매·쐐기라는 설명들은 물음으로 제시되는 가설이다. 뒤의 태양 경로·신화·별의 집합과 경쟁하는 설명들을 하나의 확정된 우주론으로 합치지 않았다.",
+      "한국어 본문은 Breiter 라틴어 지면에서 직접 작성했다. 읽기 구간의 제목·문단 구분은 편집자가 붙였으며, 원문의 번호와 실제 인쇄 순서를 따랐다. 본문에 없는 시구·교감란의 전승·결락은 새 문장으로 채워 넣지 않았다.",
+      "라틴어 원자료 SHA-256은 이 구간의 행 번호와 전사문을 인쇄 순서대로 이은 문자열의 해시이다. 원본 PDF 파일의 해시와 문단 대응표·지면 번호·삽입 의심 표시는 저장소의 참고 자료에 따로 보존했다."
+    ],
+    "series": {
+      "id": "manilius-book1",
+      "label": "마닐리우스 아스트로노미카 제1권",
+      "order": 22
+    },
+    "paragraphs": [
+      "반대 방향에 놓인 다른 원은 곰자리들 쪽으로 올라가며, 북쪽 원에서 그 선을 조금 물린 채 뒤집힌 카시오페아의 별들을 지난다. 거기에서 비스듬히 내려와 백조를 스치고, 여름의 경계와 등을 뒤로 젖힌 독수리를 가른다. 낮과 밤을 같게 하는 원과 태양의 말들을 나르는 띠도 가로지른다. 전갈의 불타는 꼬리와 활잡이의 가장 먼 왼손 및 화살 사이에서 그러하다.",
+      "이어 다른 켄타우로스의 다리와 발을 따라 굽이를 돌고, 다시 하늘로 오르기 시작한다. 아르고호의 높은 선미 장식과 우주의 가운데 원, 쌍둥이 형상의 아래쪽을 가른 뒤 마차부자리에 이른다. 출발했던 카시오페아인 너를 향해 가며 페르세우스 위를 지나, 너에게서 시작한 원을 다시 네 자리에서 닫는다. 그 원은 가운데의 세 원과 사인들을 나르는 원을 각각 두 곳에서 가른다. 자신 역시 그만큼 가로질러 나뉜다.",
+      "그 원은 찾아 헤맬 필요도 없다. 저절로 눈에 들어와 스스로를 알려 주고 주목하게 한다. 푸른 우주에서 흰 궤적이 빛나며, 당장 낮을 내보낼 듯 하늘을 열어 놓기 때문이다. 푸른 들판을 가르는 오솔길에 수레바퀴가 거듭 다녀 길을 새롭게 다지는 모습과 같다.",
+      "나뉜 두 부분 사이로 길이 균등하게 놓인다. 배가 고랑을 내면 바다가 희어지고, 거품 이는 물결이 뒤틀려 솟은 소용돌이가 만든 길을 받아들이는 것과도 같다. 이처럼 검은 하늘에 흰 경계가 빛나며, 거대한 빛으로 푸른 우주를 가른다.",
+      "이리스가 구름 사이에 둥근 활을 그리듯, 흰 경계도 표시된 정상을 가로질러 위에 놓여 사람들의 얼굴을 들어 올리게 한다. 어두운 밤 사이로 새로운 빛들이 떨리는 동안, 사람들은 인간의 마음으로 성스러운 원인을 묻는다. 우주의 덩어리가 조각들로 갈라져 풀어지려 하는가? 성긴 결합 사이로 틈이 벌어지고, 느슨해진 덮개가 새로운 빛을 들여보내는가?",
+      "어찌 두렵지 않겠는가? 거대한 하늘의 상처를 바라보고 우주가 입은 손상이 눈을 때리는 모습을 보면서.",
+      "아니면 우주가 한데 모이는 것인가? 둘로 나뉜 빈 공간의 양끝이 만나 하늘의 가장자리와 별들을 잇는 것인가? 이음 자체에 뚜렷한 흉터가 생겨 우주를 붙여 놓는 것인가? 압축된 천구가 밝게 결합하며 공기 속 안개로 바뀌어, 하늘의 토대를 쐐기 모양으로 모아 놓는 것인가?"
+    ],
+    "paragraphLocators": [
+      "제1권 684–691행",
+      "제1권 692–700행",
+      "제1권 701–706행",
+      "제1권 707–712행",
+      "제1권 713–720행",
+      "제1권 721–722행",
+      "제1권 723–728행"
+    ],
+    "paragraphCriticalNotes": [
+      "",
+      "",
+      "",
+      "707행의 요약 문장은 저본의 삽입 의심 구절",
+      "",
+      "",
+      ""
+    ],
+    "paragraphLatinVerses": [
+      [
+        {
+          "number": 684,
+          "text": "alter in aduersum positus succedit ad arctos"
+        },
+        {
+          "number": 685,
+          "text": "et paulum a boreae gyro sua fila reducit"
+        },
+        {
+          "number": 686,
+          "text": "transitque inuersae per sidera Cassiepiae."
+        },
+        {
+          "number": 687,
+          "text": "inde per obliquum descendens tangit olorem"
+        },
+        {
+          "number": 688,
+          "text": "aestiuosque secat fines aquilamque supinam"
+        },
+        {
+          "number": 689,
+          "text": "temporaque aequantem gyrum zonamque ferentem"
+        },
+        {
+          "number": 690,
+          "text": "solis equos inter caudam, qua scorpius ardet,"
+        },
+        {
+          "number": 691,
+          "text": "extremamque sagittari laeuam atque sagittam."
+        }
+      ],
+      [
+        {
+          "number": 692,
+          "text": "inde suos sinuat flexus per crura pedesque"
+        },
+        {
+          "number": 693,
+          "text": "centauri alterius rursusque ascendere caelum"
+        },
+        {
+          "number": 694,
+          "text": "incipit Argiuumque ratem per aplustria summa"
+        },
+        {
+          "number": 695,
+          "text": "et medium mundi gyrum geminosque per ima"
+        },
+        {
+          "number": 696,
+          "text": "signa secat, subit heniochum, teque, unde profectus,"
+        },
+        {
+          "number": 697,
+          "text": "Cassiepia, petens super ipsum Persea transit"
+        },
+        {
+          "number": 698,
+          "text": "orbemque ex illa coeptum concludit in ipsa"
+        },
+        {
+          "number": 699,
+          "text": "trisque secat medios gyros et signa ferentem"
+        },
+        {
+          "number": 700,
+          "text": "partibus e binis, quotiens praeciditur ipse."
+        }
+      ],
+      [
+        {
+          "number": 701,
+          "text": "nec quaerendus erit: uisus incurrit in ipsos"
+        },
+        {
+          "number": 702,
+          "text": "sponte sua seque ipse docet cogitque notari."
+        },
+        {
+          "number": 703,
+          "text": "namque in caeruleo candens nitet orbita mundo"
+        },
+        {
+          "number": 704,
+          "text": "ceu missura diem subito caelumque recludens."
+        },
+        {
+          "number": 705,
+          "text": "ac ueluti uirides discernit semita campos,"
+        },
+        {
+          "number": 706,
+          "text": "quam terit assiduo renouans iter orbita tractu;"
+        }
+      ],
+      [
+        {
+          "number": 707,
+          "text": "inter diuisas aequalibus est uia partes",
+          "status": "suspected-interpolation"
+        },
+        {
+          "number": 708,
+          "text": "ut freta canescunt sulcum ducente carina"
+        },
+        {
+          "number": 709,
+          "text": "accipiuntque uiam fluctus spumantibus undis,"
+        },
+        {
+          "number": 710,
+          "text": "quam tortus uerso mouit de gurgite uertex,"
+        },
+        {
+          "number": 711,
+          "text": "candidus in nigro lucet sic limes Olympo,"
+        },
+        {
+          "number": 712,
+          "text": "caeruleum findens ingenti lumine mundum."
+        }
+      ],
+      [
+        {
+          "number": 713,
+          "text": "utque suos arcus per nubila circinat Iris,"
+        },
+        {
+          "number": 714,
+          "text": "sic superincumbit signato culmine limes"
+        },
+        {
+          "number": 715,
+          "text": "candidus et resupina facit mortalibus ora,"
+        },
+        {
+          "number": 716,
+          "text": "dum noua per caecam uibrantur lumina noctem,"
+        },
+        {
+          "number": 717,
+          "text": "inquiruntque sacras humano pectore causas,"
+        },
+        {
+          "number": 718,
+          "text": "num se deductis conetur soluere moles"
+        },
+        {
+          "number": 719,
+          "text": "segminibus, raraque labent compagine rimae"
+        },
+        {
+          "number": 720,
+          "text": "admittantque nouum laxato tegmine lumen."
+        }
+      ],
+      [
+        {
+          "number": 721,
+          "text": "quid? quasi non timeant, magni cum uulnera caeli"
+        },
+        {
+          "number": 722,
+          "text": "conspiciant, feriatque oculos iniuria mundi? —"
+        }
+      ],
+      [
+        {
+          "number": 723,
+          "text": "an coeat mundus, duplicisque extrema cauernae"
+        },
+        {
+          "number": 724,
+          "text": "conueniant caelique oras et sidera iungant,"
+        },
+        {
+          "number": 725,
+          "text": "perque ipsos fiat nexus manifesta cicatrix"
+        },
+        {
+          "number": 726,
+          "text": "fusuram faciens mundi, stipatus et orbis"
+        },
+        {
+          "number": 727,
+          "text": "aeriam in nebulam clara compagine uersus"
+        },
+        {
+          "number": 728,
+          "text": "in cuneos cogat fundamina caeli?"
+        }
+      ]
+    ],
+    "contentNotice": "저본의 신화·운명·우주론·정치적 찬양과 역사적 가치 판단을 옮긴 문헌 번역입니다. 현대의 천문학·의료·재난 예측이나 개인·집단에 대한 평가로 제시하지 않습니다."
+  },
+  {
+    "id": "manilius-i-729-761",
+    "title": "아스트로노미카 I.729–761: 파에톤·젖빛·별무리와 영혼의 가설",
+    "sourceId": "manilius-breiter1907",
+    "sourceHash": "62cf3942799d40676a9f3d3b11e109d83d639b534efefc722ee371a3084d14c9",
+    "sourceHashKind": "latin-verse-transcription",
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=40",
+    "sourceTitle": "『아스트로노미카』 제1권 729–761행 — Breiter 라틴어판(1907)",
+    "author": "Marcus Manilius · 라틴어 원작; Theodor Breiter 편집(1907)",
+    "license": "Public domain",
+    "translationLicense": "CC BY 4.0",
+    "glossaryVersion": "2026-09-18.4",
+    "method": "direct-editor",
+    "editor": "ChatGPT (GPT-6 Astra Pro)",
+    "date": "2026-09-18",
+    "status": "Astra 라틴어 직접 번역 초판",
+    "language": "la",
+    "locator": "제1권 729–761행 · 인쇄본 24–25쪽 · PDF 40–41쪽",
+    "scope": "표시한 행 범위의 저본 본문 번역 · 교감란·결락 보충 제외",
+    "edition": "Breiter 1907년 라틴어판에서 직접 옮겼습니다. 이번 묶음의 한국어 초역을 모두 작성한 뒤 Creech 1697년 영어역의 기하학 설명 일부만 비교했습니다. Housman·Goold와의 추가 교감이나 독립된 사람의 감수를 수행한 번역은 아닙니다.",
+    "termIds": [
+      "manilius-lacteus-orbis",
+      "manilius-world-soul",
+      "manilius-mundus",
+      "manilius-critical-marks"
+    ],
+    "editorialNotes": [
+      "파에톤의 전차·여왕의 젖·별들의 집합·영혼들의 거처를 서로 다른 설명으로 구별한다. 별들의 집합이라는 마지막 자연적 가설만 남기거나 다른 가설을 사실 진술로 확정하지 않았다.",
+      "740행의 Breiter 본문은 recentem이다. 강직하거나 차갑다는 보조판 표현으로 바꾸지 않고, 새로 난 궤도라는 문맥으로 옮겼다. 742행은 지면의 이동 순서를 보존한다.",
+      "758행의 저본은 numina이다. 다른 전사의 nomina를 사용해 유명한 이름들이라는 문장으로 바꾸지 않았다. 영혼들의 천상 이주에 대한 서술은 저본의 신학적 가설이다.",
+      "한국어 본문은 Breiter 라틴어 지면에서 직접 작성했다. 읽기 구간의 제목·문단 구분은 편집자가 붙였으며, 원문의 번호와 실제 인쇄 순서를 따랐다. 본문에 없는 시구·교감란의 전승·결락은 새 문장으로 채워 넣지 않았다.",
+      "라틴어 원자료 SHA-256은 이 구간의 행 번호와 전사문을 인쇄 순서대로 이은 문자열의 해시이다. 원본 PDF 파일의 해시와 문단 대응표·지면 번호·삽입 의심 표시는 저장소의 참고 자료에 따로 보존했다."
+    ],
+    "series": {
+      "id": "manilius-book1",
+      "label": "마닐리우스 아스트로노미카 제1권",
+      "order": 23
+    },
+    "paragraphs": [
+      "아니면 옛날 태양의 말들이 그곳에서 다른 길을 달렸다는 믿음이 더 나은가? 그들이 지금과 다른 길을 닳게 했고, 오랫동안 불탄 자리와 불꽃에 구워진 별들이 푸른 모습을 잃고 빛깔을 바꾸었는가? 그곳에 재가 쏟아져 우주를 덮어 묻었는가?",
+      "옛 시절부터 우리에게 전해 내려오는 이야기도 있다. 아버지의 전차를 몰고 별자리들 사이로 날아간 파에톤은 우주의 새로운 광경을 더 가까이 보며 감탄했다. 소년은 하늘에서 장난치고 전차를 뽐내며 우주에서 방종하게 날뛰었다. 아버지보다 더 큰 일을 탐내다가 익숙한 길에서 벗어나 네 말의 전차를 돌렸고, 가르쳐 준 길을 버려 극 위에 새로운 궤도를 걸쳤다. 별자리들은 길을 잃은 그의 움직임이 가져온 낯선 불길과 제어가 풀린 운행을 견디지 못했다.",
+      "온 세계에 불길이 사나워졌다고, 모든 도시에서 땅의 장작더미가 타올랐다고 어찌 한탄만 하겠는가? 흩어진 전차의 불빛이 이리저리 흘렀고 하늘까지 불탔다. 우주 자체가 화재의 벌을 치렀으며, 새로운 별들이 가까운 불꽃에 타올라 지금도 지나간 재앙의 모습을 드러내고 있다.",
+      "더 온화한 옛 이야기도 숨기지 않겠다. 널리 전하는 바에 따르면, 신들의 여왕의 눈처럼 흰 가슴에서 젖이 흘러나와 자신의 빛깔로 하늘을 물들였다고 한다. 그 때문에 젖빛 원이라 불리며, 이름은 그 원인 자체에서 나왔다.",
+      "아니면 더 많은 별이 촘촘한 테를 이루어 불빛을 한데 모았고, 두터워진 빛으로 희게 빛나는 것인가? 광채가 합쳐져 원이 더 밝게 빛나는 것인가?",
+      "또는 용감한 영혼들과 하늘에 합당한 신적 존재들이, 제 몸에서 풀려나 그 몸을 땅에 돌려준 뒤 이곳으로 옮겨 오는 것인가? 세상에서 이곳으로 와 자신들의 하늘에 살면서, 천상의 세월을 누리고 우주를 즐기는 것인가?"
+    ],
+    "paragraphLocators": [
+      "제1권 729–734행",
+      "제1권 735–739, 742, 740–741, 743행",
+      "제1권 744–749행",
+      "제1권 750–754행",
+      "제1권 755–757행",
+      "제1권 758–761행"
+    ],
+    "paragraphCriticalNotes": [
+      "",
+      "742행을 739행 뒤에 둔 저본의 순서로 번역함",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "paragraphLatinVerses": [
+      [
+        {
+          "number": 729,
+          "text": "an melius manet illa fides, per saecula prisca"
+        },
+        {
+          "number": 730,
+          "text": "illac solis equos diuersis cursibus isse"
+        },
+        {
+          "number": 731,
+          "text": "atque aliam triuisse uiam, longumque per aeuum"
+        },
+        {
+          "number": 732,
+          "text": "exustas sedes incoctaque sidera flammis"
+        },
+        {
+          "number": 733,
+          "text": "caeruleam uerso speciem mutasse colore,"
+        },
+        {
+          "number": 734,
+          "text": "infusumque loco cinerem mundumque sepultum?"
+        }
+      ],
+      [
+        {
+          "number": 735,
+          "text": "fama etiam antiquis ad nos descendit ab annis,"
+        },
+        {
+          "number": 736,
+          "text": "Phaethontem patrio curru per signa uolantem,"
+        },
+        {
+          "number": 737,
+          "text": "dum noua miratur propius spectacula mundi"
+        },
+        {
+          "number": 738,
+          "text": "et puer in caelo ludit curruque superbus"
+        },
+        {
+          "number": 739,
+          "text": "luxuriat mundo cupit et maiora parente,"
+        },
+        {
+          "number": 742,
+          "text": "deflexum solito cursu curuisque quadrigis"
+        },
+        {
+          "number": 740,
+          "text": "monstratas liquisse uias orbemque recentem"
+        },
+        {
+          "number": 741,
+          "text": "imposuisse polo; nec signa insueta tulisse"
+        },
+        {
+          "number": 743,
+          "text": "errantis nutu flammas cursumque solutum."
+        }
+      ],
+      [
+        {
+          "number": 744,
+          "text": "quid querimur, flammas totum saeuisse per orbem,"
+        },
+        {
+          "number": 745,
+          "text": "terrarumque rogum cunctas arsisse per urbes,"
+        },
+        {
+          "number": 746,
+          "text": "cum uaga dispersi fluitarunt lumina currus,"
+        },
+        {
+          "number": 747,
+          "text": "et caelum exustum est? luit ipse incendia mundus,"
+        },
+        {
+          "number": 748,
+          "text": "et noua uicinis flagrarunt sidera flammis"
+        },
+        {
+          "number": 749,
+          "text": "nunc quoque praeteriti faciem referentia casus."
+        }
+      ],
+      [
+        {
+          "number": 750,
+          "text": "nec mihi celanda est famae uulgata uetustas"
+        },
+        {
+          "number": 751,
+          "text": "mollior: e niueo lactis fluxisse liquorem"
+        },
+        {
+          "number": 752,
+          "text": "pectore reginae diuum caelumque colore"
+        },
+        {
+          "number": 753,
+          "text": "infecisse suo. quapropter lacteus orbis"
+        },
+        {
+          "number": 754,
+          "text": "dicitur, et nomen causa descendit ab ipsa."
+        }
+      ],
+      [
+        {
+          "number": 755,
+          "text": "an maior densa stellarum turba corona"
+        },
+        {
+          "number": 756,
+          "text": "conuexit flammas et crasso lumine candet,"
+        },
+        {
+          "number": 757,
+          "text": "et fulgore nitet collato clarior orbis?"
+        }
+      ],
+      [
+        {
+          "number": 758,
+          "text": "an fortes animae dignataque numina caelo"
+        },
+        {
+          "number": 759,
+          "text": "corporibus resoluta suis terraeque remissa"
+        },
+        {
+          "number": 760,
+          "text": "huc migrant ex orbe suumque habitantia caelum"
+        },
+        {
+          "number": 761,
+          "text": "aetherios uiuunt annos mundoque fruuntur?"
+        }
+      ]
+    ],
+    "contentNotice": "저본의 신화·운명·우주론·정치적 찬양과 역사적 가치 판단을 옮긴 문헌 번역입니다. 현대의 천문학·의료·재난 예측이나 개인·집단에 대한 평가로 제시하지 않습니다."
+  },
+  {
+    "id": "manilius-i-762-804",
+    "title": "아스트로노미카 I.762–804: 하늘에 놓인 영웅과 로마의 인물들",
+    "sourceId": "manilius-breiter1907",
+    "sourceHash": "4da361a0914aa8f1db928c7fd26c4dce94d6fa11092595be643058b666aa3a4f",
+    "sourceHashKind": "latin-verse-transcription",
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=41",
+    "sourceTitle": "『아스트로노미카』 제1권 762–804행 — Breiter 라틴어판(1907)",
+    "author": "Marcus Manilius · 라틴어 원작; Theodor Breiter 편집(1907)",
+    "license": "Public domain",
+    "translationLicense": "CC BY 4.0",
+    "glossaryVersion": "2026-09-18.4",
+    "method": "direct-editor",
+    "editor": "ChatGPT (GPT-6 Astra Pro)",
+    "date": "2026-09-18",
+    "status": "Astra 라틴어 직접 번역 초판",
+    "language": "la",
+    "locator": "제1권 762–804행 · 인쇄본 25–27쪽 · PDF 41–43쪽",
+    "scope": "표시한 행 범위의 저본 본문 번역 · 교감란·결락 보충 제외",
+    "edition": "Breiter 1907년 라틴어판에서 직접 옮겼습니다. 이번 묶음의 한국어 초역을 모두 작성한 뒤 Creech 1697년 영어역의 기하학 설명 일부만 비교했습니다. Housman·Goold와의 추가 교감이나 독립된 사람의 감수를 수행한 번역은 아닙니다.",
+    "termIds": [
+      "manilius-lacteus-orbis",
+      "manilius-world-soul",
+      "manilius-fata",
+      "manilius-critical-marks"
+    ],
+    "editorialNotes": [
+      "친족명·출신지로 지칭한 영웅들은 본문에서 그 방식을 유지했다. 익숙한 실명을 모두 대신 넣거나 목록의 인물을 임의로 생략하지 않았다.",
+      "766행은 삽입 의심이며 의미의 연결도 거칠다. 헤크토르의 트로이아와 하늘의 진영이라는 표현을 매끄러운 새 사건으로 만들어 대신하지 않았다.",
+      "797~798행의 저본은 matrisque ... suae이다. 역사적 상식에 맞지 않는다고 Martis 등의 다른 말을 조용히 넣지 않고 어머니라는 독법을 남겼다. 이 구절의 역사적 해석은 미확정이다.",
+      "801행은 Magnum atque Quirinum으로 인쇄되어 있으므로 마그누스와 퀴리누스를 나란히 옮겼다. 위대한 퀴리누스라는 단일 수식 구조로 바꾸지 않았다.",
+      "796~798행에서 이어지는 베누스의 혈통은 다음 문장의 율리우스 가문에 연결된다. 행 사이에서 문장이 이어지므로 한국어에서는 그 지시 관계를 같은 문단에서 분명히 했다. 전체 목록은 저본의 정치적·도덕적 찬양이지 번역자의 인물 평가가 아니다.",
+      "한국어 본문은 Breiter 라틴어 지면에서 직접 작성했다. 읽기 구간의 제목·문단 구분은 편집자가 붙였으며, 원문의 번호와 실제 인쇄 순서를 따랐다. 본문에 없는 시구·교감란의 전승·결락은 새 문장으로 채워 넣지 않았다.",
+      "라틴어 원자료 SHA-256은 이 구간의 행 번호와 전사문을 인쇄 순서대로 이은 문자열의 해시이다. 원본 PDF 파일의 해시와 문단 대응표·지면 번호·삽입 의심 표시는 저장소의 참고 자료에 따로 보존했다."
+    ],
+    "series": {
+      "id": "manilius-book1",
+      "label": "마닐리우스 아스트로노미카 제1권",
+      "order": 24
+    },
+    "paragraphs": [
+      "이곳에서 우리는 아이아코스의 후손들과 아트레우스의 아들들을 경배한다. 사나운 티데우스의 아들, 땅과 바다의 승리로 자연을 이긴 이타카 사람, 세 겹의 노년으로 이름 높은 필로스 사람, 트로이아의 성채로 간 다나오스의 왕들도 경배한다. 장군들의 진영과 하늘의 진영, 헥토르 아래에서 정복당한 트로이아도 그곳에 있다.",
+      "새벽의 여신이 낳은 검은 아들, 천둥을 울리는 신의 후손인 리키아의 지배자도 있다. 마보르스의 처녀인 너도 빠뜨리지 않겠다. 트라키아와 아시아의 민족들, 그리고 대왕 덕분에 가장 위대한 펠라가 보낸 다른 왕들도 빠뜨리지 않겠다.",
+      "정신의 힘과 무게 있게 단련된 마음을 지닌 현자들도 있다. 모든 재산을 자기 자신 안에 지닌 이들이다. 정의로운 솔론, 용감한 리쿠르고스, 천상적인 플라톤과 그를 길러 낸 이가 있다. 후자는 유죄 판결을 받았으나, 오히려 자신의 아테네에 더 정당한 유죄 판결을 내렸다. 함선들로 바다를 뒤덮었던 페르시아를 이긴 이도 있다.",
+      "로마의 인물들도 있으며, 이제 그 수가 가장 많다. 타르퀴니우스를 제외한 왕들, 한 번의 탄생이 온 부대였던 호라티우스의 자손들, 잘린 팔로 더 이름 높아진 스카이볼라, 남자들보다 더 뛰어난 처녀 클로일리아가 있다. 자신이 지켜 낸 로마의 성벽을 받치는 코클레스도 있고, 새를 전우로 삼아 전리품과 이름을 얻은 코르비누스도 있다. 그 새 안에 포이보스를 지닌 이이다.",
+      "유피테르에게 하늘의 자리를 얻을 자격을 인정받고 로마를 구하여 다시 세운 카밀루스, 왕에게서 되찾은 도시의 창건자 브루투스, 피로스와의 전쟁에서 복수한 파피리우스도 있다. 서로 겨루는 파브리키우스와 쿠리우스, 셋째 승리의 영광인 마르켈루스, 그보다 앞서 왕을 죽인 코수스, 서원으로 경쟁하고 개선에서는 서로 닮은 데키우스 가문의 이들도 있다. 지연 전술로 꺾이지 않은 파비우스, 네로를 전우 삼아 전쟁에서 하스드루발을 죽이고 승리한 리비우스도 있다.",
+      "카르타고에게 하나의 운명이었던 스키피오 가문의 장군들, 세 번의 개선으로 세계를 굴복시키고 신격화된 이보다 앞서 으뜸이었던 폼페이우스도 있다. 말의 재산으로 하늘을 얻은 툴리우스, 클라우디우스 가문의 위대한 후손인 너, 아이밀리우스 가문의 지도자들, 이름 높은 메텔루스 가문의 이들도 있다. 운을 이겨 낸 카토와, 자기 어머니의 군대 아래에서 싸운 아그리파도 있다. 베누스에게서 비롯된 율리우스의 혈통은 하늘에서 내려와 하늘을 다시 채웠다. 그 하늘을 아우구스투스가 다스리며, 별자리들 사이에서 천둥의 신을 동료로 삼는다. 그는 천상의 흰 원보다 더 높은 신들의 무리 가운데에서 마그누스와 퀴리누스도 바라본다.",
+      "저 위는 신들의 거처이며, 이곳은 그 신들과 닮아 제 덕으로 그 발자취에 닿는 이들에게 가장 가까운 거처이다."
+    ],
+    "paragraphLocators": [
+      "제1권 762–766행",
+      "제1권 767–770행",
+      "제1권 771–776행",
+      "제1권 777–783행",
+      "제1권 784–791행",
+      "제1권 792–802행",
+      "제1권 803–804행"
+    ],
+    "paragraphCriticalNotes": [
+      "766행은 저본의 삽입 의심 구절이며 문맥의 거친 연결을 보존함",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "paragraphLatinVerses": [
+      [
+        {
+          "number": 762,
+          "text": "atque hic Aeacidas, hic et ueneramur Atridas"
+        },
+        {
+          "number": 763,
+          "text": "Tydidemque ferum terraeque marisque triumphis"
+        },
+        {
+          "number": 764,
+          "text": "naturae uictorem Ithacum Pyliumque senecta"
+        },
+        {
+          "number": 765,
+          "text": "insignem triplici, Danaumque ad Pergama reges"
+        },
+        {
+          "number": 766,
+          "text": "castra ducum et caeli uictamque sub Hectore Troiam",
+          "status": "suspected-interpolation"
+        }
+      ],
+      [
+        {
+          "number": 767,
+          "text": "auroraeque nigrum partum stirpemque tonantis"
+        },
+        {
+          "number": 768,
+          "text": "rectorem Lyciae; nec te, Mauortia uirgo,"
+        },
+        {
+          "number": 769,
+          "text": "praeteream regesque alios, quos Thraecia misit"
+        },
+        {
+          "number": 770,
+          "text": "atque Asiae gentes et Magno maxima Pella;"
+        }
+      ],
+      [
+        {
+          "number": 771,
+          "text": "quique animi uires et strictas pondere mentes"
+        },
+        {
+          "number": 772,
+          "text": "prudentes habuere uiri, quibus omnis in ipsis"
+        },
+        {
+          "number": 773,
+          "text": "census erat, iustusque Solon fortisque Lycurgus,"
+        },
+        {
+          "number": 774,
+          "text": "aetheriusque Platon et qui fabricauerat illum"
+        },
+        {
+          "number": 775,
+          "text": "damnatusque suas melius damnauit Athenas,"
+        },
+        {
+          "number": 776,
+          "text": "Persidis et uictor, strarat quae classibus aequor."
+        }
+      ],
+      [
+        {
+          "number": 777,
+          "text": "Romanique uiri, quorum iam maxima turba est:"
+        },
+        {
+          "number": 778,
+          "text": "Tarquinioque minus reges, et Horatia proles,"
+        },
+        {
+          "number": 779,
+          "text": "tota acies partus, nec non et Scaeuola trunco"
+        },
+        {
+          "number": 780,
+          "text": "nobilior, maiorque uiris et Cloelia uirgo,"
+        },
+        {
+          "number": 781,
+          "text": "et Romana ferens, quae texit, moenia Cocles,"
+        },
+        {
+          "number": 782,
+          "text": "et commilitio uolucris Coruinus adeptus"
+        },
+        {
+          "number": 783,
+          "text": "et spolia et nomen, qui gestat in alite Phoebum,"
+        }
+      ],
+      [
+        {
+          "number": 784,
+          "text": "et Ioue qui meruit caelum Romamque Camillus"
+        },
+        {
+          "number": 785,
+          "text": "seruando posuit, Brutusque a rege receptae"
+        },
+        {
+          "number": 786,
+          "text": "conditor, et Pyrrhi per bella Papirius ultor,"
+        },
+        {
+          "number": 787,
+          "text": "Fabricius Curiusque pares et tertia palma"
+        },
+        {
+          "number": 788,
+          "text": "Marcellus, Cossusque prior de rege necato,"
+        },
+        {
+          "number": 789,
+          "text": "certantesque Deci uotis similesque triumphis,"
+        },
+        {
+          "number": 790,
+          "text": "inuictusque mora Fabius, uictorque necati"
+        },
+        {
+          "number": 791,
+          "text": "Liuius Hasdrubalis socio per bella Nerone,"
+        }
+      ],
+      [
+        {
+          "number": 792,
+          "text": "Scipiadaeque duces, fatum Carthaginis unum,"
+        },
+        {
+          "number": 793,
+          "text": "Pompeiusque orbis domitor per trisque triumphos"
+        },
+        {
+          "number": 794,
+          "text": "ante deum princeps, et censu Tullius oris"
+        },
+        {
+          "number": 795,
+          "text": "emeritus caelum, et tu, Claudi magna propago,"
+        },
+        {
+          "number": 796,
+          "text": "Aemiliaeque domus proceres, clarique Metelli,"
+        },
+        {
+          "number": 797,
+          "text": "et Cato fortunae uictor, matrisque sub armis"
+        },
+        {
+          "number": 798,
+          "text": "miles Agrippa suae; Venerisque ab origine proles"
+        },
+        {
+          "number": 799,
+          "text": "Iulia descendit caelo caelumque repleuit,"
+        },
+        {
+          "number": 800,
+          "text": "quod regit Augustus socio per signa tonante,"
+        },
+        {
+          "number": 801,
+          "text": "cernit et in coetu diuum Magnum atque Quirinum"
+        },
+        {
+          "number": 802,
+          "text": "altius aetherii quam candet circulus orbis."
+        }
+      ],
+      [
+        {
+          "number": 803,
+          "text": "illa deum sedes, haec illis proxima, diuum"
+        },
+        {
+          "number": 804,
+          "text": "qui uirtute sua similes uestigia tangunt."
+        }
+      ]
+    ],
+    "contentNotice": "저본의 신화·운명·우주론·정치적 찬양과 역사적 가치 판단을 옮긴 문헌 번역입니다. 현대의 천문학·의료·재난 예측이나 개인·집단에 대한 평가로 제시하지 않습니다."
+  },
+  {
+    "id": "manilius-i-805-830",
+    "title": "아스트로노미카 I.805–830: 떠도는 천체와 잠깐 타오르는 혜성",
+    "sourceId": "manilius-breiter1907",
+    "sourceHash": "1cdaf47a7411d9847acafd7626a48d8a4371779b0483a7d297274efcbb498cfb",
+    "sourceHashKind": "latin-verse-transcription",
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=43",
+    "sourceTitle": "『아스트로노미카』 제1권 805–830행 — Breiter 라틴어판(1907)",
+    "author": "Marcus Manilius · 라틴어 원작; Theodor Breiter 편집(1907)",
+    "license": "Public domain",
+    "translationLicense": "CC BY 4.0",
+    "glossaryVersion": "2026-09-18.4",
+    "method": "direct-editor",
+    "editor": "ChatGPT (GPT-6 Astra Pro)",
+    "date": "2026-09-18",
+    "status": "Astra 라틴어 직접 번역 초판",
+    "language": "la",
+    "locator": "제1권 805–830행 · 인쇄본 27–28쪽 · PDF 43–44쪽",
+    "scope": "표시한 행 범위의 저본 본문 번역 · 교감란·결락 보충 제외",
+    "edition": "Breiter 1907년 라틴어판에서 직접 옮겼습니다. 이번 묶음의 한국어 초역을 모두 작성한 뒤 Creech 1697년 영어역의 기하학 설명 일부만 비교했습니다. Housman·Goold와의 추가 교감이나 독립된 사람의 감수를 수행한 번역은 아닙니다.",
+    "termIds": [
+      "manilius-sidera",
+      "manilius-signum",
+      "manilius-mundus",
+      "manilius-critical-marks"
+    ],
+    "editorialNotes": [
+      "811~812행의 천체 이름 목록은 이 Breiter 본문에 없으며 교감란에서 언급된다. 다른 전사의 목록을 끼워 넣지 않았다.",
+      "혜성·일시적 불빛·기운의 발화라는 구별은 저본의 고대 설명이다. 현대의 혜성 궤도와 물리적 조성으로 바꾸거나 현재의 재난 예측으로 제시하지 않는다.",
+      "815행의 저본은 fractosque이다. 전사 보조본의 tractosque와 구별하며 부서져 사라지는 혜성이라는 표현을 보존했다.",
+      "한국어 본문은 Breiter 라틴어 지면에서 직접 작성했다. 읽기 구간의 제목·문단 구분은 편집자가 붙였으며, 원문의 번호와 실제 인쇄 순서를 따랐다. 본문에 없는 시구·교감란의 전승·결락은 새 문장으로 채워 넣지 않았다.",
+      "라틴어 원자료 SHA-256은 이 구간의 행 번호와 전사문을 인쇄 순서대로 이은 문자열의 해시이다. 원본 PDF 파일의 해시와 문단 대응표·지면 번호·삽입 의심 표시는 저장소의 참고 자료에 따로 보존했다."
+    ],
+    "series": {
+      "id": "manilius-book1",
+      "label": "마닐리우스 아스트로노미카 제1권",
+      "order": 25
+    },
+    "paragraphs": [
+      "별들의 힘을 설명하고 사인들이 운명에 행사하는 권리를 시로 노래하기 전에, 우주의 모습을 마저 채워야 한다. 온몸의 어디에서 무엇이 빛나는지, 언제 힘을 나타내는지 기록해야 한다. 천계의 회전에 맞서 나아가는 다른 천체들이 있으며, 땅과 하늘 사이에서 떠돌며 매달려 있다.",
+      "또한 드물게 태어나자마자 빼앗겨 사라지는 불빛들이 있다. 맑은 공기 속에서 갑자기 불꽃이 환히 타오르고, 부서진 혜성들이 없어지는 모습을 오랜 세월은 거대한 변동들 가운데 드물게 보아 왔다.",
+      "그것은 땅이 제 안의 증기를 내쉬는 동안 더 습한 기운이 마른 공기에 눌리기 때문인가? 구름이 흩어져 오랫동안 맑은 날이 이어지고, 태양 광선으로 뜨거운 공기가 메마르면, 내려온 불이 자신에게 맞는 먹이를 움켜쥐고 불꽃이 자신을 받아들일 물질을 찾아내는 것인가?",
+      "그 몸은 단단하지 않다. 희박한 기운의 근원들이 날리는 연기처럼 흩어져 떠돈다. 그러므로 이 구조는 잠깐만 살아 있으며, 타오르기 시작한 불길은 시작하자마자 끝에 이르러 멈춘다. 혜성들은 빛나자마자 스러진다.",
+      "떠오름이 지는 때와 그토록 가깝지 않다면, 타오른 불꽃에 주어진 시간이 그토록 짧지 않다면, 밤에 또 하나의 낮이 생길 것이다. 하늘이 뒤집혀 돌아오며, 온 세상이 잠든 사이에 그들을 덮칠 것이다."
+    ],
+    "paragraphLocators": [
+      "제1권 805–810행",
+      "제1권 813–816행",
+      "제1권 817–822행",
+      "제1권 823–826행",
+      "제1권 827–830행"
+    ],
+    "paragraphCriticalNotes": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "paragraphLatinVerses": [
+      [
+        {
+          "number": 805,
+          "text": "ac prius incipiam stellis quam reddere uires"
+        },
+        {
+          "number": 806,
+          "text": "signorumque canam fatalia carmine iura,"
+        },
+        {
+          "number": 807,
+          "text": "implenda est mundi facies corpusque per omne"
+        },
+        {
+          "number": 808,
+          "text": "quicquid ubi niteat uigeat quandoque notandum est."
+        },
+        {
+          "number": 809,
+          "text": "sunt alia aduerso pugnantia sidera mundo,"
+        },
+        {
+          "number": 810,
+          "text": "quae terram caelumque inter uolitantia pendent."
+        }
+      ],
+      [
+        {
+          "number": 813,
+          "text": "sunt etiam raris orti natalibus ignes"
+        },
+        {
+          "number": 814,
+          "text": "protinus et rapti. subitas candescere flammas"
+        },
+        {
+          "number": 815,
+          "text": "aera per liquidum fractosque perire cometas"
+        },
+        {
+          "number": 816,
+          "text": "rara per ingentis uiderunt saecula motus."
+        }
+      ],
+      [
+        {
+          "number": 817,
+          "text": "siue quod ingenitum terra spirante uaporem"
+        },
+        {
+          "number": 818,
+          "text": "umidior sicca superatur spiritus aura,"
+        },
+        {
+          "number": 819,
+          "text": "nubila cum longo cessant dispulsa sereno,"
+        },
+        {
+          "number": 820,
+          "text": "et solis radiis arescit torridus aer,"
+        },
+        {
+          "number": 821,
+          "text": "apta alimenta sibi demissus corripit ignis,"
+        },
+        {
+          "number": 822,
+          "text": "materiamque sui deprendit flamma capacem."
+        }
+      ],
+      [
+        {
+          "number": 823,
+          "text": "et quia non solidum est corpus, sed rara uagantur"
+        },
+        {
+          "number": 824,
+          "text": "principia aurarum uolucrique simillima fumo,"
+        },
+        {
+          "number": 825,
+          "text": "in breue uiuit opus coeptique incendia fine"
+        },
+        {
+          "number": 826,
+          "text": "subsistunt pariterque cadunt fulgentque cometae."
+        }
+      ],
+      [
+        {
+          "number": 827,
+          "text": "quod nisi uicinos agerent occasibus ortus,"
+        },
+        {
+          "number": 828,
+          "text": "et tam parua forent accensis tempora flammis,"
+        },
+        {
+          "number": 829,
+          "text": "alter nocte dies esset, caelumque rediret"
+        },
+        {
+          "number": 830,
+          "text": "inuersum et somno totum deprenderet orbem."
+        }
+      ]
+    ],
+    "contentNotice": "저본의 신화·운명·우주론·정치적 찬양과 역사적 가치 판단을 옮긴 문헌 번역입니다. 현대의 천문학·의료·재난 예측이나 개인·집단에 대한 평가로 제시하지 않습니다."
+  },
+  {
+    "id": "manilius-i-831-864",
+    "title": "아스트로노미카 I.831–864: 혜성의 여러 모양과 자연 속의 불",
+    "sourceId": "manilius-breiter1907",
+    "sourceHash": "f4ffa663477be382470c844fab17d316fbe7b7b39b10c5b1c301ef4af340817a",
+    "sourceHashKind": "latin-verse-transcription",
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=44",
+    "sourceTitle": "『아스트로노미카』 제1권 831–864행 — Breiter 라틴어판(1907)",
+    "author": "Marcus Manilius · 라틴어 원작; Theodor Breiter 편집(1907)",
+    "license": "Public domain",
+    "translationLicense": "CC BY 4.0",
+    "glossaryVersion": "2026-09-18.4",
+    "method": "direct-editor",
+    "editor": "ChatGPT (GPT-6 Astra Pro)",
+    "date": "2026-09-18",
+    "status": "Astra 라틴어 직접 번역 초판",
+    "language": "la",
+    "locator": "제1권 831–864행 · 인쇄본 28–29쪽 · PDF 44–45쪽",
+    "scope": "표시한 행 범위의 저본 본문 번역 · 교감란·결락 보충 제외",
+    "edition": "Breiter 1907년 라틴어판에서 직접 옮겼습니다. 이번 묶음의 한국어 초역을 모두 작성한 뒤 Creech 1697년 영어역의 기하학 설명 일부만 비교했습니다. Housman·Goold와의 추가 교감이나 독립된 사람의 감수를 수행한 번역은 아닙니다.",
+    "termIds": [
+      "manilius-sidera",
+      "manilius-mundus",
+      "manilius-ratio",
+      "manilius-critical-marks"
+    ],
+    "editorialNotes": [
+      "845행은 수염 모양의 설명 뒤에 이동되어 있다. 번호를 새로 매겨 이동을 숨기지 않았다. 수염·기둥·항아리·접시·횃불·화살의 형태를 차례로 보존했다.",
+      "853행의 grauida라는 저본 어형을 전사 그대로 남겼다. 구름이 벼락을 품고 만든다는 전체 구문에 따라 옮겼으며, 다른 전사에서 어형을 가져와 교정하지 않았다.",
+      "불이 구름·땅·물·나무에 있다는 설명은 혜성의 기원을 설명하기 위한 저본의 자연철학이다. 모든 자연현상의 현대적 원인을 제시하는 문장으로 고치지 않았다.",
+      "한국어 본문은 Breiter 라틴어 지면에서 직접 작성했다. 읽기 구간의 제목·문단 구분은 편집자가 붙였으며, 원문의 번호와 실제 인쇄 순서를 따랐다. 본문에 없는 시구·교감란의 전승·결락은 새 문장으로 채워 넣지 않았다.",
+      "라틴어 원자료 SHA-256은 이 구간의 행 번호와 전사문을 인쇄 순서대로 이은 문자열의 해시이다. 원본 PDF 파일의 해시와 문단 대응표·지면 번호·삽입 의심 표시는 저장소의 참고 자료에 따로 보존했다."
+    ],
+    "series": {
+      "id": "manilius-book1",
+      "label": "마닐리우스 아스트로노미카 제1권",
+      "order": 26
+    },
+    "paragraphs": [
+      "땅의 더 마른 증기가 모두 같은 모습으로 퍼져 불에 붙는 것은 아니다. 그러므로 어둠 속에서 갑자기 생겨나는 불붙은 빛들도 서로 다른 형상으로 나타난다.",
+      "어떤 때에는 머리 꼭대기에서 긴 머리카락이 흘러내리는 듯, 불꽃이 머리채를 본떠 날고 가느다란 불이 타오르는 광선으로 흩어진 머리카락을 펼친다. 어떤 때에는 이 형상이 흩어진 머리채를 먼저 내놓고, 그 뒤에 타오르는 수염 모양의 둥근 덩이가 따른다. 떨리는 가슴 아래에 털이 무성한 턱을 그리는 모습이다.",
+      "때로는 옆면들을 고르게 이어 뻗어 네모난 들보나 둥근 기둥의 모습을 만든다. 부푼 불꽃으로 길게 배가 나온 항아리를 닮기도 하며, 둥글게 모인 불이 작은 접시의 굽은 원을 흉내 내기도 한다.",
+      "갈라진 횃불들을 내어 가지처럼 갈라진 불길로 펼치기도 한다. 여기저기 별들이 곤두박질치며 날아가는 모습도 보인다. 떠도는 빛이 맑은 우주를 가로질러 반짝이고, 긴 머리채로 가느다란 불을 던진다. 메마른 길이 가는 실처럼 가늘어지는 동안, 그들은 날아가는 화살을 닮아 멀리 내달린다.",
+      "불은 모든 부분에 섞여 있다. 벼락을 만들어 품은 구름에 살고, 땅속으로 스며들며, 아이트나를 들어 올림포스를 위협한다. 샘 자체의 물을 뜨겁게 하고, 단단한 부싯돌과 푸른 나무껍질 안에서도 자리를 찾는다. 나무가 서로 부딪혀 타오를 때 그러하다. 이토록 자연 전체가 불로 가득하다.",
+      "그러니 하늘에서 갑자기 횃불이 터져 나오거나 불붙은 공기가 번쩍이는 불꽃으로 빛나는 것을 기이하게 여기지 말라. 공기는 숨 쉬는 땅에서 나온 마른 씨앗들을 품고, 날아다니는 불은 그것들을 먹으며 뒤따르다가 달아난다. 쏟아지는 비 한가운데에서 번개가 떨리는 빛을 던지고 하늘이 벼락에 찢기는 모습을 너는 보지 않는가."
+    ],
+    "paragraphLocators": [
+      "제1권 831–834행",
+      "제1권 835–839, 845행",
+      "제1권 840–844행",
+      "제1권 846–851행",
+      "제1권 852–858행",
+      "제1권 859–864행"
+    ],
+    "paragraphCriticalNotes": [
+      "",
+      "845행을 839행 뒤에 둔 저본 순서를 보존함",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "paragraphLatinVerses": [
+      [
+        {
+          "number": 831,
+          "text": "tum quia non una specie dispergitur omnis"
+        },
+        {
+          "number": 832,
+          "text": "aridior terrae uapor et comprenditur igni,"
+        },
+        {
+          "number": 833,
+          "text": "diuersas quoque per facies accensa feruntur"
+        },
+        {
+          "number": 834,
+          "text": "lumina, quae subitis existunt nata tenebris."
+        }
+      ],
+      [
+        {
+          "number": 835,
+          "text": "nam modo, ceu longi fluitent de uertice crines,"
+        },
+        {
+          "number": 836,
+          "text": "flamma comas imitata uolat, tenuisque capillos"
+        },
+        {
+          "number": 837,
+          "text": "diffusos radiis ardentibus explicat ignis."
+        },
+        {
+          "number": 838,
+          "text": "nunc prior haec facies dispersis crinibus exit,"
+        },
+        {
+          "number": 839,
+          "text": "et glomus ardentis sequitur sub imagine barbae"
+        },
+        {
+          "number": 845,
+          "text": "hirta figurantis tremulo sub pectore menta."
+        }
+      ],
+      [
+        {
+          "number": 840,
+          "text": "interdum aequali laterum compagine ductus"
+        },
+        {
+          "number": 841,
+          "text": "quadratamue trabem fingit teretemue columnam."
+        },
+        {
+          "number": 842,
+          "text": "quin etiam tumidis exaequat dolia flammis"
+        },
+        {
+          "number": 843,
+          "text": "procere distenta uteros paruosque catillos"
+        },
+        {
+          "number": 844,
+          "text": "mentitur curuos ignis glomeratus in orbes."
+        }
+      ],
+      [
+        {
+          "number": 846,
+          "text": "lampadas et fissas ramosos fundit in ignes."
+        },
+        {
+          "number": 847,
+          "text": "praecipites stellae passimque uolare uidentur,"
+        },
+        {
+          "number": 848,
+          "text": "cum uaga per nitidum scintillant lumina mundum"
+        },
+        {
+          "number": 849,
+          "text": "et tenuem longis iaculantur crinibus ignem;"
+        },
+        {
+          "number": 850,
+          "text": "excurruntque procul uolucris imitata sagittas,"
+        },
+        {
+          "number": 851,
+          "text": "arida cum gracili tenuatur semita filo."
+        }
+      ],
+      [
+        {
+          "number": 852,
+          "text": "sunt autem cunctis permixti partibus ignes,"
+        },
+        {
+          "number": 853,
+          "text": "qui grauida habitant fabricantis fulmina nubes"
+        },
+        {
+          "number": 854,
+          "text": "et penetrant terras Aetnamque minantur Olympo"
+        },
+        {
+          "number": 855,
+          "text": "et calidas reddunt ipsis in fontibus undas"
+        },
+        {
+          "number": 856,
+          "text": "ac silice in dura uiridique in cortice sedem"
+        },
+        {
+          "number": 857,
+          "text": "inueniunt, cum silua sibi collisa crematur:"
+        },
+        {
+          "number": 858,
+          "text": "ignibus usque adeo natura est omnis abundans."
+        }
+      ],
+      [
+        {
+          "number": 859,
+          "text": "ne mirere faces subitas erumpere caelo"
+        },
+        {
+          "number": 860,
+          "text": "aeraque accensum flammis lucere coruscis"
+        },
+        {
+          "number": 861,
+          "text": "arida complexum spirantis semina terrae,"
+        },
+        {
+          "number": 862,
+          "text": "quae uolucer pascens ignis sequiturque fugitque,"
+        },
+        {
+          "number": 863,
+          "text": "fulgura cum uideas tremulum uibrantia lumen"
+        },
+        {
+          "number": 864,
+          "text": "imbribus e mediis et caelum fulmine ruptum."
+        }
+      ]
+    ],
+    "contentNotice": "저본의 신화·운명·우주론·정치적 찬양과 역사적 가치 판단을 옮긴 문헌 번역입니다. 현대의 천문학·의료·재난 예측이나 개인·집단에 대한 평가로 제시하지 않습니다."
+  },
+  {
+    "id": "manilius-i-865-895",
+    "title": "아스트로노미카 I.865–895: 혜성의 기원과 기근·역병의 징조",
+    "sourceId": "manilius-breiter1907",
+    "sourceHash": "5f170c9164ff7a840c678c0936da9a7098bf1c760d333d5db2c682056dd12622",
+    "sourceHashKind": "latin-verse-transcription",
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=45",
+    "sourceTitle": "『아스트로노미카』 제1권 865–895행 — Breiter 라틴어판(1907)",
+    "author": "Marcus Manilius · 라틴어 원작; Theodor Breiter 편집(1907)",
+    "license": "Public domain",
+    "translationLicense": "CC BY 4.0",
+    "glossaryVersion": "2026-09-18.4",
+    "method": "direct-editor",
+    "editor": "ChatGPT (GPT-6 Astra Pro)",
+    "date": "2026-09-18",
+    "status": "Astra 라틴어 직접 번역 초판",
+    "language": "la",
+    "locator": "제1권 865–895행 · 인쇄본 29–30쪽 · PDF 45–46쪽",
+    "scope": "표시한 행 범위의 저본 본문 번역 · 교감란·결락 보충 제외",
+    "edition": "Breiter 1907년 라틴어판에서 직접 옮겼습니다. 이번 묶음의 한국어 초역을 모두 작성한 뒤 Creech 1697년 영어역의 기하학 설명 일부만 비교했습니다. Housman·Goold와의 추가 교감이나 독립된 사람의 감수를 수행한 번역은 아닙니다.",
+    "termIds": [
+      "manilius-fata",
+      "manilius-sidera",
+      "manilius-mundus",
+      "astronomical-accuracy-versus-predictive-validity"
+    ],
+    "editorialNotes": [
+      "이 단락은 앞의 기원 설명들을 병렬로 놓고, 혜성이 재앙을 나타낸다는 저본의 주장을 이어 간다. 번역은 그 인과를 입증하거나 실제 건강·재난 판단으로 권하지 않는다.",
+      "Cyllenius는 이 문맥에서 태양 빛에 가려졌다 나타나는 천체를 가리킨다. 앞의 지식을 전하는 신의 용례와 다르며, 베누스의 저녁 출현과 나란히 옮겼다.",
+      "895행의 저본은 nouum이다. 보조 전사의 hominum을 따라 인류의 무덤이라고 바꾸지 않고 새로운 무덤이라는 독법을 유지했다.",
+      "한국어 본문은 Breiter 라틴어 지면에서 직접 작성했다. 읽기 구간의 제목·문단 구분은 편집자가 붙였으며, 원문의 번호와 실제 인쇄 순서를 따랐다. 본문에 없는 시구·교감란의 전승·결락은 새 문장으로 채워 넣지 않았다.",
+      "라틴어 원자료 SHA-256은 이 구간의 행 번호와 전사문을 인쇄 순서대로 이은 문자열의 해시이다. 원본 PDF 파일의 해시와 문단 대응표·지면 번호·삽입 의심 표시는 저장소의 참고 자료에 따로 보존했다."
+    ],
+    "series": {
+      "id": "manilius-book1",
+      "label": "마닐리우스 아스트로노미카 제1권",
+      "order": 27
+    },
+    "paragraphs": [
+      "그러므로 땅이 씨앗들을 내어 주는 과정이 날아가는 불 속에 혜성을 낳을 수 있었든, 자연이 다른 모든 별처럼 그 횃불들을 만들어 가느다란 불꽃으로 하늘에서 빛나게 했든, 어느 쪽일 수 있다.",
+      "다만 티탄의 태양은 거센 열기로 혜성들을 자기에게 끌어당기고, 자신의 불 속에 그 타오르는 몸들을 감추었다가 때로는 풀어 놓는다. 킬레네 신의 천체와, 저녁에 빛을 켜 밤을 이끄는 베누스가 자주 빛나다가 눈을 피하고 다시 모습을 드러내는 것과 같다.",
+      "또는 신이 다가올 운명을 맞는 세상을 불쌍히 여겨 하늘의 변화와 불길로 징조를 보낼 수도 있다. 어느 경우든 에테르가 헛된 불빛으로 타오른 적은 결코 없다. 기대를 저버린 들판이 메마른 모습을 보며 농부들은 슬퍼한다. 지친 쟁기꾼은 열매 없는 이랑 사이에서, 보람없는 멍에 아래 근심하는 소들을 몰아간다.",
+      "또는 치명적인 불길이 골수까지 태우며 몸들을 심한 질병과 더딘 쇠약으로 사로잡고, 쓰러지는 민족들을 휩쓸어 간다. 온 도시에서 무덤에 불을 붙여 공동의 운명을 치른다. 에레크테우스의 사람들을 황폐하게 하고, 평화 중의 장례들로 옛 아테네를 무덤으로 내보낸 역병처럼 그러하다. 사람들은 서로가 맞은 운명 위로 쓰러지며 몰락했다.",
+      "의술이 들어설 자리도 없고 서원도 힘을 쓰지 못했다. 돌봄은 병에 굴복했으며 죽음에는 장례도 눈물도 모자랐다. 불조차 지쳐 다하였고, 팔다리를 한데 쌓은 채 시신들이 불탔다. 한때 그토록 많았던 사람들에게서 남아 뒤를 이을 이조차 거의 없었다.",
+      "빛나는 혜성들은 흔히 이런 일들을 가리킨다. 횃불과 함께 죽음이 찾아와, 끝없이 타오르는 장작더미를 땅에 위협한다. 우주와 자연 자체도 병들어 새로운 무덤을 배정받은 듯하다."
+    ],
+    "paragraphLocators": [
+      "제1권 865–868행",
+      "제1권 869–873행",
+      "제1권 874–879행",
+      "제1권 880–886행",
+      "제1권 887–891행",
+      "제1권 892–895행"
+    ],
+    "paragraphCriticalNotes": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "paragraphLatinVerses": [
+      [
+        {
+          "number": 865,
+          "text": "siue igitur ratio praebentis semina terrae"
+        },
+        {
+          "number": 866,
+          "text": "in uolucris ignes potuit generare cometas;"
+        },
+        {
+          "number": 867,
+          "text": "siue illas natura faces ut cuncta creauit"
+        },
+        {
+          "number": 868,
+          "text": "sidera per tenuis caelo lucentia flammas; —"
+        }
+      ],
+      [
+        {
+          "number": 869,
+          "text": "sed trahit ad semet rapido Titanius aestu"
+        },
+        {
+          "number": 870,
+          "text": "inuoluitque suo flammantis igne cometas,"
+        },
+        {
+          "number": 871,
+          "text": "ac modo dimittit, sicut Cyllenius orbis"
+        },
+        {
+          "number": 872,
+          "text": "et Venus, accenso cum ducit uespere noctem,"
+        },
+        {
+          "number": 873,
+          "text": "saepe nitent falluntque oculos rursusque reuisunt; —"
+        }
+      ],
+      [
+        {
+          "number": 874,
+          "text": "seu deus instantis fati miseratus in orbem"
+        },
+        {
+          "number": 875,
+          "text": "signa per affectus caelique incendia mittit;"
+        },
+        {
+          "number": 876,
+          "text": "futilibus non umquam excanduit ignibus aether:"
+        },
+        {
+          "number": 877,
+          "text": "squalidaque elusi deplorant arua coloni,"
+        },
+        {
+          "number": 878,
+          "text": "et sterilis inter sulcos defessus arator"
+        },
+        {
+          "number": 879,
+          "text": "ad iuga maerentis cogit frustrata iuuencos."
+        }
+      ],
+      [
+        {
+          "number": 880,
+          "text": "aut grauibus morbis et lenta corpora tabe"
+        },
+        {
+          "number": 881,
+          "text": "corripit exustis letalis flamma medullis"
+        },
+        {
+          "number": 882,
+          "text": "labentisque rapit populos, totasque per urbes"
+        },
+        {
+          "number": 883,
+          "text": "publica succensis peraguntur fata sepulcris;"
+        },
+        {
+          "number": 884,
+          "text": "qualis Erechtheos pestis populata colonos"
+        },
+        {
+          "number": 885,
+          "text": "extulit antiquas per funera pacis Athenas,"
+        },
+        {
+          "number": 886,
+          "text": "alter in alterius labens cum fata ruebant."
+        }
+      ],
+      [
+        {
+          "number": 887,
+          "text": "nec locus artis erat medicae nec uota ualebant;"
+        },
+        {
+          "number": 888,
+          "text": "cesserat officium morbis, et funera deerant"
+        },
+        {
+          "number": 889,
+          "text": "mortibus et lacrimae; lassus defecerat ignis,"
+        },
+        {
+          "number": 890,
+          "text": "et coaceruatis ardebant corpora membris,"
+        },
+        {
+          "number": 891,
+          "text": "ac tanto quondam populo uix contigit heres."
+        }
+      ],
+      [
+        {
+          "number": 892,
+          "text": "talia significant lucentes saepe cometae:"
+        },
+        {
+          "number": 893,
+          "text": "funera cum facibus ueniunt terrisque minantur"
+        },
+        {
+          "number": 894,
+          "text": "ardentis sine fine rogos, cum mundus et ipsa"
+        },
+        {
+          "number": 895,
+          "text": "aegrotet natura nouum sortita sepulcrum."
+        }
+      ]
+    ],
+    "contentNotice": "저본의 신화·운명·우주론·정치적 찬양과 역사적 가치 판단을 옮긴 문헌 번역입니다. 현대의 천문학·의료·재난 예측이나 개인·집단에 대한 평가로 제시하지 않습니다."
+  },
+  {
+    "id": "manilius-i-896-926",
+    "title": "아스트로노미카 I.896–926: 전쟁의 징조와 평화를 구하는 종결",
+    "sourceId": "manilius-breiter1907",
+    "sourceHash": "f3f2dadb42da085d4b0b647f676660a622272fc20549045e6cc75a0d26d9b784",
+    "sourceHashKind": "latin-verse-transcription",
+    "sourceUrl": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf#page=46",
+    "sourceTitle": "『아스트로노미카』 제1권 896–926행 — Breiter 라틴어판(1907)",
+    "author": "Marcus Manilius · 라틴어 원작; Theodor Breiter 편집(1907)",
+    "license": "Public domain",
+    "translationLicense": "CC BY 4.0",
+    "glossaryVersion": "2026-09-18.4",
+    "method": "direct-editor",
+    "editor": "ChatGPT (GPT-6 Astra Pro)",
+    "date": "2026-09-18",
+    "status": "Astra 라틴어 직접 번역 초판",
+    "language": "la",
+    "locator": "제1권 896–926행 · 인쇄본 30–31쪽 · PDF 46–47쪽",
+    "scope": "표시한 행 범위의 저본 본문 번역 · 교감란·결락 보충 제외",
+    "edition": "Breiter 1907년 라틴어판에서 직접 옮겼습니다. 이번 묶음의 한국어 초역을 모두 작성한 뒤 Creech 1697년 영어역의 기하학 설명 일부만 비교했습니다. Housman·Goold와의 추가 교감이나 독립된 사람의 감수를 수행한 번역은 아닙니다.",
+    "termIds": [
+      "manilius-fata",
+      "manilius-sidera",
+      "manilius-mundus",
+      "astronomical-accuracy-versus-predictive-validity"
+    ],
+    "editorialNotes": [
+      "마지막 단락은 저본의 로마 내전 서술과 정치적 평화 기원이다. 민족과 성별을 향한 평가를 번역자의 평가로 제시하지 않는다. 전쟁·혜성의 연관을 현대적 인과 증명으로 고치지 않았다.",
+      "바루스와 세 군단, 필리피·악티움, 아버지와 아들의 폼페이우스 관계는 본문 순서대로 옮겼다. 920행의 patrios ... hostes는 아버지의 적들이므로 아버지 자신을 본받았다는 문장으로 단순화하지 않았다.",
+      "시스트룸은 이시스와 연결된 타악기의 명칭으로 남겼다. 벼락과 악기의 대립은 저본의 종교적·정치적 비유이다.",
+      "926행이 제1권의 마지막 본문이다. 뒤의 교감란에 수록된 종결문·제2권 목차 전승은 제1권 시구에 합치지 않았다. 다음 권은 PDF 48쪽에서 시작한다.",
+      "한국어 본문은 Breiter 라틴어 지면에서 직접 작성했다. 읽기 구간의 제목·문단 구분은 편집자가 붙였으며, 원문의 번호와 실제 인쇄 순서를 따랐다. 본문에 없는 시구·교감란의 전승·결락은 새 문장으로 채워 넣지 않았다.",
+      "라틴어 원자료 SHA-256은 이 구간의 행 번호와 전사문을 인쇄 순서대로 이은 문자열의 해시이다. 원본 PDF 파일의 해시와 문단 대응표·지면 번호·삽입 의심 표시는 저장소의 참고 자료에 따로 보존했다."
+    ],
+    "series": {
+      "id": "manilius-book1",
+      "label": "마닐리우스 아스트로노미카 제1권",
+      "order": 28
+    },
+    "paragraphs": [
+      "불빛들은 전쟁과 갑작스러운 소요, 숨은 기만에서 일어나는 무장도 예고한다. 때로는 외국 민족들 사이에서 그러하다. 협약이 깨지고 사나운 게르마니아가 지휘관 바루스를 앗아 가며 세 군단의 피로 들판을 물들였을 때, 온 하늘 곳곳에서 위협하는 빛들이 타올랐다. 자연 자체가 불길로 전쟁을 가져와, 제 힘을 맞세우고 종말을 위협했다.",
+      "세상의 일과 사람들이 무겁게 무너지는 것을 놀라워하지 말라. 잘못은 흔히 우리 쪽에 있다. 우리는 하늘을 믿을 줄 모른다.",
+      "그 불빛들은 내란과 혈족끼리의 전쟁도 가리킨다. 피에 젖은 장군들에게 맹세한 군대가 필리피 들판을 가득 메웠을 때만큼 많은 불길을 우주가 견딘 적은 없었다. 로마 병사는 아직 마르지도 않은 모래 위에서 이미 쓰러진 사람들의 뼈와 찢긴 팔다리를 밟고 섰다. 제국 자체가 자신의 힘으로 맞싸웠고, 조국의 아버지 아우구스투스는 자기 아버지의 발자취를 따라 승리했다.",
+      "아직 끝이 아니었다. 지참금으로 온 군대를 맞세운 악티움의 전쟁이 남아 있었다. 세상의 주인이 누가 될지 다시 주사위를 던졌고, 바다에서 올림포스의 지배자를 찾았다. 로마가 여성의 멍에를 받을지도 모르는 처지에 매달렸을 때, 벼락 자체가 이시스의 시스트룸과 겨루었다.",
+      "도망친 병사들이 벌이는 노예들의 전쟁도 남아 있었다. 아들 폼페이우스가 무력으로 아버지의 적들을 본떠, 아버지가 지켜 낸 바다를 차지했을 때의 전쟁이다.",
+      "그러나 운명에는 이것으로 충분하기를. 이제 전쟁은 잠잠해지라. 불화는 다이아몬드처럼 단단한 사슬에 묶여 감옥에 갇힌 채 영원한 재갈을 물게 하라. 조국의 아버지가 꺾이지 않기를, 로마가 그 아래에 있기를. 그리고 로마가 하늘에 신을 내어준 뒤에는 지상에서 다시 신을 찾지 않기를."
+    ],
+    "paragraphLocators": [
+      "제1권 896–903행",
+      "제1권 904–905행",
+      "제1권 906–913행",
+      "제1권 914–918행",
+      "제1권 919–921행",
+      "제1권 922–926행"
+    ],
+    "paragraphCriticalNotes": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "paragraphLatinVerses": [
+      [
+        {
+          "number": 896,
+          "text": "quin et bella canunt ignes subitosque tumultus"
+        },
+        {
+          "number": 897,
+          "text": "et clandestinis surgentia fraudibus arma;"
+        },
+        {
+          "number": 898,
+          "text": "externas modo per gentes, — ut foedere rupto"
+        },
+        {
+          "number": 899,
+          "text": "cum fera ductorem rapuit Germania Varum"
+        },
+        {
+          "number": 900,
+          "text": "infecitque trium legionum sanguine campos,"
+        },
+        {
+          "number": 901,
+          "text": "arserunt toto passim minitantia mundo"
+        },
+        {
+          "number": 902,
+          "text": "lumina, et ipsa tulit bellum natura per ignes"
+        },
+        {
+          "number": 903,
+          "text": "opposuitque suas uires finemque minata est."
+        }
+      ],
+      [
+        {
+          "number": 904,
+          "text": "nec mirere grauis rerumque hominumque ruinas:"
+        },
+        {
+          "number": 905,
+          "text": "saepe domi culpa est; nescimus credere caelo. —"
+        }
+      ],
+      [
+        {
+          "number": 906,
+          "text": "ciuilis etiam motus cognataque bella"
+        },
+        {
+          "number": 907,
+          "text": "significant. nec plura alias incendia mundus"
+        },
+        {
+          "number": 908,
+          "text": "sustinuit, quam cum ducibus iurata cruentis"
+        },
+        {
+          "number": 909,
+          "text": "arma Philippeos implerunt agmine campos."
+        },
+        {
+          "number": 910,
+          "text": "uixque etiam sicca miles Romanus harena"
+        },
+        {
+          "number": 911,
+          "text": "ossa uirum lacerosque prius superstetit artus,"
+        },
+        {
+          "number": 912,
+          "text": "imperiumque suis conflixit uiribus ipsum,"
+        },
+        {
+          "number": 913,
+          "text": "perque patris pater Augustus uestigia uicit."
+        }
+      ],
+      [
+        {
+          "number": 914,
+          "text": "necdum finis erat: restabant Actia bella"
+        },
+        {
+          "number": 915,
+          "text": "dotali commissa acie, repetitaque rerum"
+        },
+        {
+          "number": 916,
+          "text": "alea, et in ponto quaesitus rector Olympi,"
+        },
+        {
+          "number": 917,
+          "text": "femineum sortita iugum cum Roma pependit,"
+        },
+        {
+          "number": 918,
+          "text": "atque ipsa Isiaco certarunt fulmina sistro."
+        }
+      ],
+      [
+        {
+          "number": 919,
+          "text": "restabant profugo seruilia milite bella,"
+        },
+        {
+          "number": 920,
+          "text": "cum patrios armis imitatus filius hostes"
+        },
+        {
+          "number": 921,
+          "text": "aequora Pompeius cepit defensa parenti."
+        }
+      ],
+      [
+        {
+          "number": 922,
+          "text": "sed satis hoc fatis fuerit. iam bella quiescant,"
+        },
+        {
+          "number": 923,
+          "text": "atque adamanteis discordia uincta catenis"
+        },
+        {
+          "number": 924,
+          "text": "aeternos habeat frenos in carcere clausa."
+        },
+        {
+          "number": 925,
+          "text": "sit pater inuictus patriae, sit Roma sub illo:"
+        },
+        {
+          "number": 926,
+          "text": "cumque deum caelo dederit, non quaerat in orbe."
+        }
+      ]
+    ],
+    "contentNotice": "저본의 신화·운명·우주론·정치적 찬양과 역사적 가치 판단을 옮긴 문헌 번역입니다. 현대의 천문학·의료·재난 예측이나 개인·집단에 대한 평가로 제시하지 않습니다."
   }
 ]

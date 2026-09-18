@@ -5,10 +5,10 @@ const {verses,locator}=Astro.props;
   <summary>라틴어 원문 대조 · {locator}</summary>
   <ol lang="la" aria-label="Breiter 라틴어 본문">
     {verses.map(v=><li class={v.status==='suspected-interpolation'?'suspected-interpolation':undefined}>
-      <span class="verse-number" aria-label={`${v.number}행`}>{v.number}</span><span class="latin-verse">{v.text}</span>
+      <span class="verse-number" aria-label={`${v.number}행`}>{v.number}</span><span class="latin-verse">{v.fragments?v.fragments.map(f=>f.suspected?<em class="suspected-fragment">{f.text}</em>:f.text):v.text}</span>
     </li>)}
   </ol>
-  {verses.some(v=>v.status==='suspected-interpolation') && <small>기울임꼴: Breiter가 삽입을 의심한 구절. 번역에서 생략하지 않았습니다.</small>}
+  {verses.some(v=>v.status==='suspected-interpolation'||v.fragments?.some(f=>f.suspected)) && <small>기울임꼴: Breiter가 삽입을 의심한 구절. 한 행의 일부만 해당할 수도 있으며 번역에서 생략하지 않았습니다.</small>}
 </details>
 <style>
   .latin-parallel { margin:-.25rem 0 1.5rem; padding:.8rem 1rem; border:1px solid var(--line); border-radius:5px; background:var(--subtle); }
@@ -17,6 +17,6 @@ const {verses,locator}=Astro.props;
   li { display:grid; grid-template-columns:2.5rem minmax(0,1fr); gap:.6rem; padding:.15rem 0; line-height:1.75; }
   .verse-number { font-size:.75rem; color:var(--muted); font-variant-numeric:tabular-nums; }
   .latin-verse { font-family:Georgia,'Times New Roman',serif; overflow-wrap:anywhere; font-size:1rem; }
-  .suspected-interpolation .latin-verse { font-style:italic; }
+  .suspected-interpolation .latin-verse, .suspected-fragment { font-style:italic; }
   small { display:block; color:var(--muted); font-size:.75rem; line-height:1.7; }
 </style>
