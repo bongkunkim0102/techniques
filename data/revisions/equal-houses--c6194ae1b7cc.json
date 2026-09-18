@@ -1,0 +1,52 @@
+{
+  "id": "equal-houses",
+  "title": "이퀄 하우스",
+  "en": "Equal houses",
+  "tradition": "공통 계산",
+  "summary": "기준점에서 황도를 30°씩 나누는 하우스 체계의 계열입니다. 어느 점을 기준으로 하는지 명시해야 합니다.",
+  "sections": [
+    {
+      "title": "ASC 출발 이퀄",
+      "paragraphs": [
+        "일반적인 ASC 출발 방식은 어센던트를 1커스프로 삼습니다. Swiss Ephemeris의 A 또는 E 코드가 이 방식을 가리키며, MC 출발 등 다른 변형은 별도 코드로 구별됩니다."
+      ],
+      "refs": [
+        "swiss"
+      ]
+    },
+    {
+      "title": "합성 예제",
+      "paragraphs": [
+        "어센던트가 황경 48°라면 1커스프는 48°, 2커스프는 78°, 3커스프는 108°입니다. 모든 커스프가 같은 간격이지만 실제 MC가 항상 10커스프와 일치하는 것은 아닙니다."
+      ],
+      "refs": []
+    }
+  ],
+  "related": [
+    "whole-sign-houses",
+    "midheaven-and-ic",
+    "vehlow-houses"
+  ],
+  "refs": [
+    "swiss"
+  ],
+  "revision": "c6194ae1b7cc",
+  "date": "2026-09-18",
+  "glossaryVersion": "2026-09-18.3",
+  "editor": "Codex (Astra)",
+  "review": "AI 편집 초판",
+  "license": "HoraryTalk 독자 해설",
+  "kind": "개요",
+  "sourceSnapshots": [
+    {
+      "id": "swiss",
+      "title": "Swiss Ephemeris Programmer’s Manual",
+      "author": "Astrodienst · Dieter Koch · Alois Treindl",
+      "url": "https://www.astro.com/swisseph/swephprg.htm",
+      "locator": "Sidereal calculations; House calculation; Julian day functions",
+      "license": "참고·독자 해설",
+      "access": "본문 확인",
+      "checkedAt": "2026-09-18"
+    }
+  ]
+}

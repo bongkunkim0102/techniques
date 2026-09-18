@@ -1,0 +1,30 @@
+const s = (id, title, author, url, locator, license = '참고·독자 해설', access = '본문 확인') => ({ id, title, author, url, locator, license, access, checkedAt: '2026-09-18' });
+const sky = (id, title, slug, locator = '표제 항목 본문') => s(id, `Skyscript: ${title}`, 'Deborah Houlding', `https://www.skyscript.co.uk/glossary/${slug}/`, locator, 'CC BY-NC-SA 4.0');
+export const sources = [
+  s('ptolemy-ashmand1822', 'Ptolemy’s Tetrabiblos — J. M. Ashmand (1822)', '프톨레마이오스; 프로클로스 귀속 의역본; J. M. Ashmand 영어 번역', 'https://iapsop.com/ssoc/1822__ashmand___ptolemys_tetrabiblos.pdf', '제1권 IV–XXVII장; 인쇄본 19–57쪽', 'Public domain', '24개 장 본문 확인; 텀 표·애스펙트 도식·주야·통치권 지면 영인 대조'),
+  s('xingming-volume1', '星命溯源（四庫全書本）卷一', '장과 귀속 『통현유서』; 편자 미상; Wikisource 전사', 'https://zh.wikisource.org/wiki/星命溯源_(四庫全書本)/卷1', '「五星論」·「四時論」의 판단 원칙 네 대목', '고전 원저 Public domain; 전사 이용 CC BY-SA 4.0', '전사 본문 확인; 영인본 교감 미실시'),
+  sky('reception', 'Reception', 'reception'),
+  sky('translation', 'Translation of Light / Transference of Virtue', 'translation', '정의 및 Christian Astrology p.111 인용'),
+  sky('collection', 'Collection', 'collection', '정의 및 Christian Astrology p.126 인용'),
+  sky('sect', 'Sect', 'sect'), sky('antiscia', 'Antiscia', 'antiscia', '정의 및 도·분 계산 예제'),
+  sky('combust', 'Combust/Combustion', 'combust', '거리 기준과 Lilly의 상이한 구절'),
+  sky('cazimi', 'Cazimi', 'cazimi'),
+  sky('derived', 'Turning the Chart', 'turning-the-chart'),
+  sky('acg', 'Astro*Carto*Graphy', 'astro-carto-graphy'),
+  s('perfection', 'Perfection of significators and its denial', 'Graeme Tobyn', 'https://direct.skyscript.co.uk/tobyn2.html', 'Translation / Collection / Reception 절'),
+  s('profections', 'Annual Profections: A Basic Time-Lord Technique', 'Chris Brennan', 'https://theastrologypodcast.com/2018/04/26/annual-profections-a-basic-time-lord-technique/', '에피소드 153, 개요와 강의 자료'),
+  s('profections-transcript', 'Ep. 153 Transcript: Annual Profections', 'Chris Brennan', 'https://theastrologypodcast.com/transcripts/ep-153-annual-profections-an-ancient-time-lord-technique/', '프로펙션 절차와 연령 계산'),
+  s('releasing', 'Zodiacal Releasing: An Ancient Timing Technique', 'Chris Brennan · Leisa Schaim', 'https://theastrologypodcast.com/2019/02/11/zodiacal-releasing-an-ancient-timing-technique/', '에피소드 192의 개요·도표 설명'),
+  s('lots', 'The Lot of Fortune and Spirit in Astrology', 'The Astrology Podcast', 'https://theastrologypodcast.com/transcripts/tap-ep-433-transcript-the-lot-of-fortune-and-spirit-in-astrology/', '에피소드 433, 두 랏의 계산과 구분'),
+  s('swiss', 'Swiss Ephemeris Programmer’s Manual', 'Astrodienst · Dieter Koch · Alois Treindl', 'https://www.astro.com/swisseph/swephprg.htm', 'Sidereal calculations; House calculation; Julian day functions'),
+  s('progressions', 'Chart Types: Natal, progressions and solar arc combined', 'Astrodienst', 'https://www.astro.com/cgi/h.cgi?f=gch&h=gch246&lang=e', '진행 시점 및 앵글 계산의 여러 방식'),
+  s('lunar-cycle', 'A New Type of Lunation Guidance', 'Dane Rudhyar', 'https://khaldea.com/rudhyar/astroarticles/lunationguidance.php', '태양·달의 관계 주기와 위치 주기의 구별'),
+  s('local-space', 'Local Space Astrology', 'Astrodienst', 'https://www.astro.com/astrology/in_localspace_e.htm?nho2=254&nhor=1', 'Azimuth 절', '참고·독자 해설', '검색 발췌 확인'),
+  s('jh', 'Features of Jagannatha Hora Software', 'P. V. R. Narasimha Rao', 'https://www.vedicastrologer.org/jh/features.htm', 'Divisional Charts / Dasas / Annual Charts / Panchanga / KP'),
+  s('tajika', 'The Jewel of Annual Astrology', 'Balabhadra; Martin Gansten 편역', 'https://www.jstor.org/stable/10.1163/j.ctv2gjwzsx', '서지·소개·목차; Brill, 2020', 'CC BY 4.0', '서지·목차 확인'),
+  s('tibetan', 'Introduction to Tibetan Astrology', 'Men-Tsee-Khang', 'https://mentseekhang.org/introduction-to-tibetan-astrology/', 'rGya-rTsis / dKar-rTsis / Kālacakra 절'),
+  s('tibetan-institute', 'Astro-Science Department: Introduction', 'Men-Tsee-Khang', 'https://mentseekhang.org/introduction-2/', '기관의 교육·역서·업무 소개'),
+  s('xingming', '星命溯源（四庫全書本）', '사고전서 수록본; Wikisource 전사', 'https://zh.wikisource.org/wiki/星命溯源_(四庫全書本)', '제요와 권별 목차', '고전 원저 퍼블릭 도메인; 사이트 전사 조건 별도'),
+  s('llmwiki', 'LLM Wiki', 'Andrej Karpathy', 'https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f', 'Architecture / Operations / Indexing and logging'),
+];
+export const sourceById = id => sources.find(s => s.id === id);

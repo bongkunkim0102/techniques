@@ -1,0 +1,42 @@
+id|ko|aliases|definition|note|refs
+tropical-zodiac|회귀황도|열대황도;트로피컬 조디악|춘분점을 0도로 삼는 열두 사인의 체계.|별자리의 실제 경계나 항성황도와 구별한다.|usno;swiss
+sidereal-zodiac|항성황도|사이디리얼 조디악|항성에 대한 기준을 정해 열두 사인을 배치하는 체계.|사용한 아야남샤의 이름과 판을 함께 기록한다.|swiss
+ayanamsha|아야남샤|아야남사;ayanāṃśa;ayanamsa|회귀황도와 항성황도의 영점 차이.|모든 항성황도에 공통인 단일 값으로 번역하지 않는다.|swiss
+lahiri-ayanamsha|라히리 아야남샤|Lahiri;Chitrapaksha;치트라파크샤|라히리 계열의 항성황도 영점 규약.|치트라 기준의 모든 변형을 동일 계산으로 취급하지 않는다.|swiss
+fagan-bradley-ayanamsha|페이건·브래들리 아야남샤|Fagan/Bradley;페이건 브래들리|서양 항성 점성술에서 사용하는 아야남샤 규약.|라히리 값과 상호 교체하지 않는다.|swiss
+raman-ayanamsha|라만 아야남샤|B. V. Raman|B. V. 라만 이름으로 알려진 항성황도 영점 규약.|동명의 인물과 계산 설정을 문맥으로 구별한다.|swiss
+krishnamurti-ayanamsha|크리슈나무르티 아야남샤|KP ayanamsha;크리슈나무르티|KP 계통에서 사용하는 아야남샤 계열.|KP 명칭만으로 모든 구현의 수치가 같다고 가정하지 않는다.|swiss
+true-versus-mean-lunar-nodes|진노드와 평균노드|true node;mean node;진교점;평균교점|달 궤도 교점의 순간적 모형과 평균 운동 모형.|진노드는 실제 천체가 아니며 순간 순행도 가능하다.|usno;swiss
+ecliptic-longitude|황경|ecliptic longitude;λ|황도면의 기준 방향에서 잰 경도 성분.|사인 안의 도수와 0–360도 절대황경을 구별한다.|usno
+ecliptic-latitude|황위|ecliptic latitude;β|황도면에서 북쪽 또는 남쪽으로 벗어난 각도.|관측자의 지리 위도나 천체의 적위가 아니다.|usno
+right-ascension|적경|RA;right ascension;α|천구 적도를 따라 동쪽으로 재는 적도좌표 성분.|시간 단위와 각도 단위를 구별한다. 1시간은 15도다.|usno
+declination|적위|declination;δ|천구 적도에서 북쪽 또는 남쪽으로 잰 각도.|황위·지리 위도와 혼용하지 않는다.|usno
+oblique-ascension|사승도|사승경;oblique ascension;OA|주어진 위도에서 천체의 출과 연결되는 적도상의 상승 좌표.|황위 처리와 저자의 부호 규약을 확인한다.|gansten-directions
+geographic-versus-geocentric-latitude|지리 위도와 지심 위도|geodetic latitude;geocentric latitude;측지 위도|타원체의 법선 기준 위도와 지구 중심 기준 위도의 구분.|측지 위도와 천체의 지심 위치라는 표현을 섞지 않는다.|usno;swiss
+geocentric-versus-heliocentric-chart|지구중심·태양중심 차트|지심 차트;헬리오센트릭 차트;geocentric;heliocentric|좌표 원점을 지구 또는 태양에 두는 차트의 구분.|지구중심 체계의 달·태양 해석을 그대로 이식하지 않는다.|usno
+topocentric-planetary-positions|관측지 중심 천체 위치|지표중심 위치;topocentric position|지표의 관측 위치에서 본 천체의 좌표.|동명의 토포센트릭 하우스 체계와 별개다.|usno;swiss
+apparent-versus-true-positions|겉보기 위치와 참위치|시위치;apparent position;true position|관측상 보정을 적용한 위치와 계산상의 참위치 구분.|참위치라는 말의 범위와 광행차·광행시간 보정을 명시한다.|usno
+precession|세차|세차운동;precession of the equinoxes|자전축 방향 등이 장기적으로 변하는 운동.|역행과 구별하며 황도 영점의 시대를 기록한다.|usno
+nutation|장동|nutation|자전축 방향의 세차에 겹치는 작은 주기 변화.|평균 좌표와 참좌표의 차이를 없애서 번역하지 않는다.|usno
+obliquity|황도 경사|황도경사각;obliquity of the ecliptic;ε|황도면과 천구 적도면 사이의 각도.|시대에 따라 변하며 평균값과 참값이 다르다.|usno
+sidereal-time|항성시|sidereal time;LST;GST|지구 회전 방향을 적도 좌표계와 연결하는 시간 척도.|현지 항성시와 그리니치 항성시를 구별한다.|usno
+julian-day|율리우스일|율리우스 적일;JD;Julian Date|기준 시점부터 연속하여 센 날수.|율리우스력과 다르며 정오 기점·시간 척도를 확인한다.|usno
+gregorian-and-julian-calendars|그레고리력과 율리우스력|Gregorian calendar;Julian calendar;신력;구력|윤년 규칙이 서로 다른 두 태양력.|구력은 문맥에 따라 음력을 뜻하므로 기계적으로 치환하지 않는다.|usno
+historical-time-zones|역사적 시간대|historical time zones;지방표준시|해당 지역·시대에 실제 시행된 표준시 규약.|현재 UTC 차이를 과거 출생시각에 소급하지 않는다.|iana-time
+daylight-saving-time|서머타임|일광절약시간;DST;daylight saving time|특정 기간 법정 시각을 조정하는 제도.|적용 날짜·지역과 중복되거나 존재하지 않는 시각을 확인한다.|iana-time
+ut-tt-and-delta-t|UT·TT·델타T|UT1;Terrestrial Time;ΔT;지구시;세계시|지구 자전에 따른 UT1, 균일한 TT, 그 차이 ΔT의 구분.|ΔT는 TT−UT1이다. UTC와 UT1도 엄밀히 다르다.|usno
+solar-and-lunar-eclipses|일식과 월식|solar eclipse;lunar eclipse;蝕|달이 태양을 가리거나 달이 지구 그림자에 드는 현상.|식의 시각·종류·가시 지역과 해석 규칙을 따로 기록한다.|usno
+lunar-phases|달의 위상|Moon phases;삭망;상현;하현|관측자에게 보이는 달의 밝은 부분이 달라지는 주기적 상태.|달의 사인 위치와 태양·달의 상대각을 구별한다.|usno
+planetary-stations|행성의 정지|유;스테이션;stationary;留|선택한 좌표에서 행성의 겉보기 이동률이 0이 되는 전환.|천체가 물리적으로 멈춘다는 뜻이 아니다.|usno
+retrogradation|역행|레트로그레이드;retrograde|통상 지구중심 황경이 감소하는 겉보기 운동.|역방향 디렉션이나 역방향 프로그레션과 다르다.|usno
+orb|오브|허용각;orbis|정확한 애스펙트에서 허용하는 각거리.|행성별 오브·애스펙트별 오브·모이어티를 구별한다.|sky-o
+applying-and-separating-aspects|접근각과 분리각|어플라잉;세퍼레이팅;applying;separating|정확한 애스펙트에 가까워지는지 멀어지는지의 구분.|단순 도수 순서가 아니라 속도·역행·다음 정확각을 확인한다.|sky-a;sky-s
+whole-sign-aspects|사인 단위 애스펙트|사인 단위 각;by sign|사인 사이의 간격으로 정하는 각 관계.|도수상의 오브 충족과 별개의 조건이다.|sky-a
+degree-based-aspects|도수 기반 애스펙트|도수 기반 각;degree aspect|천체의 도수 차이로 정하는 각 관계.|정확각·허용각·사인 경계 밖의 각을 구별한다.|sky-a
+parallels-and-contra-parallels|패러렐과 콘트라패러렐|parallel;contraparallel;평행각;반평행각|같은 적위 또는 절댓값은 같고 남북이 반대인 적위 관계.|황경의 합·충과 같은 기하학적 조건이 아니다.|sky-p
+out-of-bounds-declination|아웃오브바운즈 적위|OOB;out of bounds|해당 시대 태양의 최대 적위 범위를 넘는 적위.|황도 사인의 범위나 황위 초과라는 뜻이 아니다.|sky-o
+antiscia|안티시아|antiscion;안티스키아;대칭점|하지·동지 축을 기준으로 황경을 반사한 점.|λ′=(180°−λ) mod 360°. 태양과의 합과 혼동하지 않는다.|antiscia
+contra-antiscia|콘트라안티시아|contra-antiscion;콘트라 안티시아|안티시아의 정반대에 놓이는 황경점.|λ′=(360°−λ) mod 360°. 안티시아와 구별한다.|antiscia
+antipodal-points|대척점|antipode;정반대점|선택한 원 또는 구에서 서로 반대에 놓인 점.|황경 180도 차이와 지리적 대척점을 문맥으로 구별한다.|usno
+heliacal-rising-and-setting|헬리아칼 출몰|태양과의 관계에 따른 출몰;heliacal rise;heliacal set|태양 빛에서 벗어나 처음 보이거나 그 빛에 묻혀 마지막으로 보이는 현상.|일상의 출몰과 다르며 대기·밝기·관측 위도가 필요하다.|usno
+synodic-cycles|회합 주기|synodic period;삭망 주기|두 천체의 상대 배치가 되풀이되는 주기.|공전 주기·항성 주기와 구별한다.|usno

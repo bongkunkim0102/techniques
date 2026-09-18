@@ -1,0 +1,46 @@
+---
+import { glossary, categories } from '../data/glossary.mjs';
+import { articles } from '../data/articles.mjs';
+const { bucket = '', glossaryMode = false } = Astro.props;
+const entries = glossary.map(t => { const a=articles.find(a=>a.id===t.id); return {...t,status:t.terminologyStatus,hasArticle:!!a,summary:a?.summary || t.definition,url:!glossaryMode&&a?`/wiki/${t.id}/`:`/topics/${t.id}/`}; });
+---
+<div data-catalogue data-bucket={bucket} data-glossary={String(glossaryMode)}>
+  <form class="search-box" role="search"><input id="query" name="q" aria-label="기법·용어 검색" placeholder="한국어, 영어, 한자 또는 다른 이름으로 찾기" type="search" /><button type="submit">검색</button></form>
+  <div class="filters"><label>분야<select id="category"><option value="">모든 분야</option>{categories.map(c=><option value={c.id} selected={c.id===bucket}>{c.name}</option>)}</select></label><label>문서 상태<select id="state"><option value="">모든 상태</option><option value="article">해설이 있는 문서</option><option value="term">표기·주의점 검토 항목</option></select></label></div>
+  <p id="count" class="results-summary" role="status">색인을 준비하고 있습니다.</p><div id="results"></div><button id="more" class="more-button quiet-button" hidden>더 보기</button>
+  <script type="application/json" id="catalogue-data" set:html={JSON.stringify(entries).replaceAll('<','\\u003c')}></script>
+  <noscript><p class="nojs">검색과 필터에는 자바스크립트가 필요합니다. 아래 정적 색인에서 문서를 열 수 있습니다.</p><ul>{entries.filter(e=>!bucket||e.bucket===bucket).map(e=><li><a href={e.url}>{e.ko} ({e.en})</a> · {e.hasArticle?'해설':'용어 정의'}</li>)}</ul></noscript>
+</div>
+<script>
+  import { searchEntries } from '../lib/search.mjs';
+  const root=document.querySelector<HTMLElement>('[data-catalogue]');
+  if(root){
+    const entries=JSON.parse(document.getElementById('catalogue-data')!.textContent!);
+    const input=document.getElementById('query') as HTMLInputElement;
+    const category=document.getElementById('category') as HTMLSelectElement;
+    const state=document.getElementById('state') as HTMLSelectElement;
+    const results=document.getElementById('results')!; const count=document.getElementById('count')!; const more=document.getElementById('more')!;
+    const params=new URLSearchParams(location.search); input.value=params.get('q')||''; if(params.get('state')) state.value=params.get('state')!;
+    const glossaryMode=root.dataset.glossary==='true'; let limit=40;
+    const el=(tag:string,text?:string,cls?:string)=>{const n=document.createElement(tag);if(text)n.textContent=text;if(cls)n.className=cls;return n;};
+    function render(){
+      const found=searchEntries(entries,input.value,category.value,state.value);
+      count.textContent=`${found.length}개 항목${input.value ? ` · “${input.value}” 검색 결과` : ''} · ${Math.min(limit,found.length)}개 표시`;
+      results.replaceChildren(); more.hidden=found.length<=limit;
+      if(!found.length){results.append(el('p','일치하는 항목이 없습니다. 띄어쓰기를 바꾸거나 영어 이름으로 검색해 보세요.','empty'));}
+      else if(glossaryMode){
+        const scroll=el('div',undefined,'table-scroll');const table=el('table',undefined,'term-table');const cap=el('caption','한국어 권장 표기·원어·정의. 이름을 누르면 출처와 번역 주의점을 볼 수 있습니다.','table-caption');table.append(cap);
+        const head=el('thead');const row=el('tr');['한국어 표기','원어','뜻과 구별할 점'].forEach(t=>{const th=el('th',t);th.setAttribute('scope','col');row.append(th);});head.append(row);table.append(head);const body=el('tbody');
+        found.slice(0,limit).forEach((e:any)=>{const tr=el('tr');const ko=el('td');const a=el('a',e.ko) as HTMLAnchorElement;a.href=e.url;ko.append(a,el('span','정의·번역 메모','aliases'));if(e.aliases.length)ko.append(el('span',e.aliases.join(' · '),'aliases'));const en=el('td',e.en);const note=el('td',e.definition);note.append(el('span',e.note,'term-note'));const ref=el('a',`참고 문헌 ${e.refs.length}건`) as HTMLAnchorElement;ref.href=e.url+'#references';ref.className='term-reference';note.append(ref);tr.append(ko,en,note);body.append(tr);});table.append(body);scroll.append(table);results.append(scroll);
+      }else{
+        const list=el('ul',undefined,'results');found.slice(0,limit).forEach((e:any)=>{const li=el('li',undefined,'result');const top=el('div',undefined,'result-top');const name=el('div');const h=el('h2');const a=el('a',e.ko) as HTMLAnchorElement;a.href=e.url;h.append(a);name.append(h,el('span',e.en,'en'));top.append(name,el('span',e.hasArticle?'해설':'용어 정의',`badge${e.hasArticle?'':' neutral'}`));li.append(top);if(e.summary)li.append(el('p',e.summary));li.append(el('span',e.bucketKo,'meta'));list.append(li);});results.append(list);
+      }
+      const p=new URLSearchParams();if(input.value)p.set('q',input.value);if(state.value)p.set('state',state.value);if(category.value&&category.value!==root!.dataset.bucket)p.set('category',category.value);
+      history.replaceState(null,'',location.pathname+(p.size?`?${p}`:''));
+      window.dispatchEvent(new CustomEvent('catalogue-search',{detail:input.value}));
+    }
+    if(params.get('category'))category.value=params.get('category')!;
+    let timer:ReturnType<typeof setTimeout>;input.addEventListener('input',()=>{clearTimeout(timer);timer=setTimeout(()=>{limit=40;render();},120);});
+    [category,state].forEach(s=>s.addEventListener('change',()=>{limit=40;render();}));root.querySelector('form')!.addEventListener('submit',e=>{e.preventDefault();limit=40;render();});more.addEventListener('click',()=>{limit+=40;render();});render();
+  }
+</script>

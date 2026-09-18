@@ -1,0 +1,33 @@
+id|ko|aliases|definition|note|refs
+annual-profections|연간 프로펙션|연차 프로펙션;연령 프로펙션;annual profection|출발 사인을 한 해에 한 사인씩 이동시키는 타임로드 기법.|대표 방식은 출생 나이 0세를 첫 사인으로 센다.|profections
+monthly-profections|월간 프로펙션|monthly profection|프로펙션을 월 단위 하위 기간으로 나누는 방식.|한 달의 길이·기점·이동 규약이 문헌별로 다르다.|profections-transcript
+daily-profections|일간 프로펙션|daily profection|프로펙션을 일 단위로 전개하는 방식.|월간 방식을 단순 축소했다고 가정하지 않는다.|profections-transcript
+continuous-profections|연속 프로펙션|continuous profection;도수 프로펙션|기간의 경과를 연속적인 황경 이동으로 표현하는 방식.|사인 단위로 불연속 이동하는 방식과 별도 설정이다.|sky-p
+zodiacal-releasing|조디아칼 릴리징|황도 릴리징;ZR;zodiacal aphesis|랏 등의 사인에서 출발하여 사인별 기간을 전개하는 기법.|프로펙션처럼 매년 한 사인씩 이동하지 않는다.|releasing
+releasing-from-fortune|포르투나로부터의 릴리징|ZR from Fortune|포르투나 랏을 출발점으로 삼는 릴리징.|주로 몸·환경 등의 주제를 다루며 출발 랏의 공식을 명시한다.|releasing
+releasing-from-spirit|스피릿으로부터의 릴리징|ZR from Spirit|스피릿 랏을 출발점으로 삼는 릴리징.|행위·활동 등의 주제 해석과 포르투나 기준의 강조 구간을 구별한다.|releasing
+releasing-from-eros|에로스로부터의 릴리징|ZR from Eros|에로스 랏을 출발점으로 삼는 릴리징.|에로스 랏에는 여러 공식이 있으므로 저자를 명시한다.|releasing
+loosing-of-the-bond|루징 오브 더 본드|결속의 해제;LB;loosing of the bond|릴리징 하위 주기에서 반대 사인으로 건너가는 전환 규칙.|일반적인 충이나 관계의 종료라는 확정 해석으로 치환하지 않는다.|releasing
+firdaria|피르다리아|firdār;firdar;firdaria|주야에 따라 순서가 달라지는 행성별 장·단기 배당 체계.|노드 기간의 위치와 하위 기간 배정을 판본별로 구별한다.|sky-f
+decennials|데세니얼|decennials;십년기법;decennia|약 십 년 단위의 큰 기간과 하위 기간을 배당하는 전통 기법.|단순 달력의 십 년과 같지 않으며 저자별 총 기간을 확인한다.|valens-summary
+quarters-of-the-moon|달의 쿼터 기법|Quarters of the Moon|행성의 소주기 연수(minor years)의 사분의 일을 활용하는 발렌스 계열 기간 기법.|상현·하현을 뜻하는 일상적인 달 위상 용어와 구별한다.|valens-summary;quarters
+circumambulations-through-bounds|텀을 통한 순환|circumambulation;텀 디렉션|주요 점을 일주운동에 따라 텀으로 이동시켜 주인을 정하는 기법.|황도상의 도수를 등속으로 더하는 것과 구별한다.|gansten-directions;sky-d
+distributions|디스트리뷰션|distribution;distributor;분배 기법|전통 예측에서 디렉션 등의 구간별 주인을 배당하는 기법군.|문맥에 따라 텀을 통한 순환과 겹친다. 배당 대상과 키를 명시한다.|sky-d
+primary-directions|프라이머리 디렉션|일차 디렉션;primary direction|일주운동의 방향호를 생애의 시간으로 환산하는 기법군.|황경 차이를 그대로 시간으로 쓰는 솔라 아크와 구별한다.|gansten-directions
+zodiacal-primary-directions|황도 프라이머리 디렉션|zodiacal directions;in zodiaco|황도상의 점이나 애스펙트를 기준으로 계산하는 프라이머리 디렉션.|천체 황위를 실제로 쓰는지 0으로 놓는지 기록한다.|gansten-directions
+mundane-primary-directions|문데인 프라이머리 디렉션|mundane directions;in mundo|일주운동과 하우스 공간의 위치 관계로 계산하는 디렉션.|여기서 mundane은 국가·사회 점성술이라는 뜻이 아니다.|gansten-directions
+direct-and-converse-directions|순·역방향 디렉션|direct direction;converse direction|디렉션을 진행하는 방향의 두 규약.|direct를 행성의 실제 순행과 동일시하지 않는다.|gansten-directions
+ptolemaic-key|프톨레마이오스 키|Ptolemaic key;1 degree per year|디렉션의 1도 방향호를 1년에 대응시키는 환산 규약.|1도의 좌표가 황경인지 적경인지 명시한다.|directions-keys
+naibod-key|나이보드 키|Naibod key;나이보트|태양의 평균 일일 운동에 기초한 디렉션 환산 규약.|대략 연 59각분08각초이며 1도=1년과 같지 않다.|directions-keys
+solar-arc-directional-key|태양호 디렉션 키|true solar arc key|실제 태양 운동에 기초해 방향호와 연령을 대응시키는 규약.|프라이머리 디렉션의 키와 솔라 아크 차트 자체를 구별한다.|directions-keys
+latitude-in-directions|디렉션의 황위 처리|latitude in directions|디렉션에서 천체·애스펙트의 황위를 처리하는 선택 사항.|여기서 latitude를 관측지 위도로 자동 번역하지 않는다.|gansten-directions
+secondary-motion-in-directions|디렉션의 세컨더리 모션|secondary motion;자체 운동 보정|일주운동 중 일어나는 천체 자체의 이동을 반영하는 보정.|특히 달에서 영향이 크다. 세컨더리 프로그레션과 다른 개념이다.|gansten-directions
+solar-returns|솔라 리턴|태양회귀;태양 리턴;solar revolution|태양이 기준 황경으로 되돌아오는 순간의 차트.|생일의 같은 시각과 같지 않으며 황도 기준과 장소를 남긴다.|chart-types
+lunar-returns|루나 리턴|달회귀;달 리턴;lunar revolution|달이 기준 황경으로 되돌아오는 순간의 차트.|태양과의 상대 위상이 반복되는 삭망회귀와 구별한다.|chart-types
+planetary-returns|행성 리턴|planetary return;행성 회귀|행성이 기준 차트의 해당 위치로 돌아오는 현상과 차트.|역행 때문에 여러 번 접촉할 때 어느 회귀인지 표시한다.|chart-types
+annual-revolutions|연간 레볼루션|annual revolution;연차회귀|매년의 회귀차트 및 그 해석을 가리키는 전통 용어.|일주 회전이라는 일반 천문 뜻과 구별한다.|lilly;tajika
+return-chart-location|리턴 차트 장소 선택|return location;relocated return|회귀 순간에 적용할 관측 장소를 정하는 규약.|출생지·현거주지·실제 체류지를 택하는 견해가 공존한다.|chart-types
+transits|트랜짓|transit;현재 운행|현재 또는 지정 시점의 천체 위치를 기준 차트와 비교하는 기법.|자오선 통과·식의 통과라는 천문학적 transit과 구별한다.|chart-types
+transits-to-time-lords|타임로드에 대한 트랜짓|transits to time lords|해당 기간의 주인 행성에 대한 트랜짓을 선별하는 방법.|타임로드 선정이 선행하며 일반 트랜짓과 강조점이 다르다.|profections-transcript
+age-and-anniversary-conventions|나이·연간 경계 규약|completed age;anniversary|예측 기간의 나이와 연간 시작점을 정의하는 편집·계산 규약.|만 나이·세는나이·생일·태양회귀 경계를 섞지 않는다.|profections-transcript
+planetary-period-length-conventions|행성 기간 길이 규약|year length;period length|상징적 연수를 달력 날짜로 변환하는 규약.|360일·365일·회귀년 등을 구별하고 계산 설정을 남긴다.|quarters;tajika

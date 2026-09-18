@@ -1,0 +1,27 @@
+---
+import Base from '../../layouts/Base.astro';
+import { glossary, glossaryVersion } from '../../data/glossary.mjs';
+import { terminologySourceById } from '../../data/terminology-sources.mjs';
+import { articleById, backlinks } from '../../data/articles.mjs';
+import translations from '../../data/translations.json';
+export function getStaticPaths() { return glossary.map(t=>({params:{slug:t.id},props:{t}})); }
+const { t } = Astro.props;
+const article = articleById(t.id);
+const related = backlinks(t.id);
+const relatedTranslations = translations.filter(d=>(d.termIds || [d.id]).includes(t.id));
+---
+<Base title={`${t.ko} — 용어 정의`} description={t.definition}>
+  <div class="crumbs"><a href="/glossary/">한국어 용어집</a><span>/</span><a href={`/traditions/${t.bucket}/`}>{t.bucketKo}</a></div>
+  <article data-pagefind-body>
+    <header class="article-header"><h1>{t.ko}</h1><p class="english">{t.en}</p><p class="lead">{t.definition}</p>
+    <div class="article-meta"><span>용어 정의 · Astra 편집 초판</span><span>용어집 {glossaryVersion}</span><a href={`/glossary/?q=${encodeURIComponent(t.ko)}`}>용어집에서 찾기</a></div></header>
+    <div class="prose">
+      {t.aliases.length>0 && <section><h2>이명과 원어 표기</h2><p>{t.aliases.join(' · ')}</p></section>}
+      <section><h2>번역할 때 구별할 점</h2><p>{t.note}</p></section>
+      {relatedTranslations.length>0 && <section><h2>문헌에서 읽기</h2><ul>{relatedTranslations.map(d=><li><a href={`/translations/${d.id}/`}>{d.title || d.sourceTitle}</a> <span class="meta">— 한국어 번역</span></li>)}</ul></section>}
+      {(article || related.length>0) && <section><h2>함께 읽기</h2><div class="related">{article && <a href={`/wiki/${article.id}/`}>{article.title} — 해설</a>}{related.map(a=><a href={`/wiki/${a.id}/`}>{a.title}</a>)}</div></section>}
+      <p class="document-end">한국어 정의와 번역 메모: {t.reviewedBy}. 원문의 특정 규칙을 번역할 때는 저자·판본·조건을 함께 확인합니다. 아래의 확인 범위는 원전 전체의 검증 여부와 구별됩니다.</p>
+      <section id="references"><h2>출처 및 참고 문헌</h2><ol class="sources">{t.refs.map(id=>{const s=terminologySourceById(id)!;return <li><a href={s.url} target="_blank" rel="noopener noreferrer">{s.title}</a> — {s.author}<span class="meta">{s.locator}</span><span class="meta">확인 범위: {s.access} · {s.checkedAt} · {s.license}</span></li>})}</ol></section>
+    </div>
+  </article>
+</Base>

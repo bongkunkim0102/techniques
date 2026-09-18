@@ -1,0 +1,60 @@
+{
+  "id": "mutual-reception",
+  "title": "뮤추얼 리셉션",
+  "en": "Mutual reception",
+  "tradition": "서양 전통",
+  "summary": "두 행성이 서로 상대 행성의 디그니티에 놓이는 리셉션 관계입니다.",
+  "sections": [
+    {
+      "title": "기본 구조",
+      "paragraphs": [
+        "금성이 사자자리에, 태양이 황소자리에 있다면 각 행성은 상대가 지배하는 사인에 놓입니다. 상호성은 두 방향을 각각 확인해 성립시켜야 합니다."
+      ],
+      "refs": [
+        "reception"
+      ]
+    },
+    {
+      "title": "기록해야 할 조건",
+      "paragraphs": [
+        "도미사일끼리의 관계인지, 익절테이션 등 다른 디그니티가 섞이는지 표시합니다. 사용 저자가 애스펙트까지 요구하는지 별도로 적습니다. 단순히 행성 두 개의 위치를 바꾸어 읽는 규칙으로 환원하지 않습니다."
+      ],
+      "refs": [
+        "reception"
+      ]
+    },
+    {
+      "title": "리셉션과 비교",
+      "paragraphs": [
+        "리셉션 하나를 확인한 뒤 반대 방향도 성립하는지 검사하면 상호 관계를 놓치지 않습니다. 아래 관련 문서의 리셉션에서 주체와 객체의 표기 원칙을 함께 읽으세요."
+      ],
+      "refs": []
+    }
+  ],
+  "related": [
+    "reception",
+    "essential-dignities"
+  ],
+  "refs": [
+    "reception"
+  ],
+  "revision": "c11c7bc3cfad",
+  "date": "2026-09-18",
+  "glossaryVersion": "2026-09-18.3",
+  "editor": "Codex (Astra)",
+  "review": "AI 편집 초판",
+  "license": "CC BY-NC-SA 4.0",
+  "kind": "개요",
+  "sourceSnapshots": [
+    {
+      "id": "reception",
+      "title": "Skyscript: Reception",
+      "author": "Deborah Houlding",
+      "url": "https://www.skyscript.co.uk/glossary/reception/",
+      "locator": "표제 항목 본문",
+      "license": "CC BY-NC-SA 4.0",
+      "access": "본문 확인",
+      "checkedAt": "2026-09-18"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://techniques.horarytalk.com/sitemap.xml

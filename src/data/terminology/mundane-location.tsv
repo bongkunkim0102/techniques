@@ -1,0 +1,27 @@
+id|ko|aliases|definition|note|refs
+mundane-astrology|문데인 점성술|세계 점성술;mundane astrology|국가·사회·집단·역사적 사건을 대상으로 하는 분야.|문데인 디렉션의 공간 좌표 용법과 다르다.|mundane
+aries-ingress|양자리 인그레스|Aries ingress;춘분 인그레스|태양이 회귀황도 양자리 0도에 진입하는 순간의 차트.|해당 지역의 장소와 연간 유효 기간 규칙을 적는다.|mundane
+cardinal-ingresses|활동궁 인그레스|cardinal ingresses;분지점 차트|태양이 네 활동궁의 0도로 진입하는 순간의 차트.|양·게·천칭·염소 진입을 구별하고 하나의 차트로 합치지 않는다.|mundane
+great-conjunctions|대합|Great Conjunction;목성·토성 합|역사 문맥에서 주로 목성과 토성의 합을 이르는 말.|어떤 두 천체의 합인지 먼저 확인하고 다른 대합 용법을 배제하지 않는다.|mundane
+jupiter-saturn-cycles|목성·토성 주기|Jupiter-Saturn cycle;mutation|목성과 토성의 회합 및 그 반복 배치를 사용하는 분석.|개별 회합과 삼분성 이동 등의 더 긴 주기를 구별한다.|mundane
+outer-planet-cycles|외행성 주기|outer-planet cycles|느린 외행성 사이의 상대 운동을 집단적 주제와 연결하는 접근.|외행성의 범위와 서로 다른 회합쌍을 명시한다.|archetypal
+eclipse-mapping|식의 지도화|eclipse maps;식 경로 지도|식의 가시 영역 또는 점성술적 대응을 지도에 표시하는 방법.|천문학적 본영 경로와 점성술의 앵글 선은 서로 다른 지도다.|usno;acg
+mundane-lunations|문데인 삭망|mundane lunations|신월·보름달 차트를 사회적 사건의 해석에 사용하는 방식.|삭망차트의 장소와 해석 기간을 기록한다.|mundane
+national-charts|국가 차트|national horoscope;국운 차트|건국·독립·헌법 등의 사건으로 작성하는 국가의 기준차트.|한 국가에 서로 경쟁하는 여러 기준일과 시각이 있을 수 있다.|mundane
+foundation-charts|설립 차트|foundation horoscope;창립 차트|단체·도시·기관 등의 설립 사건을 기준으로 한 차트.|법적 등록·개소·첫 활동의 시각을 구별한다.|mundane
+financial-astrology|금융 점성술|financial astrology;경제 점성술|시장·가격·경제 주기를 점성술적 변수와 연결하는 분야.|기법 명칭을 수익이나 예측 정확도의 입증으로 서술하지 않는다.|vibrational;osf
+astrometeorology|기상 점성술|astrometeorology;weather astrology|천체 배치와 날씨의 대응을 해석하는 역사적·현대적 분야.|기상학의 관측·물리 모형과 같은 방법으로 설명하지 않는다.|mundane
+agricultural-astrology|농업 점성술|agricultural astrology;파종 점성술|파종·수확 등 농사 일정과 천체·역일을 연결하는 관행.|계절에 관한 천문 사실과 생육 효과의 주장을 구별한다.|mundane
+medical-astrology-as-historical-practice|역사적 의료 점성술|iatromathematics;medical astrology|질병·체질·치료 시기를 천체와 연결했던 역사적 실천.|전통의 체액론과 현대 의학의 진단 체계를 혼합하지 않는다.|lilly;casebooks
+decumbiture|데컴비처|decumbiture;와병 차트|병으로 자리에 눕는 때 등을 기준으로 작성하는 차트.|발병·와병·진료·소변 전달 중 어떤 사건을 기점으로 삼았는지 밝힌다.|casebooks;sky-d
+melothesia|신체·황도 대응|melothesia;멜로테시아;Zodiac Man|사인·천체와 신체 부위를 대응시키는 전통 체계.|상징적 대응표를 해부학적 인과관계로 옮기지 않는다.|casebooks;lilly
+astrological-talismans-as-historical-practice|역사적 점성 부적|astrological talisman;점성 마술|특정 천체 조건에 맞춰 물건·도상을 제작하는 역사적 관행.|원전의 제작 규칙·종교적 의미·효능 주장을 구분한다.|agrippa
+astrocartography|아스트로카토그래피|Astro*Carto*Graphy;ACG;점성지도|동일 순간 천체가 주요 앵글에 놓이는 지리적 위치를 그린 지도.|짐 루이스의 명칭과 일반적인 공간 점성술을 구별한다.|acg
+relocated-charts|리로케이션 차트|relocated chart;이주 차트|기준 순간은 유지하고 관측 장소를 바꾼 차트.|현지 시계 시간을 그대로 유지해 다른 순간을 만들지 않는다.|relocation-help
+local-space|로컬 스페이스|Local Space;로컬스페이스|관측지에서의 천체 방위 등을 공간적 방향으로 사용하는 기법.|ACG의 앵글 선과 지평좌표의 방위선을 구별한다.|local-space-help
+geodetic-equivalents|지오데틱 대응|geodetic equivalents;측지 대응|지리 경도를 황도 또는 MC 등에 대응시키는 점성술 규약.|실제 천체 위치를 관측한 지도와 다르며 영점 규약을 명시한다.|geodetic
+cyclocartography|사이클로카토그래피|Cyclo*Carto*Graphy;CCG|진행·트랜짓 등의 시간 변화를 점성지도에 적용하는 기법.|출생 순간에 고정된 ACG 지도와 구별한다.|acg-learning
+paran-mapping|파란 지도|paran mapping;paran lines|천체들의 동시 앵글 접촉 관계를 지리적으로 표시한 지도.|항성 파란과 행성 파란, 위도 띠와 국소 접촉점을 구별한다.|acg-learning;stars
+zenith-and-nadir-lines|천정·천저 선|zenith lines;nadir lines|공간 점성술 지도에서 천정·천저 관련 위치를 나타내는 표제.|천정은 관측자 바로 위다. MC·IC 선과 자동으로 동일시하지 않는다.|usno;acg
+relocation-latitude-effects|이주에 따른 위도 효과|relocation latitude|관측 위도 변화가 앵글·하우스·출몰에 주는 차이.|좌표상의 변화와 거주 경험의 해석을 구별한다.|usno;relocation-help
+travel-election-versus-relocation|여행 택일과 리로케이션 구분|travel election;relocation|출발 시각 선택과 기준차트 장소 변경의 구분.|프로젝트 비교 표제이며 독립된 제3의 기법명은 아니다.|sky-e;relocation-help

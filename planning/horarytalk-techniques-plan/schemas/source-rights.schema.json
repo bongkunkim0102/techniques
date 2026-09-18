@@ -1,0 +1,141 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:horarytalk:planning:source-rights:1",
+  "title": "자료별 권리 결정 계약 설계안",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "source_id",
+    "edition_id",
+    "policy_version",
+    "decisions",
+    "evidence",
+    "reviewed_by",
+    "reviewed_at"
+  ],
+  "properties": {
+    "source_id": {
+      "type": "string"
+    },
+    "edition_id": {
+      "type": "string"
+    },
+    "policy_version": {
+      "type": "string"
+    },
+    "decisions": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "automated_fetch",
+        "fulltext_storage",
+        "external_llm",
+        "translation_publication",
+        "image_publication"
+      ],
+      "properties": {
+        "automated_fetch": {
+          "type": "string",
+          "enum": [
+            "allowed",
+            "denied",
+            "unreviewed"
+          ]
+        },
+        "fulltext_storage": {
+          "type": "string",
+          "enum": [
+            "allowed",
+            "denied",
+            "unreviewed"
+          ]
+        },
+        "external_llm": {
+          "type": "string",
+          "enum": [
+            "allowed",
+            "denied",
+            "unreviewed"
+          ]
+        },
+        "translation_publication": {
+          "type": "string",
+          "enum": [
+            "allowed",
+            "denied",
+            "unreviewed"
+          ]
+        },
+        "image_publication": {
+          "type": "string",
+          "enum": [
+            "allowed",
+            "denied",
+            "unreviewed"
+          ]
+        }
+      }
+    },
+    "evidence": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "kind",
+          "reference"
+        ],
+        "properties": {
+          "kind": {
+            "enum": [
+              "license",
+              "permission",
+              "public_domain_assessment",
+              "contract",
+              "legal_review"
+            ]
+          },
+          "reference": {
+            "type": "string"
+          },
+          "restrictions": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "provider_scope": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "외부 전송이 허용된 사업자·계약 버전. 허용 값이 곧 모든 사업자 허용을 뜻하지 않는다."
+    },
+    "reviewed_by": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "reviewed_at": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "expires_at": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "retention_policy_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  }
+}

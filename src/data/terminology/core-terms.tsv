@@ -1,0 +1,84 @@
+id|en|ko|aliases|definition|note|refs
+astrology|Astrology|점성술|astrology;占星術|천체·역일의 배치와 지상의 삶을 상징적으로 연결하는 전통들의 총칭.|천체를 관측·설명하는 천문학과 구별한다.|hellenistic-texts
+natal-astrology|Natal astrology|출생 점성술|네이털;네이탈;genethlialogy;nativity|출생 순간의 차트를 대상으로 하는 점성술 분야.|natal을 국가의라는 뜻으로 오역하지 않는다.|lilly
+horary-astrology|Horary astrology|호라리 점성술|호러리;질문 점성술;interrogational astrology|질문의 성립 시점을 기점으로 답을 구하는 점성술 분야.|질문 인지·이해·접수 중 어떤 시각을 쓰는지 저자별로 남긴다.|sky-h
+zodiac-sign|Zodiac sign|사인|황도궁;sign;zōidion;ζῴδιον|황도를 열두 구간으로 나눈 각 30도 단위.|천문학의 실제 별자리와 구별한다.|usno;lilly
+constellation|Constellation|별자리|constellation;星座|천구상의 별 무리 또는 현대 천문학에서 경계로 정한 영역.|황도궁의 한국어 관용명에 ‘자리’가 있어도 같은 개념은 아니다.|usno
+house|House|하우스|house;宮;궁|관측 기준에 따라 차트를 열두 분야로 나누는 구획.|전통 영어의 행성 house는 사인의 도미사일을 뜻할 수도 있다.|lilly
+chart-radix|Radix chart|래딕스 차트|radix;radical chart;원차트;기준차트|다른 시점·파생 계산의 바탕이 되는 차트.|항상 출생차트만을 뜻하지는 않는다.|sky-r
+native|Native|차트의 당사자|native;명주;본인|출생차트가 대상으로 삼는 사람.|일반 영어의 원주민으로 번역하지 않는다.|lilly
+sun|Sun|태양|☉;Sol;Helios;Sūrya;Surya;सूर्य;日|점성술의 두 발광체 중 하나인 태양.|천문학에서는 항성이지만 전통의 행성 범주에 함께 포함되기도 한다.|usno;lilly
+moon|Moon|달|☽;Luna;Selene;Candra;Chandra;चन्द्र;月|지구의 자연 위성으로 차트의 주요 발광체.|월이라는 역일 단위와 문맥을 구별한다.|usno;lilly
+mercury|Mercury|수성|☿;Hermes;Budha;बुध;辰星|전통 일곱 행성 중 수성.|수은이라는 물질명과 구별하며 Budha를 Buddha와 혼동하지 않는다.|lilly
+venus|Venus|금성|♀;Aphrodite;Śukra;Shukra;शुक्र;太白|전통 일곱 행성 중 금성.|동명 신격과 실제 천체 및 차트 상징을 구별한다.|lilly
+mars|Mars|화성|♂;Ares;Maṅgala;Mangala;Kuja;मङ्गल;熒惑|전통 일곱 행성 중 화성.|길흉의 전통적 분류와 실제 행성의 물성을 구별한다.|lilly
+jupiter|Jupiter|목성|♃;Zeus;Guru;Bṛhaspati;Brihaspati;बृहस्पति;歲星|전통 일곱 행성 중 목성.|Guru는 일반 스승도 뜻하므로 문맥 없이 치환하지 않는다.|lilly
+saturn|Saturn|토성|♄;Kronos;Śani;Shani;शनि;鎮星|전통 일곱 행성 중 토성.|Kronos라는 우라니안 가상점과 그리스의 토성 이름을 구별한다.|lilly
+uranus|Uranus|천왕성|♅;Herschel;Uranus|근대에 발견되어 서양 현대 점성술에 편입된 행성.|고대의 일곱 행성 표에 원래부터 포함된 것처럼 쓰지 않는다.|jpl-bodies
+neptune|Neptune|해왕성|♆;Neptune;Poseidon|서양 현대 점성술에서 사용하는 외행성.|우라니안 가상점 Poseidon과 실제 해왕성을 구별한다.|jpl-bodies
+pluto|Pluto|명왕성|♇;Pluto;Hades|현대 점성술에서 사용하는 왜행성 명왕성.|천문학적 분류 변경과 점성술적 사용 여부는 다른 문제다.|jpl-bodies
+luminaries|Luminaries|발광체|lights;luminaries;兩曜;일월|점성술에서 태양과 달을 함께 부르는 말.|달이 스스로 빛을 낸다는 천문학적 주장으로 해석하지 않는다.|lilly
+classical-planets|Seven classical planets|전통의 일곱 행성|septener;일곱 유성;칠요;七曜|태양·달·수성·금성·화성·목성·토성의 전통적 묶음.|현대 천문학의 행성 분류와 다르다.|lilly
+benefic|Benefic|길성|benefic;fortune;길한 행성|전통적으로 도움과 유리함을 배정한 행성 분류.|행성의 자연적 분류와 차트에서의 실제 역할을 구별한다.|sky-b
+malefic|Malefic|흉성|malefic;infortune;흉한 행성|전통적으로 어려움과 손상을 배정한 행성 분류.|악인이나 언제나 나쁜 결과라는 뜻으로 옮기지 않는다.|sky-m
+north-node|North lunar node|북노드|상승교점;North Node;☊;용두;Caput Draconis|달이 황도면을 남쪽에서 북쪽으로 통과하는 교점.|관측된 물리 천체가 아니며 진·평균 모형을 표시한다.|usno
+south-node|South lunar node|남노드|하강교점;South Node;☋;용미;Cauda Draconis|달이 황도면을 북쪽에서 남쪽으로 통과하는 교점.|같은 교점 모형에서 북노드의 반대편이다.|usno
+rahu|Rahu|라후|Rāhu;राहु;라훼|조티샤에서 주로 달의 상승교점과 연결되는 그라하.|중국의 나후를 모든 시대에 같은 계산으로 치환하지 않는다.|bphs-basic
+ketu|Ketu|케투|Ketu;केतु|현대 조티샤에서 주로 달의 하강교점과 연결되는 그라하.|역사 문헌에서 혜성 등 다른 용법이 있는지 확인한다.|bphs-basic
+graha|Graha|그라하|graha;ग्रह|조티샤에서 천체·교점 등에 부여하는 작용 주체의 범주.|현대 천문학의 물리적 행성만을 뜻하지 않는다.|bphs-basic
+navagraha|Navagraha|나바그라하|navagraha;नवग्रह;아홉 그라하|일곱 전통 천체와 라후·케투를 묶은 체계.|아홉 물리 행성이라고 번역하지 않는다.|bphs-basic
+aries|Aries|양자리|백양궁;Aries;Meṣa;Mesha;白羊宮;♈|황도의 첫 사인으로 0도 이상 30도 미만의 구간.|황도 체계의 영점과 천문학적 별자리 경계를 구별한다.|lilly
+taurus|Taurus|황소자리|금우궁;Taurus;Vṛṣabha;Vrishabha;金牛宮;♉|황도의 둘째 사인으로 30도 이상 60도 미만의 구간.|절대황경 30도는 이 사인의 0도다.|lilly
+gemini|Gemini|쌍둥이자리|쌍자궁;Gemini;Mithuna;雙子宮;♊|황도의 셋째 사인으로 60도 이상 90도 미만의 구간.|이중 사인 분류와 실제 별자리의 모양은 다른 개념이다.|lilly
+cancer|Cancer|게자리|거해궁;Cancer;Karka;Karkaṭa;巨蟹宮;♋|황도의 넷째 사인으로 90도 이상 120도 미만의 구간.|원어가 질병인 암을 뜻하는 문맥과 구별한다.|lilly
+leo|Leo|사자자리|사자궁;Leo;Siṃha;Simha;獅子宮;♌|황도의 다섯째 사인으로 120도 이상 150도 미만의 구간.|회귀황도와 항성황도에서 동일한 천구 영역은 아니다.|lilly
+virgo|Virgo|처녀자리|처녀궁;Virgo;Kanyā;Kanya;室女宮;♍|황도의 여섯째 사인으로 150도 이상 180도 미만의 구간.|한국어 관용명과 원문의 상징 해석을 분리한다.|lilly
+libra|Libra|천칭자리|천칭궁;Libra;Tulā;Tula;天秤宮;♎|황도의 일곱째 사인으로 180도 이상 210도 미만의 구간.|항성 기준 천칭 0도를 추분점으로 자동 번역하지 않는다.|lilly
+scorpio|Scorpio|전갈자리|천갈궁;Scorpio;Vṛścika;Vrischika;天蠍宮;♏|황도의 여덟째 사인으로 210도 이상 240도 미만의 구간.|Scorpius라는 천문학적 별자리 표기와 용법을 구별한다.|lilly
+sagittarius|Sagittarius|사수자리|궁수자리;인마궁;Sagittarius;Dhanu;人馬宮;♐|황도의 아홉째 사인으로 240도 이상 270도 미만의 구간.|사수자리와 궁수자리는 검색 이명으로 함께 보존한다.|lilly
+capricorn|Capricorn|염소자리|마갈궁;Capricornus;Makara;磨羯宮;♑|황도의 열째 사인으로 270도 이상 300도 미만의 구간.|염소·바다염소·마카라 등의 전통 도상을 모두 같은 동물로 바꾸지 않는다.|lilly
+aquarius|Aquarius|물병자리|보병궁;Aquarius;Kumbha;寶瓶宮;♒|황도의 열한째 사인으로 300도 이상 330도 미만의 구간.|물 관련 이름이지만 서양 원소 분류에서는 공기 사인이다.|lilly
+pisces|Pisces|물고기자리|쌍어궁;Pisces;Mīna;Meena;雙魚宮;♓|황도의 열두째 사인으로 330도 이상 360도 미만의 구간.|360도는 다음 주기의 양자리 0도로 환산한다.|lilly
+cardinal-signs|Cardinal signs|활동 사인|활동궁;cardinal;movable signs|양·게·천칭·염소의 사인 묶음.|하우스의 앵귤러 분류와 별개다.|lilly
+fixed-signs|Fixed signs|고정 사인|고정궁;fixed;sthira|황소·사자·전갈·물병의 사인 묶음.|항성이라는 fixed star의 뜻과 구별한다.|lilly
+mutable-signs|Mutable signs|변통 사인|변통궁;mutable;common;dual;이중 사인|쌍둥이·처녀·사수·물고기의 사인 묶음.|저자에 따라 double-bodied의 범위나 강조가 달라질 수 있다.|lilly
+four-elements|Four elements|네 원소|fire;earth;air;water;불;흙;공기;물|서양 전통에서 사인 등을 불·흙·공기·물로 분류하는 체계.|화학의 원소나 동아시아 오행과 같은 분류가 아니다.|lilly
+aspect|Aspect|애스펙트|각;aspect;시선 관계|천체·사인·계산점 사이의 특정 각 관계.|황경·적위·사인 단위 등 사용하는 좌표와 기준을 적는다.|lilly
+conjunction|Conjunction|컨정션|합;conjunction;☌|황경 등의 선택 좌표에서 같은 위치에 가까워지는 관계.|정확한 0도와 오브 이내의 합을 구별한다.|lilly
+opposition|Opposition|오포지션|충;opposition;☍|황경상 180도를 기준으로 한 애스펙트.|천구상의 실제 각거리 180도와는 황위 때문에 다를 수 있다.|lilly
+trine|Trine|트라인|삼분각;trine;△|황경상 120도를 기준으로 한 애스펙트.|사인 트라인과 도수 트라인의 성립 조건을 구별한다.|lilly
+square|Square|스퀘어|사분각;square;□|황경상 90도를 기준으로 한 애스펙트.|오른쪽·왼쪽 또는 상위·하위 방향을 원문에 따라 보존한다.|lilly
+sextile|Sextile|섹스타일|육분각;sextile;⚹|황경상 60도를 기준으로 한 애스펙트.|60각분과 혼동하지 않는다.|lilly
+quincunx|Quincunx|퀸컨스|inconjunct;quincunx;150도 각|현대 점성술에서 주로 150도의 애스펙트.|전통의 어버전이 언제나 이 각만을 뜻하지는 않는다.|sky-q
+semisextile|Semisextile|세미섹스타일|semi-sextile;30도 각|황경상 30도를 기준으로 한 애스펙트.|홀사인 전통에서 인접 사인을 보지 못한다고 하는 정의와 구별한다.|sky-s
+semisquare|Semisquare|세미스퀘어|semi-square;45도 각|황경상 45도를 기준으로 한 애스펙트.|45도 다이얼의 주기와 개별 각 명칭은 별개다.|uranian
+sesquiquadrate|Sesquiquadrate|세스퀴쿼드레이트|sesquisquare;135도 각|황경상 135도를 기준으로 한 애스펙트.|스퀘어 90도와 혼동하지 않는다.|uranian
+quintile|Quintile|퀸타일|quintile;72도 각|황경상 72도를 기준으로 한 5분할 계열 애스펙트.|하모닉 5의 모든 배수각과 단일 72도를 구별한다.|harmonic-help
+biquintile|Biquintile|바이퀸타일|bi-quintile;144도 각|황경상 144도를 기준으로 한 애스펙트.|퀸타일의 두 배이며 150도 퀸컨스와 다르다.|harmonic-help
+septile|Septile|셉타일|septile;7분할각|원을 일곱으로 나눈 약 51.43도의 애스펙트.|정확한 분수 360/7과 반올림값을 구별한다.|harmonic-help
+novile|Novile|노바일|novile;40도 각|원을 아홉으로 나눈 40도의 애스펙트.|D9 바르가의 모든 계산 규칙과 동일시하지 않는다.|harmonic-help
+moiety|Moiety|모이어티|moiety;오브의 절반|행성 오브의 절반을 사용하는 전통적 접촉 기준.|두 행성의 반오브 합과 현대의 단일 애스펙트 오브를 구별한다.|sky-m
+partile-and-platick|Partile and platick|파틸과 플래틱|partile;partil;platick;platic|긴밀한 도수 접촉과 더 넓은 오브 내 접촉의 전통적 구분.|파틸을 항상 오차 0초의 정확각으로 옮기지 않는다.|sky-p
+dexter-and-sinister|Dexter and sinister aspects|오른쪽 각과 왼쪽 각|dexter;sinister;right-hand;left-hand|황도 진행 방향에 대한 애스펙트의 방향 구분.|화면의 오른쪽·왼쪽만으로 판단하지 않으며 선악의 뜻도 아니다.|sky-d
+promissor|Promissor|프로미서|promissor;promittor|디렉션에서 사건의 성격 등을 가져오는 요소를 부르는 말.|저자에 따라 움직이는 점과 고정점의 호칭이 다르므로 역할을 확인한다.|gansten-directions
+time-lord|Time-lord|타임로드|시기 주인;chronocrator;chronokratōr|특정 기간의 의미를 맡도록 선정한 행성·사인 등의 주인.|현재 트랜짓 행성 전체를 뜻하지 않는다.|valens-summary
+lord-of-the-year|Lord of the year|연주인|연간 주인;lord of the year|해당 해를 대표하도록 기법별로 선정하는 주인.|프로펙션의 연주인과 타지카 바르셰샤는 선정법이 다르다.|profections;tajika-full
+bound|Bound or term|텀|바운드;bound;term;horion;ὅριον|사인 내부를 행성 주인별로 나눈 불균등 구간.|일반 영어의 용어라는 term과 구별한다.|lilly
+decan-face|Decan or face|데칸·페이스|decan;decanate;face|황도 사인의 10도 구획 또는 그 지배권.|고대 이집트의 데칸 별 집단과 역사적 용법을 구별한다.|lilly
+dispositor|Dispositor|디스포지터|dispositor;배치의 주인|행성이 놓인 사인 등의 지배권을 가진 다른 행성.|일반적으로 사인 주인이지만 저자가 다른 디그니티를 쓰는지 확인한다.|sky-d
+kendra|Kendra|켄드라|kendra;केन्द्र;인도 각 하우스|기준점에서 1·4·7·10번째 하우스의 묶음.|달·라그나 등 무엇을 기준으로 세는지 표시한다.|bphs-basic
+trikona|Trikona|트리코나|trikoṇa;त्रिकोण;트라인 하우스|주로 기준점에서 1·5·9번째를 묶는 하우스 분류.|삼각 애스펙트와 하우스 분류라는 두 용법을 구별한다.|bphs-basic
+dusthana|Dusthana|두스타나|duḥsthāna;dusthana;불리한 하우스|주로 6·8·12하우스를 묶는 인도의 분류.|각 하우스의 모든 의미가 나쁘다는 뜻으로 단순화하지 않는다.|bphs-basic
+upachaya|Upachaya|우파차야|upacaya;성장 하우스|통상 3·6·10·11하우스의 성장 관련 묶음.|두스타나 등 다른 분류와 중복될 수 있다.|bphs-basic
+yoga|Yoga|요가|yoga;योग;행성 조합|조티샤에서 특정 조건의 천체·하우스 조합을 가리키는 말.|신체 수행법 또는 판창가의 니티야 요가와 구별한다.|bphs-yoga
+dasha|Dasha|다샤|daśā;dasa;दशा;기간 체계|생애나 다른 기간을 행성·사인 등의 구간으로 나누는 체계.|하나의 고정 규칙이 아니라 빔쇼타리 등 여러 체계의 총칭이다.|bphs-dasha
+nakshatra-lord|Nakshatra lord|낙샤트라 주인|star lord;nakshatra lord|낙샤트라 구간에 배정되는 주인 행성.|낙샤트라의 주재 신격과 행성 주인은 다르다.|bphs-dasha
+arcminute|Arcminute|각분|arcminute;분각;′|1도의 60분의 1인 각도 단위.|시간의 1분과 구별하고 도·각분·각초를 보존한다.|usno
+arcsecond|Arcsecond|각초|arcsecond;초각;″|1각분의 60분의 1인 각도 단위.|소수도와 육십진수 표기를 혼용하지 않는다.|usno
+azimuth|Azimuth|방위각|azimuth;方位角|지평선을 따라 기준 방향에서 잰 각도.|북→동과 남→서 등 기점·증가 방향이 다른 규약을 명시한다.|usno;local-space-help
+altitude|Altitude|고도|altitude;elevation;高度|천체와 지평선 사이의 각거리.|기하학적 고도와 대기굴절을 적용한 겉보기 고도를 구별한다.|usno
+zenith|Zenith|천정|zenith;天頂|관측자 바로 위의 천구상 점.|황도와 자오선의 교점인 MC와 다르다.|usno
+nadir|Nadir|천저|nadir;天底|관측자 바로 아래 방향의 천구상 점.|IC를 관용적으로 천저점이라 부르는 경우와 기하학적 천저를 구별한다.|usno
+ephemeris|Ephemeris|천문력|ephemeris;ephemerides;천체력|시각에 따른 천체 위치 등의 표 또는 계산 자료.|역서의 길흉 해석과 천문 계산 데이터를 구별한다.|usno
+local-mean-time|Local mean time|지방평균시|LMT;지방 평균 태양시|해당 경도에서 평균 태양을 기준으로 정하는 시각.|표준시와 다르며 법정 시간대가 정착되기 전 기록에서 중요하다.|usno
+local-apparent-time|Local apparent time|지방시태양시|LAT;apparent solar time;진태양시|겉보기 태양의 일주 위치로 정하는 지방 시각.|지방평균시와의 균시차를 어느 부호로 적용하는지 기록한다.|usno

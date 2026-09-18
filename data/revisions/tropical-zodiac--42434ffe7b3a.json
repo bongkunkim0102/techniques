@@ -1,0 +1,52 @@
+{
+  "id": "tropical-zodiac",
+  "title": "회귀황도",
+  "en": "Tropical zodiac",
+  "tradition": "공통 계산 · 서양",
+  "summary": "춘분점을 양자리 0°로 삼는 황도 좌표 체계입니다. 사인과 실제 별자리의 경계는 같은 것이 아닙니다.",
+  "sections": [
+    {
+      "title": "기준점을 먼저",
+      "paragraphs": [
+        "어떤 천체의 황경을 표시할 때에는 영점의 기준이 필요합니다. 회귀황도와 항성황도를 혼합하면 동일한 시각의 천체가 서로 다른 사인에 표시될 수 있습니다."
+      ],
+      "refs": [
+        "swiss"
+      ]
+    },
+    {
+      "title": "비교 기록",
+      "paragraphs": [
+        "황도 종류, 날짜, 좌표계와 보정 설정을 함께 남기세요. 단지 별자리라는 한국어 표현만으로 열두 사인인지 실제 천구 별자리인지 판단하지 않습니다."
+      ],
+      "refs": []
+    }
+  ],
+  "related": [
+    "sidereal-zodiac",
+    "ayanamsha",
+    "precession"
+  ],
+  "refs": [
+    "swiss"
+  ],
+  "revision": "42434ffe7b3a",
+  "date": "2026-09-18",
+  "glossaryVersion": "2026-09-18.2",
+  "editor": "Codex (Astra)",
+  "review": "AI 편집 초판",
+  "license": "HoraryTalk 독자 해설",
+  "kind": "개요",
+  "sourceSnapshots": [
+    {
+      "id": "swiss",
+      "title": "Swiss Ephemeris Programmer’s Manual",
+      "author": "Astrodienst · Dieter Koch · Alois Treindl",
+      "url": "https://www.astro.com/swisseph/swephprg.htm",
+      "locator": "Sidereal calculations; House calculation; Julian day functions",
+      "license": "참고·독자 해설",
+      "access": "본문 확인",
+      "checkedAt": "2026-09-18"
+    }
+  ]
+}

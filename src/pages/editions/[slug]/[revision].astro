@@ -1,0 +1,6 @@
+---
+import Base from '../../../layouts/Base.astro';import Article from '../../../components/Article.astro';import {revisions} from '../../../lib/revisions.mjs';
+export function getStaticPaths(){return revisions.map(article=>({params:{slug:article.id,revision:article.revision},props:{article}}));}
+const {article}=Astro.props;
+---
+<Base title={`${article.title} · 고정 인용판`} description={article.summary} noindex><div data-pagefind-ignore><Article article={article} archived /></div></Base>

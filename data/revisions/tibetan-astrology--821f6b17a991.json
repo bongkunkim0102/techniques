@@ -1,0 +1,73 @@
+{
+  "id": "tibetan-astrology",
+  "title": "티베트 점성술",
+  "en": "Tibetan astrology",
+  "tradition": "티베트",
+  "summary": "티베트의 역산·성점 전통을 다루는 포괄 항목입니다. 고유 전승과 중국·인도에서 전해진 요소를 함께 구별합니다.",
+  "sections": [
+    {
+      "title": "기관의 자기 설명",
+      "paragraphs": [
+        "Men-Tsee-Khang은 티베트 고유 요소와 중국계·인도계 전승을 나누어 소개합니다. 백산과 흑산이라는 명칭을 선악이나 현대 인종 분류로 번역하지 않습니다."
+      ],
+      "refs": [
+        "tibetan"
+      ]
+    },
+    {
+      "title": "현행 실천과 역사 서술",
+      "paragraphs": [
+        "이 기관은 교육과 역서 발행, 여러 종류의 상담 업무를 소개합니다. 기관이 자신의 전승을 설명한 내용과 역사학적으로 독립 검증된 연대는 구분해서 읽어야 합니다."
+      ],
+      "refs": [
+        "tibetan-institute"
+      ]
+    },
+    {
+      "title": "연결해서 읽기",
+      "paragraphs": [
+        "원소 계열, 백산, 흑산, 칼라차크라 역법은 서로 관련되지만 동일한 독립 기법의 동의어는 아닙니다. 후속 문서는 해당 전통의 원어 분류를 유지합니다."
+      ],
+      "refs": []
+    }
+  ],
+  "related": [
+    "tibetan-elemental-astrology",
+    "tibetan-white-calculations",
+    "tibetan-black-calculations",
+    "kalachakra-calendar"
+  ],
+  "refs": [
+    "tibetan",
+    "tibetan-institute"
+  ],
+  "revision": "821f6b17a991",
+  "date": "2026-09-18",
+  "glossaryVersion": "2026-09-18.1",
+  "editor": "Codex (Astra)",
+  "review": "AI 편집 초판",
+  "license": "HoraryTalk 독자 해설",
+  "kind": "개요",
+  "sourceSnapshots": [
+    {
+      "id": "tibetan",
+      "title": "Introduction to Tibetan Astrology",
+      "author": "Men-Tsee-Khang",
+      "url": "https://mentseekhang.org/introduction-to-tibetan-astrology/",
+      "locator": "rGya-rTsis / dKar-rTsis / Kālacakra 절",
+      "license": "참고·독자 해설",
+      "access": "본문 확인",
+      "checkedAt": "2026-09-18"
+    },
+    {
+      "id": "tibetan-institute",
+      "title": "Astro-Science Department: Introduction",
+      "author": "Men-Tsee-Khang",
+      "url": "https://mentseekhang.org/introduction-2/",
+      "locator": "기관의 교육·역서·업무 소개",
+      "license": "참고·독자 해설",
+      "access": "본문 확인",
+      "checkedAt": "2026-09-18"
+    }
+  ]
+}

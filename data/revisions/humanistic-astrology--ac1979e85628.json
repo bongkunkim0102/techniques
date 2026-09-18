@@ -1,0 +1,52 @@
+{
+  "id": "humanistic-astrology",
+  "title": "인본주의 점성술",
+  "en": "Humanistic astrology",
+  "tradition": "현대 서양 · 루디아르",
+  "summary": "개인의 경험과 성장, 주기적 변화를 중심에 두는 현대 점성술의 한 흐름입니다. 이 문서는 루디아르의 주기 접근을 입구로 삼습니다.",
+  "sections": [
+    {
+      "title": "루디아르의 주기 읽기",
+      "paragraphs": [
+        "삭망에 대한 루디아르의 글은 두 천체 사이에서 전개되는 관계를 강조합니다. 같은 천문 배치라도 사건의 예고와 경험의 의미를 논하는 설명은 구별하여 읽어야 합니다."
+      ],
+      "refs": [
+        "lunar-cycle"
+      ]
+    },
+    {
+      "title": "범위와 전승",
+      "paragraphs": [
+        "인본주의·심리·초개인 점성술을 하나의 이름으로 합치지 않습니다. 이 초판은 루디아르 저작 한 편에 연결된 개요이며 각 계통 전체의 역사나 효과를 검증한 문서는 아닙니다."
+      ],
+      "refs": []
+    }
+  ],
+  "related": [
+    "psychological-astrology",
+    "transpersonal-astrology",
+    "lunar-phases"
+  ],
+  "refs": [
+    "lunar-cycle"
+  ],
+  "revision": "ac1979e85628",
+  "date": "2026-09-18",
+  "glossaryVersion": "2026-09-18.3",
+  "editor": "Codex (Astra)",
+  "review": "AI 편집 초판",
+  "license": "HoraryTalk 독자 해설",
+  "kind": "개요",
+  "sourceSnapshots": [
+    {
+      "id": "lunar-cycle",
+      "title": "A New Type of Lunation Guidance",
+      "author": "Dane Rudhyar",
+      "url": "https://khaldea.com/rudhyar/astroarticles/lunationguidance.php",
+      "locator": "태양·달의 관계 주기와 위치 주기의 구별",
+      "license": "참고·독자 해설",
+      "access": "본문 확인",
+      "checkedAt": "2026-09-18"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+id|ko|aliases|definition|note|refs
+qizheng-siyu|칠정사여|七政四餘;七政四余;Qizheng Siyu|해·달·오행성과 네 여기를 사용하는 성명술 계열.|사여를 네 개의 관측된 물리 행성으로 설명하지 않는다.|xingming
+guolao-xingzong|과로성종|果老星宗;Guolao Xingzong|칠정사여 관련 성명술을 수록한 문헌.|장과로에 대한 전승상 귀속과 실제 편찬·판본을 구별한다.|guolao
+xingming-suyuan|성명소원|星命溯源;Xingming Suyuan|성명술 규칙을 모은 문헌으로 사고전서에도 수록된 책.|저자 귀속의 불확실성을 제요의 설명대로 남긴다.|xingming
+twenty-eight-lunar-lodges|28수|이십팔수;二十八宿;宿;28 xiu|기준 항성들을 따라 설정한 동아시아의 스물여덟 천구 구획.|현대 황경의 28등분이나 인도 27낙샤트라와 동일하지 않다.|xingming;chinese-horoscopy
+equatorial-lodges-versus-ecliptic-signs|적도수와 황도궁의 구분|宿度;宮度;equatorial lodges|적도 기준의 수 구획과 황도상의 궁 구획을 구별하는 편집 표제.|둘의 좌표·경계·시대 차이를 유지한다.|chinese-horoscopy
+chinese-planetary-astrology|중국 행성 점성술|星命術;星學;성명술|행성의 위치와 궁·수 등을 개인 운명과 연결하는 중국의 전통들.|천문 징조를 국가에 적용하는 성점 및 사주와 구별한다.|chinese-horoscopy
+luohou-and-jidu|나후와 계도|羅睺;罗睺;計都;计都;Luohou;Jidu|인도 라후·케투와 전승상 연결되는 중국의 두 여기.|시대에 따라 계산·개념이 바뀌므로 오늘날 노드와 무조건 같다고 쓰지 않는다.|chinese-horoscopy
+ziqi-and-yuebei|자기와 월패|紫氣;紫气;月孛;Ziqi;Yuebei|칠정사여의 사여를 구성하는 두 요소.|자기의 가상 주기와 월패의 궤도 관련 설명은 원전의 계산을 따른다.|xingming;chinese-horoscopy
+qintang-tradition|금당 계통|琴堂;Qintang|금당이라는 문헌·전승 명칭과 연결된 성명술 계열.|특정 단일 저자·단일 계산법을 뜻한다고 단정하지 않는다.|xingming
+chinese-historical-solar-lunar-calendars|중국 역사 태음태양력|太陰太陽曆;Chinese lunisolar calendar|삭망월과 태양의 연주기를 윤달 등으로 조정한 역법군.|현재 중국력의 규칙을 모든 왕조의 역법에 소급하지 않는다.|hko-calendar
+japanese-sukuyodo|일본 숙요도|宿曜道;Sukuyōdō;숙요도|숙요경 등의 수용과 함께 전개된 일본의 점성 전통.|현대의 27숙 궁합만으로 역사 전체를 설명하지 않는다.|kotyk-sukuyo
+sukuyokyo|숙요경|宿曜經;宿曜経;T1299;Sukuyōkyō|날짜·숙·칠요의 길흉 등을 설명하는 불교계 문헌.|통칭과 정식 표제, 번역자 전승과 편집 과정을 구별한다.|sukuyo-text
+sukuyo-lunar-mansions|숙요의 수|宿曜二十七宿;숙요 27수|숙요 전통에서 생일·날짜 등에 배정하는 달의 구획.|역일 배정 숙과 천문학적으로 관측한 달의 위치가 같다고 가정하지 않는다.|sukuyo-text;kotyk-sukuyo
+japanese-onmyodo-astral-techniques|음양도의 천문·성점 기법|陰陽道;Onmyōdō;온묘도|일본 음양도에서 역법·천문·길흉 판단을 다루는 기법군.|숙요도와 역사적으로 접촉하지만 완전히 같은 전통은 아니다.|kotyk-sukuyo
+korean-historical-astral-divination|한국 역사 성점|星占;천문 점후;성변 점후|천체의 변화·징조를 해석했던 한국의 역사적 실천.|관측 기록과 그 정치·의례적 해석을 별도 층위로 읽는다.|korean-astral
+korean-astronomical-almanacs|한국 역서 전통|曆書;칠정력;七政算;칠정산|역일·천체 위치·시간 등을 계산하고 반포한 전통.|역산의 정확성과 점복의 해석 타당성을 동일시하지 않는다.|korean-calendar
+tibetan-astrology|티베트 점성술|rtsis;Tibetan astro-science|티베트 토착·중국계·인도계 역산과 점복이 결합한 전통.|한 가지 계산법으로 축소하지 않으며 전승상 기원과 역사적 연대를 구별한다.|tibetan
+tibetan-elemental-astrology|티베트 원소 점성술|’byung rtsis;byung rtsis;중치|오원소·동물·괘·숫자 관계로 역일과 운세를 해석하는 체계.|서양의 네 원소와 다르며 흑산 계열과 겹치는 명칭이다.|tibetan
+tibetan-white-calculations|티베트 백산 계통|dkar rtsis;카르치;백산|인도계 천문·역산과 연결되는 티베트의 계산 전통.|서양의 주간 섹트나 선한 점성술이라는 뜻이 아니다.|tibetan
+tibetan-black-calculations|티베트 흑산 계통|nag rtsis;나크치;흑산|중국계 원소·역일 계산과 연결되는 티베트 전통.|선악을 뜻하는 번역을 피하며 원소 점성술과의 중복 관계를 남긴다.|tibetan
+kalachakra-calendar|칼라차크라 역법|Kālacakra;時輪;시륜 역법|칼라차크라 전승을 바탕으로 한 티베트 역산 계열.|인도 예측 기법인 칼라차크라 다샤와 다르다.|tibetan-calendar
+mewa|메와|sme ba;Mewa;Meva;구궁수|티베트 원소 점성술에서 사용하는 아홉 숫자·색의 순환.|점이나 모반이라는 일반어 뜻과 기술어를 구별한다.|tibetan-elements
+parkha|파르카|spar kha;Parkha;Parkha gye;팔괘|티베트 점복에서 사용하는 여덟 괘 체계.|중국 팔괘와 전승상 연결되지만 배정 규칙을 원전별로 확인한다.|tibetan-elements
+tibetan-life-force-calculations|티베트 생명력 관련 계산|srog;la;dbang thang;rlung rta|생명·몸·권세·운 등의 요소 관계를 다루는 전통 계산군.|서로 다른 티베트 기술어를 하나의 생명 에너지로 평탄화하지 않는다.|tibetan-elements
+tibetan-animal-element-cycles|티베트 동물·원소 주기|12 animals;five elements;육십년 주기|동물·원소·음양 등의 조합으로 연도 등을 배정하는 체계.|오원소의 명칭과 연초 규약을 중국·서양식으로 임의 대체하지 않는다.|tibetan
+tibetan-almanac-selection|티베트 역서의 날짜 선택|Tibetan almanac;택일|역서의 여러 길흉 조건으로 활동 날짜를 고르는 관행.|지역·전승별 역서와 서로 다른 일 경계를 명시한다.|tibetan-calendar
+bon-astral-traditions|뵌교 성점 전통|Bön;Bon;뵌교 점성술|뵌교 전승에 포함되는 점성·역산·점복 관행.|전승 내부의 신성한 기원 서술과 역사학적 연대는 구별한다.|bon
+ziwei-doushu|자미두수|紫微斗數;紫微斗数;Ziwei Doushu|역일과 시각에 따라 명반의 별들을 배치하는 동아시아 술수.|대부분의 배치가 실제 행성 황경을 직접 옮긴 것이라는 설명을 피한다.|ziwei
+four-pillars-bazi|사주팔자|四柱八字;八字;BaZi;바쯔|연·월·일·시의 간지 네 기둥으로 해석하는 명리 체계.|행성 위치로 만드는 출생차트와 다르며 절기·시각 규약을 명시한다.|bazi
+qimen-dunjia|기문둔갑|奇門遁甲;奇门遁甲;Qimen Dunjia|시간·방위·구궁 등의 배치를 사용하는 중국 술수.|서양 호라리의 하우스 배정과 동일한 체계로 번역하지 않는다.|chinese-divination
+taiyi-divination|태을|太乙;太一;Taiyi|태을의 운행과 수리 배치 등을 사용하는 중국의 술수 계열.|태일이라는 신격명·문헌명·계산법을 문맥으로 구별한다.|chinese-divination
+daliuren|대육임|大六壬;六壬;Da Liu Ren|간지·월장 등의 관계로 과전 등을 세우는 중국 술수.|사주·기문둔갑과 서로 다른 절차를 보존한다.|chinese-divination
+thai-astrology|태국 점성술|โหราศาสตร์;Horasat;호라삿|태국에서 전승된 행성·역일·택일 등의 점성 관행군.|지역·문헌·인도계 요소의 차이를 하나의 고정 규칙으로 합치지 않는다.|thai-manuscript
+burmese-mahabote|미얀마 마하보테|Mahabote;Mahābote;마하보트|미얀마의 출생 연도·요일 등을 활용하는 배당 점성 체계.|8요일 동물 배정 전체와 동일시하지 않는다.|mahabote;myanmar-calendar
+burmese-eight-day-astrology|미얀마 8요일 점성술|eight-day astrology;Wednesday Rahu|수요일을 나누어 여덟 요일 자리에 천체·동물 등을 배정하는 체계.|한 주의 물리적 길이가 8일이라는 뜻이 아니다.|myanmar-calendar
+sri-lankan-astrology|스리랑카 점성술|Sri Lankan astrology;스리랑카 조티샤|스리랑카의 지역 언어·불교·인도계 전승과 함께 발전한 점성 관행군.|싱할라와 타밀 자료 및 지역의 택일 전통을 구별한다.|sri-lanka
+balinese-calendrical-divination|발리 역일 점복|Pawukon;파우콘;Saka calendar|발리의 복수 역일 주기와 길흉 판단을 결합한 관행.|210일 파우콘과 태음태양력 사카를 구별한다.|bali-calendar
+mesoamerican-calendrical-divination|메소아메리카 역일 점복|Tzolk’in;Chol Q’ij;Tonalpohualli;촐킨|숫자·날 이름의 주기 등을 이용하는 메소아메리카 점복 전통군.|마야·아즈텍 계통과 현대 재구성을 구별한다.|maya-calendar
+historical-versus-reconstructed-traditions|역사 전통과 현대 재구성|historical tradition;reconstruction|현전 역사 자료의 관행과 현대에 복원·창안한 체계를 구별하는 편집 기준.|오래된 이름이나 상징만으로 규칙의 연속성을 입증하지 않는다.|kotyk-sukuyo;chinese-horoscopy

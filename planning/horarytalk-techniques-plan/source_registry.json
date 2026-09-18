@@ -1,0 +1,709 @@
+{
+  "as_of": "2026-09-18",
+  "scope": "planning_registry_not_corpus",
+  "sources": [
+    {
+      "id": "S01",
+      "name": "Karpathy LLM Wiki 구상",
+      "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+      "kind": "wiki-pattern",
+      "planned_use": "원문 보존, 지속적 연결 문서, 수집·질의·정합성 검사",
+      "checked_at": "2026-09-18",
+      "inspection": "page_reviewed",
+      "rights_note": "unknown",
+      "bulk_content_collected": false,
+      "permissions": {
+        "fetch_automatically": "unreviewed",
+        "store_full_text": "unreviewed",
+        "send_to_external_llm": "unreviewed",
+        "publish_translation": "unreviewed",
+        "publish_images": "unreviewed"
+      },
+      "note": "자료원 탐색·계획용 기록이며 수집·번역·공개 승인서가 아님."
+    },
+    {
+      "id": "S02",
+      "name": "Microsoft LLM Wiki",
+      "url": "https://github.com/microsoft/llmwiki",
+      "kind": "wiki-pattern",
+      "planned_use": "VS Code 확장과 core/MCP 구조; 공개 CMS와 구분",
+      "checked_at": "2026-09-18",
+      "inspection": "readme_reviewed",
+      "rights_note": "MIT_code_only",
+      "bulk_content_collected": false,
+      "permissions": {
+        "fetch_automatically": "unreviewed",
+        "store_full_text": "unreviewed",
+        "send_to_external_llm": "unreviewed",
+        "publish_translation": "unreviewed",
+        "publish_images": "unreviewed"
+      },
+      "note": "자료원 탐색·계획용 기록이며 수집·번역·공개 승인서가 아님."
+    },
+    {
+      "id": "S03",
+      "name": "Quartz",
+      "url": "https://quartz.jzhao.xyz/",
+      "kind": "wiki-pattern",
+      "planned_use": "위키링크, 역링크, 팝오버, 그래프, 정적 출판",
+      "checked_at": "2026-09-18",
+      "inspection": "page_reviewed",
+      "rights_note": "check_code_and_content_separately",
+      "bulk_content_collected": false,
+      "permissions": {
+        "fetch_automatically": "unreviewed",
+        "store_full_text": "unreviewed",
+        "send_to_external_llm": "unreviewed",
+        "publish_translation": "unreviewed",
+        "publish_images": "unreviewed"
+      },
+      "note": "자료원 탐색·계획용 기록이며 수집·번역·공개 승인서가 아님."
+    },
+    {
+      "id": "S04",
+      "name": "MediaWiki 문서 역사",
+      "url": "https://www.mediawiki.org/wiki/Help:History",
+      "kind": "wiki-pattern",
+      "planned_use": "버전, 차이 비교, 되돌리기 UX",
+      "checked_at": "2026-09-18",
+      "inspection": "page_reviewed",
+      "rights_note": "check_page_license",
+      "bulk_content_collected": false,
+      "permissions": {
+        "fetch_automatically": "unreviewed",
+        "store_full_text": "unreviewed",
+        "send_to_external_llm": "unreviewed",
+        "publish_translation": "unreviewed",
+        "publish_images": "unreviewed"
+      },
+      "note": "자료원 탐색·계획용 기록이며 수집·번역·공개 승인서가 아님."
+    },
+    {
+      "id": "S05",
+      "name": "Wikidata Statements",
+      "url": "https://www.wikidata.org/wiki/Help:Statements",
+      "kind": "knowledge-model",
+      "planned_use": "주장, 한정자, 근거, 여러 값의 병렬 보존",
+      "checked_at": "2026-09-18",
+      "inspection": "page_reviewed",
+      "rights_note": "namespace_specific",
+      "bulk_content_collected": false,
+      "permissions": {
+        "fetch_automatically": "unreviewed",
+        "store_full_text": "unreviewed",
+        "send_to_external_llm": "unreviewed",
+        "publish_translation": "unreviewed",
+        "publish_images": "unreviewed"
+      },
+      "note": "자료원 탐색·계획용 기록이며 수집·번역·공개 승인서가 아님."
+    },
+    {
+      "id": "S06",
+      "name": "Stanford Encyclopedia of Philosophy 소개",
+      "url": "https://plato.stanford.edu/about.html",
+      "kind": "editorial-pattern",
+      "planned_use": "전문 편집·심사·고정 인용판",
+      "checked_at": "2026-09-18",
+      "inspection": "page_reviewed",
+      "rights_note": "reference_only_pending_permission",
+      "bulk_content_collected": false,
+      "permissions": {
+        "fetch_automatically": "unreviewed",
+        "store_full_text": "unreviewed",
+        "send_to_external_llm": "unreviewed",
+        "publish_translation": "unreviewed",
+        "publish_images": "unreviewed"
+      },
+      "note": "자료원 탐색·계획용 기록이며 수집·번역·공개 승인서가 아님."
+    },
+    {
+      "id": "S07",
+      "name": "Skyscript 전통 점성술 문헌 목록",
+      "url": "https://www.skyscript.co.uk/texts.html",
+      "kind": "astrology-catalog",
+      "planned_use": "고대·중세·근대 문헌 발견 및 판본 탐색",
+      "checked_at": "2026-09-18",
+      "inspection": "catalog_reviewed",
+      "rights_note": "per_work_and_edition_review",
+      "bulk_content_collected": false,
+      "permissions": {
+        "fetch_automatically": "unreviewed",
+        "store_full_text": "unreviewed",
+        "send_to_external_llm": "unreviewed",
+        "publish_translation": "unreviewed",
+        "publish_images": "unreviewed"
+      },
+      "note": "자료원 탐색·계획용 기록이며 수집·번역·공개 승인서가 아님."
+    },
+    {
+      "id": "S08",
+      "name": "Skyscript 저작권 안내",
+      "url": "https://www.skyscript.co.uk/legal.html",
+      "kind": "rights",
+      "planned_use": "저자별 저작권 및 번역·도판 재사용 허가",
+      "checked_at": "2026-09-18",
+      "inspection": "page_reviewed",
+      "rights_note": "permission_required_for_reproduction",
+      "bulk_content_collected": false,
+      "permissions": {
+        "fetch_automatically": "unreviewed",
+        "store_full_text": "unreviewed",
+        "send_to_external_llm": "unreviewed",
+        "publish_translation": "unreviewed",
+        "publish_images": "unreviewed"
+      },
+      "note": "자료원 탐색·계획용 기록이며 수집·번역·공개 승인서가 아님."
+    },
+    {
+      "id": "S09",
+      "name": "The Astrology Podcast: Zodiacal Releasing",
+      "url": "https://theastrologypodcast.com/2019/02/11/zodiacal-releasing-an-ancient-timing-technique/",
+      "kind": "practitioner-source",
+      "planned_use": "조디아칼 릴리징 해설과 관련 회차 탐색",
+      "checked_at": "2026-09-18",
+      "inspection": "article_reviewed",
+      "rights_note": "reference_only_pending_permission",
+      "bulk_content_collected": false,
+      "permissions": {
+        "fetch_automatically": "unreviewed",
+        "store_full_text": "unreviewed",
+        "send_to_external_llm": "unreviewed",
+        "publish_translation": "unreviewed",
+        "publish_images": "unreviewed"
+      },
+      "note": "자료원 탐색·계획용 기록이며 수집·번역·공개 승인서가 아님."
+    },
+    {
+      "id": "S10",
+      "name": "Jagannatha Hora 기능 목록",
+      "url": "https://www.vedicastrologer.org/jh/features.htm",
+      "kind": "software-primary",
+      "planned_use": "다샤·분할차트·계산 변형을 찾는 광범위한 탐색표",
+      "checked_at": "2026-09-18",
+      "inspection": "page_reviewed",
+      "rights_note": "reference_only_pending_permission",
+      "bulk_content_collected": false,
+      "permissions": {
+        "fetch_automatically": "unreviewed",
+        "store_full_text": "unreviewed",
+        "send_to_external_llm": "unreviewed",
+        "publish_translation": "unreviewed",
+        "publish_images": "unreviewed"
+      },
+      "note": "자료원 탐색·계획용 기록이며 수집·번역·공개 승인서가 아님."
+    },
+    {
+      "id": "S11",
+      "name": "Sanjay Rath / Bṛhaspati Jyotiṣa",
+      "url": "https://sanjayrath.com/",
+      "kind": "tradition-primary",
+      "planned_use": "인도 점성술 계통별 교육·문헌의 입구",
+      "checked_at": "2026-09-18",
+      "inspection": "homepage_reviewed",
+      "rights_note": "reference_only_pending_permission",
+      "bulk_content_collected": false,
+      "permissions": {
+        "fetch_automatically": "unreviewed",
+        "store_full_text": "unreviewed",
+        "send_to_external_llm": "unreviewed",
+        "publish_translation": "unreviewed",
+        "publish_images": "unreviewed"
+      },
+      "note": "자료원 탐색·계획용 기록이며 수집·번역·공개 승인서가 아님."
+    },
+    {
+      "id": "S12",
+      "name": "Men-Tsee-Khang 티베트 점성술 소개",
+      "url": "https://mentseekhang.org/introduction-to-tibetan-astrology/",
+      "kind": "institution-primary",
+      "planned_use": "티베트 역산·점성술 계통과 원어 표기",
+      "checked_at": "2026-09-18",
+      "inspection": "article_reviewed",
+      "rights_note": "reference_only_pending_permission",
+      "bulk_content_collected": false,
+      "permissions": {
+        "fetch_automatically": "unreviewed",
+        "store_full_text": "unreviewed",
+        "send_to_external_llm": "unreviewed",
+        "publish_translation": "unreviewed",
+        "publish_images": "unreviewed"
+      },
+      "note": "자료원 탐색·계획용 기록이며 수집·번역·공개 승인서가 아님."
+    },
+    {
+      "id": "S13",
+      "name": "Rudhyar Archival Project 점성술 자료",
+      "url": "https://www.khaldea.com/rudhyar/astrology.shtml",
+      "kind": "author-archive",
+      "planned_use": "인본주의·초개인 점성술 저작 탐색",
+      "checked_at": "2026-09-18",
+      "inspection": "catalog_reviewed",
+      "rights_note": "reference_only_pending_permission",
+      "bulk_content_collected": false,
+      "permissions": {
+        "fetch_automatically": "unreviewed",
+        "store_full_text": "unreviewed",
+        "send_to_external_llm": "unreviewed",
+        "publish_translation": "unreviewed",
+        "publish_images": "unreviewed"
+      },
+      "note": "자료원 탐색·계획용 기록이며 수집·번역·공개 승인서가 아님."
+    },
+    {
+      "id": "S14",
+      "name": "Centre for Psychological Astrology",
+      "url": "https://cpalondon.com/",
+      "kind": "tradition-primary",
+      "planned_use": "심리 점성술 강의·저자·서지 탐색",
+      "checked_at": "2026-09-18",
+      "inspection": "search_result_excerpt_reviewed",
+      "rights_note": "reference_only_pending_permission",
+      "bulk_content_collected": false,
+      "permissions": {
+        "fetch_automatically": "unreviewed",
+        "store_full_text": "unreviewed",
+        "send_to_external_llm": "unreviewed",
+        "publish_translation": "unreviewed",
+        "publish_images": "unreviewed"
+      },
+      "note": "자료원 탐색·계획용 기록이며 수집·번역·공개 승인서가 아님."
+    },
+    {
+      "id": "S15",
+      "name": "The Jewel of Annual Astrology — JSTOR 판본",
+      "url": "https://www.jstor.org/stable/10.1163/j.ctv2gjwzsx",
+      "kind": "scholarly-edition",
+      "planned_use": "Balabhadra Hāyanaratna 산스크리트-영어 비평판; 타지카 핵심 자료",
+      "checked_at": "2026-09-18",
+      "inspection": "metadata_toc_and_license_reviewed",
+      "rights_note": "CC-BY-4.0; check_third_party_material",
+      "bulk_content_collected": false,
+      "permissions": {
+        "fetch_automatically": "unreviewed",
+        "store_full_text": "unreviewed",
+        "send_to_external_llm": "unreviewed",
+        "publish_translation": "unreviewed",
+        "publish_images": "unreviewed"
+      },
+      "note": "자료원 탐색·계획용 기록이며 수집·번역·공개 승인서가 아님."
+    },
+    {
+      "id": "S16",
+      "name": "Ptolemaeus Arabus et Latinus",
+      "url": "https://ptolemaeus.badw.de/start",
+      "kind": "scholarly-catalog",
+      "planned_use": "프톨레마이오스 아랍어·라틴어 전승과 서지 연결",
+      "checked_at": "2026-09-18",
+      "inspection": "homepage_reviewed",
+      "rights_note": "per_record_and_image_review",
+      "bulk_content_collected": false,
+      "permissions": {
+        "fetch_automatically": "unreviewed",
+        "store_full_text": "unreviewed",
+        "send_to_external_llm": "unreviewed",
+        "publish_translation": "unreviewed",
+        "publish_images": "unreviewed"
+      },
+      "note": "자료원 탐색·계획용 기록이며 수집·번역·공개 승인서가 아님."
+    },
+    {
+      "id": "S17",
+      "name": "Wikisource: 星命溯源 四庫全書本",
+      "url": "https://zh.wikisource.org/wiki/星命溯源_(四庫全書本)",
+      "kind": "historical-transcription",
+      "planned_use": "동아시아 성명술 문헌; 원본 스캔과 전사 대조 필요",
+      "checked_at": "2026-09-18",
+      "inspection": "search_evidence_only",
+      "rights_note": "original_transcription_and_scan_separate_review",
+      "bulk_content_collected": false,
+      "permissions": {
+        "fetch_automatically": "unreviewed",
+        "store_full_text": "unreviewed",
+        "send_to_external_llm": "unreviewed",
+        "publish_translation": "unreviewed",
+        "publish_images": "unreviewed"
+      },
+      "note": "자료원 탐색·계획용 기록이며 수집·번역·공개 승인서가 아님."
+    },
+    {
+      "id": "S18",
+      "name": "Astrodienst AstroWiki",
+      "url": "https://www.astro.com/astrowiki/en/Main_Page",
+      "kind": "astrology-wiki",
+      "planned_use": "용어·기법 교차참조 후보; 이번 본문 접근은 JS 확인 화면",
+      "checked_at": "2026-09-18",
+      "inspection": "access_challenge",
+      "rights_note": "unverified_do_not_bulk_ingest",
+      "bulk_content_collected": false,
+      "permissions": {
+        "fetch_automatically": "unreviewed",
+        "store_full_text": "unreviewed",
+        "send_to_external_llm": "unreviewed",
+        "publish_translation": "unreviewed",
+        "publish_images": "unreviewed"
+      },
+      "note": "자료원 탐색·계획용 기록이며 수집·번역·공개 승인서가 아님."
+    },
+    {
+      "id": "S19",
+      "name": "Astro-Seek Astrocartography",
+      "url": "https://horoscopes.astro-seek.com/astrocartography-online-astro-map-relocation",
+      "kind": "software-primary",
+      "planned_use": "지도·리로케이션·Local Space 기능 분류 후보",
+      "checked_at": "2026-09-18",
+      "inspection": "search_evidence_only",
+      "rights_note": "unverified_do_not_bulk_ingest",
+      "bulk_content_collected": false,
+      "permissions": {
+        "fetch_automatically": "unreviewed",
+        "store_full_text": "unreviewed",
+        "send_to_external_llm": "unreviewed",
+        "publish_translation": "unreviewed",
+        "publish_images": "unreviewed"
+      },
+      "note": "자료원 탐색·계획용 기록이며 수집·번역·공개 승인서가 아님."
+    },
+    {
+      "id": "S20",
+      "name": "Cosmic Patterns / Kepler Research",
+      "url": "https://www.astrosoftware.com/Research.htm",
+      "kind": "software-primary",
+      "planned_use": "미드포인트·하모닉·AstroSignature 탐색; 제품 설명은 효과 입증과 별개",
+      "checked_at": "2026-09-18",
+      "inspection": "page_reviewed",
+      "rights_note": "reference_only_pending_permission",
+      "bulk_content_collected": false,
+      "permissions": {
+        "fetch_automatically": "unreviewed",
+        "store_full_text": "unreviewed",
+        "send_to_external_llm": "unreviewed",
+        "publish_translation": "unreviewed",
+        "publish_images": "unreviewed"
+      },
+      "note": "자료원 탐색·계획용 기록이며 수집·번역·공개 승인서가 아님."
+    },
+    {
+      "id": "S21",
+      "name": "Swiss Ephemeris 정보와 라이선스",
+      "url": "https://www.astro.com/swisseph/swephinfo_e.htm",
+      "kind": "calculation-primary",
+      "planned_use": "천문 계산 규격 및 AGPL/Professional 선택 점검",
+      "checked_at": "2026-09-18",
+      "inspection": "page_reviewed",
+      "rights_note": "dual_license_review_required",
+      "bulk_content_collected": false,
+      "permissions": {
+        "fetch_automatically": "unreviewed",
+        "store_full_text": "unreviewed",
+        "send_to_external_llm": "unreviewed",
+        "publish_translation": "unreviewed",
+        "publish_images": "unreviewed"
+      },
+      "note": "자료원 탐색·계획용 기록이며 수집·번역·공개 승인서가 아님."
+    },
+    {
+      "id": "S22",
+      "name": "The Urania Trust",
+      "url": "https://www.uraniatrust.org/",
+      "kind": "astrology-catalog",
+      "planned_use": "자료 보존·교육·관련 문헌 발견용 입구",
+      "checked_at": "2026-09-18",
+      "inspection": "homepage_reviewed",
+      "rights_note": "per_work_review",
+      "bulk_content_collected": false,
+      "permissions": {
+        "fetch_automatically": "unreviewed",
+        "store_full_text": "unreviewed",
+        "send_to_external_llm": "unreviewed",
+        "publish_translation": "unreviewed",
+        "publish_images": "unreviewed"
+      },
+      "note": "자료원 탐색·계획용 기록이며 수집·번역·공개 승인서가 아님."
+    },
+    {
+      "id": "S23",
+      "name": "Hellenistic Astrology 고전 자료",
+      "url": "https://www.hellenisticastrology.com/texts/",
+      "kind": "astrology-catalog",
+      "planned_use": "고전 번역·비평판 후보; 이번 직접 접속 오류",
+      "checked_at": "2026-09-18",
+      "inspection": "access_error",
+      "rights_note": "unverified_do_not_bulk_ingest",
+      "bulk_content_collected": false,
+      "permissions": {
+        "fetch_automatically": "unreviewed",
+        "store_full_text": "unreviewed",
+        "send_to_external_llm": "unreviewed",
+        "publish_translation": "unreviewed",
+        "publish_images": "unreviewed"
+      },
+      "note": "자료원 탐색·계획용 기록이며 수집·번역·공개 승인서가 아님."
+    },
+    {
+      "id": "S24",
+      "name": "Astrocode Naver Astrology Dataset Guide",
+      "url": "library:CODEX_DATASET_GUIDE.md",
+      "kind": "user-corpus-guide",
+      "planned_use": "가이드상 1,644 레코드·288 이미지; 실제 압축 본문 전수 검증 아님",
+      "checked_at": "2026-09-18",
+      "inspection": "guide_retrieved",
+      "rights_note": "owner_third_party_and_privacy_review_required",
+      "bulk_content_collected": false,
+      "permissions": {
+        "fetch_automatically": "unreviewed",
+        "store_full_text": "unreviewed",
+        "send_to_external_llm": "unreviewed",
+        "publish_translation": "unreviewed",
+        "publish_images": "unreviewed"
+      },
+      "note": "자료원 탐색·계획용 기록이며 수집·번역·공개 승인서가 아님."
+    },
+    {
+      "id": "S25",
+      "name": "Camel Stream Model Fleet",
+      "url": "https://camelai.com/docs/stream/fleet",
+      "kind": "model-provider",
+      "planned_use": "가변 모델 구성; 특정 모델/버전 고정 보장 없음",
+      "checked_at": "2026-09-18",
+      "inspection": "page_reviewed",
+      "rights_note": "provider_terms_apply",
+      "bulk_content_collected": false,
+      "permissions": {
+        "fetch_automatically": "unreviewed",
+        "store_full_text": "unreviewed",
+        "send_to_external_llm": "unreviewed",
+        "publish_translation": "unreviewed",
+        "publish_images": "unreviewed"
+      },
+      "note": "자료원 탐색·계획용 기록이며 수집·번역·공개 승인서가 아님."
+    },
+    {
+      "id": "S26",
+      "name": "Camel Stream Terms",
+      "url": "https://camelai.com/stream/terms",
+      "kind": "model-provider-rights",
+      "planned_use": "계정 전체 스트림 동시성; 표준 요금제 입력·출력 보관/학습/광고 조항",
+      "checked_at": "2026-09-18",
+      "inspection": "page_reviewed",
+      "rights_note": "provider_terms_review_required",
+      "bulk_content_collected": false,
+      "permissions": {
+        "fetch_automatically": "unreviewed",
+        "store_full_text": "unreviewed",
+        "send_to_external_llm": "unreviewed",
+        "publish_translation": "unreviewed",
+        "publish_images": "unreviewed"
+      },
+      "note": "자료원 탐색·계획용 기록이며 수집·번역·공개 승인서가 아님."
+    },
+    {
+      "id": "S27",
+      "name": "Camel Stream Privacy",
+      "url": "https://camelai.com/stream/privacy",
+      "kind": "model-provider-rights",
+      "planned_use": "API 콘텐츠와 계정 정보의 처리 조건 구분",
+      "checked_at": "2026-09-18",
+      "inspection": "page_reviewed",
+      "rights_note": "provider_terms_review_required",
+      "bulk_content_collected": false,
+      "permissions": {
+        "fetch_automatically": "unreviewed",
+        "store_full_text": "unreviewed",
+        "send_to_external_llm": "unreviewed",
+        "publish_translation": "unreviewed",
+        "publish_images": "unreviewed"
+      },
+      "note": "자료원 탐색·계획용 기록이며 수집·번역·공개 승인서가 아님."
+    },
+    {
+      "id": "S28",
+      "name": "Camel Stream Quickstart",
+      "url": "https://camelai.com/docs/stream/quickstart",
+      "kind": "model-provider",
+      "planned_use": "chat/completions와 서버측 Bearer 인증",
+      "checked_at": "2026-09-18",
+      "inspection": "page_reviewed",
+      "rights_note": "provider_terms_apply",
+      "bulk_content_collected": false,
+      "permissions": {
+        "fetch_automatically": "unreviewed",
+        "store_full_text": "unreviewed",
+        "send_to_external_llm": "unreviewed",
+        "publish_translation": "unreviewed",
+        "publish_images": "unreviewed"
+      },
+      "note": "자료원 탐색·계획용 기록이며 수집·번역·공개 승인서가 아님."
+    },
+    {
+      "id": "S29",
+      "name": "Camel Stream Queues and Errors",
+      "url": "https://camelai.com/docs/stream/queues-and-errors",
+      "kind": "model-provider",
+      "planned_use": "열린 대기 연결, 429/503, 계정 단위 동시성",
+      "checked_at": "2026-09-18",
+      "inspection": "page_reviewed",
+      "rights_note": "provider_terms_apply",
+      "bulk_content_collected": false,
+      "permissions": {
+        "fetch_automatically": "unreviewed",
+        "store_full_text": "unreviewed",
+        "send_to_external_llm": "unreviewed",
+        "publish_translation": "unreviewed",
+        "publish_images": "unreviewed"
+      },
+      "note": "자료원 탐색·계획용 기록이며 수집·번역·공개 승인서가 아님."
+    },
+    {
+      "id": "S30",
+      "name": "Camel Stream Endpoints",
+      "url": "https://camelai.com/docs/stream/endpoints",
+      "kind": "model-provider",
+      "planned_use": "공식 엔드포인트와 models 확인; 별도 모델 테스트 필요",
+      "checked_at": "2026-09-18",
+      "inspection": "page_reviewed",
+      "rights_note": "provider_terms_apply",
+      "bulk_content_collected": false,
+      "permissions": {
+        "fetch_automatically": "unreviewed",
+        "store_full_text": "unreviewed",
+        "send_to_external_llm": "unreviewed",
+        "publish_translation": "unreviewed",
+        "publish_images": "unreviewed"
+      },
+      "note": "자료원 탐색·계획용 기록이며 수집·번역·공개 승인서가 아님."
+    },
+    {
+      "id": "S31",
+      "name": "Astro Content Collections",
+      "url": "https://docs.astro.build/en/guides/content-collections/",
+      "kind": "engineering",
+      "planned_use": "검증 가능한 콘텐츠 스키마와 정적 페이지 생성",
+      "checked_at": "2026-09-18",
+      "inspection": "page_reviewed",
+      "rights_note": "reference_only",
+      "bulk_content_collected": false,
+      "permissions": {
+        "fetch_automatically": "unreviewed",
+        "store_full_text": "unreviewed",
+        "send_to_external_llm": "unreviewed",
+        "publish_translation": "unreviewed",
+        "publish_images": "unreviewed"
+      },
+      "note": "자료원 탐색·계획용 기록이며 수집·번역·공개 승인서가 아님."
+    },
+    {
+      "id": "S32",
+      "name": "Pagefind Multilingual Search",
+      "url": "https://pagefind.app/docs/multilingual/",
+      "kind": "engineering",
+      "planned_use": "한국어 UI 제공, 한국어 stemming 미지원; 검색 평가 필요",
+      "checked_at": "2026-09-18",
+      "inspection": "page_reviewed",
+      "rights_note": "reference_only",
+      "bulk_content_collected": false,
+      "permissions": {
+        "fetch_automatically": "unreviewed",
+        "store_full_text": "unreviewed",
+        "send_to_external_llm": "unreviewed",
+        "publish_translation": "unreviewed",
+        "publish_images": "unreviewed"
+      },
+      "note": "자료원 탐색·계획용 기록이며 수집·번역·공개 승인서가 아님."
+    },
+    {
+      "id": "S33",
+      "name": "Cloudflare Workers Static Assets 요금/제약",
+      "url": "https://developers.cloudflare.com/workers/static-assets/billing-and-limitations/",
+      "kind": "engineering",
+      "planned_use": "정적 자산과 Worker 실행의 과금 차이",
+      "checked_at": "2026-09-18",
+      "inspection": "page_reviewed",
+      "rights_note": "reference_only",
+      "bulk_content_collected": false,
+      "permissions": {
+        "fetch_automatically": "unreviewed",
+        "store_full_text": "unreviewed",
+        "send_to_external_llm": "unreviewed",
+        "publish_translation": "unreviewed",
+        "publish_images": "unreviewed"
+      },
+      "note": "자료원 탐색·계획용 기록이며 수집·번역·공개 승인서가 아님."
+    },
+    {
+      "id": "S34",
+      "name": "OpenAI Codex 인증",
+      "url": "https://developers.openai.com/codex/auth/",
+      "kind": "engineering",
+      "planned_use": "지원되는 로그인 방식과 API 키 기반 자동화; 비공식 토큰 프록시 불채택",
+      "checked_at": "2026-09-18",
+      "inspection": "page_reviewed_redirected_to_official_learn",
+      "rights_note": "reference_only",
+      "bulk_content_collected": false,
+      "permissions": {
+        "fetch_automatically": "unreviewed",
+        "store_full_text": "unreviewed",
+        "send_to_external_llm": "unreviewed",
+        "publish_translation": "unreviewed",
+        "publish_images": "unreviewed"
+      },
+      "note": "자료원 탐색·계획용 기록이며 수집·번역·공개 승인서가 아님."
+    },
+    {
+      "id": "S35",
+      "name": "Creative Commons BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/",
+      "kind": "rights",
+      "planned_use": "표시·변경 고지 등 재사용 조건",
+      "checked_at": "2026-09-18",
+      "inspection": "page_reviewed",
+      "rights_note": "CC-BY-4.0_deed_not_full_legal_review",
+      "bulk_content_collected": false,
+      "permissions": {
+        "fetch_automatically": "unreviewed",
+        "store_full_text": "unreviewed",
+        "send_to_external_llm": "unreviewed",
+        "publish_translation": "unreviewed",
+        "publish_images": "unreviewed"
+      },
+      "note": "자료원 탐색·계획용 기록이며 수집·번역·공개 승인서가 아님."
+    },
+    {
+      "id": "S36",
+      "name": "RFC 9309 Robots Exclusion Protocol",
+      "url": "https://www.rfc-editor.org/rfc/rfc9309",
+      "kind": "crawler-standard",
+      "planned_use": "robots 준수는 필요하며 접근권/저작권 허가와 별도",
+      "checked_at": "2026-09-18",
+      "inspection": "page_reviewed",
+      "rights_note": "reference_only",
+      "bulk_content_collected": false,
+      "permissions": {
+        "fetch_automatically": "unreviewed",
+        "store_full_text": "unreviewed",
+        "send_to_external_llm": "unreviewed",
+        "publish_translation": "unreviewed",
+        "publish_images": "unreviewed"
+      },
+      "note": "자료원 탐색·계획용 기록이며 수집·번역·공개 승인서가 아님."
+    },
+    {
+      "id": "S37",
+      "name": "Google Search 다국어 문서 안내",
+      "url": "https://developers.google.com/search/docs/specialty/international/localized-versions",
+      "kind": "engineering",
+      "planned_use": "한국어만 제공할 때 가짜 다국어 alternate 생성하지 않음",
+      "checked_at": "2026-09-18",
+      "inspection": "page_reviewed",
+      "rights_note": "reference_only",
+      "bulk_content_collected": false,
+      "permissions": {
+        "fetch_automatically": "unreviewed",
+        "store_full_text": "unreviewed",
+        "send_to_external_llm": "unreviewed",
+        "publish_translation": "unreviewed",
+        "publish_images": "unreviewed"
+      },
+      "note": "자료원 탐색·계획용 기록이며 수집·번역·공개 승인서가 아님."
+    }
+  ]
+}

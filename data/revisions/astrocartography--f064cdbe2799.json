@@ -1,0 +1,59 @@
+{
+  "id": "astrocartography",
+  "title": "아스트로카토그래피",
+  "en": "Astrocartography",
+  "tradition": "현대 서양 · 공간",
+  "summary": "특정 순간의 천체가 지구의 어느 지역에서 주요 앵글에 놓이는지를 지도 위에서 살피는 공간 점성술입니다.",
+  "sections": [
+    {
+      "title": "무엇을 지도에 그리는가",
+      "paragraphs": [
+        "천체와 지평선·자오선의 관계를 지리적으로 표시합니다. 짐 루이스와 관련된 Astro*Carto*Graphy라는 명칭의 역사와 일반적인 공간 점성술 전체는 구분합니다."
+      ],
+      "refs": [
+        "acg"
+      ]
+    },
+    {
+      "title": "로컬 스페이스와 비교",
+      "paragraphs": [
+        "아스트로카토그래피의 앵글 선과 관측지에서 바라본 방위선은 서로 다른 좌표 관계입니다. 지도 모양이 비슷하더라도 같은 계산 결과로 보지 않습니다."
+      ],
+      "refs": []
+    },
+    {
+      "title": "사용할 입력",
+      "paragraphs": [
+        "동일 순간의 UTC 시각, 사용할 천체, 위치 및 지도 규약을 명시해야 재현할 수 있습니다. 이 문서는 지도를 제공하거나 이주 결과를 예측하는 서비스가 아니라 기법 개요입니다."
+      ],
+      "refs": []
+    }
+  ],
+  "related": [
+    "local-space",
+    "relocated-charts",
+    "paran-mapping"
+  ],
+  "refs": [
+    "acg"
+  ],
+  "revision": "f064cdbe2799",
+  "date": "2026-09-18",
+  "glossaryVersion": "2026-09-18.1",
+  "editor": "Codex (Astra)",
+  "review": "AI 편집 초판",
+  "license": "CC BY-NC-SA 4.0",
+  "kind": "개요",
+  "sourceSnapshots": [
+    {
+      "id": "acg",
+      "title": "Skyscript: Astro*Carto*Graphy",
+      "author": "Deborah Houlding",
+      "url": "https://www.skyscript.co.uk/glossary/astro-carto-graphy/",
+      "locator": "표제 항목 본문",
+      "license": "CC BY-NC-SA 4.0",
+      "access": "본문 확인",
+      "checkedAt": "2026-09-18"
+    }
+  ]
+}

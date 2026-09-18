@@ -1,0 +1,34 @@
+---
+import Base from '../../layouts/Base.astro';
+import translations from '../../data/translations.json';
+import {term} from '../../data/glossary.mjs';
+import {sourceById} from '../../data/sources.mjs';
+import TranslationTable from '../../components/TranslationTable.astro';
+import AspectGeometry from '../../components/AspectGeometry.astro';
+export function getStaticPaths(){return translations.map(t=>({params:{slug:t.id},props:{t}}));}
+const {t}=Astro.props;
+const source=sourceById(t.sourceId);
+const title=t.title || `${term(t.id)?.ko}: 자료 번역`;
+const related=(t.termIds || [t.id]).map(term).filter(Boolean);
+const translationLicense=t.translationLicense || t.license;
+const series=t.series ? translations.filter(d=>d.series?.id===t.series.id).sort((a,b)=>a.series.order-b.series.order) : [];
+const position=series.findIndex(d=>d.id===t.id);
+const previous=series[position-1];const next=series[position+1];
+---
+<Base title={`${title} · 한국어 번역`} description={`${t.sourceTitle}. ${t.scope || '제요 번역'}. ${t.paragraphs[0]}`}>
+  <div class="crumbs"><a href="/translations/">한국어 번역실</a><span>/</span><span>{title}</span></div>
+  <article class="prose" data-pagefind-body>
+    <header><h1 data-pagefind-meta="title">{title}</h1><p class="intro">{t.sourceTitle}</p><p class="meta">{t.author}</p></header>
+    <div class="article-meta" data-pagefind-ignore><span class="badge">{t.status}</span><span>{t.date}</span><a href="#references">출처 확인</a></div>
+    <div class="note"><p>{t.scope || '사고전서 제요 본문 번역 · 각 권의 본문 제외'}</p>{t.edition && <p>{t.edition}</p>}<p class="meta">{t.locator || source?.locator}</p></div>
+    <section id="translation"><h2>한국어 번역</h2>{t.paragraphs.map((p,i)=><><p id={`paragraph-${i+1}`}>{p}</p>{t.tables?.filter(table=>table.afterParagraph===i+1).map(table=><TranslationTable table={table} />)}{t.diagram?.afterParagraph===i+1 && t.diagram.type==='aspect-geometry' && <AspectGeometry />}</>)}</section>
+    {t.editorialNotes && <section><h2>번역 메모</h2>{t.editorialNotes.map(p=><p>{p}</p>)}</section>}
+    {related.length>0 && <section data-pagefind-ignore><h2>관련 용어</h2><div class="related">{related.map(r=><a href={`/topics/${r.id}/`}>{r.ko}</a>)}</div></section>}
+    {t.series && <nav class="translation-sequence" aria-label="같은 문헌 이어 읽기" data-pagefind-ignore><h2>{t.series.label} 이어 읽기</h2><div class="related">{previous && <a rel="prev" href={`/translations/${previous.id}/`}>이전 장 · {previous.title}</a>}{next && <a rel="next" href={`/translations/${next.id}/`}>다음 장 · {next.title}</a>}<a href="/translations/#ptolemy-ashmand1822">전체 번역 목차</a></div></nav>}
+    <section id="references"><h2>출처 및 참고 문헌</h2><ol class="sources"><li><a href={t.sourceUrl} rel="noopener noreferrer" target="_blank">{t.sourceTitle}</a><span class="meta">{t.author} · {t.locator || source?.locator}</span><span class="meta">원자료: {t.license} · 한국어 번역: {translationLicense}</span></li>{t.additionalSources?.map(s=><li><a href={s.url} target="_blank" rel="noopener noreferrer">{s.title}</a><span class="meta">{s.locator}</span></li>)}</ol>
+      <p class="meta">위 범위의 원자료를 한국어로 번역했습니다. 원문 전문은 표시하지 않습니다. 번역 본문과 편집자의 번역 메모를 구별합니다.</p>
+      {['CC BY-SA 4.0','CC BY-NC-SA 4.0','CC BY 4.0'].includes(translationLicense) && <p class="meta">한국어 번역은 <a href={`https://creativecommons.org/licenses/${translationLicense==='CC BY 4.0'?'by':translationLicense==='CC BY-SA 4.0'?'by-sa':'by-nc-sa'}/4.0/`} rel="license">{translationLicense}</a> 조건으로 제공합니다.</p>}
+      <details class="meta"><summary>번역·용어집 판 정보</summary><p>{t.method==='direct-editor'?`직접 번역·대조: ${t.editor}`:`요청 모델: ${t.requestedModel} · 응답 모델: ${t.reportedModels.join(', ')}`}<br />용어집: {t.glossaryVersion}<br />원자료 SHA-256: {t.sourceHash}</p></details>
+    </section>
+  </article>
+</Base>

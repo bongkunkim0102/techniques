@@ -1,0 +1,6 @@
+---
+import Base from '../../layouts/Base.astro';import {articles} from '../../data/articles.mjs';import {revisions} from '../../lib/revisions.mjs';
+export function getStaticPaths(){return articles.map(article=>({params:{slug:article.id},props:{article}}));}
+const {article}=Astro.props;const history=revisions.filter(r=>r.id===article.id).sort((a,b)=>b.date.localeCompare(a.date));
+---
+<Base title={`${article.title} · 편집 이력`}><div class="crumbs"><a href={`/wiki/${article.id}/`}>{article.title}</a><span>/</span><span>편집 이력</span></div><h1>{article.title}</h1><p class="intro">내용이 달라지면 새 고정판을 생성합니다. 이전 판의 본문과 출처 기록은 보존됩니다.</p>{history.map(a=><div class="history-row"><div><h2>{a.date} · {a.review}</h2><span class="meta">{a.editor} · 용어집 {a.glossaryVersion} · 출처 {a.refs.length}개</span></div><a href={`/editions/${a.id}/${a.revision}/`}>고정판 {a.revision}</a></div>)}</Base>

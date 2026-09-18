@@ -1,0 +1,35 @@
+---
+import { term } from '../data/glossary.mjs';
+import { sourceById } from '../data/sources.mjs';
+import { articleById, backlinks } from '../data/articles.mjs';
+import Calculator from './Calculator.astro';
+import translations from '../data/translations.json';
+const { article: a, archived = false } = Astro.props;
+const refs = a.sourceSnapshots || a.refs.map(sourceById);
+const link = id => articleById(id) ? `/wiki/${id}/` : `/topics/${id}/`;
+const relatedTranslations = translations.filter(t=>archived ? t.id===a.id : (t.termIds || [t.id]).includes(a.id));
+---
+<div class="crumbs"><a href="/">백과</a><span>/</span><a href={`/traditions/${term(a.id)?.bucket}/`}>{term(a.id)?.bucketKo}</a><span>/</span><span>{a.title}</span></div>
+{archived && <div class="note">이 페이지는 고정된 인용판입니다. <a href={`/wiki/${a.id}/`}>현재 문서 읽기</a></div>}
+<header class="article-header" data-pagefind-body={!archived || undefined}><p class="eyebrow">{a.tradition}</p><h1 data-pagefind-meta="title">{a.title}</h1><p class="english">{a.en}</p><p class="lead">{a.summary}</p></header>
+<div class="article-meta" data-pagefind-ignore><span class="badge">{a.kind} · {a.review}</span><span>{a.date}</span><span>출처 {refs.length}개</span><a href={`/history/${a.id}/`}>편집 이력</a><a href={`/editions/${a.id}/${a.revision}/`}>고정 인용판</a><button class="copy-button" data-cite={`${a.title}. HoraryTalk 점성술 기법 백과. ${a.date}. https://techniques.horarytalk.com/editions/${a.id}/${a.revision}/`}>인용 복사</button><span id="copy-status" role="status"></span></div>
+<div class="article-grid">
+  <article class="prose" data-pagefind-body={!archived || undefined}>
+    {a.sections.map((s,i) => <section id={`section-${i+1}`}><h2>{s.title}</h2>{s.paragraphs.map(p=><p>{p}</p>)}{s.refs.length>0 && <div class="citations">{s.refs.map(id=><a href={`#ref-${id}`} aria-label={`출처 ${a.refs.indexOf(id)+1}`}>[{a.refs.indexOf(id)+1}]</a>)}</div>}</section>)}
+    {a.calculator && <Calculator type={a.calculator} />}
+    {relatedTranslations.length>0 && <section><h2>자료를 한국어로 읽기</h2><ul>{relatedTranslations.map(t=><li><a href={`/translations/${t.id}/`}>{t.title || t.sourceTitle}</a><span class="meta"> · {t.scope || '제요 번역'}</span></li>)}</ul></section>}
+    <section id="related" data-pagefind-ignore><h2>함께 읽을 문서</h2><div class="related">{a.related.map(id=><a href={link(id)} title={term(id)?.note}>{term(id)?.ko}{!articleById(id) && ' · 용어 정의'}</a>)}</div>{backlinks(a.id).length>0 && <><h3>이 문서를 연결하는 해설</h3><div class="related">{backlinks(a.id).map(b=><a href={`/wiki/${b.id}/`}>{b.title}</a>)}</div></>}</section>
+    <section id="references"><h2>출처 및 참고 문헌</h2><ol class="sources">{refs.map(s=><li id={`ref-${s.id}`}><a href={s.url} target="_blank" rel="noopener noreferrer">{s.title}</a><span class="meta">{s.author} · {s.locator}</span><span class="meta">{s.access} · 확인 {s.checkedAt} · {s.license}</span></li>)}</ol>
+      <p class="meta">{a.license === 'CC BY-NC-SA 4.0' ? 'Skyscript의 해당 용어 설명을 바탕으로 한국어로 요약·재구성하고 설명과 예제를 추가했습니다. Deborah Houlding에게 원출처를 귀속하며 이 문서의 번안 본문은 CC BY-NC-SA 4.0으로 제공합니다.' : '출처의 사실과 개념을 바탕으로 작성한 한국어 독자 해설입니다. 원문 전체의 직역이나 원저자의 공식 한국어판이 아닙니다.'} {a.license === 'CC BY-NC-SA 4.0' && <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license">라이선스 조건</a>}</p>
+    </section>
+    <div class="document-end">편집: {a.editor} · 용어집 {a.glossaryVersion} · 문서판 {a.revision}<br />출처 대조를 포함한 AI 편집 초판입니다. 별도의 사람 전문가 심사가 완료되었다는 표시가 아닙니다.</div>
+  </article>
+  <nav class="toc" aria-label="문서 목차" data-pagefind-ignore><p>이 문서에서</p>{a.sections.map((s,i)=><a href={`#section-${i+1}`}>{s.title}</a>)}{a.calculator && <a href="#calculator">계산 실습</a>}<a href="#related">함께 읽을 문서</a><a href="#references">출처 및 참고 문헌</a></nav>
+</div>
+<script>
+  document.querySelector<HTMLButtonElement>('[data-cite]')?.addEventListener('click', async e => {
+    const text = (e.currentTarget as HTMLButtonElement).dataset.cite!;
+    const out = document.getElementById('copy-status')!;
+    try { await navigator.clipboard.writeText(text); out.textContent = '고정판 인용을 복사했습니다.'; } catch { out.textContent = text; }
+  });
+</script>

@@ -1,0 +1,31 @@
+id|ko|aliases|definition|note|refs
+babylonian-omen-astrology|바빌로니아 징조 점성술|Babylonian celestial divination;천문 징조|천체 현상과 지상 사건을 조건문 형태로 연결한 메소포타미아의 전통.|후대 개인 출생차트 점성술과 시대·자료 유형을 구별한다.|oracc
+enuma-anu-enlil|에누마 아누 엔릴|Enūma Anu Enlil;EAE|천체·기상 징조 등을 집성한 메소포타미아 문헌 계열.|단일 현대 저자나 한 장의 차트 명칭이 아니다.|oracc
+mul-apin|물아핀|MUL.APIN;MUL APIN|별 목록·출몰·역일 등의 천문 지식을 모은 설형문자 문헌.|에누마 아누 엔릴과 동일한 점복 목록으로 취급하지 않는다.|mul-apin
+egyptian-decanal-traditions|이집트 데칸 전통|Egyptian decans;decanal stars|별 집단의 출몰과 시간·역일을 연결한 이집트 전통.|후대 황도의 10도 구획 데칸과 역사적 단계를 구별한다.|egypt-decans
+hellenistic-astrology|헬레니즘 점성술|Hellenistic astrology;그리스·로마 점성술|고대 지중해권의 황도·행성·하우스 등을 결합한 차트 점성 전통.|헬레니즘 시대의 엄밀한 연대와 점성술사의 관용 범위가 다를 수 있다.|hellenistic-texts
+arabic-persian-astrology|아랍·페르시아 점성술|Arabic astrology;Persian astrology|아랍어·페르시아어 문헌에서 전개된 여러 점성 전통.|언어·민족·종교를 같은 분류로 취급하지 않는다.|pal
+medieval-latin-astrology|중세 라틴 점성술|medieval Latin astrology|중세 라틴어권에서 번역·교육·실천된 점성 전통.|단일 아랍 원전의 단순 복제라는 설명을 피한다.|pal
+jewish-astrological-traditions|유대 점성술 전통|Jewish astrology;Hebrew astrology|유대 저자·독자·히브리어 문헌과 관련된 점성 전통들.|종교 내부의 수용과 비판, 언어별 전승을 함께 구별한다.|ibn-ezra
+renaissance-astrology|르네상스 점성술|Renaissance astrology|르네상스 시기 유럽의 점성 문헌·교육·실천.|시대명이며 특정 하우스나 한 가지 판단법의 이름이 아니다.|pal;lilly
+indian-greek-transmission|인도·그리스 전승 관계|Yavanajātaka;야바나자타카|인도와 그리스어권 점성 지식의 교류·변용 문제.|유사성·번역·직접 전승의 증거를 구별하고 논쟁 중인 연대를 고정하지 않는다.|yavanajataka
+arabic-latin-translation-movement|아랍어·라틴어 번역 전승|Arabic-Latin translation|아랍어 점성 문헌이 라틴어로 옮겨지고 재편된 과정.|원저자·중간 언어·번역자·필사본을 분리해 기록한다.|pal
+sanskrit-persian-transmission|산스크리트·페르시아 전승|Sanskrit-Persian transmission|산스크리트어권과 페르시아어권의 점성 지식 교류.|타지카의 아랍·페르시아계 요소와 후대의 재해석을 구별한다.|tajika-full
+author-attribution|저자 귀속|attribution;pseudepigraphy;가탁|문헌을 특정 저자의 작품으로 보는 판단.|표지의 이름·전승상의 이름·학술적 귀속을 같은 사실로 쓰지 않는다.|pal;xingming
+manuscript-variants|필사본 이문|variant reading;이독|필사본 사이에서 다르게 전하는 글자·구절.|수치·부정어의 차이는 계산과 해석을 바꿀 수 있으므로 남긴다.|tajika-full
+critical-editions|비평판|교감본;critical edition|여러 증거를 대조하여 본문과 이문을 제시한 편집판.|원저자가 직접 확정한 최종판이라는 뜻이 아니다.|tajika-full
+translation-variants|번역 이견|translation variants;대안 번역|동일 원어·구절을 다르게 해석하여 옮긴 경우.|원문의 다의성과 번역자의 학파 해석을 구분한다.|tajika-full
+source-independence|출처 독립성|independent sources|여러 출처가 서로 복제하지 않은 별도 근거인지의 성질.|동일 원전이나 번역을 재인용한 사이트 수를 근거 수로 세지 않는다.|pal
+birth-data-reliability|출생자료 신뢰도|birth data quality|출생 날짜·시각·장소의 근거와 정확도를 평가하는 기준.|분 단위 숫자가 있다고 분 단위 정확성이 확보된 것은 아니다.|rodden
+rodden-ratings|로든 등급|Rodden Rating;AA;A;B;C;DD;X;XX|Astro-Databank에서 출생자료의 출처 성격을 나타내는 등급 체계.|해석의 정확도 등급이 아니며 원자료 설명을 함께 읽는다.|rodden
+synthetic-example-charts|합성 예제 차트|synthetic chart;가상 예제|설명·검사를 위해 인위적으로 구성한 차트 또는 수치.|실제 인물 자료나 실증 사례로 제시하지 않는다.|osf
+case-study-limitations|사례연구의 한계|case study limitations|소수 사례의 관찰로 일반 성능을 추론할 때의 제약.|성공 사례만 모은 자료와 전체 표본을 구별한다.|nist-statistics
+preregistration|사전등록|preregistration;사전 분석계획|결과를 보기 전에 연구 질문·가설·분석을 기록하는 절차.|나중의 탐색 분석을 숨기거나 금지한다는 뜻이 아니다.|osf
+blind-chart-matching|맹검 차트 대조|blind matching;blinding|차트와 대상을 맞출 때 정답·개인정보 단서를 가리는 절차.|누가 무엇을 모르는지와 우연 기준을 명시한다.|carlson
+multiple-comparisons|다중 비교|multiple testing;다중 검정|여러 가설·조합을 동시에 시험할 때 생기는 통계적 문제.|많이 시도한 뒤 맞는 각 하나를 고르는 효과를 고려한다.|nist-statistics
+selection-bias|선택 편향|selection bias;표본 선택 편향|자료가 뽑히는 방식 때문에 비교가 치우치는 현상.|출생시각이 알려진 유명인만으로 전체 인구를 대표하지 않는다.|nist-statistics
+base-rate-comparison|기저율 비교|base rate;기본 발생률|예측 성능을 사건의 원래 발생 빈도와 대조하는 방법.|정답률만으로 희귀 사건 예측력을 판단하지 않는다.|nist-statistics
+out-of-sample-validation|표본외 검증|out-of-sample;holdout;검증 표본|규칙을 정할 때 쓰지 않은 자료에서 성능을 확인하는 절차.|검증 자료를 반복 보고 조정하면 독립성이 줄어든다.|nist-statistics
+replication|재현 연구|replication;반복 검증|다른 자료·절차로 같은 주장이나 결과를 다시 시험하는 연구.|같은 파일로 같은 계산을 되풀이하는 재현성과 구별한다.|osf
+astronomical-accuracy-versus-predictive-validity|천문 정확도와 예측 타당성|astronomical accuracy;predictive validity|천체 위치 계산의 정확성과 해석의 예측 성능을 구별하는 기준.|정확한 천문력만으로 점성술 해석의 효과가 입증되지는 않는다.|usno;carlson
+practitioner-claim-versus-historical-evidence|실천가 주장과 역사적 근거|practitioner claim;historical evidence|전승 내부의 믿음·경험과 역사 자료의 증거를 구별하는 기준.|한 실천가의 주장·한 문헌의 기술·확인된 사건을 각각 표시한다.|kotyk-sukuyo;pal

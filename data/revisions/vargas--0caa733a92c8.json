@@ -1,0 +1,53 @@
+{
+  "id": "vargas",
+  "title": "바르가",
+  "en": "Vargas",
+  "tradition": "인도 · 조티샤",
+  "summary": "사인 안의 위치를 분할 규칙에 따라 다시 배치하는 분할차트 기법군입니다. 분할 수뿐 아니라 배정 규칙도 중요합니다.",
+  "sections": [
+    {
+      "title": "분할 수만으로 결정되지 않는 것",
+      "paragraphs": [
+        "Jagannatha Hora의 공식 기능 목록에는 동일한 D2·D3·D9·D30 등에 복수 계산 변형이 나옵니다. 따라서 D9라는 이름 하나만 일치한다고 모든 구현의 결과가 같은 것은 아닙니다."
+      ],
+      "refs": [
+        "jh"
+      ]
+    },
+    {
+      "title": "기록 규약",
+      "paragraphs": [
+        "황도·아야남샤, 분할 수, 배정 방식, 원래 황경, 경계 처리 방식을 남깁니다. 소프트웨어 지원 목록은 계산 변형의 존재를 확인하는 자료이며 고전적 권위나 예측 효과의 증명으로 쓰지 않습니다."
+      ],
+      "refs": []
+    }
+  ],
+  "related": [
+    "navamsa-d9",
+    "varga-calculation-variants",
+    "ayanamsha",
+    "harmonic-charts"
+  ],
+  "refs": [
+    "jh"
+  ],
+  "revision": "0caa733a92c8",
+  "date": "2026-09-18",
+  "glossaryVersion": "2026-09-18.3",
+  "editor": "Codex (Astra)",
+  "review": "AI 편집 초판",
+  "license": "HoraryTalk 독자 해설",
+  "kind": "개요",
+  "sourceSnapshots": [
+    {
+      "id": "jh",
+      "title": "Features of Jagannatha Hora Software",
+      "author": "P. V. R. Narasimha Rao",
+      "url": "https://www.vedicastrologer.org/jh/features.htm",
+      "locator": "Divisional Charts / Dasas / Annual Charts / Panchanga / KP",
+      "license": "참고·독자 해설",
+      "access": "본문 확인",
+      "checkedAt": "2026-09-18"
+    }
+  ]
+}

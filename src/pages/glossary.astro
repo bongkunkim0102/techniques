@@ -1,0 +1,14 @@
+---
+import Base from '../layouts/Base.astro';
+import Catalogue from '../components/Catalogue.astro';
+import {editorialPolicy,glossaryVersion,glossary,glossarySources,categories} from '../data/glossary.mjs';
+---
+<Base title="한국어 용어집">
+  <h1>한국어 용어집</h1><p class="intro">원어의 뜻과 학파의 차이를 지키는 한국어 번역 기준.</p>
+  <div class="stats"><div class="stat"><strong>{glossary.length}</strong>정의·번역 메모</div><div class="stat"><strong>{categories.length}</strong>분야</div><div class="stat"><strong>{new Set(glossarySources.map(s=>s.url)).size}</strong>참고 자료 주소</div></div>
+  <p class="glossary-edition">Astra 직접 편집 · {glossaryVersion} <span>초기 455개 항목과 기초 어휘·낙샤트라·28수 명칭·문헌별 구별 어휘를 수록했습니다.</span></p>
+  <p class="meta">항목을 열면 정의·번역 주의점과 하단의 출처를 확인할 수 있습니다. 원전 본문, 발췌, 목차·서지의 확인 범위를 구별합니다.</p>
+  <p><a href="/translations/">한국어 번역실에서 문헌 속 용례 읽기</a></p>
+  <Catalogue glossaryMode />
+  <section class="prose" id="principles"><h2>번역·표기 원칙</h2><p>{editorialPolicy.method}</p><ol>{editorialPolicy.rules.map(r=><li>{r}</li>)}</ol><p>새로운 원문에서 미등록 용어나 기존 정의와 충돌하는 용례가 발견되면 Astra가 검토한 다음 용어집의 판을 갱신합니다.</p><p class="meta">직접 편집: {editorialPolicy.editor} · 용어집 판 {glossaryVersion}</p><a href="/glossary.json" download="horarytalk-glossary.json">번역 작업용 용어집 JSON 내려받기</a></section>
+</Base>

@@ -1,0 +1,64 @@
+{
+  "id": "antiscia",
+  "title": "안티시아",
+  "en": "Antiscia",
+  "tradition": "서양 전통 · 호라리",
+  "summary": "게자리·염소자리 0°를 잇는 지점축을 기준으로 황도상의 위치를 반사시킨 점입니다.",
+  "sections": [
+    {
+      "title": "계산 방법",
+      "paragraphs": [
+        "양자리 0°를 0으로 하는 황경 λ에 대해 안티시아는 (180° − λ)를 360° 범위로 정규화한 값입니다. 황소자리 10°는 황경 40°이므로 대응점은 140°, 즉 사자자리 20°입니다."
+      ],
+      "refs": [
+        "antiscia"
+      ]
+    },
+    {
+      "title": "분 단위에서의 주의",
+      "paragraphs": [
+        "30°에서 도수와 각분을 함께 빼야 합니다. 17°31′의 반대 구간 내 도수는 12°29′입니다. 도와 분을 따로 보완해 13°29′로 쓰면 1도 오차가 납니다."
+      ],
+      "refs": [
+        "antiscia"
+      ]
+    },
+    {
+      "title": "콘트라안티시아",
+      "paragraphs": [
+        "안티시아의 반대점이 콘트라안티시아입니다. 이 페이지의 계산 실습은 위치 관계만 재현합니다. 해당 접촉의 해석과 허용 오브는 사용할 전통의 규칙을 따로 밝혀야 합니다."
+      ],
+      "refs": [
+        "antiscia"
+      ]
+    }
+  ],
+  "related": [
+    "contra-antiscia",
+    "ecliptic-longitude",
+    "orb"
+  ],
+  "refs": [
+    "antiscia"
+  ],
+  "calculator": "antiscia",
+  "revision": "1c6b86e2dcfd",
+  "date": "2026-09-18",
+  "glossaryVersion": "2026-09-18.1",
+  "editor": "Codex (Astra)",
+  "review": "AI 편집 초판",
+  "license": "CC BY-NC-SA 4.0",
+  "kind": "개요",
+  "sourceSnapshots": [
+    {
+      "id": "antiscia",
+      "title": "Skyscript: Antiscia",
+      "author": "Deborah Houlding",
+      "url": "https://www.skyscript.co.uk/glossary/antiscia/",
+      "locator": "정의 및 도·분 계산 예제",
+      "license": "CC BY-NC-SA 4.0",
+      "access": "본문 확인",
+      "checkedAt": "2026-09-18"
+    }
+  ]
+}

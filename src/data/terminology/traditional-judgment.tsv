@@ -1,0 +1,46 @@
+id|ko|aliases|definition|note|refs
+sect|섹트|주야 구분;주야성;hairesis|주간·야간 차트 및 행성의 주야 소속을 구별하는 체계.|지평선 기준과 수성의 조건을 저자별로 남긴다.|sect
+hayz|하이즈|ḥayyiz;hayz;similitude|주야 소속·반구·사인 등의 조건이 행성과 일치하는 상태.|섹트 하나만 충족한 상태와 같지 않으며 세부 정의가 갈린다.|sky-h
+halbs|할브|halb;halbs|행성이 주야 소속에 맞는 반구에 놓이는 상태.|복수형 halbs를 별도 기법으로 만들지 않는다.|sky-h
+domicile|도미사일|본궁;거처;domicile rulership|행성이 특정 사인의 주인으로 배정되는 디그니티.|영어 house가 거처를 뜻하면 출생차트의 하우스로 옮기지 않는다.|lilly
+exaltation|익절테이션|고양;exaltation|특정 사인에서 행성의 지위를 높이는 디그니티.|사인 전체의 상태와 특정 고양 도수를 구별한다.|lilly
+detriment|디트리먼트|손상;detriment;exile|자신의 도미사일 반대 사인에 있는 상태.|폴과 다르며 모든 약화의 총칭으로 쓰지 않는다.|lilly
+fall|폴|추락;fall;depression|자신의 익절테이션 반대 사인에 있는 상태.|현실 사건의 추락을 뜻하는 일반어와 구별한다.|lilly
+triplicity-rulers|트리플리시티 주인|삼분성 주인;삼원소 주인;triplicity lords|같은 원소의 세 사인 묶음에 배정하는 지배 행성.|주간·야간·참여 주인 유무와 도로테우스·프톨레마이오스 표를 구별한다.|lilly
+egyptian-bounds|이집트 텀|이집트 바운드;Egyptian terms|각 사인을 불균등한 다섯 행성 구간으로 나누는 텀 표.|구간 끝값의 포함 방식과 사용 판본을 기록한다.|lilly
+ptolemaic-bounds|프톨레마이오스 텀|Ptolemaic terms;Ptolemaic bounds|프톨레마이오스 계열로 전승되는 행성별 텀 표.|이집트 텀의 수치와 섞지 않는다.|lilly
+chaldean-decans|칼데아 데칸|Chaldean faces;페이스|사인별 10도 구간에 칼데아 순서로 주인을 배정하는 체계.|다른 데칸 배정표와 고대 이집트의 별 집단을 구별한다.|lilly
+essential-dignities|본질적 디그니티|본질적 위계;본질적 존귀;essential dignity|사인·고양·삼분성·텀·페이스의 지배권 체계.|본질적으로 좋은 사람이라는 도덕적 뜻이 아니다.|lilly
+accidental-dignities|우발적 디그니티|우발적 위계;accidental dignity|하우스·운동·가시성 등 상황에 따른 행성의 힘.|우연히 발생했다는 뜻보다 상황적 조건이라는 뜻으로 읽는다.|lilly
+peregrine|페러그린|peregrine;방랑성|해당 위치에 자신의 본질적 디그니티가 없는 상태.|리셉션의 도움이나 디트리먼트 여부와 별도 판단한다.|sky-p
+reception|리셉션|수용;reception|디그니티 지배권을 통해 한 행성이 다른 행성을 받아들이는 관계.|주체·객체와 애스펙트 필요 여부를 보존한다. 호감으로 일괄 치환하지 않는다.|reception;perfection
+mutual-reception|뮤추얼 리셉션|상호 수용;mutual reception|리셉션 관계가 두 행성 사이에서 양방향으로 성립하는 상태.|사인 교환과 다른 디그니티에 의한 상호 수용을 구별한다.|reception
+reception-without-aspect|애스펙트 없는 리셉션|reception without aspect|애스펙트 없이도 디그니티 관계를 리셉션으로 인정하는 용법.|모든 저자가 채택하지 않는다. 해당 저자의 정의를 우선한다.|reception;perfection
+combustion|컴버스천|연소;컴버스트;combust|태양에 가까운 행성을 약화된 상태로 다루는 전통 개념.|거리·사인 경계·황위 기준과 카지미 예외를 문헌별로 보존한다.|combust
+under-the-beams|언더 더 빔즈|태양 광선 아래;under the rays|행성이 태양 광선에 가려지는 근접 범위의 전통적 명칭.|컴버스천과 경계가 같지 않으며 실제 관측 가시성과도 구별한다.|sky-u
+cazimi|카지미|태양의 심장;in the heart of the Sun|태양과 극히 가까운 합을 특별히 평가하는 상태.|17각분·1도 등 문헌별 경계 차이를 임의로 통일하지 않는다.|cazimi
+oriental-and-occidental|오리엔탈과 옥시덴탈|동방성;서방성;oriental;occidental|태양과의 선후 관계 또는 동서 반구 배치를 나타내는 말.|행성 종류와 저자에 따라 용법이 달라 문장 전체를 확인한다.|sky-o
+speed-and-visibility|속도와 가시성|swift;slow;visibility|천체의 겉보기 이동률과 관측 가능성을 다루는 조건군.|빠름·느림의 기준과 태양으로부터의 거리는 별도 값이다.|sky-s;usno
+bonification|보니피케이션|이로움의 부여;bonification|길성이 특정 배치로 다른 행성의 상태를 돕는다는 개념.|몰트리트먼트의 단순 수학적 반대라고 가정하지 않는다.|hellenistic-conditions
+maltreatment|몰트리트먼트|해침;흉성에 의한 손상;maltreatment|흉성이 특정 관계로 다른 행성을 해친다고 보는 조건군.|현대어 학대나 디트리먼트와 일대일 대응하지 않는다.|hellenistic-conditions
+enclosure|포위|enclosure;enclosing|천체가 앞뒤의 다른 천체 또는 그 광선 사이에 놓이는 상태.|실제 황경 사이인지 애스펙트 사이인지, 길성·흉성인지 표시한다.|sky-b
+besiegement|비시지먼트|흉성 포위;besiegement|행성이 두 흉성 사이에 갇히는 것으로 판단되는 배치.|중간의 다른 접촉을 허용하는지와 사인 경계 조건을 확인한다.|sky-b
+overcoming|오버커밍|우위각;상위 스퀘어;epidekateia|황도 순서상 앞선 위치에서 상대를 압도한다고 보는 관계.|기본적인 상위 스퀘어 용법과 더 넓은 우위 관계를 구별한다.|hellenistic-conditions
+aversion|어버전|비애스펙트;보지 못함;aversion|전통의 인정된 사인 애스펙트로 서로 연결되지 않는 관계.|감정적 혐오로 번역하지 않으며 현대의 150도 각과 정의가 다르다.|sky-a
+doryphory|도리포리|doryphory;doryphoria;창병;호위성|발광체 등의 권위를 호위 행성으로 평가하는 전통 규칙군.|단순히 옆에 있는 행성이라는 뜻이 아니다. 출몰·선후 조건을 명시한다.|sky-d
+almuten|알무텐|almuten;almutem;우세 주인|디그니티 등의 점수를 합산해 선정하는 우세 행성.|어느 위치·점수표에 대한 알무텐인지 적는다.|sky-a
+almuten-figuris|알무텐 피구리스|almuten figuris;almutem figuris|여러 주요 위치와 조건을 합쳐 정하는 차트 전체의 알무텐.|ASC 주인·오이코데스포테스와 자동으로 같지 않다.|master-nativity
+oikodespotes|오이코데스포테스|oikodespotēs;οἰκοδεσπότης;출생의 주재성|헬레니즘 문헌에서 출생의 지배 행성을 가리키는 기술어.|보통의 하우스 주인이라는 용법과 차트 전체의 주재성 용법을 구별한다.|master-nativity
+kurios|퀴리오스|kyrios;kurios;κύριος;출생의 주관성|일부 헬레니즘 체계에서 출생차트를 주관하는 행성.|오이코데스포테스와 다른 선정 단계일 수 있다.|master-nativity
+predominator|프리도미네이터|epikratētōr;에피크라테토르|차트의 주요 주인 선정을 위해 우선 택하는 발광체 또는 점.|주야·앵귤러리티 등 선정 기준을 출처와 함께 기록한다.|master-nativity
+hyleg|하일레그|hyleg;apheta;아페타|전통 수명론에서 생명을 대표하도록 선정하는 천체나 점.|실제 수명의 검증된 지표로 서술하지 않는다.|sky-h
+alcocoden|알코코덴|alchocoden;알코코덴;giver of years|하일레그와 관계하여 생명의 연수를 배정하는 전통적 행성.|선정 조건과 행성년 가감 규칙은 저자마다 다르다.|sky-a
+anareta|아나레타|anareta;interfector|전통 수명론에서 파괴 또는 종료를 상징하는 요소.|실제 사망을 확정하는 천체라는 식으로 번역하지 않는다.|sky-a
+dispositor-chains|디스포지터 연쇄|dispositor;최종 디스포지터;final dispositor|행성의 사인 주인을 차례로 따라가는 연결 구조.|고리·상호 지배·복수 종착점이 있을 수 있다.|sky-d
+monomoiria|모노모이리아|monomoiriai;단일 도수 주인|황도의 각 1도에 행성 등을 배정하는 체계.|텀이나 데칸과 다른 구획이며 배정표의 계통을 명시한다.|sky-m
+dodekatemoria|도데카테모리아|dodecatemoria;twelfth-parts;12분할점|사인의 12분할 또는 그 분할에 따른 파생 황경.|구획과 투영점의 용법 및 배수 규약을 구별한다.|sky-d
+thema-mundi|테마 문디|Thema Mundi;세계의 차트|전통 교리를 설명하는 데 쓰인 가상의 세계 탄생 차트.|실제 역사적 창조 시각을 계산한 관측 자료로 취급하지 않는다.|sky-t
+prenatal-syzygy|출생 전 삭망|prenatal lunation;SAN;syzygy|출생 직전의 신월 또는 보름달.|출생 전 신월만 사용하는 기법과 직전 삭망 기법을 구별한다.|sky-s
+planetary-years|행성년|planetary periods;minor years;major years|각 행성에 배당하는 전통적 연수 표.|행성의 실제 공전 주기와 다르며 소·중·대 주기의 연수 표를 명시한다.|valens-summary
+critical-degrees|임계 도수|critical degrees;위기 도수|특별한 전환·약화 등을 부여하는 여러 도수 규약의 총칭.|달의 맨션 기반 표와 사인 말도수 등을 한 표로 합치지 않는다.|sky-c
+via-combusta|비아 컴부스타|불타는 길;Via Combusta|전통적으로 불안정하다고 평가하는 황도 구간.|통상 천칭15도–전갈15도 용법이 있으나 저자별 경계를 따른다.|sky-v

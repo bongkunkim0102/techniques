@@ -1,0 +1,61 @@
+{
+  "id": "combustion",
+  "title": "컴버스천",
+  "en": "Combustion",
+  "tradition": "서양 전통 · 호라리",
+  "summary": "행성이 태양과 가까이 있어 그 힘이 제한되는 것으로 해석하는 전통적 상태로, 한국어로는 연소라고도 합니다.",
+  "sections": [
+    {
+      "title": "각거리의 기준",
+      "paragraphs": [
+        "Skyscript는 릴리의 입문부에 나오는 8°30′를 소개하면서, 태양 광선 아래의 범위와 카지미를 구분합니다. 태양 근접이라는 한 조건 안에서도 서로 다른 상태를 나눕니다."
+      ],
+      "refs": [
+        "combust"
+      ]
+    },
+    {
+      "title": "고정된 하나의 숫자로 합치지 않기",
+      "paragraphs": [
+        "동일 저작의 다른 구절에도 태양 광선 아래와 카지미의 거리 표현이 다르게 나타납니다. 그러므로 데이터에는 단지 컴버스트 여부만 저장하지 않고 저자·구절·경계값과 사인 조건을 함께 둡니다."
+      ],
+      "refs": [
+        "combust"
+      ]
+    },
+    {
+      "title": "계산과 판단의 분리",
+      "paragraphs": [
+        "예를 들어 태양 359°와 행성 1° 사이의 짧은 거리는 2°입니다. 숫자를 단순히 뺀 358°를 쓰면 경계 판정이 틀립니다. 이 산술 예제는 특정 문헌의 해석을 확정하는 예제가 아닙니다."
+      ],
+      "refs": []
+    }
+  ],
+  "related": [
+    "cazimi",
+    "under-the-beams",
+    "ecliptic-longitude"
+  ],
+  "refs": [
+    "combust"
+  ],
+  "revision": "98c2daec40d2",
+  "date": "2026-09-18",
+  "glossaryVersion": "2026-09-18.2",
+  "editor": "Codex (Astra)",
+  "review": "AI 편집 초판",
+  "license": "CC BY-NC-SA 4.0",
+  "kind": "개요",
+  "sourceSnapshots": [
+    {
+      "id": "combust",
+      "title": "Skyscript: Combust/Combustion",
+      "author": "Deborah Houlding",
+      "url": "https://www.skyscript.co.uk/glossary/combust/",
+      "locator": "거리 기준과 Lilly의 상이한 구절",
+      "license": "CC BY-NC-SA 4.0",
+      "access": "본문 확인",
+      "checkedAt": "2026-09-18"
+    }
+  ]
+}

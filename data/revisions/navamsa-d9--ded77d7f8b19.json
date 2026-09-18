@@ -1,0 +1,52 @@
+{
+  "id": "navamsa-d9",
+  "title": "나밤샤 D9",
+  "en": "Navamsa D9",
+  "tradition": "인도 · 조티샤",
+  "summary": "나밤샤는 D9라고 표기하는 대표적인 분할차트입니다. 한 사인을 아홉 구획으로 나누는 구조를 가집니다.",
+  "sections": [
+    {
+      "title": "분할의 크기",
+      "paragraphs": [
+        "30°를 아홉으로 나누면 각 구획은 3°20′입니다. 구획의 순서와 사인 배정 규칙을 합쳐 결과 위치를 정합니다. 이것은 분할 산술의 설명이며 특정 학파의 모든 해석을 뜻하지 않습니다."
+      ],
+      "refs": []
+    },
+    {
+      "title": "변형을 확인하기",
+      "paragraphs": [
+        "Jagannatha Hora는 D9에 복수 변형을 지원한다고 명시합니다. 기준 표기에는 단순한 D9 이외에 선택된 계산 방식도 포함해야 합니다."
+      ],
+      "refs": [
+        "jh"
+      ]
+    }
+  ],
+  "related": [
+    "vargas",
+    "varga-calculation-variants",
+    "sidereal-zodiac"
+  ],
+  "refs": [
+    "jh"
+  ],
+  "revision": "ded77d7f8b19",
+  "date": "2026-09-18",
+  "glossaryVersion": "2026-09-18.2",
+  "editor": "Codex (Astra)",
+  "review": "AI 편집 초판",
+  "license": "HoraryTalk 독자 해설",
+  "kind": "개요",
+  "sourceSnapshots": [
+    {
+      "id": "jh",
+      "title": "Features of Jagannatha Hora Software",
+      "author": "P. V. R. Narasimha Rao",
+      "url": "https://www.vedicastrologer.org/jh/features.htm",
+      "locator": "Divisional Charts / Dasas / Annual Charts / Panchanga / KP",
+      "license": "참고·독자 해설",
+      "access": "본문 확인",
+      "checkedAt": "2026-09-18"
+    }
+  ]
+}

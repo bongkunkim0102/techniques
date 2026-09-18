@@ -1,0 +1,27 @@
+id|ko|aliases|definition|note|refs
+lots-and-arabic-parts|랏과 아라비안 파트|아랍점;아라비안 포인트;Arabic parts;klēroi|두 위치의 방향 있는 각거리를 다른 점에 더한 계산점.|실제 천체가 아니며 같은 이름에도 여러 공식이 있다.|lots
+lot-of-fortune|포르투나 랏|행운점;파트 오브 포춘;포르투나;Tyche|대표적으로 몸·환경·재물과 관련해 읽는 랏.|일반 주간 공식은 ASC+달−태양이며 주야 반전의 채택 여부를 남긴다.|lots
+lot-of-spirit|스피릿 랏|정신의 랏;다이몬;Daimon;Part of Spirit|대표적으로 의지·행위와 관련해 읽는 랏.|포르투나와 대조되는 계산점이며 영적 실체라는 뜻으로 확정하지 않는다.|lots
+lot-of-eros|에로스 랏|Lot of Love;에로스;Erōs|욕망·결합 등의 주제를 배정하는 랏.|헤르메스 계열과 발렌스 계열 등의 공식을 구별한다.|hermetic-lots
+lot-of-necessity|네세시티 랏|필연의 랏;Ananke;Necessity|필연·구속 등의 주제를 배정하는 랏.|같은 명칭의 서로 다른 계산법을 출처 없이 합치지 않는다.|hermetic-lots
+lot-of-courage|커리지 랏|용기의 랏;Tolma;Courage|용기·대담함 등의 주제를 배정하는 랏.|영문 표제를 고정하고 화성의 역할 및 주야 공식을 확인한다.|hermetic-lots
+lot-of-victory|빅토리 랏|승리의 랏;Nike;Victory|승리·성취 등의 주제를 배정하는 랏.|일상적 성공의 보장이라는 뜻이 아니다.|hermetic-lots
+lot-of-nemesis|네메시스 랏|Nemesis;응보의 랏|제약·응보 등의 주제를 배정하는 랏.|저자의 의미 범위를 임의로 복수나 처벌 하나로 좁히지 않는다.|hermetic-lots
+lots-of-marriage|혼인 관련 랏|marriage parts;혼인점|혼인 주제를 다루는 여러 저자의 랏 공식군.|성별 조건·주야 반전·저자 차이를 각각 보존한다.|lilly
+lots-of-children|자녀 관련 랏|children parts;자녀점|자녀 주제를 다루는 랏 공식군.|같은 이름을 공식의 동일성으로 오인하지 않는다.|lilly
+lots-of-profession|직업 관련 랏|profession parts;직업점|직업·활동 주제를 다루는 랏 공식군.|스피릿 랏과 같은 공식인지 별도의 랏인지 기록한다.|lots
+day-night-reversal-in-lots|랏의 주야 공식 반전|nocturnal reversal;reverse by night|밤 차트에서 랏 공식의 두 항을 바꾸는 규칙.|모든 랏에 자동 적용하지 않으며 출처의 채택 여부를 표시한다.|lots
+fixed-star-longitude-contacts|항성 황경 접촉|fixed star conjunction;항성 합|항성과 다른 점의 황경상 근접을 이용하는 방법.|천구상의 실제 각거리·적위·파란과 구별한다.|stars
+fixed-star-parans|항성 파란|paranatellonta;parans;동시 앵글 접촉|항성과 천체가 출·몰·상하 정중을 동시에 이루는 관계.|같은 황경의 합이 아니며 관측 위도와 시간 허용폭을 명시한다.|stars
+fixed-star-rising-and-culmination|항성의 출과 정중|항성의 상승과 남중;rising;culmination|항성이 지평선에 나타나고 자오선을 통과하는 현상.|정중을 남중으로만 한정하지 않는다. 영문 표제에 몰은 포함되지 않는다.|usno
+heliacal-star-phases|항성의 헬리아칼 위상|heliacal star phases|태양과의 관계에서 나타나는 항성의 가시성 단계.|모든 위상이 단일 황경 간격으로 결정되지 않는다.|usno;stars
+royal-stars|로열 스타|왕의 별;Royal Stars|알데바란·레굴루스·안타레스·포말하우트의 전통적 묶음.|그 역사적 기원과 현대의 고정 도수를 무비판적으로 소급하지 않는다.|stars
+behenian-stars|베헤니안 항성|Behenian stars;베헤니 항성|서양 점성 마술 전통의 특정 15항성 집단.|로열 스타와 다르며 항성에 연결된 부적·상징은 문헌별로 적는다.|agrippa
+lunar-mansions|달의 맨션|lunar mansions;manāzil;달의 저택|달의 통과 경로를 여러 구간으로 구분하는 전통들의 총칭.|아랍의 28맨션·인도의 낙샤트라·동아시아 28수를 구별한다.|sky-l
+black-moon-lilith|블랙문 릴리스|Black Moon;Lunar Apogee;달 원지점|달 궤도의 원지점 등에 연결한 점성술 계산점.|평균·접촉궤도·보간 원지점의 구현이 다르다. 천체가 아니다.|lilith
+asteroid-lilith|소행성 릴리스|1181 Lilith|소행성 번호 1181인 실제 천체.|블랙문이나 가상의 제2달과 구별한다.|lilith
+hypothetical-dark-moon|가상 다크문|Waldemath;Waltemath;Dark Moon|발데마트 등에게서 유래한 가상의 지구 위성 개념.|관측으로 확인된 달이나 달 원지점으로 설명하지 않는다.|lilith
+chiron|키론|Chiron;2060 Chiron;카이론|점성술에서 사용하는 센타우르 천체 키론.|신화·해석과 천문학적 궤도 분류는 별도 정보다.|jpl-bodies
+asteroids-in-astrology|점성술의 소행성|asteroids;minor planets|소행성들을 추가 상징자로 사용하는 기법군.|이름만으로 특정 의미가 검증되었다고 서술하지 않는다.|jpl-bodies
+centaurs-in-astrology|점성술의 센타우르|Centaurs;켄타우로스 천체|센타우르 계열 소천체를 차트에 사용하는 기법군.|신화의 종족명·천체 역학 분류·해석 학파를 구별한다.|jpl-bodies
+hypothetical-planets|가상 행성|hypothetical planets;fictitious bodies|관측 확인 없이 이론이나 규칙으로 위치를 배당하는 천체군.|실제 해왕성 바깥 천체 및 수학적 랏과 구분해 표시한다.|swiss;uranian

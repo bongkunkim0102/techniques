@@ -1,0 +1,60 @@
+---
+import '../styles/global.css';
+import { categories } from '../data/glossary.mjs';
+const { title = '점성술 기법 백과', description = '학파와 문헌을 연결하는 한국어 점성술 기법 백과. 용어·기법·계산 규약과 출처를 함께 읽습니다.', noindex = false, wide = false } = Astro.props;
+const path = Astro.url.pathname;
+const canonical = new URL(path, Astro.site);
+---
+<!doctype html>
+<html lang="ko" data-theme="light">
+  <head>
+    <meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title} | HoraryTalk Techniques</title><meta name="description" content={description} />
+    <link rel="canonical" href={canonical} /><link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <meta property="og:title" content={`${title} · HoraryTalk`} /><meta property="og:description" content={description} /><meta property="og:type" content="website" /><meta property="og:url" content={canonical} />
+    <meta name="theme-color" content="#ffffff" />{noindex && <meta name="robots" content="noindex,follow" />}
+  </head>
+  <body>
+    <a class="skip" href="#main">본문으로 건너뛰기</a>
+    <header class="topbar" data-pagefind-ignore>
+      <a class="brand" href="/" aria-label="HoraryTalk 기법 백과 홈"><span class="brand-mark" aria-hidden="true">H</span><span>HoraryTalk <small>TECHNIQUES</small></span></a>
+      <nav class="top-nav" aria-label="주요 메뉴"><a href="/catalogue/" aria-current={path.startsWith('/catalogue') ? 'page' : undefined}>전체 색인</a><a href="/glossary/" aria-current={path.startsWith('/glossary') ? 'page' : undefined}>용어집</a><a href="/translations/" aria-current={path.startsWith('/translations') ? 'page' : undefined}>번역실</a><a href="/compare/">기법 비교</a><a href="/sources/">출처</a></nav>
+      <a class="header-search" href="/search/">검색 <kbd>/</kbd></a><button id="theme" class="quiet-button" aria-label="색상 테마 전환" aria-pressed="false">야간 화면</button>
+      <button id="menu" class="quiet-button mobile-only" aria-expanded="false" aria-controls="sidebar">분류</button>
+    </header>
+    <div class:list={['shell', { wide }]}>
+      <aside id="sidebar" class="sidebar" data-pagefind-ignore>
+        <a class:list={['side-home', { active: path === '/' }]} href="/">백과 첫 페이지</a>
+        <p class="nav-label">분야별 탐색</p>
+        <nav aria-label="분야별 분류">{categories.map(c => <a class:list={{ active: path === `/traditions/${c.id}/` }} href={`/traditions/${c.id}/`}>{c.name.replace('·계산', '')}</a>)}</nav>
+        <div class="side-bottom"><a href="/translations/">한국어 번역실</a><a href="/about/">이 백과에 대하여</a><a href="/history/">최근 편집</a><a href="/glossary/#principles">번역·표기 원칙</a></div>
+        <p class="side-note">정의에서 출처까지,<br />다시 확인할 수 있는 지식.</p>
+      </aside>
+      <main id="main" tabindex="-1"><slot /></main>
+    </div>
+    <footer class="site-footer" data-pagefind-ignore><span>HoraryTalk · 점성술 기법 백과</span><a href="/about/#editorial">편집 기준과 문서 상태</a><span>한국어로 읽고, 출처로 돌아갑니다.</span></footer>
+    <script>
+      const root = document.documentElement;
+      const themeButton = document.getElementById('theme');
+      // White is the default, including for visitors with a dark OS theme.
+      // A new key retires the old system-following preference once.
+      try { if (localStorage.getItem('techniques-reading-theme') === 'dark') root.dataset.theme = 'dark'; } catch {}
+      const updateThemeButton = () => {
+        const dark = root.dataset.theme === 'dark';
+        themeButton?.setAttribute('aria-pressed', String(dark));
+        if (themeButton) themeButton.textContent = dark ? '흰색 화면' : '야간 화면';
+        document.querySelector('meta[name="theme-color"]')?.setAttribute('content', dark ? '#151a22' : '#ffffff');
+      };
+      updateThemeButton();
+      themeButton?.addEventListener('click', () => {
+        const dark = root.dataset.theme === 'dark';
+        root.dataset.theme = dark ? 'light' : 'dark';
+        try { localStorage.setItem('techniques-reading-theme', root.dataset.theme); } catch {}
+        updateThemeButton();
+      });
+      const menu = document.getElementById('menu');
+      menu?.addEventListener('click', () => { const open = menu.getAttribute('aria-expanded') !== 'true'; menu.setAttribute('aria-expanded', String(open)); document.getElementById('sidebar')?.classList.toggle('open', open); });
+      document.addEventListener('keydown', e => { if (e.key === '/' && !e.ctrlKey && !e.metaKey && !(e.target instanceof HTMLElement && (e.target.matches('input,textarea,select') || e.target.isContentEditable))) { e.preventDefault(); location.href = '/search/'; } if (e.key === 'Escape') { menu?.setAttribute('aria-expanded','false'); document.getElementById('sidebar')?.classList.remove('open'); } });
+    </script>
+  </body>
+</html>

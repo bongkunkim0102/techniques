@@ -1,0 +1,39 @@
+{
+  "artifact_scope": "planning_only_not_application_tests",
+  "source_records": 37,
+  "topic_candidates": 455,
+  "discovery_buckets": 13,
+  "checks": {
+    "json_parse": true,
+    "source_ids_unique": true,
+    "topic_ids_unique": true,
+    "topic_source_hints_resolve": true,
+    "all_topic_publication_defaults_false": true,
+    "schema_draft_2020_12_syntax": true,
+    "unreviewed_release_rejected_in_schema_test": true
+  },
+  "not_performed": [
+    "application_build",
+    "repository_tests",
+    "llm_benchmark",
+    "full_corpus_audit",
+    "bulk_crawl",
+    "deployment",
+    "live_link_revalidation_of_all_registry_urls"
+  ],
+  "bucket_counts": {
+    "기초·천문·좌표·달력": 41,
+    "하우스·앵글·차트 기준점": 25,
+    "고전의 상태·판단·구조": 45,
+    "호라리·택일·질문별 규칙": 35,
+    "타임로드·전통 예측": 32,
+    "랏·항성·특수점": 26,
+    "현대 서양·관계·진행": 36,
+    "미드포인트·우라니안·하모닉": 21,
+    "문데인·공간·역사적 응용": 26,
+    "인도 기초·분할·강약": 46,
+    "인도 예측·요가·질문·택일": 53,
+    "동아시아·티베트·주변 전통": 39,
+    "역사·비교·검증·문헌학": 30
+  }
+}

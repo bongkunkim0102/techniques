@@ -1,0 +1,12 @@
+---
+const {table}=Astro.props;
+---
+<figure class="translation-table-figure">
+  <figcaption><strong>{table.caption}</strong><p class="meta">{table.note}</p></figcaption>
+  <div class="translation-table-scroll" role="region" aria-label={table.caption} tabindex="0">
+    <table id={table.id} class="translation-table"><caption class="meta">{table.caption}</caption><thead><tr>{table.columns.map(c=><th scope="col">{c}</th>)}</tr></thead><tbody>{table.rows.map(row=><tr>{row.map((cell,i)=>i===0?<th scope="row">{cell}</th>:<td>{cell}</td>)}</tr>)}</tbody></table>
+  </div>
+</figure>
+<style>
+  .translation-table-figure{margin:28px 0}.translation-table-scroll{overflow-x:auto;border:1px solid var(--line);max-width:100%}.translation-table-scroll:focus-visible{outline:2px solid var(--accent);outline-offset:3px}.translation-table{width:100%;min-width:900px;border-collapse:collapse;font-size:.83rem;line-height:1.8}.translation-table caption{text-align:left;padding:12px;background:var(--subtle)}.translation-table th,.translation-table td{padding:12px;border-right:1px solid var(--line);border-bottom:1px solid var(--line);vertical-align:top;text-align:left;word-break:keep-all;overflow-wrap:anywhere}.translation-table th{background:var(--subtle)}.translation-table th:first-child{min-width:95px}.translation-table th:last-child,.translation-table td:last-child{border-right:0}figcaption p{margin:8px 0 12px}
+</style>

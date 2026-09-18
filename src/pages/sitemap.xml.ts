@@ -1,0 +1,3 @@
+import {articles} from '../data/articles.mjs';import {categories,glossary} from '../data/glossary.mjs';
+import translations from '../data/translations.json';
+export function GET(){const paths=['','catalogue/','glossary/','translations/','sources/','about/',...glossary.map(t=>`topics/${t.id}/`),...articles.map(a=>`wiki/${a.id}/`),...translations.map(t=>`translations/${t.id}/`),...categories.map(c=>`traditions/${c.id}/`)];return new Response(`<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${paths.map(p=>`<url><loc>https://techniques.horarytalk.com/${p}</loc></url>`).join('')}</urlset>`,{headers:{'Content-Type':'application/xml'}});}

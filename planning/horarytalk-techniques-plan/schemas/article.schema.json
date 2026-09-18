@@ -1,0 +1,430 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:horarytalk:planning:article:1",
+  "title": "검토용 위키 문서 계약 v0.1 — 구현 전 설계안",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "entity_type",
+    "title_ko",
+    "aliases",
+    "tradition_ids",
+    "application_ids",
+    "source_ids",
+    "claims",
+    "sections",
+    "revision",
+    "publication",
+    "review"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z]+:[a-z0-9-]+$"
+    },
+    "entity_type": {
+      "enum": [
+        "technique",
+        "variant",
+        "concept",
+        "tradition",
+        "comparison",
+        "term",
+        "work",
+        "edition",
+        "example"
+      ]
+    },
+    "title_ko": {
+      "type": "string",
+      "minLength": 1
+    },
+    "aliases": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "text",
+          "language",
+          "status"
+        ],
+        "properties": {
+          "text": {
+            "type": "string"
+          },
+          "language": {
+            "type": "string"
+          },
+          "status": {
+            "enum": [
+              "proposed",
+              "approved"
+            ]
+          }
+        }
+      }
+    },
+    "tradition_ids": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "application_ids": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "source_ids": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "string"
+      }
+    },
+    "claims": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "text_ko",
+          "kind",
+          "tradition_ids",
+          "citations",
+          "review_status"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^claim:[a-z0-9-]+$"
+          },
+          "text_ko": {
+            "type": "string",
+            "minLength": 1
+          },
+          "kind": {
+            "enum": [
+              "historical_report",
+              "tradition_rule",
+              "calculation_definition",
+              "practitioner_interpretation",
+              "editorial_synthesis",
+              "empirical_result"
+            ]
+          },
+          "tradition_ids": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "conditions": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "exceptions": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "variant_id": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "citations": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "source_id",
+                "edition_id",
+                "locator",
+                "verification"
+              ],
+              "properties": {
+                "source_id": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "edition_id": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "locator": {
+                  "type": "string",
+                  "minLength": 1,
+                  "description": "실제로 확인한 장·쪽·문단·영상 시각. 미확인 쪽 번호를 생성하지 않는다."
+                },
+                "verification": {
+                  "enum": [
+                    "pending",
+                    "source_checked",
+                    "human_checked"
+                  ]
+                }
+              }
+            },
+            "minItems": 1
+          },
+          "review_status": {
+            "enum": [
+              "unreviewed",
+              "ai_checked",
+              "human_source_checked",
+              "domain_reviewed"
+            ]
+          }
+        }
+      }
+    },
+    "sections": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "title_ko",
+          "markdown",
+          "claim_ids"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "title_ko": {
+            "type": "string"
+          },
+          "markdown": {
+            "type": "string",
+            "description": "정제된 Markdown만 허용; 외부 MDX/JS 실행 금지."
+          },
+          "claim_ids": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "revision": {
+      "type": "object",
+      "required": [
+        "id",
+        "base_revision"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "base_revision": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "publication": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "state",
+        "rights_cleared",
+        "privacy_cleared",
+        "public_license",
+        "release_id"
+      ],
+      "properties": {
+        "state": {
+          "enum": [
+            "draft",
+            "review",
+            "approved_candidate",
+            "released",
+            "withdrawn"
+          ]
+        },
+        "rights_cleared": {
+          "type": "boolean"
+        },
+        "privacy_cleared": {
+          "type": "boolean"
+        },
+        "public_license": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "release_id": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "review": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "source_status",
+        "translation_status",
+        "domain_status",
+        "calculation_status",
+        "empirical_status",
+        "human_reviewer_ids"
+      ],
+      "properties": {
+        "source_status": {
+          "enum": [
+            "pending",
+            "checked"
+          ]
+        },
+        "translation_status": {
+          "enum": [
+            "pending",
+            "ai_draft",
+            "human_checked",
+            "not_applicable"
+          ]
+        },
+        "domain_status": {
+          "enum": [
+            "pending",
+            "human_reviewed"
+          ]
+        },
+        "calculation_status": {
+          "enum": [
+            "not_applicable",
+            "documented_only",
+            "implemented_unverified",
+            "fixture_tested"
+          ]
+        },
+        "empirical_status": {
+          "enum": [
+            "not_assessed",
+            "mixed_evidence",
+            "study_reported",
+            "replication_reported"
+          ]
+        },
+        "human_reviewer_ids": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "relations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "type",
+          "target_id"
+        ],
+        "properties": {
+          "type": {
+            "enum": [
+              "part_of",
+              "prerequisite_for",
+              "variant_of",
+              "derived_from",
+              "analogous_to",
+              "contradicts_under_conditions",
+              "implemented_by",
+              "discussed_in"
+            ]
+          },
+          "target_id": {
+            "type": "string"
+          },
+          "supporting_claim_ids": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "publication": {
+            "properties": {
+              "state": {
+                "enum": [
+                  "approved_candidate",
+                  "released"
+                ]
+              }
+            }
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "claims": {
+            "minItems": 1
+          },
+          "source_ids": {
+            "minItems": 1
+          },
+          "publication": {
+            "properties": {
+              "rights_cleared": {
+                "const": true
+              },
+              "privacy_cleared": {
+                "const": true
+              },
+              "public_license": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          },
+          "review": {
+            "properties": {
+              "source_status": {
+                "const": "checked"
+              },
+              "translation_status": {
+                "enum": [
+                  "human_checked",
+                  "not_applicable"
+                ]
+              },
+              "domain_status": {
+                "const": "human_reviewed"
+              },
+              "human_reviewer_ids": {
+                "minItems": 1
+              }
+            }
+          }
+        }
+      }
+    }
+  ]
+}

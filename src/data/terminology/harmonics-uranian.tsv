@@ -1,0 +1,22 @@
+id|ko|aliases|definition|note|refs
+midpoints|미드포인트|중간점;midpoint;half-sum|두 위치 사이 호의 중간에 해당하는 계산점.|원 위에는 반대쪽 중간점도 있어 짧은 호·긴 호 기준을 밝힌다.|uranian
+direct-and-indirect-midpoints|직접·간접 미드포인트 접촉|direct midpoint;indirect midpoint|중간점 축에 직접 닿는 접촉과 특정 분할각을 통해 닿는 접촉의 구분.|다이얼의 주기와 합·충을 같은 축으로 취급하는지 표시한다.|uranian
+planetary-pictures|플래네터리 픽처|planetary pictures;행성 조합식;Planetenbilder|중간점이나 합차 관계로 여러 천체를 연결한 대칭적 조합.|차트 이미지라는 뜻으로 번역하지 않는다.|uranian
+hamburg-school|함부르크 학파|Hamburg School;Hamburger Schule|알프레트 비테와 동료들에서 발전한 대칭·중간점 중심 계통.|미국의 우라니안 용법과 역사적 관계를 보존한다.|uranian
+uranian-astrology|우라니안 점성술|Uranian astrology|함부르크 계열의 중간점·행성 조합·다이얼 기법을 사용하는 흐름.|천왕성 하나만 연구하는 점성술이라는 뜻이 아니다.|uranian
+cosmobiology|코스모바이올로지|Cosmobiology;Kosmobiologie|에베르틴 계열의 중간점·디렉션 등을 사용하는 접근.|생물학의 한 분야로 번역하지 않으며 가상점의 채택 여부도 구별한다.|uranian
+90-degree-dial|90도 다이얼|90° dial;fourth-harmonic dial|황경을 90도 주기로 겹쳐 표시하는 원형 도구.|차트의 실제 황경이 사라진 것은 아니며 원값을 보존한다.|uranian
+45-degree-dial|45도 다이얼|45° dial;eighth-harmonic dial|황경을 45도 주기로 겹쳐 표시하는 도구.|90도 다이얼보다 더 많은 각이 같은 위치에 겹친다.|uranian
+360-degree-dial|360도 다이얼|360° dial|전체 황도를 축약 없이 표시하는 회전식 분석 도구.|일반 차트 바퀴와 다이얼을 활용하는 기법을 구별한다.|uranian-society
+aries-point|양자리점|Aries Point;AP;양자리 0도|회귀황도의 시작점 또는 활동궁 영점 축을 가리키는 용어.|원어가 0도 한 점인지 네 활동궁의 등가 축인지 확인한다.|sky-a
+antiscia-in-planetary-pictures|플래네터리 픽처의 안티시아|antiscia in pictures|반사된 황경점을 대칭 조합식에 함께 쓰는 방법.|전통의 안티시아 접촉과 조합식의 사용 맥락을 구별한다.|uranian;antiscia
+harmonic-charts|하모닉 차트|조화 차트;배음 차트;harmonic chart|황경에 배수를 적용하고 360도로 환산한 차트.|황경 배수와 인도 바르가의 사인 배정은 일반적으로 같은 연산이 아니다.|harmonic-help
+harmonic-aspect-families|하모닉 각 계열|harmonic aspects;aspect families|360도를 정수로 나눈 각과 그 배수로 묶은 애스펙트 계열.|약분되어 다른 계열과 겹치는 각을 중복 증거로 세지 않는다.|harmonic-help
+harmonic-age-charts|하모닉 에이지 차트|age harmonics;나이 하모닉|연령을 하모닉 배수에 대응시키는 방법군.|정수 나이·소수 나이·태아기 가산 등 규약을 명시한다.|harmonic-help
+harmonic-patterns|하모닉 패턴|harmonic patterns|특정 하모닉에서 드러나는 천체들의 각·중간점 구조.|원차트에 없는 실제 천체 집합이 생긴 것은 아니다.|vibrational
+vibrational-astrology|진동 점성술|Vibrational Astrology;VA|하모닉·중간점의 복합 패턴을 중시하는 코크런 등의 접근.|진동이라는 말이 물리적 원인이나 과학적 입증을 뜻하지 않는다.|vibrational
+astrosignature|아스트로시그니처|AstroSignature;점성 패턴 모형|선택한 점성 변수와 가중치를 결합한 패턴·점수 모형.|학습에 사용한 자료와 독립 검증 자료를 구별한다.|vibrational
+cosmodynes|코스모다인|Cosmodynes;Astrodynes;아스트로다인|차트 요소의 힘·조화를 점수화하는 벤자민·드레이크 계열 지표.|물리학의 힘 단위와 다르며 사용한 점수표를 기록한다.|cosmodynes
+declination-midpoint-techniques|적위 미드포인트 기법|declination midpoints|적위 좌표의 중간값을 사용하는 분석 방법군.|황경 원 위 중간점과 달리 북·남 부호를 포함한 선형 좌표다.|usno;uranian
+witte-hypothetical-points|비테의 가상점|Cupido;Hades;Zeus;Kronos|비테 계열에서 도입한 쿠피도·하데스·제우스·크로노스.|동명 소행성과 구별하고 관측으로 발견된 천체로 쓰지 않는다.|swiss;uranian
+sieggruen-hypothetical-points|지그륀의 가상점|Apollon;Admetos;Vulkanus;Poseidon|지그륀 계열의 아폴론·아드메토스·불카누스·포세이돈.|불카누스와 가설상 수성 안쪽 행성 벌컨을 구별한다.|swiss;uranian

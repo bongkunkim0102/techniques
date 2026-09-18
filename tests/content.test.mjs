@@ -1,0 +1,10 @@
+import test from 'node:test';import assert from 'node:assert/strict';
+import {antiscia,fortune,profection,position} from '../src/lib/math.mjs';
+import {searchEntries} from '../src/lib/search.mjs';import {glossary} from '../src/data/glossary.mjs';import {articles} from '../src/data/articles.mjs';
+test('antiscia preserves arcminutes and wraps zodiac',()=>{assert.equal(antiscia(40),140);assert.ok(Math.abs(antiscia(107+31/60)-(72+29/60))<1e-9);assert.equal(antiscia(200),340);assert.equal(antiscia(90),90);assert.equal(antiscia(antiscia(359.2)),359.2);});
+test('day/night fortune never loses reversal or 0-degree crossing',()=>{assert.equal(fortune(100,20,80),160);assert.equal(fortune(100,20,80,true),40);assert.equal(fortune(5,350,10),25);assert.throws(()=>fortune(NaN,0,0));});
+test('profection uses completed age, starts at first house, rejects fractional ages',()=>{assert.deepEqual(profection(0,1),{house:1,sign:1});assert.deepEqual(profection(12,1),{house:1,sign:1});assert.deepEqual(profection(30,0),{house:7,sign:6});assert.throws(()=>profection(-1));assert.throws(()=>profection(1.5));assert.throws(()=>profection(2,12));});
+test('position rounds at the sign boundary',()=>{assert.equal(position(359.9999),'양자리 0° 0′');assert.equal(position(29.9999),'황소자리 0° 0′');});
+const entries=glossary.map(t=>({...t,hasArticle:articles.some(a=>a.id===t.id),status:t.terminologyStatus}));
+test('Korean spaces, particles, English and aliases resolve to one term',()=>{for(const q of ['빛의전달','빛의 전달','Translation of light'])assert.equal(searchEntries(entries,q)[0].id,'translation-of-light');assert.equal(searchEntries(entries,'리셉션이란')[0].id,'reception');assert.equal(searchEntries(entries,'행운점')[0].id,'lot-of-fortune');assert.equal(searchEntries(entries,'七政四餘')[0].id,'qizheng-siyu');});
+test('filters and empty search remain distinct from authored article counts',()=>{assert.equal(searchEntries(entries,'').length,glossary.length);assert.equal(searchEntries(entries,'','','article').length,articles.length);assert.equal(searchEntries(entries,'unlikely-missing-query').length,0);});

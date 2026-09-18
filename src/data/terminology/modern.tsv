@@ -1,0 +1,37 @@
+id|ko|aliases|definition|note|refs
+secondary-progressions|세컨더리 프로그레션|이차 진행;세컨더리 진행;secondary progression|대표적으로 출생 후 하루를 생애 1년에 대응시키는 기법.|진행 앵글의 계산법은 별도로 기록한다.|progressions
+tertiary-progressions|터셔리 프로그레션|삼차 진행;tertiary progression I|대표적으로 출생 후 하루를 약 27.32일의 달 주기에 대응시키는 진행.|프로그램에서 tertiary I·II를 어떻게 부르는지 확인한다.|tertiary
+minor-progressions|마이너 프로그레션|minor progression;tertiary II|대표적으로 출생 후 약 27.32일의 달 주기를 생애 1년에 대응시키는 진행.|tertiary II라는 이름도 사용한다. 원문의 월 명칭과 수치가 충돌하면 약 29.53일의 삭망월로 임의 교정하지 말고 확인 표시를 남긴다.|minor
+converse-progressions|역방향 프로그레션|converse progression;출생 전 진행|출생 이전 방향으로 상징적 시점을 전개하는 진행.|천체의 실제 역행과 다르며 일·월·년의 대응 비율을 남긴다.|progressions
+solar-arc-directions|솔라 아크 디렉션|태양호 디렉션;solar arc|진행 태양의 이동호 등을 모든 기준 위치에 더하는 기법.|실제 태양호와 평균 태양호를 구별한다.|progressions
+lunar-arc-directions|루나 아크 디렉션|달호 디렉션;lunar arc|진행 달 등의 이동호를 기준 위치들에 공통 적용하는 기법.|어느 진행법에서 달의 호를 얻었는지 명시한다.|sky-d
+progressed-lunar-phases|진행 달 위상|progressed lunar phase|진행 태양과 진행 달의 상대 위상을 읽는 방법.|진행 달의 사인과 출생차트에 대한 달의 각을 구별한다.|lunar-cycle
+progressed-lunations|진행 삭망|progressed New Moon;progressed Full Moon|진행 태양·달이 합이나 충에 이르는 시점.|실제 하늘의 삭망이 아니라 상징적으로 대응한 시점이다.|lunar-cycle;chart-types
+synastry|시너스트리|synastry;궁합 대조|둘 이상의 차트 위치를 서로 대조하는 방법.|컴포지트처럼 두 차트를 하나의 계산차트로 합치지 않는다.|synastry
+composite-charts|컴포지트 차트|composite;중간점 합성 차트|두 차트의 대응 위치를 주로 중간점으로 합성한 차트.|실제 하늘에 존재한 순간의 차트라고 가정하지 않는다.|composite
+davison-relationship-chart|데이비슨 관계 차트|Davison;시공간 중간 차트|두 출생 시각·장소의 중간값을 바탕으로 작성하는 관계 차트.|보정·비보정 및 구면상 장소 중간점 방식이 존재한다.|davison
+progressed-synastry|진행 시너스트리|progressed synastry|진행차트와 상대의 출생 또는 진행차트를 대조하는 방법.|어느 차트가 진행되었는지 각각 표시한다.|chart-types
+progressed-composite|진행 컴포지트|progressed composite|관계의 컴포지트를 진행 상태로 산출하는 방법.|개인 차트들을 먼저 진행해 합성하는지 등의 계산 순서를 남긴다.|progressed-composite-help
+relationship-returns|관계 차트에 적용한 리턴|relationship returns|관계의 기준차트에 회귀 개념을 적용하는 방법들을 묶은 편집 표제.|통일된 단일 기법명이 아니다. 데이비슨·첫 만남 등 기준을 반드시 적는다.|chart-types
+psychological-astrology|심리 점성술|psychological astrology|성격·심리 과정과 차트 상징의 관계를 탐구하는 현대 흐름.|심리학의 임상 평가와 동일한 검증 체계로 간주하지 않는다.|cpa
+humanistic-astrology|인본주의 점성술|humanistic astrology|개인의 성장과 전체적 삶의 의미를 중시하는 현대 흐름.|루디야르 계열의 개념과 일반적 인본주의를 구별한다.|rudhyar
+transpersonal-astrology|초개인 점성술|transpersonal astrology;트랜스퍼스널 점성술|개인 자아를 넘어서는 변화와 경험을 해석하는 점성술 흐름.|학파마다 영성·발달의 뜻이 다르므로 저자를 밝힌다.|rudhyar
+evolutionary-astrology|진화 점성술|evolutionary astrology;EA|영혼의 발달 등을 명왕성·노드 등의 상징과 연결하는 계통들.|생물학의 진화론과 다르며 제프리 그린·스티븐 포리스트 계열을 구별한다.|evolutionary
+archetypal-astrology|원형 점성술|archetypal astrology|행성 주기를 원형적 심리·문화의 주제와 연결하는 접근.|원형은 천문학적 궤도 모양이라는 뜻이 아니다.|archetypal
+esoteric-astrology|밀교 점성술|esoteric astrology;비전 점성술|비전·신지학 등의 가르침과 차트를 연결하는 계통.|앨리스 베일리 등의 체계를 모두 불교 밀교로 번역하지 않는다.|bailey
+karmic-astrology|카르마 점성술|karmic astrology;업 점성술|업과 전생 등을 차트의 상징으로 해석하는 접근들의 총칭.|하나의 공통 계산법이나 검증된 전생 기록을 뜻하지 않는다.|huber-nodes
+draconic-charts|드라코닉 차트|draconic zodiac;노드 기준 차트|북노드를 0도 기준에 맞추도록 위치를 회전시킨 차트.|진노드·평균노드와 사용한 회전 방향을 명시한다.|draconic
+nodal-analysis|노드 분석|lunar node analysis;달 교점 분석|달의 두 교점과 그 관계를 해석하는 기법군.|서양의 용두·용미와 인도의 라후·케투 해석을 자동 통합하지 않는다.|huber-nodes;lilith
+huber-age-point|후버 에이지 포인트|Huber AP;age progression;연령점|하우스를 따라 이동하는 상징적 연령점으로 발달을 읽는 후버 기법.|대표적으로 한 하우스 6년이며 세컨더리 진행과 다르다.|huber-age
+huber-aspect-patterns|후버 애스펙트 패턴|Huber aspect patterns|전체 각 구조의 형태와 색 분류를 읽는 후버의 접근.|단일 애스펙트 뜻의 합이나 다른 학파 패턴표와 같지 않다.|huber-aspects
+huber-house-chart|후버 하우스 차트|Huber house chart|행성의 하우스 내 위치를 기준으로 재구성하는 후버 도표.|바바 찰리트와 이름이 비슷해도 계산·해석이 다르다.|huber-nodes
+huber-moon-node-chart|후버 달노드 차트|Huber nodal chart|달노드를 기준으로 별도 하우스 구조를 부여하는 후버 도표.|드라코닉 차트와 같은 계산이라고 가정하지 않는다.|huber-nodes
+jones-chart-patterns|존스 차트 패턴|Marc Edmund Jones;행성 분포 패턴|차트 전체 행성 분포를 형태별로 분류하는 존스의 체계.|볼·버킷 등 분포와 그랜드 트라인 같은 각 패턴을 구별한다.|jones-patterns
+grand-trines|그랜드 트라인|grand trine;대삼각|세 요소가 서로 트라인으로 연결되는 패턴.|사인만 맞는 경우와 실제 허용각을 충족한 경우를 구별한다.|sky-g
+t-squares|T스퀘어|T-square;티스퀘어|충을 이루는 두 요소가 제3요소에 각각 스퀘어를 맺는 패턴.|초점 행성과 각의 허용폭을 명시한다.|sky-t
+grand-crosses|그랜드 크로스|grand cross;대십자|두 충과 네 스퀘어로 구성하는 네 요소의 패턴.|하나의 T스퀘어만으로 대십자라고 부르지 않는다.|sky-g
+yods|요드|yod;요드 패턴|섹스타일의 두 요소가 제3요소에 각각 퀸컨스를 맺는 패턴.|퀸컨스의 오브를 명시하고 단순 삼각 배치와 구별한다.|sky-y
+sabian-symbols|사비안 심벌|Sabian symbols;새비언 심벌|엘시 휠러·마크 에드먼드 존스 계열의 360도 상징 체계.|다른 도수 상징과 혼합하지 않는다. 0도대가 제1도에 대응함을 확인한다.|sabian
+degree-symbolism-systems|도수 상징 체계|degree symbols;monomoiric images|황도 각 도수에 이미지나 의미를 배정하는 체계들의 총칭.|사비안·차루벨 등 저자별 표를 구별한다.|sabian;sky-d
+rectification|출생시각 교정|rectification;렉티피케이션|사건·자료·기법으로 알려지지 않거나 불확실한 출생시각을 추정하는 작업.|교정값과 원기록값, 오차 범위를 함께 보존한다.|rodden
+event-based-rectification|사건 기반 출생시각 교정|event rectification|생애 사건과 차트 기법의 대응으로 출생시각을 추정하는 방식.|같은 사건으로 맞추고 성능까지 평가하는 순환을 피한다.|rodden;osf

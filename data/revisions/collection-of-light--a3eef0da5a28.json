@@ -1,0 +1,73 @@
+{
+  "id": "collection-of-light",
+  "title": "빛의 수집",
+  "en": "Collection of light",
+  "tradition": "서양 전통 · 호라리",
+  "summary": "두 시그니피케이터가 공통의 제3행성에 접근할 때, 그 행성이 양쪽의 빛을 모으는 구조입니다.",
+  "sections": [
+    {
+      "title": "전달과의 차이",
+      "paragraphs": [
+        "빛의 전달에서는 매개 행성이 첫 접촉을 떠나 다음 접촉으로 갑니다. 수집에서는 두 시그니피케이터가 하나의 행성으로 향합니다. 따라서 같은 세 행성이 있다는 것만으로 두 기법이 동일해지지 않습니다."
+      ],
+      "refs": [
+        "collection",
+        "translation"
+      ]
+    },
+    {
+      "title": "릴리의 설명에 붙는 조건",
+      "paragraphs": [
+        "Skyscript가 인용한 Christian Astrology p.126에서는 더 무거운 행성이 빛을 모으고, 두 주요 시그니피케이터가 그 행성을 자신의 본질적 디그니티로 받아들이는 조건이 등장합니다. 수용 방향을 반대로 번역하지 않도록 주의합니다."
+      ],
+      "refs": [
+        "collection"
+      ]
+    },
+    {
+      "title": "위키에 기록하는 방법",
+      "paragraphs": [
+        "각 행성의 역할, 정확한 접촉 순서, 리셉션의 방향, 인용 판본을 각각 기록합니다. 연결의 존재와 최종 질문의 성공 여부를 별개 주장으로 남깁니다."
+      ],
+      "refs": []
+    }
+  ],
+  "related": [
+    "translation-of-light",
+    "reception",
+    "perfection"
+  ],
+  "refs": [
+    "collection",
+    "translation"
+  ],
+  "revision": "a3eef0da5a28",
+  "date": "2026-09-18",
+  "glossaryVersion": "2026-09-18.1",
+  "editor": "Codex (Astra)",
+  "review": "AI 편집 초판",
+  "license": "CC BY-NC-SA 4.0",
+  "kind": "개요",
+  "sourceSnapshots": [
+    {
+      "id": "collection",
+      "title": "Skyscript: Collection",
+      "author": "Deborah Houlding",
+      "url": "https://www.skyscript.co.uk/glossary/collection/",
+      "locator": "정의 및 Christian Astrology p.126 인용",
+      "license": "CC BY-NC-SA 4.0",
+      "access": "본문 확인",
+      "checkedAt": "2026-09-18"
+    },
+    {
+      "id": "translation",
+      "title": "Skyscript: Translation of Light / Transference of Virtue",
+      "author": "Deborah Houlding",
+      "url": "https://www.skyscript.co.uk/glossary/translation/",
+      "locator": "정의 및 Christian Astrology p.111 인용",
+      "license": "CC BY-NC-SA 4.0",
+      "access": "본문 확인",
+      "checkedAt": "2026-09-18"
+    }
+  ]
+}

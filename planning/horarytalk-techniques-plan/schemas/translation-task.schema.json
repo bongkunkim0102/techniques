@@ -1,0 +1,92 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:horarytalk:planning:translation-task:1",
+  "title": "번역 작업 및 출처 추적 계약 설계안",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "source_id",
+    "segment_id",
+    "input_sha256",
+    "base_article_revision",
+    "glossary_version",
+    "prompt_version",
+    "provider_policy_version",
+    "rights_decision_id",
+    "requested_model",
+    "reported_model",
+    "state",
+    "output_ko"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "source_id": {
+      "type": "string"
+    },
+    "segment_id": {
+      "type": "string"
+    },
+    "input_sha256": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "base_article_revision": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "glossary_version": {
+      "type": "string"
+    },
+    "prompt_version": {
+      "type": "string"
+    },
+    "provider_policy_version": {
+      "type": "string"
+    },
+    "rights_decision_id": {
+      "type": "string"
+    },
+    "requested_model": {
+      "type": "string"
+    },
+    "reported_model": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "공급자가 보고한 ID. 실제 모델 실체를 독립 검증했다는 뜻이 아님."
+    },
+    "state": {
+      "enum": [
+        "queued",
+        "running",
+        "draft",
+        "checks_failed",
+        "human_reviewed",
+        "cancelled",
+        "failed"
+      ]
+    },
+    "output_ko": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "attempt_count": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "error_code": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  }
+}

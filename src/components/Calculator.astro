@@ -1,0 +1,27 @@
+---
+import { signs } from '../lib/math.mjs';
+const { type } = Astro.props;
+---
+<section id="calculator"><h2>계산 실습</h2><form class="calculator" data-calculator={type}>
+  <div class="inputs">
+  {type === 'antiscia' && <label>황경 (0° 이상 360° 미만)<input type="number" name="longitude" value="40" min="0" max="359.999999" step="any" required /></label>}
+  {type === 'profection' && <><label>완료한 나이<input type="number" name="age" value="30" min="0" max="150" step="1" required /></label><label>출생 상승 사인<select name="sign">{signs.map((s,i) => <option value={i}>{s}</option>)}</select></label></>}
+  {type === 'fortune' && <><label>어센던트 황경<input type="number" name="asc" value="100" min="0" max="359.999999" step="any" required /></label><label>태양 황경<input type="number" name="sun" value="20" min="0" max="359.999999" step="any" required /></label><label>달 황경<input type="number" name="moon" value="80" min="0" max="359.999999" step="any" required /></label><label>차트의 주야<select name="night"><option value="false">낮 차트</option><option value="true">밤 차트</option></select></label></>}
+  </div><output aria-live="polite">계산을 준비하고 있습니다.</output><p>합성 입력의 산술 예제입니다. 천체력·출생차트·사건 예측을 계산하지 않으며 입력은 외부로 전송하지 않습니다.</p><noscript><p>이 실습에는 자바스크립트가 필요합니다. 본문의 공식과 예제는 그대로 읽을 수 있습니다.</p></noscript>
+</form></section>
+<script>
+  import { antiscia, fortune, profection, position, signs } from '../lib/math.mjs';
+  document.querySelectorAll<HTMLFormElement>('[data-calculator]').forEach(form => {
+    const update = () => {
+      const out = form.querySelector('output')!;
+      if (!form.checkValidity()) { out.textContent = '입력 범위와 단위를 확인해 주세요.'; return; }
+      const fd = new FormData(form); const num = (n: string) => Number(fd.get(n));
+      try {
+        if (form.dataset.calculator === 'antiscia') { const result = antiscia(num('longitude')); out.textContent = `안티시아: ${position(result)} (${Number(result.toFixed(6))}°)`; }
+        if (form.dataset.calculator === 'fortune') { const result = fortune(num('asc'),num('sun'),num('moon'),fd.get('night')==='true'); out.textContent = `포르투나: ${position(result)} (${Number(result.toFixed(6))}°)`; }
+        if (form.dataset.calculator === 'profection') { const r = profection(num('age'),num('sign')); out.textContent = `${r.house}하우스 해 · ${signs[r.sign]}`; }
+      } catch { out.textContent = '입력한 숫자를 확인해 주세요.'; }
+    };
+    form.addEventListener('input',update); form.addEventListener('submit',e=>e.preventDefault()); update();
+  });
+</script>

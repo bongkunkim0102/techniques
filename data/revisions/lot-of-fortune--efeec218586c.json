@@ -1,0 +1,63 @@
+{
+  "id": "lot-of-fortune",
+  "title": "포르투나 랏",
+  "en": "Lot of Fortune",
+  "tradition": "헬레니즘 · 서양 전통",
+  "summary": "어센던트와 태양·달의 각거리를 조합하여 얻는 계산점으로, 포르투나 또는 행운점이라고도 부릅니다.",
+  "sections": [
+    {
+      "title": "주야 반전을 사용하는 공식",
+      "paragraphs": [
+        "낮 차트에는 ASC + 달 − 태양, 밤 차트에는 ASC + 태양 − 달을 쓰고 결과를 0° 이상 360° 미만으로 정규화합니다. 이는 주야 반전 방식을 명시한 공식이며 모든 저자의 유일한 공식이라는 뜻은 아닙니다."
+      ],
+      "refs": [
+        "lots"
+      ]
+    },
+    {
+      "title": "합성 예제",
+      "paragraphs": [
+        "ASC=100°, 태양=20°, 달=80°라면 낮 공식은 160°, 밤 공식은 40°입니다. 주야 선택 하나가 결과를 바꿉니다. 실습은 사용자가 입력한 황경에 대한 산술 계산이며 출생시각으로 주야를 판정하지 않습니다."
+      ],
+      "refs": []
+    },
+    {
+      "title": "해석의 출처",
+      "paragraphs": [
+        "이 점은 실제 천체가 아닙니다. 랏 자체, 랏이 놓인 사인과 주인, 릴리징 등 연계 기법은 구별해 설명해야 합니다."
+      ],
+      "refs": [
+        "lots"
+      ]
+    }
+  ],
+  "related": [
+    "lot-of-spirit",
+    "day-night-reversal-in-lots",
+    "zodiacal-releasing",
+    "sect"
+  ],
+  "refs": [
+    "lots"
+  ],
+  "calculator": "fortune",
+  "revision": "efeec218586c",
+  "date": "2026-09-18",
+  "glossaryVersion": "2026-09-18.3",
+  "editor": "Codex (Astra)",
+  "review": "AI 편집 초판",
+  "license": "HoraryTalk 독자 해설",
+  "kind": "개요",
+  "sourceSnapshots": [
+    {
+      "id": "lots",
+      "title": "The Lot of Fortune and Spirit in Astrology",
+      "author": "The Astrology Podcast",
+      "url": "https://theastrologypodcast.com/transcripts/tap-ep-433-transcript-the-lot-of-fortune-and-spirit-in-astrology/",
+      "locator": "에피소드 433, 두 랏의 계산과 구분",
+      "license": "참고·독자 해설",
+      "access": "본문 확인",
+      "checkedAt": "2026-09-18"
+    }
+  ]
+}

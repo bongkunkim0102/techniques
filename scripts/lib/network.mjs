@@ -1,0 +1,11 @@
+import { lookup } from 'node:dns/promises';
+import { isIP } from 'node:net';
+export const USER_AGENT='HoraryTalkTechniques/0.1 (+https://techniques.horarytalk.com/about/)';
+export function isPublicIp(ip){
+  if(isIP(ip)===4){const [a,b]=ip.split('.').map(Number);return !(a===0||a===10||a===127||a===169&&b===254||a===172&&b>=16&&b<=31||a===192&&b===168||a===100&&b>=64&&b<=127||a===192&&b===0||a===198&&(b===18||b===19)||a>=224);}
+  if(isIP(ip)===6){const v=ip.toLowerCase();return !(v==='::'||v==='::1'||v.startsWith('fc')||v.startsWith('fd')||/^fe[89ab]/.test(v)||v.startsWith('::ffff:')||v.startsWith('2001:db8:'));}
+  return false;
+}
+export async function validatePublicUrl(input,allowedHosts){const url=new URL(input);if(url.protocol!=='https:'||url.username||url.password||url.port&&url.port!=='443'||!allowedHosts.has(url.hostname))throw new Error('URL is outside the configured HTTPS source registry');const addresses=await lookup(url.hostname,{all:true});if(!addresses.length||addresses.some(a=>!isPublicIp(a.address)))throw new Error('Non-public address rejected');return url;}
+export async function fetchSource(input,allowedHosts){let url=await validatePublicUrl(input,allowedHosts);for(let hop=0;hop<4;hop++){const response=await fetch(url,{headers:{'User-Agent':USER_AGENT},redirect:'manual',signal:AbortSignal.timeout(30000)});if(response.status>=300&&response.status<400){await response.body?.cancel();const next=new URL(response.headers.get('location')||'',url);if(next.origin!==url.origin)throw new Error('Cross-origin redirect requires a registry entry');url=await validatePublicUrl(next,allowedHosts);continue;}return {response,url:url.href};}throw new Error('Too many redirects');}
+export async function limitedText(response,max=2_000_000){if(Number(response.headers.get('content-length'))>max){await response.body?.cancel();throw new Error('Source exceeds size limit');}const reader=response.body.getReader();const chunks=[];let size=0;try{while(true){const {done,value}=await reader.read();if(done)break;size+=value.byteLength;if(size>max)throw new Error('Source exceeds size limit');chunks.push(Buffer.from(value));}return Buffer.concat(chunks).toString('utf8');}finally{await reader.cancel().catch(()=>{});}}

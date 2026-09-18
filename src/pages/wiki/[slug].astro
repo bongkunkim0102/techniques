@@ -1,0 +1,8 @@
+---
+import Base from '../../layouts/Base.astro';
+import Article from '../../components/Article.astro';
+import { articles } from '../../data/articles.mjs';
+export function getStaticPaths() { return articles.map(article => ({params:{slug:article.id},props:{article}})); }
+const { article } = Astro.props;
+---
+<Base title={article.title} description={article.summary}><Article article={article} /></Base>

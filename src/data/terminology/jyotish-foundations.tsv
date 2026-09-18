@@ -1,0 +1,47 @@
+id|ko|aliases|definition|note|refs
+jyotisha|조티샤|죠티쉬;지요티샤;Jyotiṣa;Jyotish;ज्योतिष|인도의 역산·천문·점성 전통을 포괄하는 말.|문맥에 따라 점성술보다 넓다. 베다 시대의 단일 불변 체계로 가정하지 않는다.|rao-book
+parashari-astrology|파라샤라 계통|Parāśarī;Parashari;파라샤리|파라샤라에 귀속되는 문헌·규칙을 중심으로 한 계통.|현전 판본과 주석의 차이를 원저자 한 명의 단일 체계로 합치지 않는다.|rao-book
+jaimini-astrology|자이미니 계통|Jaimini;Jaiminīya|자이미니 수트라와 주석 전통을 중심으로 한 계통.|파라샤라 문헌과 겹치는 기법이 있으며 학파 경계는 저자마다 다르다.|rath-books
+tajika-astrology|타지카 점성술|Tājika;Tajaka;타자카|페르시아·아랍계 요소를 수용한 산스크리트 점성 전통.|일반 조티샤 전체의 동일 규칙으로 확대하지 않는다.|tajika-full
+krishnamurti-paddhati|크리슈나무르티 파다티|KP;Krishnamurti Paddhati;KP 계통|크리슈나무르티 계열의 낙샤트라·서브로드 중심 방법.|동명의 아야남샤만 선택했다고 KP 해석 전체를 구현한 것은 아니다.|kp
+nadi-astrology|나디 계통|Nāḍī;Nadi|나디 문헌·전승이라는 이름을 사용하는 여러 점성 계통.|문헌 판독 전통·행성 연결법·정밀 분할법을 하나로 합치지 않는다.|nadi
+lal-kitab|랄 키타브|Lāl Kitāb;Lal Kitab|랄 키타브라는 문헌군과 그 해석·처방 계통.|일반 파라샤라 방식과 동일한 하우스·처방 규칙으로 취급하지 않는다.|lal-kitab
+rashi|라시|rāśi;rasi;राशि|조티샤에서 황도의 사인을 가리키는 기본 용어.|문맥에 따라 출생 달 사인이나 기본차트를 뜻할 수 있다.|rao-book
+nakshatra|낙샤트라|나크샤트라;nakṣatra;नक्षत्र|인도 전통의 항성·달 구획 체계.|27등분 황도 구간 용법과 아비지트를 포함한 28구획 용법을 구별한다.|rao-book
+nakshatra-pada|낙샤트라 파다|pāda;파다;quarter|통상 낙샤트라를 넷으로 나눈 구간.|27등분 체계에서 한 파다는 3도20각분이다. 아루다 파다와 다르다.|rao-book
+panchanga|판창가|pañcāṅga;Panchang;पञ्चाङ्ग|티티·바라·낙샤트라·요가·카라나의 다섯 역일 요소.|역서 전체를 뜻하는 용법과 다섯 계산량을 구별한다.|panchanga
+tithi|티티|tithi;음력일;तिथि|태양과 달의 각거리 증가를 12도씩 나눈 단위.|민간 날짜나 균일한 24시간과 같지 않다.|panchanga
+karana|카라나|karaṇa;करण|티티의 절반인 6도 상대각 구간.|명칭의 반복 순서와 반일의 실제 시간 길이를 구별한다.|panchanga
+nitya-yoga|니티야 요가|nitya yoga;역일 요가|태양·달의 황경 합을 27구간으로 나눈 역일 요소.|행성 조합을 뜻하는 다른 요가와 구별한다.|panchanga
+vara|바라|vāra;요일;vāsara|역일의 요일 및 그 행성 주인.|전통 역서의 일출 경계와 현대 자정 경계를 구별한다.|panchanga
+lagna|라그나|lagna;लग्न;인도 상승점|기본적으로 출생 순간 동쪽 지평선의 상승점 또는 상승 사인.|특수 라그나는 별도 계산점이므로 모두 ASC로 치환하지 않는다.|rao-book
+graha-drishti|그라하 드리슈티|graha dṛṣṭi;행성 시선;graha aspect|행성에 따라 방향·강도가 배정되는 인도의 애스펙트 체계.|서양의 도수 오브와 같은 규칙이라고 가정하지 않는다.|rath-drishti
+rashi-drishti|라시 드리슈티|rāśi dṛṣṭi;사인 시선;rasi aspect|활동·고정·이중 사인의 관계에 따른 애스펙트 체계.|그라하 드리슈티와 별도로 계산한다.|rath-drishti
+bhava|바바|bhāva;भाव;바하바|차트에서 삶의 분야 등을 배정하는 하우스.|라시와 별개이며 커스프가 중심인지 경계인지 확인한다.|rao-book
+vargas|바르가|분할차트;varga;divisional charts;वर्ग|사인 내 구획에 따라 별도 위치를 배정하는 분할 체계.|하모닉의 단순 배수 연산과 모든 경우에 같지는 않다.|jh;rao-book
+hora-d2|호라 D2|horā;D-2;Hora|사인을 두 구간으로 나누는 바르가.|태양·달의 호라와 대안 배정법을 구별한다. 행성시간의 호라와도 다르다.|varga
+drekkana-d3|드레카나 D3|drekkāṇa;D-3;Drekkana|사인을 세 구간으로 나누는 바르가.|서양 칼데아 데칸과 배정 규칙이 같지 않다.|varga
+chaturthamsa-d4|차투르탐샤 D4|caturthāṃśa;D-4;Turyamsa|사인을 네 구간으로 나누는 바르가.|흔히 재산·거처 등의 해석에 쓰며 원차트와 분리해 단정하지 않는다.|varga
+saptamsa-d7|삽탐샤 D7|saptāṃśa;D-7|사인을 일곱 구간으로 나누는 바르가.|흔히 자녀 주제에 쓰며 출생시각 오차의 영향을 남긴다.|varga
+navamsa-d9|나밤샤 D9|나바암샤;navāṃśa;D-9;नवांश|사인을 아홉 구간으로 나누는 바르가.|혼인 외에도 행성의 상태 등에 사용된다. 배우자 차트로만 번역하지 않는다.|varga
+dasamsa-d10|다샴샤 D10|daśāṃśa;D-10;Dashamsa|사인을 열 구간으로 나누는 바르가.|활동·직업 해석 용법과 계산 시작 사인의 규약을 보존한다.|varga
+dwadasamsa-d12|드바다샴샤 D12|dvādaśāṃśa;D-12|사인을 열두 구간으로 나누는 바르가.|부모·가계 관련 용법이 있다. 서양 12분할점과 계산식을 대조한다.|varga
+shodasamsa-d16|쇼다샴샤 D16|ṣoḍaśāṃśa;D-16;Kalamsa|사인을 열여섯 구간으로 나누는 바르가.|편의·탈것 등의 적용 주제와 학파별 계산을 기록한다.|varga
+vimsamsa-d20|빔샴샤 D20|viṃśāṃśa;D-20|사인을 스무 구간으로 나누는 바르가.|종교·수행 관련 해석은 해당 전통의 주장으로 적는다.|varga
+chaturvimsamsa-d24|차투르빔샴샤 D24|caturviṃśāṃśa;D-24;Siddhamsa|사인을 스물네 구간으로 나누는 바르가.|교육·학습 주제의 용법과 시각 오차를 함께 기록한다.|varga
+bhamsa-d27|밤샤 D27|bhāṃśa;D-27;Nakshatramsa;Saptavimsamsa|사인을 스물일곱 구간으로 나누는 바르가.|강약을 다루는 용법이 있으며 실제 낙샤트라의 이름표와 다르다.|varga
+trimsamsa-d30|트림샴샤 D30|triṃśāṃśa;D-30|전통적으로 불균등 행성 구간도 사용하는 바르가.|D30이라는 이름만 보고 사인의 단순 30등분으로 구현하지 않는다.|varga
+akshavedamsa-d45|악샤베담샤 D45|akṣavedāṃśa;D-45|사인을 마흔다섯 구간으로 나누는 바르가.|세밀한 구획이므로 출생시각 정밀도와 배정 방식을 명시한다.|varga
+shashtiamsa-d60|샤슈티암샤 D60|ṣaṣṭyāṃśa;Shashtiamsa;D-60;샤슈탐샤|사인을 예순 구간으로 나누는 바르가.|D6와 혼동하지 않는다. 특히 상승점은 작은 시각 오차에도 민감하다.|varga
+varga-calculation-variants|바르가 계산 변형|varga variants;division mapping|같은 분할수에 여러 사인 배정법이 존재하는 경우.|프로그램·저자·시작점·순역 배정을 계산 데이터에 남긴다.|jh
+shadbala|샤드발라|ṣaḍbala;Shadbala;육력|행성의 힘을 여섯 큰 범주로 합산하는 체계.|본질적 디그니티 점수와 서로 대체할 수 없다.|bala
+ashtakavarga|아슈타카바르가|aṣṭakavarga;Ashtakavarga|행성·기준점의 기여를 사인별 점수로 나타내는 체계.|샤드발라와 다른 계산이다. 점과 선의 표기 관행을 확인한다.|ashtakavarga
+bhinnashtakavarga|빈나슈타카바르가|bhinnāṣṭakavarga;BAV|개별 행성 등에 대한 아슈타카바르가 점수표.|기여자별 세부표와 전체 합계표를 구별한다.|ashtakavarga
+sarvashtakavarga|사르바슈타카바르가|sarvāṣṭakavarga;SAV|여러 개별 아슈타카바르가 점수를 합친 표.|ASC 포함 여부와 보정 전후 합계의 기준을 명시한다.|ashtakavarga
+bhavabala|바바발라|bhāvabala;하우스의 힘|바바별 강도를 산출하는 계산 체계.|사인에 들어 있는 행성 수나 샤드발라와 동일하지 않다.|bala
+vimshopaka-bala|빔쇼파카 발라|viṃśopaka bala;Vimsopaka|선택한 바르가들에서의 지위를 가중 합산하는 힘의 지표.|어떤 바르가 묶음과 가중치를 썼는지 기록한다.|bala
+ishta-and-kashta|이슈타와 카슈타|iṣṭa;kaṣṭa;Ishta phala;Kashta phala|전통 계산에서 행성의 유리·불리한 결과 성향을 나타내는 지표.|실제 사건의 확률이나 샤드발라 총점으로 번역하지 않는다.|bala
+avasthas|아바스타|avasthā;행성 상태|행성의 나이·각성 등 여러 상태를 분류하는 체계군.|발라디·자그라다디·샤야나디 등 서로 다른 표를 구별한다.|avastha
+digbala|디그발라|digbala;방향의 힘|특정 하우스 방향에 따른 행성의 힘.|샤드발라 구성 요소이며 사인의 지배권과 다르다.|bala
+upagrahas|우파그라하|upagraha;보조 계산점|시간이나 태양 위치 등으로 산출하는 인도의 보조점들.|작은 물리적 행성이라는 뜻으로 옮기지 않는다.|jh
+gulika-and-mandi|굴리카와 만디|Gulika;Māndi;만디|토성에 배정된 시간 구간 등으로 산출하는 특수점.|동일시하는 계통과 별도 시각을 쓰는 계통이 있다.|jh

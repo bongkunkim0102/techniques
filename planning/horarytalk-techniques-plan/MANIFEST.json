@@ -1,0 +1,56 @@
+{
+  "as_of": "2026-09-18",
+  "type": "planning-artifact-manifest",
+  "files": [
+    {
+      "path": "IMPLEMENTATION_HANDOFF.md",
+      "bytes": 6496,
+      "sha256": "3d1097c6b4c4571da23067e9f5eed388e3768e5ff5d6f2ea44336d6613c65b97"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1425,
+      "sha256": "89ff02f39adf2bdc3e2fcf6e0faa4ee9fe1a4035d26f7019b82382e1223a7548"
+    },
+    {
+      "path": "REPORT_KO.md",
+      "bytes": 51006,
+      "sha256": "c9496083129e176d97139c143b47c9e10b07a679c2ff5eaac6c3110112ae28c3"
+    },
+    {
+      "path": "TOPIC_CATALOGUE.md",
+      "bytes": 20923,
+      "sha256": "0bb0cd42c4cca1b5f225be0f414c607f742f424bc803b4e6045b10e483b017a8"
+    },
+    {
+      "path": "VALIDATION.json",
+      "bytes": 1239,
+      "sha256": "5645af4804c36124cf21a2370fa36698ce1dc8cfa0fd04553e35545b1ee3b282"
+    },
+    {
+      "path": "schemas/article.schema.json",
+      "bytes": 9523,
+      "sha256": "66ce0988e6bcfe2d7238baa1bcdfe1e5fdcfdc429c535c9a2245201fa726a92b"
+    },
+    {
+      "path": "schemas/source-rights.schema.json",
+      "bytes": 2914,
+      "sha256": "0015033e5abfe82cca1bda9a9f22744c9d6291e6dc501d1f9b39171175c06c12"
+    },
+    {
+      "path": "schemas/translation-task.schema.json",
+      "bytes": 1788,
+      "sha256": "15ae72c2ef34021d2eaef3499ab4ec8858c01d9a8265b2376ba3c471c96b90ff"
+    },
+    {
+      "path": "source_registry.json",
+      "bytes": 28741,
+      "sha256": "6bd0abf7dfa437513853f491fcb36073a17ad3c2db8f80e323c5c5b35e13f3f1"
+    },
+    {
+      "path": "topic_seeds.json",
+      "bytes": 257966,
+      "sha256": "1d5bed5b1249666e9395f8d8ddcc4ed9b0bdc1775140c3e632fb886bc8d23a10"
+    }
+  ]
+}

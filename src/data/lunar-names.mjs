@@ -1,0 +1,40 @@
+// Ordered nomenclature, not a cross-tradition equivalence table.
+const nakshatras = [
+  ['ashwini','Ashwini','아슈비니','Aśvinī;Ashvini;Aswini;अश्विनी'],
+  ['bharani','Bharani','바라니','Bharaṇī;भरणी'],
+  ['krittika','Krittika','크리티카','Kṛttikā;Krithika;कृत्तिका'],
+  ['rohini','Rohini','로히니','Rohiṇī;रोहिणी'],
+  ['mrigashira','Mrigashira','므리가시라','Mṛgaśīrṣa;Mrigashirsha;Mrigasira;मृगशिरा'],
+  ['ardra','Ardra','아르드라','Ārdrā;आर्द्रा'],
+  ['punarvasu','Punarvasu','푸나르바수','पुनर्वसु'],
+  ['pushya','Pushya','푸샤','Puṣya;푸슈야;पुष्य'],
+  ['ashlesha','Ashlesha','아슐레샤','Āśleṣā;Aslesha;आश्लेषा'],
+  ['magha','Magha','마가','Maghā;मघा'],
+  ['purva-phalguni','Purva Phalguni','푸르바 팔구니','Pūrva Phālgunī;Poorva Phalguni;पूर्व फाल्गुनी'],
+  ['uttara-phalguni','Uttara Phalguni','우타라 팔구니','Uttara Phālgunī;उत्तर फाल्गुनी'],
+  ['hasta','Hasta','하스타','हस्त'],
+  ['chitra','Chitra','치트라','Citrā;Chitra;चित्रा'],
+  ['swati','Swati','스바티','Svātī;스와티;स्वाति'],
+  ['vishakha','Vishakha','비샤카','Viśākhā;Visakha;विशाखा'],
+  ['anuradha','Anuradha','아누라다','Anurādhā;अनुराधा'],
+  ['jyeshtha','Jyeshtha','지예슈타','Jyeṣṭhā;Jyestha;ज्येष्ठा'],
+  ['mula','Mula','물라','Mūla;Moola;मूल'],
+  ['purva-ashadha','Purva Ashadha','푸르바 아샤다','Pūrvāṣāḍhā;Purvashadha;पूर्वाषाढा'],
+  ['uttara-ashadha','Uttara Ashadha','우타라 아샤다','Uttarāṣāḍhā;Uttarashadha;उत्तराषाढा'],
+  ['shravana','Shravana','슈라바나','Śravaṇa;Sravana;श्रवण'],
+  ['dhanishtha','Dhanishtha','다니슈타','Dhaniṣṭhā;Dhanishta;Śraviṣṭhā;धनिष्ठा;श्रविष्ठा'],
+  ['shatabhisha','Shatabhisha','샤타비샤','Śatabhiṣaj;Shatabhishak;Satabhisha;शतभिषक्;शततारका'],
+  ['purva-bhadrapada','Purva Bhadrapada','푸르바 바드라파다','Pūrva Bhādrapadā;Purvabhadra;पूर्वभाद्रपदा'],
+  ['uttara-bhadrapada','Uttara Bhadrapada','우타라 바드라파다','Uttara Bhādrapadā;Uttarabhadra;उत्तरभाद्रपदा'],
+  ['revati','Revati','레바티','Revatī;Revathi;रेवती'],
+];
+const lodges = [
+  ['jiao','각','角','Horn'],['kang','항','亢','Neck'],['di','저','氐','Root'],['fang','방','房','Room'],['xin','심','心','Heart'],['wei-tail','미','尾','Tail'],['ji','기','箕','Winnowing-basket'],
+  ['dou','두','斗','Dipper'],['niu','우','牛','Ox'],['nu','여','女','Girl'],['xu','허','虛;虚','Emptiness'],['wei-rooftop','위','危','Rooftop'],['shi','실','室','Encampment'],['bi-wall','벽','壁','Wall'],
+  ['kui','규','奎','Legs'],['lou','누','婁;娄','Bond'],['wei-stomach','위','胃','Stomach'],['mao','묘','昴','Hairy head'],['bi-net','필','畢;毕','Net'],['zi','자','觜','Turtle beak'],['shen','삼','參;参','Three stars'],
+  ['jing','정','井','Well'],['gui','귀','鬼','Ghosts'],['liu','유','柳','Willow'],['xing','성','星','Star'],['zhang','장','張;张','Extended net'],['yi','익','翼','Wings'],['zhen','진','軫;轸','Chariot'],
+];
+export const lunarNameTerms = [
+  ...nakshatras.map(([slug,en,ko,names],i)=>({id:`nakshatra-${slug}`,en,ko,aliases:names.split(';'),definition:`인도의 27낙샤트라 순서에서 ${i+1}번째 구획의 이름.`,note:'한국어 음역과 원어를 함께 쓴다. 항성황도상의 구획·대표 항성·신격을 구별하며, 한자 28수와 자동 대응시키지 않는다.',refs:['nakshatra-names'],bucket:'lunar-names',bucketKo:'낙샤트라·28수 명칭'})),
+  ...lodges.map(([slug,ko,han,en],i)=>({id:`lodge-${slug}`,en:`${en} Mansion (${han.split(';')[0]})`,ko:`${ko}수 (${han.split(';')[0]}宿)`,aliases:[...(slug==='lou'?['루수']:slug==='liu'?['류수']:[]),...han.split(';').map(x=>`${x}宿`),`${ko}수`,`${en} Mansion`],definition:`동아시아 28수 중 ${['동방 청룡','북방 현무','서방 백호','남방 주작'][Math.floor(i/7)]}에 속하는 ${i%7+1}번째 수.`,note:'수의 한자를 보존한다. 두 위수(危·胃) 등 동음 표기는 한자로 구별한다. 적도수의 도수·경계는 시대와 기준 항성을 확인하며 28등분으로 환산하지 않는다.',refs:['korean-lodge-names','chinese-lodge-names'],bucket:'lunar-names',bucketKo:'낙샤트라·28수 명칭'})),
+];

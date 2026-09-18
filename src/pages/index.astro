@@ -1,0 +1,33 @@
+---
+import Base from '../layouts/Base.astro';
+import { categories, glossary } from '../data/glossary.mjs';
+import { articles, articleById } from '../data/articles.mjs';
+import { sources } from '../data/sources.mjs';
+const featured = ['reception','annual-profections','vargas','tibetan-astrology'].map(articleById);
+const reviewed = glossary.filter(t => t.terminologyStatus === 'reviewed-with-note').length;
+---
+<Base>
+  <p class="eyebrow">HORARYTALK KNOWLEDGE LIBRARY</p>
+  <h1>점성술 기법 백과</h1>
+  <p class="intro">여러 전통의 기법을 한국어로 읽습니다.<br />정의와 적용 조건, 학파의 차이, 확인할 수 있는 출처를 함께 살펴보세요.</p>
+  <form class="search-box" action="/search/" role="search"><input name="q" aria-label="기법·용어 검색" placeholder="어떤 기법을 찾고 있나요? 한국어·영어·이명으로 검색" /><button type="submit">검색</button></form>
+  <div class="search-hints"><span>자주 찾는 개념</span><a href="/wiki/reception/">리셉션</a><a href="/wiki/annual-profections/">프로펙션</a><a href="/wiki/lot-of-fortune/">포르투나</a><a href="/wiki/vargas/">바르가</a></div>
+  <div class="stats"><span class="stat"><strong>{glossary.length}</strong>용어 정의</span><span class="stat"><strong>{articles.length}</strong>한국어 해설</span><span class="stat"><strong>{reviewed}</strong>정의·번역 메모</span><span class="stat"><strong>{categories.length}</strong>탐색 분야</span></div>
+  <div class="home-columns">
+    <div>
+      <div class="section-heading"><h2>분야에서 시작하기</h2><a href="/catalogue/">전체 색인 보기</a></div>
+      <div class="topic-grid">{categories.map(c => {
+        const terms = glossary.filter(t => t.bucket === c.id); const written = articles.filter(a => terms.some(t => t.id === a.id));
+        return <a href={`/traditions/${c.id}/`} class="topic-tile"><h3>{c.name}</h3><p>{terms.filter(t => t.note).slice(0,3).map(t => t.ko).join(' · ') || terms.slice(0,3).map(t => t.ko).join(' · ')}</p><small>{terms.length}개 용어 정의 · {written.length}개 해설</small></a>;
+      })}</div>
+      <div class="section-heading"><h2>첫 번째 읽을거리</h2><a href="/catalogue/?state=article">해설 모아 보기</a></div>
+      <ul class="article-list">{featured.map(a => <li><span class="meta">{a.tradition}</span><h3><a href={`/wiki/${a.id}/`}>{a.title}</a></h3><p>{a.summary}</p><span class="meta">{a.sections.length}개 절 · 출처 {a.refs.length}개 · {a.review}</span></li>)}</ul>
+    </div>
+    <aside class="rail">
+      <h2>처음 읽는다면</h2><ol class="reading-path"><li><a href="/wiki/tropical-zodiac/">황도의 기준 이해하기</a></li><li><a href="/wiki/whole-sign-houses/">하우스 체계 구별하기</a></li><li><a href="/wiki/sect/">주간과 야간의 섹트</a></li><li><a href="/wiki/reception/">행성의 관계 읽기</a></li></ol>
+      <h2>계산하며 이해하기</h2><p>가상의 숫자를 바꾸며 규칙이 어떻게 적용되는지 살펴봅니다.</p><ol class="reading-path"><li><a href="/wiki/antiscia/#calculator">안티시아 반사점</a></li><li><a href="/wiki/annual-profections/#calculator">나이와 프로펙션</a></li><li><a href="/wiki/lot-of-fortune/#calculator">주야에 따른 포르투나</a></li></ol>
+      <div class="note"><h2>서로 다른 설명을<br />그대로 연결합니다.</h2><p>학파가 다르면 조건도 달라집니다. 하나로 합치기 전에, 누가 어떤 문헌에서 설명하는지 확인합니다.</p><a href="/compare/">기법 나란히 읽기</a></div>
+      <h2>백과의 현재 범위</h2><p>{glossary.length}개 용어에 한국어 정의·번역 메모·참고 문헌이 있습니다. 별도의 기법 해설은 {articles.length}개이며, 원전 대조와 해설을 계속 확장합니다.</p><a class="meta" href="/sources/">실제 인용 자료 {sources.length}건 확인</a>
+    </aside>
+  </div>
+</Base>

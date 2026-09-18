@@ -1,0 +1,4 @@
+---
+import Base from '../../layouts/Base.astro';import {articles} from '../../data/articles.mjs';
+---
+<Base title="최근 편집"><h1>최근 편집</h1><p class="intro">공개 해설의 현재 판과 고정 인용판을 확인합니다. 편집 주체와 검토 범위를 문서마다 남깁니다.</p>{articles.map(a=><div class="history-row"><div><h2><a href={`/history/${a.id}/`}>{a.title}</a></h2><span class="meta">{a.date} · {a.editor} · {a.review}</span></div><a class="meta" href={`/editions/${a.id}/${a.revision}/`}>고정판 <code>{a.revision}</code></a></div>)}</Base>

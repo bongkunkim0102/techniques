@@ -1,0 +1,54 @@
+id|ko|aliases|definition|note|refs
+vimshottari-dasha|빔쇼타리 다샤|빔쇼따리;viṃśottarī daśā;Vimsottari;Vimshottari|낙샤트라를 기점으로 하는 120년 총주기의 행성 기간 체계.|출생 시 잔여 기간·연간 길이·기점 선택을 보존한다.|bphs-dasha
+ashtottari-dasha|아슈토타리 다샤|aṣṭottarī;Ashtottari|108년 총주기의 조건부 행성 기간 체계.|적용 조건과 낙샤트라 배정을 빔쇼타리와 구별한다.|bphs-dasha
+yogini-dasha|요기니 다샤|yoginī;Yogini|여덟 요기니 기간을 순환시키는 다샤 체계.|대표 총주기는 36년이며 요가의 일반 뜻과 다르다.|bphs-dasha
+kalachakra-dasha|칼라차크라 다샤|kālacakra daśā;Kalachakra|낙샤트라 파다에 따라 사인 기간을 배당하는 체계.|티베트 칼라차크라 역법이나 동명의 차크라 도표와 구별한다.|bphs-dasha
+chara-dasha|차라 다샤|cara daśā;Chara|사인들을 기간 주인으로 배당하는 다샤 계열.|파라샤라·K. N. 라오 등 여러 계산 규약을 명시한다.|jh;bphs-dasha
+narayana-dasha|나라야나 다샤|Nārāyaṇa daśā;Padakrama|사인 종류 등에 따라 전개 순서를 정하는 사인 다샤.|시작 사인·순역·공동 지배성의 예외를 학파별로 남긴다.|rath-narayana
+sudasha|수다샤|Sudasa;Su-dasha;Śrī lagna dasha|슈리 라그나를 기점으로 사용하는 사인 기간 기법.|행운이라는 일반어로 옮기지 않으며 기점 산식을 함께 보존한다.|rao-book
+drigdasha|드리그다샤|Dṛgdaśā;Drigdasa|사인의 시선 관계 등을 활용하는 기간 기법.|같은 이름의 전개 규칙 차이를 남기고 드리슈티와 구별한다.|rao-book
+shoola-dasha|슐라 다샤|Śūla daśā;Shoola;Shula|전통 수명론 등에서 사용하는 사인 기간 기법.|니르야나 슐라 등 변형과 구별한다. 실제 수명을 확정하지 않는다.|bphs-dasha
+moola-dasha|물라 다샤|Mūla daśā;Moola|행성의 뿌리·강도 관계를 기점으로 삼는 다샤 계열.|ASC·달·태양 중 무엇을 비교하는 방식인지 기록한다.|jh
+tara-dasha|타라 다샤|Tārā daśā;Tara|타라 관계 등에 따라 행성 기간을 배당하는 체계.|택일의 타라 발라와 같은 계산으로 번역하지 않는다.|bphs-dasha
+sthira-dasha|스티라 다샤|Sthira daśā;Sthira|사인 양식에 고정된 기간 길이를 배당하는 다샤.|‘고정’이라는 이름이 고정궁만 사용한다는 뜻은 아니다.|bphs-dasha
+patyayini-dasha|파티야이니 다샤|Patyāyinī;Patyayini;Pātyāyinī|타지카 연간차트의 도수 관계로 하위 기간을 배당하는 체계.|출생차트의 빔쇼타리와 구별한다.|tajika-full
+dasha-year-length-variants|다샤의 연간 길이 변형|dasha year length;savana year|다샤의 1년을 일수로 환산하는 여러 규약.|360일·태양년 등의 차이를 날짜 산출에 보존한다.|bphs-dasha;jh
+mahadasha-and-antardasha|마하다샤와 안타르다샤|mahādaśā;antardaśā;bhukti;대운;소운|다샤의 큰 기간과 그 안의 하위 기간.|사주의 대운·세운과 같은 계산이라는 의미로 쓰지 않는다.|bphs-dasha
+dasha-pravesha|다샤 프라베샤|daśā praveśa;Dasa Pravesh|다샤나 하위 기간이 시작되는 시점의 차트.|연간 태양회귀와 다른 사건을 기점으로 한다.|jh
+gochara|고차라|gocara;gochara;인도 트랜짓|현재 천체 운행을 출생 기준점 등과 비교하는 기법.|달·라그나·바르가 등 기준을 명시한다.|bphs-transit
+sade-sati|사데 사티|Sāḍe Sātī;Sade Sati|토성이 출생 달의 앞·해당·다음 사인을 통과하는 기간.|약 7년 반이라는 명칭이지 모든 사람에게 동일한 날짜 길이는 아니다.|bphs-transit
+tara-bala|타라 발라|tārā bala;Tara Bala|출생 낙샤트라와 해당 시점 낙샤트라 관계를 평가하는 지표.|타라 다샤와 다르며 세는 방향·잔여 분류를 보존한다.|panchanga
+chandra-bala|찬드라 발라|candra bala;Chandra Bala|출생 기준에 대한 달의 위치를 택일 등에 평가하는 지표.|달의 샤드발라 총점과 같은 뜻이 아니다.|panchanga
+raja-yogas|라자 요가|rāja yoga;Raja Yoga|지위·권력 등의 결과를 배정하는 행성 조합군.|명칭만으로 실제 왕이나 고위직이 된다는 단정으로 옮기지 않는다.|bphs-yoga
+dhana-yogas|다나 요가|dhana yoga;재물 요가|재물 주제를 배정하는 행성·하우스 조합군.|단일 공식이 아니며 소유·소득·이익의 조건을 구별한다.|bphs-yoga
+viparita-raja-yoga|비파리타 라자 요가|viparīta rāja yoga|불리한 하우스의 주인 관계에서 역전 효과를 읽는 요가 계열.|성립 조건·다른 주인과의 접촉·예외를 저자별로 보존한다.|bphs-yoga
+neecha-bhanga|니차 방가|nīcabhaṅga;Neechabhanga;추락 상쇄|추락 상태의 불리함이 특정 조건에서 상쇄된다는 규칙.|니차 방가와 니차 방가 라자 요가를 같은 결과로 단정하지 않는다.|bphs-yoga
+pancha-mahapurusha-yoga|판차 마하푸루샤 요가|pañca mahāpuruṣa;five great person yogas|다섯 비발광체 행성의 특정 강한 배치로 정의하는 요가군.|루차카·바드라·함사·말라비야·샤샤의 각각 조건을 보존한다.|bphs-yoga
+gaja-kesari-yoga|가자 케사리 요가|Gajakesari;gajakeśarī|달과 목성의 켄드라 관계를 중심으로 정의하는 요가.|추가 강약 조건과 예외가 문헌별로 다르다.|bphs-yoga
+kemadruma-yoga|케마드루마 요가|Kemadruma;kemadruma|달 주변 특정 사인들의 행성 부재와 연결되는 요가.|태양 제외 여부와 상쇄 조건을 생략하지 않는다.|bphs-yoga
+chara-karakas|차라 카라카|cara kāraka;Chara Karakas;가변 카라카|사인 내 도수 순서 등으로 역할을 배당하는 시그니피케이터.|7개·8개 체계와 라후의 역산 여부를 구별한다.|bphs-karaka;jh
+atmakaraka|아트마카라카|ātmakāraka;AK|차라 카라카 체계에서 최우선 순위로 정하는 행성.|태양의 자연적 아트마카라카 용법과 도수 순위 용법을 구별한다.|bphs-karaka
+arudha-padas|아루다 파다|ārūḍha pada;하우스 아루다|하우스와 그 주인의 거리 등을 투영하여 구하는 점.|낙샤트라의 네 파다와 다르며 예외 규칙을 보존한다.|bphs-arudha
+arudha-lagna|아루다 라그나|Ārūḍha Lagna;AL;A1|첫 하우스의 아루다.|보이는 모습·사회적 표상 등의 해석을 실제 ASC와 구별한다.|bphs-arudha
+upapada-lagna|우파파다 라그나|Upapada;UL;A12|주로 12하우스의 아루다로 산출하는 특수점.|혼인 관련 용법과 계산 예외를 기록한다.|bphs-arudha
+karakamsha|카라캄샤|kārakāṃśa;Karakamsha|아트마카라카의 나밤샤 위치를 기준으로 삼는 라그나.|이를 D9에서 쓰는지 D1에 투영하는지 학파 차이를 보존한다.|bphs-karaka
+argala|아르갈라|argalā;intervention;개입|특정 사인·하우스 관계가 다른 위치에 개입하는 구조.|비로다 아르갈라의 방해 조건과 드리슈티를 구별한다.|bphs-arudha
+jaimini-longevity-doctrines|자이미니 수명론|Jaimini longevity;āyurdaya|자이미니 계통의 장·중·단 수명 등 분류 규칙군.|역사적 이론으로 서술하며 실제 수명 계산의 정확성을 전제하지 않는다.|rath-books
+prashna|프라슈나|praśna;Prasna;प्रश्न|질문 시점과 징표를 사용하는 인도의 질문 점성술.|서양 호라리와 겹치는 목적이 있어도 판단 규칙은 독립적으로 보존한다.|prashna
+prashna-marga|프라슈나 마르가|Praśnamārga;Prasna Marga|질문 점성술을 다루는 케랄라 계열 문헌.|문헌명이며 그 안의 모든 기법을 하나의 공식으로 취급하지 않는다.|prashna
+ashtamangala-prashna|아슈타망갈라 프라슈나|Aṣṭamaṅgala Praśna|의례·수리·징표 등을 결합하는 케랄라 질문 점복 전통.|통상 질문차트 한 장만 보는 절차로 축소하지 않는다.|prashna
+muhurta|무후르타|muhūrta;Muhurta;인도 택일|행동의 적절한 시각을 고르는 인도 전통 및 시간 단위.|시간 단위의 무후르타와 택일 분야라는 뜻을 문맥으로 구별한다.|panchanga
+kuta-matching|쿠타 궁합|kūṭa;kuta;Ashtakoota|낙샤트라 등 여러 항목을 대조하는 전통적 혼인 적합성 평가.|아슈타쿠타·다샤쿠타 등의 항목수와 배점 차이를 남긴다.|panchanga
+varshaphala|바르샤팔라|varṣaphala;Varshaphal;연간 결과|연간 회귀차트의 결과를 판단하는 인도 전통.|특히 타지카 용법과 다른 인도 연간차트 기법을 구별한다.|tajika-full
+muntha|문타|munthā;Muntha|연령에 따라 매년 사인 등을 이동시키는 연간차트 기준점.|기점·도수 처리와 연령 경계를 명시한다.|tajika-full
+varshesha|바르셰샤|varṣeśa;varshesh;연주인|타지카 연간차트에서 선정하는 그 해의 주인 행성.|서양 프로펙션의 연주인과 같은 선정법으로 치환하지 않는다.|tajika-full
+tajika-aspects|타지카 애스펙트|Tājika aspects;타지카 시선|타지카 전통의 행성 간 각 관계와 그 평가.|그라하 드리슈티 및 서양의 현대 오브 규칙과 구별한다.|tajika-full
+tajika-yogas|타지카 요가|itthaśāla;īśarāpha;타지카 행성 조합|접근·분리·개입 등을 다루는 타지카 조합 규칙군.|파라샤라 요가와 별개다. 비슷한 아랍·서양 명칭과도 조건을 대조한다.|tajika-full
+tajika-sahamas|타지카 사하마|sahama;saham;사함|여러 위치의 각거리로 산출하는 타지카의 특수점.|서양 랏과 대응해도 추가 보정과 주야 규칙이 같다고 가정하지 않는다.|tajika-full
+panchavargiya-bala|판차바르기야 발라|pañcavargīya bala;Panchavargeeya|타지카에서 다섯 지위 요소로 평가하는 행성의 힘.|여섯 힘의 샤드발라나 여러 분할차트의 빔쇼파카와 구별한다.|tajika-full
+mudda-dasha|무다 다샤|Muddā daśā;Mudda|연간차트의 해석을 위해 기간을 축소·배당하는 다샤.|원래 생애 다샤의 날짜를 그대로 재사용하지 않는다.|tajika-full
+kp-sub-lords|KP 서브로드|sub-lord;sub lord;세부 구간 주인|낙샤트라를 빔쇼타리 비율로 세분한 구간의 주인.|사인 주인·낙샤트라 주인·서브서브로드를 분리한다.|kp
+kp-ruling-planets|KP 룰링 플래닛|Ruling Planets;RP|판단 시점 등의 상승점·달·요일에서 선정하는 행성 집합.|모든 차트 주인이나 다샤 주인의 동의어가 아니다.|kp-ruling
+kp-significator-rules|KP 시그니피케이터 규칙|KP significators|위치·지배권·스타로드 등으로 하우스 의미를 연결하는 규칙군.|서양 호라리의 시그니피케이터 선정 규칙으로 치환하지 않는다.|kp
+nadi-amsha-variants|나디 암샤 변형|nāḍī aṃśa;Nadi amsa;Nadyamsa|사인의 매우 세밀한 나디 분할 및 그 배정 방식들.|균등 분할과 찬드라 칼라 나디의 불균등 분할을 구별한다.|jh;nadi
+remedial-traditions|점성 처방 전통|upāya;remedial measures;우파야|만트라·보시·보석·의례 등으로 결과의 변화를 구하는 전통.|역사적 실천·종교적 믿음·효과의 경험적 근거를 따로 기록한다.|bphs-remedies

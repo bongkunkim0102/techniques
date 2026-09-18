@@ -1,0 +1,14 @@
+---
+import Base from '../layouts/Base.astro';import Catalogue from '../components/Catalogue.astro';
+---
+<Base title="검색" noindex><h1>백과 검색</h1><p class="intro">한국어 표기와 영어 이름, 동의어로 찾습니다. 해설 본문에서도 검색할 수 있습니다.</p><Catalogue /><section class="fulltext"><h2>해설 본문 검색</h2><p>아래 검색은 공개 해설의 문장 안에서 찾습니다. 용어 색인 결과와 범위가 다릅니다.</p><div id="fulltext-search"><p>본문 검색을 불러오는 중입니다.</p></div></section></Base>
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+<script>
+  async function init(){
+    try{
+      const script=document.createElement('script');script.src='/pagefind/pagefind-ui.js';await new Promise<void>((resolve,reject)=>{script.onload=()=>resolve();script.onerror=reject;document.head.append(script);});
+      document.getElementById('fulltext-search')!.replaceChildren();
+      const UI=(window as any).PagefindUI;new UI({element:'#fulltext-search',showSubResults:true,showImages:false,translations:{placeholder:'해설 본문에서 찾기',zero_results:'본문에서 [SEARCH_TERM]에 해당하는 결과를 찾지 못했습니다.',search_label:'본문 검색',load_more:'더 보기'}});
+    }catch{document.getElementById('fulltext-search')!.textContent='본문 검색을 불러오지 못했습니다. 위의 용어 검색을 이용하거나 페이지를 다시 불러오세요.';}
+  }init();
+</script>

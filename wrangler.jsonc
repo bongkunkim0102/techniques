@@ -1,0 +1,10 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "horarytalk-techniques",
+  "account_id": "046f6d576b54e16e44b0cb0fad9d8ee9",
+  "compatibility_date": "2026-09-01",
+  "workers_dev": false,
+  "preview_urls": false,
+  "routes": [{ "pattern": "techniques.horarytalk.com", "custom_domain": true }],
+  "assets": { "directory": "./dist", "html_handling": "force-trailing-slash", "not_found_handling": "404-page" }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "zodiacal-releasing",
+  "title": "조디아칼 릴리징",
+  "en": "Zodiacal releasing",
+  "tradition": "헬레니즘 · 타임로드",
+  "summary": "특정 랏이 놓인 사인에서 시작해 사인마다 배정된 기간을 전개하고, 큰 기간과 하위 기간을 함께 읽는 기법입니다.",
+  "sections": [
+    {
+      "title": "출발점을 선택하는 이유",
+      "paragraphs": [
+        "포르투나·스피릿 등 어떤 랏에서 출발하는지에 따라 분석의 출발점이 달라집니다. 따라서 릴리징 표에는 계산한 랏, 출생차트의 주야, 사용 공식을 함께 적어야 합니다."
+      ],
+      "refs": [
+        "releasing"
+      ]
+    },
+    {
+      "title": "프로펙션과 다르다",
+      "paragraphs": [
+        "프로펙션의 기본 연간 방식처럼 모든 사인에 동일하게 1년을 주는 구조가 아닙니다. 큰 기간과 세부 기간의 규칙, 루징 오브 더 본드 같은 전환을 구분해서 다룹니다."
+      ],
+      "refs": [
+        "releasing"
+      ]
+    },
+    {
+      "title": "현재 문서의 범위",
+      "paragraphs": [
+        "이 초판은 기법의 구조를 소개합니다. 기간표의 판본별 대조와 전체 타임라인 계산기는 아직 제공하지 않습니다. 다른 앱과 날짜를 비교할 때에는 연간 길이와 기간 경계의 규약을 먼저 맞춰야 합니다."
+      ],
+      "refs": []
+    }
+  ],
+  "related": [
+    "lot-of-fortune",
+    "lot-of-spirit",
+    "loosing-of-the-bond",
+    "annual-profections"
+  ],
+  "refs": [
+    "releasing"
+  ],
+  "revision": "73a4a933184b",
+  "date": "2026-09-18",
+  "glossaryVersion": "2026-09-18.2",
+  "editor": "Codex (Astra)",
+  "review": "AI 편집 초판",
+  "license": "HoraryTalk 독자 해설",
+  "kind": "개요",
+  "sourceSnapshots": [
+    {
+      "id": "releasing",
+      "title": "Zodiacal Releasing: An Ancient Timing Technique",
+      "author": "Chris Brennan · Leisa Schaim",
+      "url": "https://theastrologypodcast.com/2019/02/11/zodiacal-releasing-an-ancient-timing-technique/",
+      "locator": "에피소드 192의 개요·도표 설명",
+      "license": "참고·독자 해설",
+      "access": "본문 확인",
+      "checkedAt": "2026-09-18"
+    }
+  ]
+}

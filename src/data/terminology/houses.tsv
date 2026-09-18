@@ -1,0 +1,26 @@
+id|ko|aliases|definition|note|refs
+ascendant-and-descendant|어센던트와 디센던트|ASC;DSC;상승점;하강점;AC;DC|황도와 동쪽·서쪽 지평선의 교점.|실제 천체의 출몰과 황도상의 교점은 구별한다.|swiss
+midheaven-and-ic|미드헤븐과 IC|MC;중천;천저점;Imum Coeli|자오선과 황도의 교점으로 정하는 두 앵글.|MC는 천정이 아니며 홀사인의 10하우스 커스프와도 다를 수 있다.|swiss
+vertex-and-antivertex|버텍스와 안티버텍스|Vertex;Antivertex;VX;AVX|황도와 묘유권의 서쪽 교점 및 그 대척점.|묘유권은 동점·서점·천정·천저를 지나는 대원이다.|swiss
+east-point|이스트포인트|Equatorial Ascendant;적도 어센던트;EP|같은 항성시에서 적도 관측지를 가정한 상승점.|지평선상의 정확한 동점과 동일하다고 번역하지 않는다.|swiss
+whole-sign-houses|홀사인 하우스|전사인 하우스;whole sign|상승 사인 전체를 첫 하우스로 삼는 체계.|ASC 도수는 사인 내부에 남으며 사인의 시작과 구별한다.|swiss
+equal-houses|이퀄 하우스|등분 하우스;equal house|기준점부터 30도씩 나누는 하우스 계열.|ASC 기준인지 MC 기준인지 적는다.|swiss
+placidus-houses|플라시두스 하우스|Placidus|일주운동의 시간 분할을 사용하는 하우스 체계.|고위도에서 일부 커스프가 계산되지 않을 수 있다.|swiss
+regiomontanus-houses|레기오몬타누스 하우스|Regiomontanus|적도 분할을 황도에 투영하는 하우스 체계.|캄파누스의 묘유권 분할과 구별한다.|swiss
+campanus-houses|캄파누스 하우스|Campanus|묘유권의 등분을 사용하는 하우스 체계.|차트에 표시된 황도상의 간격은 균등하지 않을 수 있다.|swiss
+koch-houses|코흐 하우스|Koch;Birthplace houses|출생지의 상승 시간 관계를 이용하는 하우스 체계.|플라시두스와 동일한 시간 분할로 치환하지 않는다.|swiss
+porphyry-houses|포르피리우스 하우스|Porphyry;포피리 하우스|인접 앵글 사이의 황도 호를 삼등분하는 체계.|천구 공간의 세 등분이라고 옮기지 않는다.|swiss
+alcabitius-houses|알카비티우스 하우스|Alcabitius;Alchabitius;알카비시우스|상승점의 반일주호에 기초해 분할하는 체계.|알카비티우스라는 저자명과 하우스 계산법을 구별한다.|swiss
+topocentric-houses|토포센트릭 하우스|Polich-Page;폴리치·페이지|폴리치·페이지가 제안한 하우스 체계.|천체 위치를 관측지 중심으로 보정하는 설정과 별개다.|swiss
+meridian-houses|메리디언 하우스|Meridian;Axial rotation;축회전 하우스|적도상의 균등한 간격을 사용하는 하우스 체계.|모리누스 하우스와 동일시하지 않는다.|swiss
+morinus-houses|모리누스 하우스|Morinus|적도의 분할을 황도로 투영하는 하우스 체계.|ASC·MC가 항상 1·10커스프라고 가정하지 않는다.|swiss
+vehlow-houses|벨로 하우스|Vehlow|ASC가 1하우스 중앙에 오도록 하는 등분 체계.|ASC를 1하우스 시작으로 삼는 등분법과 구별한다.|swiss
+sripati-houses|슈리파티 하우스|Sripati;Śrīpati|사분면 분할을 바바의 중심 배정에 이용하는 체계.|서양 커스프와 인도 바바 중심의 용법 차이를 남긴다.|swiss;jh
+bhava-chalit|바바 찰리트|Bhāva Calita;Bhava Chalit|천체를 선택한 바바 경계에 따라 재배치한 하우스 도표.|행성의 라시 자체가 이동한 것으로 번역하지 않는다.|jh
+angular-succedent-cadent|앵귤러·석시던트·케이던트|각궁;속궁;과궁;angular;succedent;cadent|각 하우스, 그 다음 하우스, 각에 앞서는 하우스의 구분.|1·4·7·10, 2·5·8·11, 3·6·9·12 순이다. 사인의 양식과 다르다.|lilly
+house-rulership|하우스 주인|house ruler;하우스 룰러|하우스에 해당하는 사인의 지배 행성을 배정하는 관계.|커스프 기준과 홀사인 기준, 전통·현대 지배성표를 명시한다.|lilly
+derived-houses|파생 하우스|돌린 하우스;turned houses;턴드 하우스|대상 하우스를 첫 하우스로 삼아 관계를 세는 방법.|원차트의 하우스 번호와 파생 번호를 함께 기록한다.|derived
+interceptions|인터셉션|intercepted sign;끼인 사인|한 사인 전체가 하나의 하우스 안에 포함되어 그 사인에 커스프가 없는 배치.|일부 부등분 하우스에서 생기며 홀사인에는 적용되지 않는다.|sky-i
+polar-latitude-house-failure|고위도 하우스 계산 불능|circumpolar;polar house failure|일부 천체가 출몰하지 않아 특정 하우스 정의가 성립하지 않는 경우.|다른 체계로 대체한 값을 원래 체계의 결과처럼 표기하지 않는다.|swiss
+planetary-joys|행성의 조이|planetary joy;기뻐하는 하우스|일곱 전통 행성을 특정 하우스와 연결하는 체계.|사인의 도미사일과 별개다. 수1·달3·금5·화6·태양9·목11·토12다.|brennan-joys
+turning-the-chart|차트의 하우스 전환|turning the chart;턴드 차트|질문 대상을 기준으로 하우스 번호를 다시 붙이는 절차.|파생 하우스와 같은 기법의 절차명이다. 독립 기법으로 중복 계산하지 않는다.|derived
