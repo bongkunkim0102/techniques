@@ -13,7 +13,7 @@ try {
  await page.goto(origin+'/translations/',{waitUntil:'networkidle'});
  assert.equal(await page.locator('#ptolemy-book3 .source-item').count(),19);
  assert.deepEqual(await page.locator('#ptolemy-book3 .source-item a').evaluateAll(xs=>xs.map(a=>a.getAttribute('href'))),book.map(t=>`/translations/${t.id}/`));
- assert.match(await page.locator('#ptolemy-ashmand1822 > p').textContent(),/세 권의 본문 전체/);
+ assert.match(await page.locator('#ptolemy-ashmand1822 > p').textContent(),/네 권 70개 장의 본문 전체/);
  await page.locator('nav[aria-label="번역 문헌과 권별 목차"] a[href="#ptolemy-book3"]').click();
  assert.equal(new URL(page.url()).hash,'#ptolemy-book3');
  await page.screenshot({path:'test-results/book3-toc-desktop.png',fullPage:false});
@@ -24,7 +24,7 @@ try {
   assert.equal(await page.locator('#references a').first().getAttribute('href'),t.sourceUrl);
   assert.match(await page.locator('#references details').textContent(),/GPT-6 Astra Pro/);
   assert.equal(await page.locator('a[rel="prev"]').getAttribute('href'),`/translations/${i?book[i-1].id:'ptolemy-sky-weather-signs'}/`);
-  if(i<book.length-1)assert.equal(await page.locator('a[rel="next"]').getAttribute('href'),`/translations/${book[i+1].id}/`);else assert.equal(await page.locator('a[rel="next"]').count(),0);
+  if(i<book.length-1)assert.equal(await page.locator('a[rel="next"]').getAttribute('href'),`/translations/${book[i+1].id}/`);else assert.equal(await page.locator('a[rel="next"]').getAttribute('href'),'/translations/ptolemy-external-fortunes-proem/');
   if(t.contentNotice){assert.equal(await page.locator('[data-translation-notice] p').textContent(),t.contentNotice);assert(await page.locator('[data-translation-notice]').evaluate(el=>Boolean(el.compareDocumentPosition(document.querySelector('#translation'))&Node.DOCUMENT_POSITION_FOLLOWING)));}
   const c=provenance.chapters.find(c=>c.translationId===t.id),visible=await page.locator('main').textContent();for(const sourceParagraph of c.sourceParagraphs)assert(!visible.includes(sourceParagraph),`Unpublished source text in ${t.id}`);
  }
