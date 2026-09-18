@@ -4,9 +4,9 @@
 
 GitHub: https://github.com/bongkunkim0102/techniques · 작업 브랜치: `start`
 
-현재 원고 수록: 용어 600개, 한국어 해설 31개, 직접 번역 43편·348문단. 번역 작업용 참고 자료는 74개 단위이며 원문·한국어 대응 사례 33개를 포함한다. 『테트라비블로스』 Ashmand판 제1권 I–XXVII장 및 제2권 I–XIV장 전체, 『성명소원』 제요·발췌를 수록했다. Luna API 실행은 아직 시작하지 않았다.
+현재 원고 수록: 용어 600개, 한국어 해설 31개, 직접 번역 62편·543문단. 번역 작업용 참고 자료는 112개 단위이며 원문·한국어 대응 사례 52개를 포함한다. 『테트라비블로스』 Ashmand판 제1권 I–XXVII장·제2권 I–XIV장·제3권 I–XIX장 전체, 『성명소원』 제요·발췌를 수록했다. Luna API 실행은 아직 시작하지 않았다.
 
-**번역 재개 지점과 판본 대조 기록:** [TRANSLATION_PROGRESS.md](TRANSLATION_PROGRESS.md). 다음 장은 제3권 I장(1822년판 PDF 137쪽)이다. 원고 반영과 운영 사이트 배포는 별개다.
+**번역 재개 지점과 판본 대조 기록:** [TRANSLATION_PROGRESS.md](TRANSLATION_PROGRESS.md). 다음 장은 제4권 I장(1822년판 PDF 205쪽)이다. 제3권 19개 장의 번역은 ChatGPT (GPT-6 Astra Pro)가 직접 작성·대조했으며 다른 모델이나 번역 API에 위임하지 않았다. 원고 반영과 운영 사이트 배포는 별개다.
 
 Astro 정적 HTML과 Pagefind로 만드는 한국어 위키. 다른 앱의 인증·DB·Worker에 의존하지 않는다. 공개 읽기에 로컬 PC나 LLM 호출이 필요하지 않다.
 

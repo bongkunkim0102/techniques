@@ -11,7 +11,7 @@ const added=provenance.chapters.map(c=>translations.find(t=>t.id===c.translation
 await mkdir('test-results',{recursive:true});
 try {
   await page.goto(origin+'/translations/',{waitUntil:'networkidle'});
-  for(const [volume,count] of [['ptolemy-book1',27],['ptolemy-book2',14]]){
+  for(const [volume,count] of [['ptolemy-book1',27],['ptolemy-book2',14],['ptolemy-book3',19]]){
     const actual=await page.locator(`#${volume} .source-item a`).evaluateAll(links=>links.map(a=>a.getAttribute('href')));
     const expected=translations.filter(t=>t.series?.id===volume).sort((a,b)=>a.series.order-b.series.order).map(t=>`/translations/${t.id}/`);
     assert.equal(actual.length,count);assert.deepEqual(actual,expected);

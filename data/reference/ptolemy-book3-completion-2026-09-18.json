@@ -1,0 +1,2476 @@
+{
+  "version": 1,
+  "batch": "ptolemy-book3-completion",
+  "date": "2026-09-18",
+  "editor": "ChatGPT (GPT-6 Astra Pro)",
+  "method": "direct-editor",
+  "externalTranslationModelCalls": 0,
+  "sourceLicense": "Public domain",
+  "sourcePdf": {
+    "url": "https://iapsop.com/ssoc/1822__ashmand___ptolemys_tetrabiblos.pdf",
+    "sha256": "eed35a5ee2125967edc6789719b599af84f16fbba72d1b1546d37de3b4dc8655",
+    "pages": 273
+  },
+  "transcription": {
+    "url": "https://www.gutenberg.org/cache/epub/70850/pg70850-images.html",
+    "edition": "Ashmand 영어 번역의 1900년 재간본; Project Gutenberg 전사",
+    "htmlSha256": "38b0fed08e4a471618c857861ea033cddbc93d700b1a4d7ad70ab68d90b93826"
+  },
+  "hashBasis": "UTF-8 bytes of sourceParagraphs.join(\"\\n\\n\"); no trailing newline. Target paragraph hashes use each Korean paragraph verbatim.",
+  "reviewScope": "제3권 I–XIX장: 1822년 PDF 137–204쪽의 모든 지면 이미지를 직접 읽어 장 본문을 대조했다. 1900년 재간본 전사는 보조로 사용하고 확인한 어구·숫자 차이를 반영했다. 영어판 각주와 권말 표지는 본문에 포함하지 않았다. 본문에는 별도 표·도식이 없으며 계산 예제는 문장으로 보존했다. 공백·구두점·서체를 완전히 재현한 외교적 전사나 그리스어 교감은 아니며, 독립된 사람의 감수는 수행하지 않았다.",
+  "reviewedPdfPages": [
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179,
+    180,
+    181,
+    182,
+    183,
+    184,
+    185,
+    186,
+    187,
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    194,
+    195,
+    196,
+    197,
+    198,
+    199,
+    200,
+    201,
+    202,
+    203,
+    204
+  ],
+  "chapters": [
+    {
+      "translationId": "ptolemy-nativities-proem",
+      "chapter": 1,
+      "anchor": "CHAPTER_III_I",
+      "sourceHeading": "CHAPTER I PROEM",
+      "pdfPages": [
+        137,
+        138
+      ],
+      "printedPages": [
+        104,
+        105
+      ],
+      "sourceHash": "08c603c7e02a8d4b003cb2ce2b7ef961a3052b28a6a78dc813656fd8c7c6a03f",
+      "sourceParagraphs": [
+        "In the preceding pages, such events as affect the world generally have been discussed in priority; because they are operated by certain principal and paramount causes, which are, at the same time, predominant over particular and minor events applicable only to the separate properties and natural peculiarities of individuals. The foreknowledge of these particular events is called Genethlialogy, or the science of Nativities.",
+        "It must be remembered that the causation, by which all effects, whether general or particular, are produced and foreknown, is essentially one and the same; for the motions of the planets, and of the Sun and Moon, present the operative causation of events which happen to any individual, as well as of those which happen generally; and the foreknowledge of both may be obtained by the same accurate observation of the distinct natures of the several creatures and substances, subjected to the influence of the heavenly bodies, and by due attention to the changes produced in those natures, by the configurations displayed in the Ambient by the planetary motion.",
+        "Still, however, the causes of general events are greater and more complete than those of particular events; and, although it has been now stated, that one single identical power supplies both the causation and the foreknowledge of general as well as particular events, yet there does not belong to the two sorts of events a similar origin or beginning, at which observation of the celestial configurations must be made, for prognostication. In regard to general events, the dates of origin and commencement are many and various; for all general events cannot be traced to one origin, neither is their origin always considered by means of the matter subjected to their operation, for it may be also established by circumstances occurring in the Ambient and presenting the causation. It may, in fact, almost be said that they all originate in eminent eclipses of the Luminaries, and in remarkable transits made by the stars, at various times.",
+        "Particular events, however, which concern men individually, may be traced to one origin, single as well as manifold. Their origin is single, in respect to the primary composition of the nascent man; but it is also manifold, in respect to other circumstances subsequently indicated by dispositions in the Ambient, correlative to the primary origin. In all particular events, the origin, or birth, of the subjected matter itself, must, of course, be the primary origin; and, in succession thereto, the various beginnings of other subsequent circumstances are to be assumed. Hence, therefore, at the origin of the subjected matter, all the properties and peculiarities of its contemperament must be observed; and then the subsequent events, which will happen at certain periods, sooner or later, are to be considered by means of the division of time, or the scale of the ensuing years."
+      ],
+      "alignment": [
+        {
+          "sourceParagraphIndex": 0,
+          "targetParagraphIndices": [
+            0
+          ]
+        },
+        {
+          "sourceParagraphIndex": 1,
+          "targetParagraphIndices": [
+            1
+          ]
+        },
+        {
+          "sourceParagraphIndex": 2,
+          "targetParagraphIndices": [
+            2
+          ]
+        },
+        {
+          "sourceParagraphIndex": 3,
+          "targetParagraphIndices": [
+            3
+          ]
+        }
+      ],
+      "targetParagraphHashes": [
+        "83dd055c801ab3f43942499ce3ed8edf7d9a63222c7b6cb0b5f8e54b99d3480d",
+        "e92896c51c20ad8e5de629a9aab13edf52af6f1fe342191b74ae6dd3345330a0",
+        "f37e386addbb9649e62d717c5dfb32a92347eebdbe11ffbb1045404ca8555af4",
+        "8c88d77d85e5aa53d0dc62b769c7bf56d7a7c4c74f00160f4d7c2c2647574ce6"
+      ],
+      "variants": [
+        {
+          "chapter": 1,
+          "paragraph": 0,
+          "page": 137,
+          "from": "events as effect the world",
+          "to": "events as affect the world",
+          "kind": "transcription-correction"
+        },
+        {
+          "chapter": 1,
+          "paragraph": 1,
+          "page": 137,
+          "from": "the foreknowledge of both may be obtained by the several creatures and substances",
+          "to": "the foreknowledge of both may be obtained by the same accurate observation of the distinct natures of the several creatures and substances",
+          "kind": "omitted-phrase"
+        }
+      ],
+      "excludedBlocks": []
+    },
+    {
+      "translationId": "ptolemy-conception-birth",
+      "chapter": 2,
+      "anchor": "CHAPTER_III_II",
+      "sourceHeading": "CHAPTER II THE CONCEPTION AND THE PARTURITION, OR BIRTH; BY WHICH LATTER EVENT THE ANIMAL QUITS THE WOMB, AND ASSUMES ANOTHER STATE OF EXISTENCE",
+      "pdfPages": [
+        139,
+        141
+      ],
+      "printedPages": [
+        106,
+        108
+      ],
+      "sourceHash": "e4c0978b02463fe997869ff9f8171e758f4e67f88e9835adb18056adf72d71f1",
+      "sourceParagraphs": [
+        "The actual moment, in which human generation commences, is, in fact, by nature, the moment of the conception itself; but, in efficacy with regard to subsequent events, it is the parturition or birth.",
+        "In every case, however, where the actual time of conception may be ascertained, either casually or by observation, it is useful to remark the effective influence of the configuration of the stars as it existed at that time; and, from that influence, to infer the future personal peculiarities of mind and body. For the seed will, at the very first, and at once, receive its due quality, as then dispensed by the Ambient; and, although in subsequent periods its substance is varied by growth and conformation, it will still, by the laws of nature, congregate, during its growth, only such matter as may be proper to itself, and will become more and more imbued with the peculiar property of the first quality impressed on it at the time of conception. These precepts must always be attended to, when that time can be ascertained.",
+        "But, if the time of conception cannot be precisely made out, that of the birth must be received as the original date of generation; for it is virtually the most important, and is in no respect deficient, on comparison with the primary origin by conception, except in one view only; viz. that the origin by conception affords the inference of occurrences which take effect previously to the birth, whereas the origin by birth can, of course, be available only for such as arise subsequently. And, although the birth should in strictness be called the secondary beginning, while the conception might be insisted on as the primary beginning, it is still found to be equal to the conception in its efficacy, and much more complete, although later in time. For the conception may, in fact, be said to be the generation of mere human seed, but the birth that of man himself; since the infant at its birth acquires numerous qualities which it would not possess while in the womb, and which are proper to human nature alone; “such, for instance, as the particular action of the senses and the movement of the body and limbs.” Besides, even if the position of the Ambient, actually existing at the birth, cannot be considered to assist in forming and engendering the particular shape and qualities of the infant, it is nevertheless still auxiliary to the infant’s entrance into the world: because nature, after completing the formation in the womb, always effects the birth in immediate obedience to some certain position of the Ambient, corresponding and sympathising with the primary position which operated the incipient formation. It is therefore perfectly admissible, and consistent with reason, that the configuration of the stars, as it exists at the time of birth, although it cannot be said to possess any share of the creative cause, should still be considered to act in signification, as fully as the configuration at the time of conception; because it has, of necessity, a power corresponding to that configuration which actually possessed the creative cause.",
+        "In speaking of the practicability of prognostication, in the commencement of this treatise, the intention of setting forth this part of the subject, now under consideration, in a scientific manner, has been already notified. The ancient mode of prediction, founded on the commixture of all the stars, and abounding in infinite complication and diversity, will therefore be passed over; and, in fact, any attempt to detail it, however accurately and minutely made, in conformity to the several precepts given in the traditions relating to it, would prove unserviceable and unintelligible: it is therefore entirely abandoned. And the doctrine, now presented, comprehending every species of event liable to happen, and explaining all the effective influences generally exercised by the stars, in their separate qualities, over every species of event, shall be delivered succinctly, and in agreement with the theory of nature.",
+        "With this view, certain places in the Ambient, regulating the formation of all inferences of the events liable to affect mankind, are appointed as a kind of mark to which the whole theory of those inferences is applied, and to which the operative powers of the stars, when holding familiarity with the said places, are in a general manner directed: in the same way as, in archery, the arrow is directed to the target. And any event, which depends on the compound temperament of many various natures and influences together, must be left to the discretion of the artist, who, like the skilful archer, must himself judge of the best mode of hitting the mark.",
+        "To proceed methodically and in due order, it is proper to commence by investigating such general events as are open to consideration, and liable to have happened, or to happen, at the actual origin by birth; since, from that origin, all things necessary to be investigated may be gathered; as before stated. Yet, if a previous inquiry, by means of the primary origin by conception, should nevertheless be desired and undertaken, such an inquiry may still in some degree assist prognostication; although only in regard to properties and qualities dispensed and imbibed at the time of conception."
+      ],
+      "alignment": [
+        {
+          "sourceParagraphIndex": 0,
+          "targetParagraphIndices": [
+            0
+          ]
+        },
+        {
+          "sourceParagraphIndex": 1,
+          "targetParagraphIndices": [
+            1
+          ]
+        },
+        {
+          "sourceParagraphIndex": 2,
+          "targetParagraphIndices": [
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "sourceParagraphIndex": 3,
+          "targetParagraphIndices": [
+            5
+          ]
+        },
+        {
+          "sourceParagraphIndex": 4,
+          "targetParagraphIndices": [
+            6
+          ]
+        },
+        {
+          "sourceParagraphIndex": 5,
+          "targetParagraphIndices": [
+            7
+          ]
+        }
+      ],
+      "targetParagraphHashes": [
+        "bd855eda2071b9bc0b2c9d916d611dfed4fd38c6e0580fa73bfcac77ff279b89",
+        "eda69113943e9afb469ea8297c1e50a0d8614d793732488f3d300274a4a3c00e",
+        "7e6bb007fffa415ce20326c759ec9f4d2941b5756d64c6018adf55acdab760ca",
+        "a07571bbaaab23af15a3f7e63f4901648ad4f5ee221f31d5624b85b98c672707",
+        "28bd1bf6cc94c21c74e67b50a3b4eaeab14754a25b6e88a3bcc2c204ea480b09",
+        "72895c85dd357cdf0240e64b2cf7acf629030dcc271d7ffbd8fe25ac3684f505",
+        "4880fbf89718e76f5992477f5e68b2df1a19e10b21d24cd8dff9f155e54602cf",
+        "4c0265e981855500a01e49fd3c88734128ca7674b9d159e3e8530b5195faf3c6"
+      ],
+      "variants": [
+        {
+          "chapter": 2,
+          "paragraph": 2,
+          "page": 139,
+          "from": "must be received at the original date",
+          "to": "must be received as the original date",
+          "kind": "transcription-correction"
+        }
+      ],
+      "excludedBlocks": []
+    },
+    {
+      "translationId": "ptolemy-ascending-degree",
+      "chapter": 3,
+      "anchor": "CHAPTER_III_III",
+      "sourceHeading": "CHAPTER III THE DEGREE ASCENDING",
+      "pdfPages": [
+        141,
+        144
+      ],
+      "printedPages": [
+        108,
+        111
+      ],
+      "sourceHash": "8c0036c61b81b7f1619a652e2bae23bbf6ebe23781f61f3ba6e6a986e097cd83",
+      "sourceParagraphs": [
+        "There frequently arises some uncertainty as to the precise time of birth, and some apprehensions lest it should not be accurately noted. In most cases, the actual minute of the hour, at which the birth happens, can only be ascertained by making a scientific observation, at the time, with an horoscopical astrolabe; for all other instruments, employed in ascertaining the hour, are almost always fallacious, although used by many persons with much care and attention. The clepsydra, for instance, is subject to error, because the flow of the water will, from various causes, proceed irregularly: and the sundial is often incorrectly placed, and its gnomon often distorted from the true meridian line. To obviate the difficulty arising from the inaccuracy of these instruments, it seems highly necessary to present some method by which the actually ascending degree of the zodiac may be easily ascertained, in a natural and consistent manner.",
+        "And in order to attain this essential point, it is necessary first to set down the ordinary degree which, by the Doctrine of Ascensions, is found near the ascendant at the presumed hour. After this has been done, the new or full Moon, whichever it may be, that may take place next before the time of parturition, must be observed: and, if a new Moon, it will be necessary to mark exactly the degree of the conjunction of the two luminaries; but, if a full Moon, the degree of that luminary only which may be above the earth during the parturition. After this, it must be observed what planets have dominion over the said degree: and their dominion depends always on the five following prerogatives, viz. on triplicity, house, exaltation, terms, and phase or configuration; that is to say, a planet, eligible to dominion, must be connected with the degree in question either by one, or more, or all of these prerogatives.",
+        "If, therefore, there may be found any one planet properly qualified in all or most of these prerogatives, the exact degree, which it occupies in that sign in which it may be posited during the parturition, is to be remarked; and it is then to be inferred that a degree of the same numerical denomination was actually ascending, at the precise time of birth, in that sign which appears, by the Doctrine of Ascensions, to be nearest to the ascendant.",
+        "But when two planets, or more, may be equally qualified in the manner prescribed, it must be seen which of them may transit, during the parturition, a degree nearest in number to the ordinary degree shown by the Doctrine of Ascensions to be then ascending; and that said degree, nearest in number, is to be considered as pointing out the numerical denomination of the degree actually ascending. And when the degrees of two planets, or more, may closely and equally approximate in numerical denomination to the ordinary degree found by the Doctrine of Ascensions, the degree of that planet which possesses further claims, by connection with the angles and by its own condition, is to regulate the number of the actually ascending degree.",
+        "It must however be observed, that if the actual distance of the degree, in which the ruling planet may be posited, from the ordinary degree ascending, be found to exceed its distance from the ordinary degree of the mid-heaven; the numerical denomination, found in the way above mentioned, is then to be considered as applicable to the actual degree in culmination; and the other angles are to be arranged in conformity therewith."
+      ],
+      "alignment": [
+        {
+          "sourceParagraphIndex": 0,
+          "targetParagraphIndices": [
+            0
+          ]
+        },
+        {
+          "sourceParagraphIndex": 1,
+          "targetParagraphIndices": [
+            1
+          ]
+        },
+        {
+          "sourceParagraphIndex": 2,
+          "targetParagraphIndices": [
+            2
+          ]
+        },
+        {
+          "sourceParagraphIndex": 3,
+          "targetParagraphIndices": [
+            3
+          ]
+        },
+        {
+          "sourceParagraphIndex": 4,
+          "targetParagraphIndices": [
+            4
+          ]
+        }
+      ],
+      "targetParagraphHashes": [
+        "c1037824a6168372b39e59afdbd0de69839e93b0c4ce97ea917ef925391a3ec9",
+        "a8b5567e08d4237fd853e6e0ce9e8941a9b60f551a1b750128f3cf12ce1a4454",
+        "2efbcf5e63b82a5ae92e117a0e3d2bd8721e28d30bcd9101fb2ddc3ab511a472",
+        "e4ea53c4a1d2c415bf476f236d67f1600dea5b285e977591a2531ce4f72571cf",
+        "29e9ce4d23fbe20353da408e2af1380c94b9c5b61bc9e7e01070f81ab76d44f5"
+      ],
+      "variants": [
+        {
+          "chapter": 3,
+          "paragraph": 0,
+          "page": 142,
+          "from": "are almost fallacious",
+          "to": "are almost always fallacious",
+          "kind": "omitted-word"
+        },
+        {
+          "chapter": 3,
+          "paragraph": 1,
+          "page": 142,
+          "from": "the degree of luminary only",
+          "to": "the degree of that luminary only",
+          "kind": "omitted-word"
+        }
+      ],
+      "excludedBlocks": []
+    },
+    {
+      "translationId": "ptolemy-natal-inquiry",
+      "chapter": 4,
+      "anchor": "CHAPTER_III_IV",
+      "sourceHeading": "CHAPTER IV DISTRIBUTION OF THE DOCTRINE OF NATIVITIES",
+      "pdfPages": [
+        144,
+        147
+      ],
+      "printedPages": [
+        111,
+        114
+      ],
+      "sourceHash": "67eea384fb3672f6a5175ddfd422f2e817c80058817e703d1e7f491a16f7b7c3",
+      "sourceParagraphs": [
+        "After due attention to the preceding instructions, the doctrine of genethliacal prognostication should be separately and distinctly considered, for the sake of order and perspicuity, in its first, second and successive divisions or heads of inquiry. It will thus be found to present a mode of investigation, at once practicable, competent and agreeable to nature.",
+        "One division is applicable only to certain circumstances established previously to the birth; as, for instance, to those which concern the parents; another to circumstances, which may be established both before and after the birth; as those respecting brothers and sisters; another to circumstances actually occurring at the very time of birth, and immediately consequent thereupon: and this head of inquiry embraces various points, and is by no means simple: and the last division relates to events liable to take place after the birth, at various periods, earlier or later; and it involves a still more diversified theory.",
+        "Thus, the questions to be solved, in regard to the actual circumstances of the birth itself, are, whether the production will be male or female; twins, or even more; whether it will be monstrous; and whether it will be reared.",
+        "The questions of the periods subsequent to the birth relate first to the duration of life (which is distinct from the question of rearing), then to the shape and figure of the body, to the bodily affections, and to injuries or defects in the members. After these, further inquiry is instituted as to the quality of the mind, and the mental affections; then, as to fortune, in regard to rank and honours as well as wealth. In succession to these, the character of the employment or profession is sought out; then, the questions relative to marriage and offspring, and to consentaneous friendship, are to be considered; then, that concerning travel; and, lastly, that concerning the kind of death which awaits the native. The question of death, although depending, in fact, upon the same influence as the question of the duration of life, seems yet to find its proper situation in being placed last in the series.",
+        "On each of the foregoing points of inquiry, the doctrine and precepts to be followed shall be thoroughly and succinctly detailed; but all idle conceits, promulgated by many persons without any foundation capable of sustaining the test of reason, shall be utterly avoided, in deference to the only true agency, which is derived from primal Nature herself. It is only upon clearly effective influences that this treatise is established: and all matters, which are open to an authorized mode of inquiry by means of the theory of the stars, and their positions and aspects with regard to appropriate places, shall be fully discussed here; but the divination by lots and numbers, unregulated by any systematic causation, must remain unnoticed.",
+        "The brief remarks, immediately following, are applicable to all cases, generally, and are now at once stated, to avoid the repetition of them under each particular division or head of inquiry.",
+        "Firstly, notice must be taken of that place in the zodiac which corresponds, according to the scheme of the nativity with the particular division of inquiry; for example, the place of the mid-heaven is adapted to questions comprised under the head of employment or profession; and the Sun’s place to those relative to the concerns of the father.",
+        "Secondly, after the proper place has thus been duly ascertained, the planets holding right of dominion there, by any of the five prerogatives hereinbefore mentioned, are to be observed; and, if any one planet be found to be lord by all these prerogatives, that planet must be admitted as the ruler of the event liable to happen under that particular head of inquiry. If, however, two or three planets hold dominion, that one among them, which may have most claims to the place in question, must be selected as the ruler.",
+        "Thirdly, the natures of the ruling planet and of the signs, in which itself and the place which it thus controls may severally be situated, are to be considered as indicating the quality of the event.",
+        "Fourthly, the proportionate vigour and strength, or weakness, with which the dominion is exercised, as exhibited either by the actual cosmical position of the ruling planet, or by its position in the scheme of the nativity, will point out to what extent and with what force the event will operate. And a planet is found to be cosmically powerful when in one of its own places, or when oriental, or swift in course; and it is strong in the scheme of the nativity, when transiting an angle or succedent house; especially those of the ascendant, or of the mid-heaven. But it is cosmically weaker, when not in one of its own places; or when occidental, or retarded in its course; and in respect to the scheme of the nativity, it is weak when cadent from the angles.",
+        "Lastly; the general time, about which the event will take place, is to be inferred from the ruling planet’s matutine or vespertine position, in regard to the Sun and the ascendant, and from the circumstance of its being situated in an angle, or a succedent house. As, if it be matutine, or in an angle, its influence operates earlier and more promptly; but, if vespertine or in a succedent house, later and more tardily. And, in reference to this point, the quadrant which precedes the Sun, and that which precedes the ascendant, together with the quadrants opposite to these, are oriental and matutine; and the other quadrants, following the former, are occidental and vespertine."
+      ],
+      "alignment": [
+        {
+          "sourceParagraphIndex": 0,
+          "targetParagraphIndices": [
+            0
+          ]
+        },
+        {
+          "sourceParagraphIndex": 1,
+          "targetParagraphIndices": [
+            1
+          ]
+        },
+        {
+          "sourceParagraphIndex": 2,
+          "targetParagraphIndices": [
+            2
+          ]
+        },
+        {
+          "sourceParagraphIndex": 3,
+          "targetParagraphIndices": [
+            3
+          ]
+        },
+        {
+          "sourceParagraphIndex": 4,
+          "targetParagraphIndices": [
+            4
+          ]
+        },
+        {
+          "sourceParagraphIndex": 5,
+          "targetParagraphIndices": [
+            5
+          ]
+        },
+        {
+          "sourceParagraphIndex": 6,
+          "targetParagraphIndices": [
+            6
+          ]
+        },
+        {
+          "sourceParagraphIndex": 7,
+          "targetParagraphIndices": [
+            7
+          ]
+        },
+        {
+          "sourceParagraphIndex": 8,
+          "targetParagraphIndices": [
+            8
+          ]
+        },
+        {
+          "sourceParagraphIndex": 9,
+          "targetParagraphIndices": [
+            9
+          ]
+        },
+        {
+          "sourceParagraphIndex": 10,
+          "targetParagraphIndices": [
+            10
+          ]
+        }
+      ],
+      "targetParagraphHashes": [
+        "6636fa3875271708589a9771ae0542c05456fe467a7042367481d220aecb1543",
+        "0d88591397689a3c1983693e69f8d0bbb6b6a7524ad81a586b5d16c815601400",
+        "f32f6ca7248b82cc646649f59ff2dbddb302e7779e913859dcacd8ba08f3286d",
+        "f210b1fd69dc5cb1736aceeef11c1bd4eb69693bd2a6e4c2b554eac0980cf994",
+        "ff60e1b08c8252d77484e11960e9f18dbfb9f62a0d464a3bedc9806331ab71ab",
+        "5b71006efb1e3910f9948c81f3a5b43126e5a411c88f5373a6dd238b39c4c953",
+        "cd58e9347b58ac39b13d0466f19fbb5188e6665e323ed741bf2ae7f943f12290",
+        "57edcaaaef481e925ad6d65c0cda670bec0afbd8dd71dc75fc11a7c58866c6e4",
+        "869c94438aaf9bcce4df17051b2f50255fc07eaeffd7b0476d30d16275e423dc",
+        "b4beab54c4888290113595999fc99aa1723a51fac9ee69987a54d7e04e3a894b",
+        "23ce481428ac79e5e6a152875dc86d63b9856004f87e5eab5e388f63a8851f9c"
+      ],
+      "variants": [],
+      "excludedBlocks": []
+    },
+    {
+      "translationId": "ptolemy-parents",
+      "chapter": 5,
+      "anchor": "CHAPTER_III_V",
+      "sourceHeading": "CHAPTER V THE PARENTS",
+      "pdfPages": [
+        147,
+        152
+      ],
+      "printedPages": [
+        114,
+        119
+      ],
+      "sourceHash": "a3f3ab46ce727cc33953862b10e108219fcd1073848e50fea9e15f73b483925c",
+      "sourceParagraphs": [
+        "Under each head of inquiry, the proposed investigation must be entered upon in the manner mentioned in the preceding chapter: and, to proceed in due order, the circumstances relating to the parents require to be first disposed of.",
+        "In conformity with nature, the Sun and Saturn are allotted to the person of the father; and the Moon and Venus to that of the mother: and the mode in which these luminaries and planets may be found posited, with reference to each other, as well as to other planets and stars, will intimate the situation of affairs affecting the parents.",
+        "Thus, for example, the degree of their fortune and wealth will be indicated by the doryphory, or attendants of the luminaries. If the luminaries be accompanied (either in the same signs in which themselves are placed, or in the signs next following), by the benefics, and by such stars or planets as are of the same tendency as themselves, a conspicuous and brilliant fortune is presaged: especially, should the Sun be attended by matutine stars, and the Moon by vespertine, and these stars be also well established in the prerogatives before mentioned. Likewise, if Saturn or Venus be matutine, and in proper face, or in an angle, it foreshows the prosperity of either parent respectively, according to the scheme. If, however, the luminaries hold no connection with the planets, and be unattended by any doryphory, the adverse fortunes of the parents, their humble state and obscurity, are then denoted; especially, if Saturn and Venus may not be favourably constituted. The parents are also subjected to a state of vicissitude, never rising above mediocrity, when the luminaries may have a doryphory of a condition or tendency foreign to their own: as, for instance, when Mars may ascend in succession to the Sun, or Saturn to the Moon; or if the benefics be found constituted unfavourably, and not in conformity with their own natural condition and tendency. But should the part of fortune, as shown by the scheme of the nativity, be found in a favourable position, and in consonance with the doryphory of the Sun and Moon, the estate of the parents will then remain steady and secure. If, however, the position be discordant and adverse, or if the malefics compose the doryphory, the parents’ estate will be unproductive and even burthensome.",
+        "The probable duration of the lives of the parents is to be inferred by means of other configurations. And, in the case of the father, a long life is presaged, if Jupiter, or Venus, be in any mode whatever configurated with either the Sun, or Saturn; or, also, if Saturn himself make an harmonious configuration with the Sun; (that is to say, either by the conjunction, the sextile, or the trine); provided such configuration be fully and strongly established and confirmed: and, when not so established and confirmed, although it does not actually denote a short life, yet it will not then equally presage a long life.",
+        "If however the planets be not posited in the manner just described; and if Mars be elevated above, or ascend in succession to the Sun, or to Saturn; or, even, should Saturn himself not be in consonance with the Sun, but configurated with it by the quartile or opposition, and if, when thus circumstanced, both he and the Sun should be posited in cadent houses, it is then indicated that the father is liable to infirmities; but, if in angles or succedent houses, the father will live only a short life, and suffer from various bodily injuries and diseases. The shortness of his life is particularly intimated by the position of the Sun and Saturn in the first two angles, viz. the ascendant and the mid-heaven, or in their succedent houses; and his affliction by diseases and injuries, when they may be posited in the two other angles, the western and the lower heaven, or in the houses succedent thereto. And, if Mars be aspected to the Sun in the way before-mentioned, the father will die suddenly, or receive injury in his face or eyes; but, should Mars be so aspected to Saturn, he will be afflicted with contractions of the muscles or limbs, and with fevers and disorders proceeding from inflammation and wounds; or even death may be the consequence. And even Saturn himself, if badly configurated with the Sun, will also inflict disease and death on the father, by inducing such particular disorders as are incidental from watery humour.",
+        "The foregoing observations are applicable to the father, and those which follow must be attended to in the case of the mother.",
+        "Should the Sun be configurated, in any mode whatever, with the Moon or Venus, or, should Venus herself be harmoniously configurated with the Moon, either by the sextile, the trine, or the conjunction, the mother will live long.",
+        "If, however, Mars be succedent to the Moon and Venus, or in quartile or opposition to them, or, if Saturn be similarly aspected to the Moon only, and both of them be void of course or retrograde, or cadent, adverse accidents and disease will attend the mother; should they, on the other hand, be swift in motion and placed in angles, they portend that her life will be short, or grievously afflicted. Their position in the oriental angles, or succedent houses, particularly denotes the shortness of her life; and, in those which are occidental, her affliction. In the same manner, should Mars be thus aspected to the Moon (and should that luminary at the same time be oriental), the mother’s sudden death, or some injury in her face or eyes, will be produced: and, if the Moon be then occidental, death will be occasioned by miscarriage in parturition, by inflammation, or by wounds. Such are the effects which ensue from these aspects made by Mars to the Moon; but, should he make them to Venus, death will then take place from fever, some latent disease, or sudden sickness. Saturn’s aspect to the Moon, when she is oriental, inflicts on the mother disease and death from extreme colds, or fevers; but, should the Moon be occidental, the danger arises from affections of the womb, or from consumption.",
+        "In the investigation of all these circumstances, it is highly essential that the properties of the signs, in which are situated the stars actuating the influence, should be also taken into consideration; and that, by day, the Sun and Venus should be principally observed; and by night, Saturn and the Moon.",
+        "If, however, after due attention has been paid to the foregoing points, a more specific inquiry still be demanded, it will then become necessary to assume the place allotted to the paternal or maternal condition, as the case may be, for an horoscope or ascendant, in order to pursue the investigation. And by this means, which in this respect will answer the purpose of a nativity, all other particulars concerning the parents may be viewed succinctly; according to the general forms hereinafter given, as adapted for practice and applicable to all events.",
+        "In these and in all other cases, the mode, in which the influences are commixed, must be carefully kept in view; and it must be observed whether any particular stars possess, in themselves alone, the operative cause, or whether others share dominion with them; and it is then to be seen which among them all are more powerful, and which of them take the lead in establishing the event: so that due inference may be drawn agreeably to their several natures. And should the several stars, which may happen to be combined in dominion, be also equal in power, the diversity of their several natures, and the admixture of qualities thence arising, must then be taken into consideration; and, by fairly weighing this various admixture, the nature and quality of the future event may be apprehended.",
+        "Stars, posited separately or at a distance from each other, distribute, at their appropriate times and periods, the events operated by each: thus the earlier events are brought about by stars which are more oriental than others, and the latter events by those which are more occidental. For it is indispensably requisite that the star, under the influence of which some particular event is expected to happen, should be originally connected with the place to which the inquiry, concerning that event, is allotted; and, if such connection should not have existed, no effect of any importance can possibly be produced; because a star does not exercise a vigorous influence, unless it was fully in communication at the beginning. But, however, the time, at which the effect will take place, is further regulated by the relative distance of the star, governing the effect, from the Sun and the angles of the world, as well as by its primary position of dominion."
+      ],
+      "alignment": [
+        {
+          "sourceParagraphIndex": 0,
+          "targetParagraphIndices": [
+            0
+          ]
+        },
+        {
+          "sourceParagraphIndex": 1,
+          "targetParagraphIndices": [
+            1
+          ]
+        },
+        {
+          "sourceParagraphIndex": 2,
+          "targetParagraphIndices": [
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "sourceParagraphIndex": 3,
+          "targetParagraphIndices": [
+            5
+          ]
+        },
+        {
+          "sourceParagraphIndex": 4,
+          "targetParagraphIndices": [
+            6,
+            7
+          ]
+        },
+        {
+          "sourceParagraphIndex": 5,
+          "targetParagraphIndices": [
+            8
+          ]
+        },
+        {
+          "sourceParagraphIndex": 6,
+          "targetParagraphIndices": [
+            9
+          ]
+        },
+        {
+          "sourceParagraphIndex": 7,
+          "targetParagraphIndices": [
+            10,
+            11
+          ]
+        },
+        {
+          "sourceParagraphIndex": 8,
+          "targetParagraphIndices": [
+            12
+          ]
+        },
+        {
+          "sourceParagraphIndex": 9,
+          "targetParagraphIndices": [
+            13
+          ]
+        },
+        {
+          "sourceParagraphIndex": 10,
+          "targetParagraphIndices": [
+            14
+          ]
+        },
+        {
+          "sourceParagraphIndex": 11,
+          "targetParagraphIndices": [
+            15
+          ]
+        }
+      ],
+      "targetParagraphHashes": [
+        "84d32983da667908e81d6655571f8339401f4a7a148383c3feccebe235ec2da8",
+        "f4ff679518a41727d83a83b6d5563fbf5fa74bb2c7e31caaebd72ef9c7ff52ad",
+        "1329ed8f9c14abd4e9ef9d6effe86235d282f2d636175d0e3e69179f50c711c4",
+        "88317b3318747822ed9f78a1907a91e03a4966dab4967ed15f5f2b2dee92d87b",
+        "59da98e2caf27a3a8a404d210b32ee17a03c267a533fb0fe5057fdf2156fdcbb",
+        "847b21b91600d6c99f407ef07e91daa33d1c1773da016de3e7d179a00562e13f",
+        "1e77509e1c01494d6ba5f39289ab1776bd8fea5b9aa5c05183416fa5e37e6fab",
+        "6a215dbfd7ea19b49a307bec3500f989debb5dbb20138073dda7c69889350903",
+        "5b9f4efdc0100505b4584662064c6ac406d237c41b06d5fb219a6ab279615cba",
+        "c28fb19dbc35bed665e45fda5f8637323df19f7f469ec012df709c81ae805e52",
+        "a2c041fc28764024ad716f091684ae36f10fef0efffd1bce52bbfe924ba1a261",
+        "953337081e331a4302024663838b7fcca469d35bfc60a21ee86147dbcf5f0ce2",
+        "72395c03e2f80c6171e84286b4ed0eed9a1f772165595bce251e31f6f5517d30",
+        "498c149a66ca1911a3a8bfb34cc02fb5c64ce8a7ffec0ff4e0cae7002589705d",
+        "a196c2c694e0245d7ce5f923321d05a30ead67227acf05a07ce170b57009aa63",
+        "9b58ab0d18fece9f1be005f40e493518bf7273f200798f4a668b46ec108804ec"
+      ],
+      "variants": [
+        {
+          "chapter": 5,
+          "paragraph": 2,
+          "page": 148,
+          "from": "and then denoted",
+          "to": "are then denoted",
+          "kind": "transcription-correction"
+        },
+        {
+          "chapter": 5,
+          "paragraph": 2,
+          "page": 148,
+          "from": "Mars may ascend near in succession",
+          "to": "Mars may ascend in succession",
+          "kind": "edition-wording"
+        },
+        {
+          "chapter": 5,
+          "paragraph": 9,
+          "page": 151,
+          "from": "naternal or maternal",
+          "to": "paternal or maternal",
+          "kind": "transcription-correction"
+        }
+      ],
+      "excludedBlocks": []
+    },
+    {
+      "translationId": "ptolemy-siblings",
+      "chapter": 6,
+      "anchor": "CHAPTER_III_VI",
+      "sourceHeading": "CHAPTER VI BROTHERS AND SISTERS",
+      "pdfPages": [
+        152,
+        154
+      ],
+      "printedPages": [
+        119,
+        121
+      ],
+      "sourceHash": "343580ee87064e906aae1fa5cbd8ff4869786e88a3bc0c9e8b5766002fb05c98",
+      "sourceParagraphs": [
+        "Under this head of inquiry, a general and cursory investigation, only, can be performed; and an attempt to dive into minute particulars would be fruitless, and would prove to be merely a vain search after things not open to discovery.",
+        "The place, whence inferences are drawn respecting brothers and sisters, is to be considered as being applicable only to children of the same mother, and it is consequently, agreeably to nature, presumed to be the same as the maternal place; viz. the sign occupying the mid-heaven; or, by day, that which contains Venus, and, by night, the Moon. This sign and its succedent are considered as indicative of the mother and her children, and the same place is therefore properly allotted to brothers and sisters.",
+        "Hence, provided this place be configurated with the benefics, there will be several brothers and sisters: the number of them depending upon the number and positions of such benefic stars, whether in bicorporeal signs, or in signs of single form.",
+        "If, however, the malefics should be in elevation over this place, or be hostilely situated in opposition thereto, the brothers and sisters will then be few in number; and this fewness especially follows when the malefics may surround the Sun. Should the hostile configuration be presented from the other angles, and, particularly, if from the ascendant, Saturn will then represent the elder born; and Mars, by inflicting death, will diminish the total number of brothers and sisters.",
+        "Again, should the stars, which promise brethren, be favourably circumstanced as to their cosmical position, the brethren will be eminent and illustrious; but humble and obscure, if the cosmical position be of an adverse nature. If, also, the malefic stars should be in elevation over those which give brethren, the life of the brethren will then be only of short duration.",
+        "Stars, constituted masculinely, represent brothers; those femininely, sisters. The more oriental stars likewise represent the elder born; and those which are more occidental, the younger.",
+        "Moreover, should the stars, which give brethren, be harmoniously configurated with that one which has dominion of the sign allotted to brethren, the brethren will be mutually friendly and affectionate; and, if an harmonious configuration be also extended, by the same planets, to the part of fortune, the brethren will live together in communion. But, if the stars, which give brethren, should, on the contrary, be in situations unconnected with each other, or be in opposition, the brethren will then live at variance, mutually practising enmity and fraud."
+      ],
+      "alignment": [
+        {
+          "sourceParagraphIndex": 0,
+          "targetParagraphIndices": [
+            0
+          ]
+        },
+        {
+          "sourceParagraphIndex": 1,
+          "targetParagraphIndices": [
+            1
+          ]
+        },
+        {
+          "sourceParagraphIndex": 2,
+          "targetParagraphIndices": [
+            2
+          ]
+        },
+        {
+          "sourceParagraphIndex": 3,
+          "targetParagraphIndices": [
+            3
+          ]
+        },
+        {
+          "sourceParagraphIndex": 4,
+          "targetParagraphIndices": [
+            4
+          ]
+        },
+        {
+          "sourceParagraphIndex": 5,
+          "targetParagraphIndices": [
+            5
+          ]
+        },
+        {
+          "sourceParagraphIndex": 6,
+          "targetParagraphIndices": [
+            6
+          ]
+        }
+      ],
+      "targetParagraphHashes": [
+        "9391d7b19a97124678325df464db8e48d1c859562aa2c7a95dddc09a4f177206",
+        "ef6c7ee0b373b7f411543cfda9914fceb9c457c337b9645594de63dae9410425",
+        "00cf4268db21ab7bd0fe8173e1b50bc20a409cef8a6d971875799814659a128e",
+        "c3432e00b785f9fa00bb04345803b027ca7f865e50a16348a3b2c2a454209b39",
+        "cb1dd59dfb7f2fbb2a5c4cc481a314fa3779c19f288501bc6542ecace3ec0d3b",
+        "d0779d34beb24442813ea06fe7943f7c608f573ca18d80feb097b683104ba539",
+        "2e4a9a1211b8d736b433fe3f14f6e43743575fe0231c7b2cad5dce3884309da6"
+      ],
+      "variants": [],
+      "excludedBlocks": []
+    },
+    {
+      "translationId": "ptolemy-birth-sex",
+      "chapter": 7,
+      "anchor": "CHAPTER_III_VII",
+      "sourceHeading": "CHAPTER VII MALE OR FEMALE",
+      "pdfPages": [
+        154,
+        155
+      ],
+      "printedPages": [
+        121,
+        122
+      ],
+      "sourceHash": "f047c034dc27871aa6b3e23a146a871ca96f898dbd6e3634017207ec8e2dccc3",
+      "sourceParagraphs": [
+        "After the indications which regard brothers and sisters have been investigated by the foregoing rules, consonant with nature and reason, the actual native, or the person to whom the scheme of nativity is specially appropriated, demands attention; and the first and most obvious inquiry is whether the said native will be male or female.",
+        "The consideration of this question rests not on a single basis, nor can it be pursued in one sole direction only: it depends, on the contrary, upon the several situations of the two luminaries and the ascendant, and upon such planets as possess any prerogatives in the places of those situations; and all these circumstances should be specially observed at the time of conception, and, in a general manner also, at that of birth.",
+        "Observation of the said three places, and of the mode in which the planets ruling them may be constituted, is wholly indispensable: it must be seen whether all, or most of them, may be constituted masculinely or femininely; and prediction must, of course, be regulated in conformity with their disposition, so observed; as tending to produce a male or female birth.",
+        "The masculine or feminine nature of the stars is to be distinguished in the manner already pointed out in the commencement of this treatise. For instance, by the nature of the signs in which they are situated, by their relative position to each other, and also by their position towards the earth; as when in the east, they are masculinely disposed, and, when in the west, femininely. Their relative position to the Sun also affords guidance in distinguishing them; since, if they should be matutine, they are considered to signify the male gender; and if vespertine, the female. Thus, from the sex chiefly prevalent, as observed by these rules, that of the native may be rationally inferred."
+      ],
+      "alignment": [
+        {
+          "sourceParagraphIndex": 0,
+          "targetParagraphIndices": [
+            0
+          ]
+        },
+        {
+          "sourceParagraphIndex": 1,
+          "targetParagraphIndices": [
+            1
+          ]
+        },
+        {
+          "sourceParagraphIndex": 2,
+          "targetParagraphIndices": [
+            2
+          ]
+        },
+        {
+          "sourceParagraphIndex": 3,
+          "targetParagraphIndices": [
+            3
+          ]
+        }
+      ],
+      "targetParagraphHashes": [
+        "0f531e29b5239ba269ec0a3ad8a8199bbe60b264cf862c8bcef0fcb789e1ac52",
+        "b669b06b34ebe23a8b5b1efde6c3fe73d8a61da63e988062164b1622be1e5397",
+        "7c88b3eb9e0837e6ce7fc39fd99768d5a8f9a0da7a8c831b10b60bb114f51e8d",
+        "1e466153eed343b43e4bfb92f6d5d98724f51ff633ba34ea5d5aa02f0a95c8cd"
+      ],
+      "variants": [],
+      "excludedBlocks": []
+    },
+    {
+      "translationId": "ptolemy-twins",
+      "chapter": 8,
+      "anchor": "CHAPTER_III_VIII",
+      "sourceHeading": "CHAPTER VIII TWINS",
+      "pdfPages": [
+        155,
+        157
+      ],
+      "printedPages": [
+        122,
+        124
+      ],
+      "sourceHash": "fd50c2ad322e27517618ce7d0bd5cb159911f0fa80563e5bdb2359e6056064b8",
+      "sourceParagraphs": [
+        "With respect to the probability of the birth of twins, or a greater number at once, the same places must be observed, as those mentioned in the preceding chapter; that is to say, the places of both luminaries and the ascendant.",
+        "When two, or all three, of the said places may be situated in bicorporeal signs, births of this kind will occur, in consequence of the combination which then arises; especially, provided all the planets, which control those places, should also be similarly circumstanced: or although only some of them be posited in bicorporeal signs, while the rest may be placed by two or more together. Because even more than twins will be born, in a case wherein all the ruling places may be in bicorporeal signs, most of the planets being, at the same time, posited in the same way, and configurated with them. The number of children, however, to be produced at the birth, is to be inferred from the planet which exercises the right of determining the number: and the sex or sexes are to be predicted by means of the planets in configuration with the Sun, Moon, and ascendant.",
+        "And, should the position of the heavens be arranged so that the angle of the mid-heaven, and not that of the ascendant, may be connected with the luminaries, there will, in that case, be produced, almost always, twins; and sometimes even more.",
+        "To speak, however, more particularly, three males will be born, as in the nativity of the Anactores, when Saturn, Jupiter, and Mars may be configurated with the places before appointed, in bicorporeal signs; and three females, as in the nativity of the Graces, when Venus and the Moon, with Mercury femininely constituted, may be configurated in like manner. When Saturn, Jupiter, and Venus may be configurated, two males and one female will be born; as in the nativity of the Dioscuri; and, when Venus, the Moon, and Mars may be so configurated, two females and one male; as in the nativity of Ceres, Core, and Liber.",
+        "In cases of this kind, however, it most usually happens that the conception has not been complete, and that the children are born with some remarkable imperfections or deformities. And, in some instances, owing to a certain concurrence of events, these numerous productions are quite extraordinary and amazing."
+      ],
+      "alignment": [
+        {
+          "sourceParagraphIndex": 0,
+          "targetParagraphIndices": [
+            0
+          ]
+        },
+        {
+          "sourceParagraphIndex": 1,
+          "targetParagraphIndices": [
+            1
+          ]
+        },
+        {
+          "sourceParagraphIndex": 2,
+          "targetParagraphIndices": [
+            2
+          ]
+        },
+        {
+          "sourceParagraphIndex": 3,
+          "targetParagraphIndices": [
+            3
+          ]
+        },
+        {
+          "sourceParagraphIndex": 4,
+          "targetParagraphIndices": [
+            4
+          ]
+        }
+      ],
+      "targetParagraphHashes": [
+        "10a709b4e149375b090ab6c9334b6b21f56c9072d76e71e4ae5b37cfaad67d32",
+        "1ecc1f9f3e63a35811c02f829be5e05108f57561762cf2ab0a71a4dd29adddc3",
+        "18b5ae6b6eeaa4f4c16f2e86f10e53b102d819204228248305bd90b51f084884",
+        "e9e04a8623b0ac8dc89d960d1ef24633b10db8bfc544309e9c93401454f789d6",
+        "b747a383098cd30a1222d56e5ddfdc8ae3f7e405094b350a69c5a5f9c21d062d"
+      ],
+      "variants": [],
+      "excludedBlocks": []
+    },
+    {
+      "translationId": "ptolemy-unusual-births",
+      "chapter": 9,
+      "anchor": "CHAPTER_III_IX",
+      "sourceHeading": "CHAPTER IX MONSTROUS OR DEFECTIVE BIRTHS",
+      "pdfPages": [
+        158,
+        159
+      ],
+      "printedPages": [
+        125,
+        126
+      ],
+      "sourceHash": "280dda2b615f511858718e9b64806cdb144a2f6dc64b009c957c1f4ec91bdfc4",
+      "sourceParagraphs": [
+        "The same places, as those pointed out in the two chapters last preceding, are again to be considered, in inquiring into the probability of a monstrous or defective birth. For it will be found that, at a birth of this description, the luminaries are either cadent from the ascendant, or else not in any manner configurated with it; while, at the same time, the angles are occupied by the malefics.",
+        "It therefore becomes necessary, when such a position of the heavens may occur at the time of birth, to observe forthwith the preceding new or full Moon and its ruler; as well as the rulers of the luminaries at the said time of birth. For, if all the places, in which the rulers of the luminaries, and in which the Moon herself and Mercury may be situated, at the birth, or, if most of those places should be totally inconjunct and unconnected with the places of the said preceding new or full Moon and its ruler, the birth will then be monstrous. And if it should be further found, in addition to this absence of connection, that the luminaries may be also posited in quadrupedal or bestial signs, and the two malefics in angles, the birth will in that case not be human. And should the luminaries, when so circumstanced, be not at all supported by any benefic planet, but only by malefics, the creature born will be wholly indocile, wild, and of evil nature: if, however, they should receive support from Jupiter or Venus, the offspring will then be like that of dogs or cats, or other creatures held in religious veneration and used in worship: but, if Mercury support the luminaries, it will resemble that of fowls, oxen, or swine, or, of other animals adapted to the service of mankind.",
+        "When the luminaries may be in signs of human shape, while other circumstances in the scheme of the nativity may exist as before described, the creature born will then be human, or will partake of human nature, although it will still be defective in some peculiar quality. And, in order to ascertain the nature of that defect, the shape and form of the signs found on the angles occupied by the malefics, as well as of those wherein the luminaries are situated, must be taken into consideration: and, if in this instance also, no benefic planet should lend support to any one of the prescribed places, the offspring produced will be utterly void of reason, and indeed indefinable. If, however, it should happen, that Jupiter or Venus give support, the defect will be veiled by a specious outward appearance, similar to that of hermaphrodites, and of those persons called Harpocratiaci, or others of like imperfections. And should Mercury also give support, in addition to that of Jupiter or Venus, the offspring will then become an interpreter of oracles and divinations; but, if Mercury support alone, it will be deaf and dumb, although clever and ingenious in its intellect."
+      ],
+      "alignment": [
+        {
+          "sourceParagraphIndex": 0,
+          "targetParagraphIndices": [
+            0
+          ]
+        },
+        {
+          "sourceParagraphIndex": 1,
+          "targetParagraphIndices": [
+            1,
+            2
+          ]
+        },
+        {
+          "sourceParagraphIndex": 2,
+          "targetParagraphIndices": [
+            3,
+            4
+          ]
+        }
+      ],
+      "targetParagraphHashes": [
+        "83a535c1fe52fb7026b6bfd2b28e55da19499ad4809f88faaf5b1b7b7a698883",
+        "d1abe24764c3bf89a33f02cb5f683263a26abe1c97cafe2032be47711cfdfed8",
+        "574f32113de7fb8721258a1f8a181711d9b963095dcc852b8fc45b27b7a942d5",
+        "2e6725bf1d64eb90cf0116f9a6f76696be5c88a2593d2fc28361412645e2e8c3",
+        "6e46e01f1d60c001cbf9abfb69e99adcdd876949525958dfd9eaab40ab702fbd"
+      ],
+      "variants": [],
+      "excludedBlocks": []
+    },
+    {
+      "translationId": "ptolemy-children-not-reared",
+      "chapter": 10,
+      "anchor": "CHAPTER_III_X",
+      "sourceHeading": "CHAPTER X CHILDREN NOT REARED",
+      "pdfPages": [
+        159,
+        162
+      ],
+      "printedPages": [
+        126,
+        129
+      ],
+      "sourceHash": "bc74453550f89500866b980a671c22b1dcd51c3a5e0fa53672c5fc5f65fd8ecb",
+      "sourceParagraphs": [
+        "The question which now remains to be considered, in order to complete the investigation of circumstances taking place simultaneously with the nativity, or immediately consequent thereon, is, whether the child, then born, will or will not be reared.",
+        "This inquiry is to be handled distinctly from that regarding the duration of life, although there is an apparent connection between them. The questions themselves are, indeed, similar; for it is much the same thing to inquire whether the child will be nurtured, or how long it will live; and the only distinction, between these two questions, arises from the different modes in which they are treated. For instance, the inquiry into the duration of life is to be pursued only in cases wherein there is allotted to the native some space of time, not less in duration than a solar period; that is to say, a year. Therefore, since time is also measured by smaller portions, such as months, days, and hours, and since the question, whether the native will or will not be reared, belongs to cases wherein some exuberance of evil influence threatens speedy destruction, and where life is not likely to endure throughout a whole year, the inquiry into the duration of life must consequently involve a more multifarious consideration, than that which relates to rearing; which may be at once disposed of, in a more general and summary manner.",
+        "Thus, if either of the two luminaries be in an angle, and one of the malefics be either in conjunction with that luminary, or else distant in longitude from each luminary, in an exactly equal space; so as to form the point of junction of two equal sides of a triangle, of which sides the two luminaries form the extremities, while, at the same time, no benefic star may partake in the configuration, and while the rulers of the luminaries may be also posited in places belonging to, or controlled by, the malefics; the child, then born, will not be susceptible of nurture, but will immediately perish.",
+        "Should the configuration, made between the malefic planet and the luminaries, not exist precisely in the mode just mentioned; that is to say, should the said planet not be equally distant from both luminaries, so as to form the point of junction of two equal sides of a triangle; yet should it then happen that the rays of two malefics may nearly approach the places of the two luminaries, casting an injurious influence either on both, or only one of them, and if both the said malefics be together succedent, or in opposition, to the luminaries, or if one of them be succedent, and the other in opposition, or even if only one may particularly afflict one of the luminaries, then, in any such case, no duration of life will be allotted to the child: for the supremacy of the power of the malefics extinguishes the influence favourable to human nature, and tending to prolong existence.",
+        "Mars is exceedingly pernicious when succedent to the Sun, and Saturn when succedent to the Moon. But a converse effect takes place when either of these planets may be in opposition to the Sun or Moon, or in elevation above them; for the Sun will then be afflicted by Saturn, and the Moon by Mars; and especially so, provided the said planets should have local prerogatives in the signs containing the luminaries, or in the sign on the ascendant. And, should a double opposition exist, by the circumstance of the luminaries being placed in two opposite angles, and by the two malefics being each so posited as to be equally distant from each luminary, the child will be born almost, if not quite, dead. Nevertheless, if the luminaries should be separating from, or be otherwise configurated with benefic planets, whose rays may be projected to parts preceding the said luminaries, the child will then live as many days, or hours, as there are degrees, numbered between the prorogator and the nearest malefic.",
+        "If malefics should cast their rays to parts preceding the luminaries, and benefics to parts following them, the child will be abandoned at its birth; but will afterwards meet with adoption, and will live. Yet, if the malefics should be in elevation above those benefics which are thus configurated, the child, so adopted, will lead a life of misery and servitude: if, on the contrary, the benefics should be in elevation, then whoever may adopt the deserted child will supply the place of its parents. And, provided a benefic planet should either ascend with, or near in succession to the Moon, or be applying to her, and one of the malefics be occidental, the child’s own parents will, in that case, take it again under their protection.",
+        "Rules similar to the foregoing are to be observed, when more than one child is born; for, if any one of those planets, which may be configurated towards the production of two, or even more children, should be under the west, the children will be born half dead, or deformed, and imperfect in body. And, if the planet so situated should also be beneath the malefics, the children will not be susceptible of nurture, or their life will be of the shortest span."
+      ],
+      "alignment": [
+        {
+          "sourceParagraphIndex": 0,
+          "targetParagraphIndices": [
+            0
+          ]
+        },
+        {
+          "sourceParagraphIndex": 1,
+          "targetParagraphIndices": [
+            1,
+            2
+          ]
+        },
+        {
+          "sourceParagraphIndex": 2,
+          "targetParagraphIndices": [
+            3
+          ]
+        },
+        {
+          "sourceParagraphIndex": 3,
+          "targetParagraphIndices": [
+            4
+          ]
+        },
+        {
+          "sourceParagraphIndex": 4,
+          "targetParagraphIndices": [
+            5,
+            6
+          ]
+        },
+        {
+          "sourceParagraphIndex": 5,
+          "targetParagraphIndices": [
+            7
+          ]
+        },
+        {
+          "sourceParagraphIndex": 6,
+          "targetParagraphIndices": [
+            8
+          ]
+        }
+      ],
+      "targetParagraphHashes": [
+        "3e902e61688bd5051f92fb7a0abc3c007b26f0bc7226225559f20357a8decdbe",
+        "1445b8853679802d9bbeae99d3481e40da107dcfc797f3f18730e38503f4e21e",
+        "22696607e58b854d193d03c672507f5a423b90441a75c95d6a177c24d068bd19",
+        "c2ab2c7bc047202e04fa7e699a73b8879a05692be2159e1df4a3979e11d08b66",
+        "8839fe30da04d115ab0b2df7ef03c58b5066704efa5840082070694adcab7b6a",
+        "dd4e97c78f1c14e93c3838ad96604ea1acb686b4d18e43a65c85b4f14926a1ce",
+        "c5b5010ee3748a54babd570e85260f2ebf568beaa692ad4616a7198b8c9d9f07",
+        "c3e447f1d9d2dd84af038e49703cccf8d9c9024d64bfa89db520713733e0d26b",
+        "7ebda0bf1bc2abc9a4fb3e8455e76c11728f6ba4d9f8e3a94e78a76b6d761768"
+      ],
+      "variants": [],
+      "excludedBlocks": []
+    },
+    {
+      "translationId": "ptolemy-life-duration",
+      "chapter": 11,
+      "anchor": "CHAPTER_III_XI",
+      "sourceHeading": "CHAPTER XI THE DURATION OF LIFE",
+      "pdfPages": [
+        162,
+        163
+      ],
+      "printedPages": [
+        129,
+        130
+      ],
+      "sourceHash": "ede94bc948ec5c03cba4e472b7c31780496d73124021231d23f9599ecb0b36da",
+      "sourceParagraphs": [
+        "Of all events whatsoever, which take place after birth, the most essential is the continuance of life: and as it is, of course, useless to consider, in cases wherein the life of a child does not extend to the period of one year, what other events contingent on its birth might otherwise have subsequently happened, the inquiry into the duration of life consequently takes precedence of all other questions, as to the events subsequent to the birth.",
+        "The discussion of this inquiry is by no means simple, nor easy of execution; it is conducted in a diversified process, by means of the governance of the ruling places. And the method now about to be laid down seems, of all others, the most consonant with reason, and with nature: because the influence of the prorogatory places, as well as of the rulers of those places, and the disposal of the anæretic places or stars, perform the whole operation of regulating the duration of life. Each of these influences is to be distinguished in the mode pointed out in the chapters immediately ensuing."
+      ],
+      "alignment": [
+        {
+          "sourceParagraphIndex": 0,
+          "targetParagraphIndices": [
+            0
+          ]
+        },
+        {
+          "sourceParagraphIndex": 1,
+          "targetParagraphIndices": [
+            1
+          ]
+        }
+      ],
+      "targetParagraphHashes": [
+        "0a25b9e3b83a291fbf18b6acab289f708d273d75d61b91b19a531fb66c68dd6a",
+        "e51bf2c9ec965867ec0b8e555458cd159f92be89e19c0ffa6e40cae2500ca6d1"
+      ],
+      "variants": [],
+      "excludedBlocks": []
+    },
+    {
+      "translationId": "ptolemy-prorogatory-places",
+      "chapter": 12,
+      "anchor": "CHAPTER_III_XII",
+      "sourceHeading": "CHAPTER XII THE PROROGATORY PLACES",
+      "pdfPages": [
+        163,
+        164
+      ],
+      "printedPages": [
+        130,
+        131
+      ],
+      "sourceHash": "5ccbd262335047925e5029cd4802ee3dc8eb02fba382918545819533bae5d85f",
+      "sourceParagraphs": [
+        "Firstly, those places, only, are to be deemed prorogatory, to which the future assumption of the dominion of prorogation exclusively belongs. These several places are the sign on the angle of the ascendant, from the fifth degree above the horizon, to the twenty-fifth degree below it; the thirty degrees in dexter sextile thereto, constituting the eleventh house, called the Good Dæmon; also the thirty degrees in dexter quartile, forming the mid-heaven above the earth; those in dexter trine making the ninth house, called God; and lastly, those in opposition, belonging to the angle of the west.",
+        "Secondly, among these places, the degrees which constitute the mid-heaven are entitled to preference, as being of a more potent and paramount influence: the degrees in the ascendant are next in virtue; then the degrees in the eleventh house succedent to the mid-heaven; then those in the angle of the west; and, lastly, those in the ninth house, which precedes the mid-heaven.",
+        "No degrees under the earth are, in any manner, eligible to the dominion now in question; except such only as enter into light actually above the succedent, or, in other words, with the ascendant. And any sign, although it may be above the earth, is still incompetent to partake in this dominion, if it be inconjunct with the ascendant: hence the sign which precedes the ascendant, and constitutes the twelfth house (called that of the Evil Dæmon), is incompetent; and not only for the above reason, but also because it is cadent, and because the beams cast by the stars posited therein, towards the earth, are impaired by the thick and dark exhalations arising from the earth’s vapours, which produce an unnatural colour and magnitude in the appearance of stars so posited, confusing, and in some measure annihilating, their beams.",
+        "Thus far with regard to the places of prorogation."
+      ],
+      "alignment": [
+        {
+          "sourceParagraphIndex": 0,
+          "targetParagraphIndices": [
+            0
+          ]
+        },
+        {
+          "sourceParagraphIndex": 1,
+          "targetParagraphIndices": [
+            1
+          ]
+        },
+        {
+          "sourceParagraphIndex": 2,
+          "targetParagraphIndices": [
+            2
+          ]
+        },
+        {
+          "sourceParagraphIndex": 3,
+          "targetParagraphIndices": [
+            3
+          ]
+        }
+      ],
+      "targetParagraphHashes": [
+        "b9ff3739780bcf96036aa6d1b350fad1e25ffea64d5dcf6b46a71e24ac654c47",
+        "9a02305a9ac701c94cc32ee610b7b2add3dce2f5c39ce2007c0e3830affa4774",
+        "ec1ef81d828be816b1c6f96ad051279abead42103c9b0508497f565ec6c30e97",
+        "2014b8fbf8e79cad4764e0a05c8a00d9a1ed779f6bde550292cf233f893bff1e"
+      ],
+      "variants": [],
+      "excludedBlocks": []
+    },
+    {
+      "translationId": "ptolemy-prorogators-fortune",
+      "chapter": 13,
+      "anchor": "CHAPTER_III_XIII",
+      "sourceHeading": "CHAPTER XIII THE NUMBER OF PROROGATORS, ANDALSO THE PART OF FORTUNE",
+      "pdfPages": [
+        164,
+        167
+      ],
+      "printedPages": [
+        131,
+        134
+      ],
+      "sourceHash": "3b911cf8f1687723a25b7205f80e5d979127f02e512658a045f1e0e3a5c27e80",
+      "sourceParagraphs": [
+        "After due attention has been given to the instructions in the preceding chapter, the Sun, the Moon, the Ascendant, and the part of Fortune, are to be considered as the four principally liable to be elected to the office of prorogator; and their positions, together with those of such planets as rule in the places of their positions, are to be observed.",
+        "The part of Fortune is ascertained by computing the number of degrees between the Sun and the Moon; and it is placed at an equal number of degrees distant from the ascendant, in the order of the signs. It is in all cases, both by night and day, to be so computed and set down, that the Moon may hold with it the same relation as that which the Sun may hold with the ascendant; and it thus becomes, as it were, a lunar horoscope or ascendant.",
+        "Among the candidates for prorogation, as before-mentioned, by day the Sun is to be preferred, provided he be situated in a prorogatory place; and, if not, the Moon; but if the Moon, also, should not be so situated, then that planet is to be elected which may have most claims to dominion, in reference to the Sun, the antecedent new Moon, and the ascendant; that is to say, when such planet may be found to have dominion over any one of the places where these are situated, by at least three prorogatives, if not more; the whole number being five. If, however, no planet should be found so circumstanced, the Ascendant is then to be taken.",
+        "By night, the Moon is to be elected as prorogator, provided, in like manner, she should be in some prorogatory place; and if she be not, the Sun: if he also be not in any prorogatory place, then that planet which may have most rights of dominion in reference to the Moon, and the antecedent full Moon and the part of Fortune. But, if there be no planet claiming dominion in the mode prescribed, the Ascendant must be taken, in case a new Moon had last preceded the birth; but, if a full Moon, the part of Fortune.",
+        "If the two luminaries, and also some ruling planet of appropriate condition, should be each posited in a prorogatory place, then, provided one luminary may be found to occupy some place more important and influential than the others, that luminary must be chosen; but should the ruling planet occupy the stronger place, and have prorogatives of dominion suitable to the conditions of both luminaries, the planet must then be preferred to either of them."
+      ],
+      "alignment": [
+        {
+          "sourceParagraphIndex": 0,
+          "targetParagraphIndices": [
+            0
+          ]
+        },
+        {
+          "sourceParagraphIndex": 1,
+          "targetParagraphIndices": [
+            1
+          ]
+        },
+        {
+          "sourceParagraphIndex": 2,
+          "targetParagraphIndices": [
+            2
+          ]
+        },
+        {
+          "sourceParagraphIndex": 3,
+          "targetParagraphIndices": [
+            3
+          ]
+        },
+        {
+          "sourceParagraphIndex": 4,
+          "targetParagraphIndices": [
+            4
+          ]
+        }
+      ],
+      "targetParagraphHashes": [
+        "b63fa7634a5715c22dd4d2f2effdd653c56e89fbb032dff1ce8985a9db45ffcd",
+        "bf4c7d76ddb9c828fc79c1f0c85e553a79b698cd0a6f219cd3ea7a18c186af5f",
+        "39ad9b4f4d3bdb8669b4f942d1fbdaaf2713ca04b1feffe81799839eea7248d7",
+        "824cc2f0e56d0ecec8fb6ae59cd3b7f75b1e4758f29674aea6490e9e36ad1f1d",
+        "506b60f8ab13590d50a01f932a5f9404970f834f19d99e717605783839198d83"
+      ],
+      "variants": [],
+      "excludedBlocks": []
+    },
+    {
+      "translationId": "ptolemy-prorogation-modes",
+      "chapter": 14,
+      "anchor": "CHAPTER_III_XIV",
+      "sourceHeading": "CHAPTER XIV NUMBER OF THE MODES OF PROROGATION",
+      "pdfPages": [
+        167,
+        174
+      ],
+      "printedPages": [
+        134,
+        141
+      ],
+      "sourceHash": "cee7421dca400276428ce2726586efd2b1225d799ee914fead3c2738b7a77311",
+      "sourceParagraphs": [
+        "When the prorogator has been determined as above directed, it is also necessary to take into consideration the two modes of prorogation; one into succeeding signs, under the projection of rays, as it is called; and, when the prorogator may be in an oriental place, that is to say, in any place between the mid-heaven and the ascendant, this mode only is to be used. The other mode extends into signs preceding the prorogator, according to what is called horary proportion; and, in cases when the prorogator may be situated in any place receding from the mid-heaven, or, in other words, between the mid-heaven and the angle of the west, both modes of prorogation are to be adopted.",
+        "It is next to be observed, that certain degrees are anæretic; though, in the prorogation made into signs preceding, the only degree which is strictly anæretic is that of the western horizon; and it becomes so because it obscures the lord of life; while other degrees, of stars meeting with or testifying to the prorogator, both take away from and add to the aggregate amount of the prorogation, which would otherwise continue until the descension or setting of the prorogator. Of these last-mentioned degrees, however, there are none properly anæretic; since they are not borne to the prorogatory place, but, on the contrary, that place is carried to their positions. In this manner the benefics increase the prorogation, but the malefics diminish it; and Mercury assists the influence of either party with which he may be configurated. The amount of the increase or diminution is indicated by the degree, in which each star, so operating, is exactly situated; for the number of years will depend upon, and correspond with, the horary times proper to each degree; and if the birth be by day, care must be taken to calculate the diurnal horary times; if by night, the nocturnal. These directions are to be understood as applicable to instances wherein the degrees in question may be in the ascendant; if farther advanced, a deduction proportionate to the distance is to be made, unless they should be on the occidental horizon, in which case there can be no remainder.",
+        "But, in the prorogation made into succeeding signs, the places of the malefics, Saturn and Mars, are anæretic, whether meeting the prorogator bodily, or by emission of rays in quartile, from either side, or in opposition: they are also sometimes anæretic, by a sextile ray, if in a sign of equal power, obeying or beholding the sign of the prorogator. And even the mere degree, in signs following, in quartile with the prorogatory place, as also the degree in sextile, if badly afflicted, which is sometimes the case in signs of long ascension, and, still further, the degree in trine, if in signs of short ascension, are all anæretic: so also is the Sun’s place, should the Moon be prorogatory. But, although the meetings, which occur in the course of prorogation thus made, have, respectively, some of them an anæretic, and other a preservative, power, in consequence of their occurring by means of an actual transmission to the prorogatory place; yet their anæretic tendency is not always effectual, but only in cases where the places, so brought to the prorogatory place, may be badly afflicted. For should those places be situated within the terms of a benefic, the operation of their anæretic degree becomes impeded; and it will likewise be impeded, if either of the benefics should cast a ray in quartile, trine, or opposition, to the said anæretic degree itself, or to some other degree near in succession, and not farther distant from it than twelve degrees, if the benefic be Jupiter; nor than eight, if Venus: the like impediment will also subsist, if both the prorogator and its opponent should be bodies, and not have the same latitude.",
+        "Therefore, whenever there may be found two or more conflicting configurations, auxiliary on the one hand, and hostile on the other, due observation must be made to ascertain which party surpasses the other, in power as well as in number. The pre-eminence in number will be, of course, obvious, from the greater number on one side than on the other; but, for pre-eminence in power, it must be seen whether the stars, auxiliary or hostile as the case may be, are, on the one side, in places appropriate to themselves, while they are not so on the other; and especially whether those on the one side may be oriental, and those on the other occidental. It is also to be observed, in all cases, that not any one of such stars, whether hostile or auxiliary, is to be left out of the present calculation, on account of its casual position under the sunbeams. This rule must be particularly attended to, because, even though the Moon be not prorogatory, the solar place itself becomes anæretic, if shackled by the simultaneous presence of a malefic, and not restored to freedom of operation by any benefic.",
+        "The number of years, depending on the distances between the prorogatory and anæretic places, cannot be always gathered simply and at once from the ascensional times of each respective degree; but only in cases when the ascendant itself, or some other specific degree or body, actually ascending in the oriental horizon, may possess the prorogation. For, if it be desired to calculate agreeably to nature, every process of calculation that can be adopted must be directed to the attainment of one object; that is to say, to ascertain after how many equatorial times the place of the succeeding body, or degree, will arrive at the position preoccupied at the birth by the preceding body, or degree: and, as equatorial time transits equally both the horizon and the meridian, the places in question must be considered, in respect of their proportionate distances from both these; each equatorial degree being taken to signify one solar year.",
+        "In conformity with the foregoing remarks, when it may happen that the prorogatory and preceding place may be actually on the oriental horizon, it will be proper to reckon, at once, the ascensional times which may intervene until the meeting of the degrees; because, after the same number of equatorial times, the anæreta will arrive at the prorogatory place; that is to say, at the oriental horizon. Should the prorogatory place be found on the meridian, the whole number of degrees by right ascension, in which the whole intercepted arc will transit the meridian, must then be taken. And if the prorogatory place be on the occidental horizon, the number of descensions, in which every degree of the distance will be carried down (or, in other words, the number of ascensions, in which their opposite degrees will ascend), is in that case to be reckoned.",
+        "When, however, a prorogatory and preceding place may not be situated on any one of the three aforesaid points, but in some intermediate station, it must be observed that other times will then bring the succeeding place to the preceding one; and not the times of ascension or descension, or transit of the mid-heaven, as above spoken of. For any places whatever, which have one particular position, on the same degree, in regard to the horizon and meridian, are alike and identical. This is the case, for instance, with all places lying on any one of those semicircles which are drawn through the arcs of the meridian and horizon; and each of these semicircles (all of which have position at the same equal distance from each other) marks one temporal hour; and, as the time occupied in proceeding through the places above described, and arriving at the same position of the horizon and meridian, is rendered unequal to and different from the time of transits in the zodiac; so, also, the transits of other spaces are made, agreeably to their position, in time again distinct from this.",
+        "There is, however, a method by which the proportion of time, occupied in the progress of a succeeding place to a prorogatory and preceding place, in whatever position, whether oriental, meridianal, or occidental, or any other, may be easily calculated. It is as follows:—",
+        "When it has been ascertained what degree of the zodiac is on the mid-heaven, as also which are the preceding and succeeding degrees, the period of whose meeting is to be calculated, the position of the preceding degree, and its distance in temporal hours from the meridian, are next to be noted; because any part of the zodiac, on becoming distant from the meridian in the same temporal hours, must fall on the same individual semicircle. For ascertaining this distance, the number of ascensions, in a right sphere, found in the intermediate space between the said preceding degree and the mid-heaven, either above or under the earth, is to be divided by the number of the diurnal or nocturnal horary times of the said preceding degree: for instance, if that degree be above the earth, by its diurnal horary times; and, by its nocturnal, if it be under the earth. It is then to be discovered in what number of equatorial times the succeeding degree will be distant from the same meridian, by as many similar temporal hours as those by which the preceding degree is distant from it. And, to effect this, the hours in question must be noted, and it must first be observed, by the right ascensions again, how many equatorial times the succeeding degree, at its original position, is distant from the degree on the mid-heaven; and then it must be seen how many equatorial times it will be distant, on coming to the preceding degree’s distance in temporal hours from the said mid-heaven: this will be found, by multiplying those hours by the succeeding degree’s horary times; diurnal, if the future position be above the earth, and nocturnal if under; and the difference in amount, of these two distances, in equatorial times, will present the number of years inquired for."
+      ],
+      "alignment": [
+        {
+          "sourceParagraphIndex": 0,
+          "targetParagraphIndices": [
+            0
+          ]
+        },
+        {
+          "sourceParagraphIndex": 1,
+          "targetParagraphIndices": [
+            1,
+            2
+          ]
+        },
+        {
+          "sourceParagraphIndex": 2,
+          "targetParagraphIndices": [
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "sourceParagraphIndex": 3,
+          "targetParagraphIndices": [
+            6,
+            7
+          ]
+        },
+        {
+          "sourceParagraphIndex": 4,
+          "targetParagraphIndices": [
+            8
+          ]
+        },
+        {
+          "sourceParagraphIndex": 5,
+          "targetParagraphIndices": [
+            9
+          ]
+        },
+        {
+          "sourceParagraphIndex": 6,
+          "targetParagraphIndices": [
+            10
+          ]
+        },
+        {
+          "sourceParagraphIndex": 7,
+          "targetParagraphIndices": [
+            11
+          ]
+        },
+        {
+          "sourceParagraphIndex": 8,
+          "targetParagraphIndices": [
+            12,
+            13
+          ]
+        }
+      ],
+      "targetParagraphHashes": [
+        "72cd34a7d62a7e7777a5de0ff1dafd0ed6bdf2cdb81aa88bc7b6ec8051cb471a",
+        "8d49450b2be50a078eff507b75cb9c108be1400c955deef350a89f8cfb6ead53",
+        "0cd8e5dc05807f693742ab5c605df96889b9674e3dbbf74876426a40ed2996b0",
+        "d336399a53c137cd9468c944d8d42c3452edb0a1f7f8c092820ee9b4955c1e26",
+        "25ad9f620b6304fa589ce248730568d7deb11c898f6e9f79b150cb8d291a4dd7",
+        "4ef24324e8ab5d7b1c62fb76f626cc9182c33ecacae0acf3aab74dcb029a2449",
+        "884af20bbd73b662846437584e0695419fdecb871a4f34f063f0a799cc30339b",
+        "66c3f6654f7668100992bc4d9d38d1935ec8439779e3d6e7897079ab06608cc4",
+        "3124ac00f7852e734dc36bc50f76c1e2e06adc2f4f3f6fb22c9cb476ad557f48",
+        "37ab3db3b20920867850a7a8022195e40403c487048c538b1c08269ca2b18104",
+        "c044d1fa1c23d0816264f44add7cee83aa0b1340e7142108df855e114a076ab7",
+        "716cb3dff7f95a989225bc521530e8a9757f69031848810b2e990a31d62936a2",
+        "83955cccc3cee070477c197e5e9eeefe76eeb473407f9ccc1dfb9e3ec1e596a5",
+        "87db6e122c5cef3225fe8c3efbd4d37398131d189504407f8c9a9fb628b591e1"
+      ],
+      "variants": [
+        {
+          "chapter": 14,
+          "paragraph": 2,
+          "page": 170,
+          "from": "and itsopponent",
+          "to": "and its opponent",
+          "kind": "transcription-spacing"
+        }
+      ],
+      "excludedBlocks": []
+    },
+    {
+      "translationId": "ptolemy-prorogation-example",
+      "chapter": 15,
+      "anchor": "CHAPTER_III_XV",
+      "sourceHeading": "CHAPTER XV EXEMPLIFICATION",
+      "pdfPages": [
+        174,
+        181
+      ],
+      "printedPages": [
+        141,
+        148
+      ],
+      "sourceHash": "ac0f7c7ee5e7b90d797837312ebe66920bc90ee54d007b92b3118662de4478d0",
+      "sourceParagraphs": [
+        "In order to exemplify the foregoing instructions, let the first point of Aries be supposed as the preceding place, and the first point in Gemini the succeeding; and let the latitude of the country, to which the operation relates, be such as will cause the longest day to consist of fourteen hours; and where the horary magnitude of the beginning of Gemini will be about seventeen equatorial times.",
+        "Let the first point of Aries be first placed on the ascendant, so that the beginning of Capricorn may be on the mid-heaven above the earth, and the first point of Gemini be distant from the said mid-heaven 148 equatorial times. Now, since the first point of Aries is distant six temporal hours from the mid-heaven above the earth, the times of that distance will be found, by multiplying the said six hours by the seventeen equatorial times of the horary magnitude of the first point of Gemini, to be 102. The whole sum of the distance to the mid-heaven above the earth, is 148 times; and as 148 times exceed 102 by 46, the succeeding place will consequently devolve into the preceding place after 46 times (being the amount of the said excess, and also, as near as possible, the amount of the times of ascension of Aries and Taurus); since, in this instance, the prorogatory place is established in the ascendant.",
+        "In like manner, let the first point of Aries be next placed on the mid-heaven, culminating; so that the first point of Gemini, in its first position, may be distant from the said mid-heaven 58 equatorial times. Now, as it is required to bring the first point of Gemini, in its second position, to the mid-heaven, the whole distance is to be reckoned, viz. 58 times, in which Aries and Taurus pass the mid-heaven; because, again, the prorogatory place was culminating.",
+        "In the same way, let the first point of Aries be descending; so that the beginning of Cancer may occupy the mid-heaven, and the first point of Gemini precede the mid-heaven at the distance of 32 equatorial times. Therefore, as the first point of Aries is on the west, and again distant six temporal hours from the meridian, let these six hours be multiplied by the seventeen times; which will produce 102, making the sum of the distance of the first point of Gemini, at its future descension, from the meridian. But, as the first point of Gemini, at its first position, was already distant from the meridian 32 times; which number 102 exceed by 70; it will consequently arrive at its descension after 70 times, the amount of the excess; in which space Aries and Taurus will have descended, and their opposite signs Libra and Scorpio arisen.",
+        "Again, let the first point of Aries have another position, not in any angle, but, for instance, at the distance of three temporal hours past the meridian; so that the 18th degree of Taurus may be on the mid-heaven, and the first point of Gemini be approaching the mid-heaven, at the distance of thirteen equatorial times. The seventeen times must, therefore, be again multiplied by the three hours, and the first point of Gemini, at its second position, will be found to be past the meridian, at the distance of 51 times. The distance of 13 times of the first position and 51 times of the second position are then both to be taken; and they will produce 64 times. In the former instances the prorogatory place performed in the same succession; viz. occupying 46 times in coming to the ascendant, 58 in coming to the mid-heaven, and 70 in coming to the west; so that the present number of times, depending on the intermediate position between the mid-heaven and the west, and being 64, also differs from each of the other numbers, in proportion to the three hours’ difference of position. For, in the other cases which proceeded by quadrants, according to the angles, the times progressively differed by twelve, but, in the present case of a minor distance of three hours, they differ by six.",
+        "There is, however, another method which may be used, and which is still more simple; for instance, should the preceding degree be on the ascendant, the following intermediate times of ascension, between it and the succeeding degree, may be reckoned; should it be on the mid-heaven, the times of ascension must be reckoned on a right sphere; and, if it be on the west, descending, the intermediate times of descension are to be reckoned. But, should the preceding degree be between any two of these angles, as, for instance, at the distance of Aries, just spoken of, the proper times for each angle must first be considered. And, since the first point of Aries was assigned a position between the two angles of the mid-heaven and the west, the proper times of the distances from these angles to the first point of Gemini would be found to be 58 from the mid-heaven, and 70 from the west. The distances, in temporal hours, of the preceding degree from each of these angles, are then to be ascertained; and whatever proportion these same temporal hours, contained in such distances between the said preceding degree and each angle, may bear to the temporal hours of the whole quadrant, the same proportion, out of the excess of the times of distance of one angle over those of the other, is either to be added to, or deducted from, the actual number of times of the respective angles. For instance, in the example before set forth, 70 times exceed 58 times by 12; and the preceding place was distant from the angles three equal temporal hours, which are the half of six, the number belonging to the whole quadrant. Now, three being the half of six, and 12 being the amount of the excess, the half of 12 is therefore to be taken, giving 6 to be either added to the 58 times, or subtracted from the 70: thus, in either way, producing 64, the required number of times.",
+        "If, however, the preceding place should be distant from either angle two temporal hours, which are the third part of 6, then, in that case, the third part of 12, the amount of the excess, must be taken, viz. 4: and, if the said two hours be the distance, as calculated from the mid-heaven, the said 4 times are to be added to the 58 times; but, if it be the distance from the occidental angle, the 4 times are to be subtracted from the 70.",
+        "In conformity with these rules now laid down, the amount of the times must necessarily be obtained.",
+        "The anæretic and critical influences of all meetings or descensions of prorogators remain to be determined; beginning, in due order, with such as are accomplished in the shortest time. And whatever else may happen, by means of any affliction or assistance offered (in the manner heretofore prescribed) during the actual transit of the meeting, is also to be decided on, as well as whatever may occur through other circumstances, arising out of the ingresses taking place at the time: because, should the places of both the significators be afflicted, and should the transit of the stars, at the then existing ingress, operate injuriously on the chief ruling places, it is then altogether probable that death will ensue; and, even though one of the places may be disposed favourably to human nature, the crisis will still be important and perilous; but, if both the places be so disposed favourably, some debility only, or transient malady, or hurt, will then happen. It is, however, necessary in these cases, to consider also what familiarity, or analogy, the peculiar properties of the places, thus meeting, may bear to the circumstances of the nativity.",
+        "In order to obviate the doubts which frequently arise, as to the particular star or place to which the anæretic dominion ought to be assigned, all the meetings should be duly contemplated and considered, each by each; and thus, after considering those chiefly corresponding with the events already past, and with the future events about to follow, or with the whole together, it will be practicable to found an observation on the equality or inequality of their influence."
+      ],
+      "alignment": [
+        {
+          "sourceParagraphIndex": 0,
+          "targetParagraphIndices": [
+            0
+          ]
+        },
+        {
+          "sourceParagraphIndex": 1,
+          "targetParagraphIndices": [
+            1
+          ]
+        },
+        {
+          "sourceParagraphIndex": 2,
+          "targetParagraphIndices": [
+            2
+          ]
+        },
+        {
+          "sourceParagraphIndex": 3,
+          "targetParagraphIndices": [
+            3
+          ]
+        },
+        {
+          "sourceParagraphIndex": 4,
+          "targetParagraphIndices": [
+            4,
+            5
+          ]
+        },
+        {
+          "sourceParagraphIndex": 5,
+          "targetParagraphIndices": [
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "sourceParagraphIndex": 6,
+          "targetParagraphIndices": [
+            9
+          ]
+        },
+        {
+          "sourceParagraphIndex": 7,
+          "targetParagraphIndices": [
+            10
+          ]
+        },
+        {
+          "sourceParagraphIndex": 8,
+          "targetParagraphIndices": [
+            11,
+            12
+          ]
+        },
+        {
+          "sourceParagraphIndex": 9,
+          "targetParagraphIndices": [
+            13
+          ]
+        }
+      ],
+      "targetParagraphHashes": [
+        "2036418a556afb0b9850a2595edc7250f91eff06020092bf54f3faf904080e65",
+        "0fd733236da4841c06ac11a522f342433f5d6519dab7c0ff7235bb1ca16a624f",
+        "a22828ccc9ff733b1f0ab05f1b07912112c59c47a78d1f41e4820d45ee713270",
+        "eafbeca1dfe561d3557947ccfbba28bd8bdc2a53fbf19565ca041ecd50514d3c",
+        "0acbddec6c5857620bc628a1489b36701034bd42d29e303f2e43607d764401c0",
+        "87c42d6569b5ca1ae8ab52b5b624af62a409f7dbf177e8ef97eeaeabd381d7c4",
+        "71b0367e035093397f49a3a67786624537dcc822c31bb991ba26d00dd4e49f7f",
+        "046755f98c47135ae22da77c3751f6a1968c4382f94134525def864397096797",
+        "d4ae312f3fec55ed83543fd8b616a99b34e2625512c5b1564ab7246df6017fab",
+        "49ed8427ac89b935f1d88a5508123c767debca94e58ec31f7d8ea4fea92c20a8",
+        "9dcba54aec7821248dfd8ef56d3f5c104a7d5de2aed605bebd147d2ab882024f",
+        "bac082cdaeac22e4966691dcb948172b756edbc6495c82e6598ff3da414152d8",
+        "37f0380b47323801cb144b27a9cc3500cc888ca86f776680d59c694ba5f287e8",
+        "eefb9b30773e91a95af6e40e003ad3517e99ebdf0e4a2fcbffcfffbf85847396"
+      ],
+      "variants": [
+        {
+          "chapter": 15,
+          "paragraph": 1,
+          "page": 175,
+          "from": "140 equatorial times",
+          "to": "148 equatorial times",
+          "kind": "numeric-transcription"
+        },
+        {
+          "chapter": 15,
+          "paragraph": 1,
+          "page": 175,
+          "from": "(being the amount of the times of ascension of Aries and Taurus)",
+          "to": "(being the amount of the said excess, and also, as near as possible, the amount of the times of ascension of Aries and Taurus)",
+          "kind": "omitted-qualification"
+        },
+        {
+          "chapter": 15,
+          "paragraph": 9,
+          "page": 181,
+          "from": "with the whole altogether",
+          "to": "with the whole together",
+          "kind": "edition-wording"
+        }
+      ],
+      "excludedBlocks": []
+    },
+    {
+      "translationId": "ptolemy-body-form-temperament",
+      "chapter": 16,
+      "anchor": "CHAPTER_III_XVI",
+      "sourceHeading": "CHAPTER XVI THE FORM AND TEMPERAMENT OF THE BODY",
+      "pdfPages": [
+        181,
+        185
+      ],
+      "printedPages": [
+        148,
+        152
+      ],
+      "sourceHash": "c71b3f357046df4e9b66e0668c19a1628e2519a21dccc0fcc6078faadea5265b",
+      "sourceParagraphs": [
+        "The matters affecting and regulating the duration of life have now been disposed of; and it becomes proper to enter into further particulars, commencing, in due order, with the figure and conformation of the body; because Nature forms and moulds the body before she inspires it with a soul. In fact, the body, in its materiality, is endowed with suitable constitutional properties begotten with it, and almost apparent from its very birth; but the soul afterwards, and by degrees, develops the appropriate qualities which it derives from the primary cause, and which become known much later than external attributes, and in process of time only.",
+        "In regard to the body, therefore, it is in all cases requisite to observe the oriental horizon, and to ascertain what planets may preside or have dominion over it, and also to pay particular attention to the Moon. For, from both these places, and from their rulers, as well as from the natural formation and contemperament appertaining to every species of the human race, and also from the figure ascribed to those fixed stars which may be co-ascending, the conformation of the body is to be inferred. The planets possessing dominion have the chief influence, and the proper qualities of their places co-operate with them. And, in order to simplify these instructions, and as the planets are first to be treated of, each planet is individually to be considered as follows, viz.:",
+        "Saturn, when oriental, acts on the personal figure by producing a yellowish complexion and a good constitution; with black and curled hair, a broad and stout chest, eyes of ordinary quality, and a proportionate size of body, the temperament of which is compounded principally of moisture and cold. Should he be occidental, he makes the personal figure black or dark, thin and small, with scanty hair on the head; the body without hair, but well shaped; the eyes black or dark; and the bodily temperament consisting chiefly of dryness and cold.",
+        "Jupiter ruling, when oriental, makes the person white or fair, with a clear complexion, moderate growth of hair, and large eyes, and of good and dignified stature; the temperament being chiefly of heat and moisture. When occidental, he still causes a fair complexion, but not of equal clearness; and he produces long straight hair, with baldness on the forehead or on the crown of the head; and he then also gives a middle stature to the body, with a temperament of more moisture.",
+        "Mars, ascending, gives a fair ruddiness to the person, with large size, a healthy constitution, blue or grey eyes, a sturdy figure, and a moderate growth of hair, with a temperament principally of heat and dryness. When occidental, he makes the complexion simply ruddy, and the personal figure of moderate stature, with small eyes; the body without hair, and the hair of the head light or red, and straight; the bodily temperament being chiefly dry.",
+        "Venus operates in a manner similar to that of Jupiter, but, at the same time, more becomingly and more gracefully; producing qualities of a nature more applicable to women and female beauty, such as softness, juiciness, and greater delicacy. She also peculiarly makes the eyes beautiful, and renders them of an azure tint.",
+        "Mercury, when oriental, makes the personal figure of a yellowish complexion, and of stature proportionate and well shaped, with small eyes and a moderate growth of hair; and the bodily temperament is chiefly hot. If occidental, he gives a complexion white or fair, but not altogether clear; straight, dark hair, a thin and slight figure, some squint or defect in the eyes, and a long visage faintly red; the temperament being chiefly dry.",
+        "The Sun and Moon, when configurated with any one of the planets, also co-operate: the Sun adds a greater nobleness to the figure, and increases the healthiness of the constitution; and the Moon, especially when holding or delaying her separation, generally contributes better proportion and greater delicacy of figure, and greater moisture of temperament; but, at the same time, her influence in this latter particular is adapted to the proper ratio of her illumination; as referred to in the modes of temperament mentioned in the beginning of this treatise.",
+        "Again, should the planets be matutine, and fully conspicuous, they will cause the body to be large; if in their first station, they will make it strong and vigorous; if they should precede or be in advance, it will be disproportionate; if in their second station, it will be weaker, and, if vespertine, altogether mean and subservient to evil treatment and oppression. At the same time, the places of the planets, as has been already said, co-operate especially in producing the shape of the personal figure, and contribute also towards the temperament.",
+        "And further, it is the general tendency of the quadrant comprised between the vernal equinox and the summer tropic to produce good complexions, advantageous stature, fine constitutions, and fine eyes; with a temperament abounding in heat and moisture. The quadrant from the summer tropic to the autumnal equinox tends to produce an ordinary complexion, proportionate stature, a healthy constitution, large eyes, a stout person, with curled hair, and a temperament abounding in heat and dryness. The quadrant from the autumnal equinox to the winter tropic causes yellowish complexions, slender, thin, and sickly persons, with a moderate growth of hair, fine eyes, and a temperament abundantly dry and cold. The other quadrant, from the winter tropic to the vernal equinox, gives a dark complexion, proper stature, straight hair on the head and none on the body, a goodly figure, and a temperament abounding in cold and moisture.",
+        "To speak, however, more particularly, all constellations of human form, both those within and those without the zodiac, act in favour of giving a handsome shape to the body, and due proportion to the figure; while those not of human form vary its due proportions, and incline it towards their own shape; assimilating it, in some measure, to their own peculiarities, either by enlarging or diminishing its size, by giving it additional strength or weakness, or by otherwise improving or disfiguring it. Thus, for example, Leo, Virgo, and Sagittarius enlarge the person; and Pisces, Cancer, and Capricorn tend to make it diminutive; and thus, again, the upper and anterior parts of Aries, Taurus, and Leo increase its strength and their lower and posterior parts render it weaker: while, on the other hand, Sagittarius, Scorpio, and Gemini act conversely; for their anterior parts produce greater debility, and their posterior parts greater vigour. In like manner, Virgo, Libra, and Sagittarius contribute to render the person handsome and well-proportioned; and Scorpio, Pisces, and Taurus incline it to be misshapen and disfigured.",
+        "The other constellations also operate on similar principles; and all these influences it is necessary to bear in mind, in order that the peculiar properties, observed in their joint temperament, may be so compounded as to authorize an inference therefrom, concerning the form and temperament of the body."
+      ],
+      "alignment": [
+        {
+          "sourceParagraphIndex": 0,
+          "targetParagraphIndices": [
+            0
+          ]
+        },
+        {
+          "sourceParagraphIndex": 1,
+          "targetParagraphIndices": [
+            1
+          ]
+        },
+        {
+          "sourceParagraphIndex": 2,
+          "targetParagraphIndices": [
+            2
+          ]
+        },
+        {
+          "sourceParagraphIndex": 3,
+          "targetParagraphIndices": [
+            3
+          ]
+        },
+        {
+          "sourceParagraphIndex": 4,
+          "targetParagraphIndices": [
+            4
+          ]
+        },
+        {
+          "sourceParagraphIndex": 5,
+          "targetParagraphIndices": [
+            5
+          ]
+        },
+        {
+          "sourceParagraphIndex": 6,
+          "targetParagraphIndices": [
+            6
+          ]
+        },
+        {
+          "sourceParagraphIndex": 7,
+          "targetParagraphIndices": [
+            7
+          ]
+        },
+        {
+          "sourceParagraphIndex": 8,
+          "targetParagraphIndices": [
+            8
+          ]
+        },
+        {
+          "sourceParagraphIndex": 9,
+          "targetParagraphIndices": [
+            9,
+            10
+          ]
+        },
+        {
+          "sourceParagraphIndex": 10,
+          "targetParagraphIndices": [
+            11,
+            12
+          ]
+        },
+        {
+          "sourceParagraphIndex": 11,
+          "targetParagraphIndices": [
+            13
+          ]
+        }
+      ],
+      "targetParagraphHashes": [
+        "d3d68b30b8336cd5e5ffe8006b1a9fc663fd574e093fa8303fb49778ba13aa91",
+        "515e929843ca8276376dac92a7586690d8c9b691669d4c14aa1e1eeba1f8db96",
+        "b2eb309bc95dd13970a0af50e2fb0978da91aa10914c4f32350cb6e5cee88f8f",
+        "219e03859bf865be09aa5966764c008b45a3e6e7ab01132f5b6705349b4b446a",
+        "095dba8ae0f26a76c16fc9a12c585b108f59a2c69ceae6f2be7585765608209a",
+        "1f08fd88311b10eafd5bdf64d75fe6687f2b422393215b654b40a53b3431d197",
+        "cb6df300f235dac027122a989a451285ecc932512281f86cbdc23b3b7c4b9240",
+        "dff7101bd8f052b5ff5e680fcbaf9ce975985f630b144a3679e5b4ea05815001",
+        "e77c4ff772e7a1aea4674fc507eff4eca968ec773e248adb2c5b98f8a032816b",
+        "e906906d12ff771f4b1bcf9cf31cee1f6041dc8213542d5b146a8ff3aedc99fe",
+        "c9ad4baefc13bf8df617d3e03807e310c5b7cf2e3dd8630d7c363a032ac8247f",
+        "f35329c4344116f62075377071d864f20ec7b22b517b7f8079b6e9493d9fd2e2",
+        "1af89d6c72687f03cbf9bb06655462f90c60c31ae6b7baa705f82271366617e4",
+        "a21d0b86182e32bab3fc7030e36c7e3410d4ecc1c1a5c52b5001e37dc9cac769"
+      ],
+      "variants": [],
+      "excludedBlocks": []
+    },
+    {
+      "translationId": "ptolemy-bodily-injuries-diseases",
+      "chapter": 17,
+      "anchor": "CHAPTER_III_XVII",
+      "sourceHeading": "CHAPTER XVII THE HURTS, INJURIES, AND DISEASES OF THE BODY",
+      "pdfPages": [
+        185,
+        191
+      ],
+      "printedPages": [
+        152,
+        158
+      ],
+      "sourceHash": "161587346cbb36ab383c2e5ab754b838a760afdc6cd8b0d5f3c811e5e8130e60",
+      "sourceParagraphs": [
+        "Next in succession to the foregoing chapter, the circumstances relating to bodily hurts, injuries, and diseases, claim to be discussed; and they require to be considered in the following mode.",
+        "For the investigation of these circumstances, the two angles on the horizon, both the ascendant and the western, must in all cases be remarked; but more especially the western angle and its preceding house, which is inconjunct with the ascendant. After these angles have been noted, it must be observed in what manner the malefic planets may be configurated with them: for, if both the malefics, or even if one of them, should be stationed bodily on any of the successive degrees composing the said angles, or be configurated with such degrees in quartile or in opposition, some bodily disorders or injuries will attach to the native or person then born: and this will especially happen if, also, both the luminaries, either together or in opposition, or even if one of them, should be angularly posited in the manner described. Because, in such a case, not only a malefic which may have ascended in succession to the luminaries, but also any one which may have pre-ascended, if placed in an angle, has power to inflict certain diseases and injuries, such as may be indicated by the places of the horizon and of the signs, as well as by the natures of the planets themselves; whether malefics, or others evilly afflicted and configurated with them.",
+        "Such parts of the signs, as contain the afflicted part of the horizon, will show in what part of the body the misfortune will exist, whether it be a hurt, or disease, or both: and the natures of the planets, in operating the misfortune, also regulate its particular form or species. For, among the chief parts of the human body, Saturn rules the right ear, the spleen, the bladder, the phlegm, and the bones; Jupiter governs the hand, the lungs, the arteries, and the seed; Mars, the left ear, the kidneys, the veins, and the privities; the Sun rules the eyes, the brain, the heart, the sinews or nerves, and all the right side; Venus, the nostrils, the liver, and the flesh; Mercury, the speech, the understanding, the bile, the tongue, and the fundament; and the Moon governs the palate, the throat, the stomach, the belly, the womb, and all the left parts.",
+        "It generally happens that some casual hurt, or injurious affection of the body, is the utmost that takes effect when the malefics may be oriental, and that considerable diseases occur only when the malefics may be occidental. And a hurt is distinct from a disease, inasmuch as the pain, which it induces at the time, is not afterwards continued; while a disease is, on the other hand, imposed on the sufferer either constantly or at repeated intervals. These remarks are applicable to all cases; but, in order to inquire particularly into the nature of the hurt or disease, a further attention must be paid to the figures, or schemes, with which the effects, about to be produced, will for the most part correspond in character.",
+        "For instance, blindness of one eye will ensue, when the Moon may be in the before-mentioned angles, either operating her conjunction, or being at the full: it will also happen should she be configurated with the Sun in any other proportional aspect, and be at the same time connected with any one of the nebulous collections in the zodiac; such as the cloudy spot of Cancer, the Pleiades of Taurus, the arrow-head of Sagittarius, the sting of Scorpio, the parts about the mane of Leo, or the urn of Aquarius. Moreover, both eyes will be injured should the Moon be in an angle, and in her decrease, and Mars or Saturn, being matutine, ascend in succession to her; or, again, if the Sun be in an angle, and these planets pre-ascend before him, and be configurated with both luminaries, whether the luminaries be in one and the same sign, or in opposition; provided also the said planets, although oriental of the Sun, be occidental of the Moon. Under these circumstances, therefore, Mars will cause blindness by a stroke or blow, or by the sword or by burning; and, if he be configurated with Mercury, it will be effected either in a place of exercise or sport, or by the assault of robbers. Saturn, however, under the same circumstances, produces blindness by cataract, or cold, by a white film, or by other similar disorders.",
+        "Venus, if in one of the angles before-mentioned, and especially if she be in that of the west, and Saturn be in conjunction or in configuration with her, or be changing place with her, while Mars, at the same time, is in elevation above her, or in opposition to her, will produce impotence in the native, if a male; and, if a female, will render her liable to abortion, or to produce children stillborn, or not capable of being extracted except in mangled parts. Such misfortunes especially happen under Cancer, Virgo, and Capricorn; even though the Moon may be in the ascendant, in conjunction with Mars. And if, under the same circumstances, Venus be also configurated with Mercury, as well as Saturn, Mars again being in elevation above her, or in opposition to her, the native will be either an eunuch or hermaphrodite, or devoid of the natural channels and vents. And, when these positions occur, should the Sun also partake in the configuration, the luminaries and Venus being all masculinely constituted, the Moon in her decrease, and the malefics brought up in the degrees next successively ascending, the males will be born maimed or crippled, or injured in their private members (particularly under Aries, Leo, Scorpio, Capricorn, and Aquarius); and the females will remain childless and unprolific. And it also occasionally happens that the natives, under such a configuration, are likewise injured in the face or eyes.",
+        "If Saturn and Mercury, in conjunction with the Sun, be in the before-mentioned angles, the native will have some defect in the tongue, and stammer or speak with difficulty: especially if Mercury be occidental, and both he and Saturn configurated with the Moon. Should Mars, however, be found together with them, he will for the most part remove the defect in the tongue, after the Moon shall have completed her approach to him.",
+        "Further, should the malefics be in angles, and the luminaries, either together or in opposition, be brought up to them; or, if the malefics be brought up to the luminaries, especially when the Moon may be in her nodes, or in her bend, or in obnoxious signs, such as Aries, Taurus, Cancer, Scorpio, and Capricorn, the body will then be afflicted with excrescences, distortions, lameness or paralysis.",
+        "If the malefics be in conjunction with the luminaries, the calamity will take effect from the very moment of birth: but should they be in the mid-heaven, in elevation above the luminaries, or in opposition to each other, it will then arise out of some great and dangerous accident; such as a fall from some height or precipice, an attack of robbers, or of quadrupeds. And thus, if Mars hold dominion, he will produce the misfortune by means of fire or wounds, through quarrels, or by robbers; and if Saturn, it will be caused by a fall, by shipwreck, or by convulsive fits or spasms.",
+        "The minor bodily disorders mostly occur on the Moon’s being posited in a tropical or equinoctial sign; and, if in that of the vernal equinox, these disorders usually arise from the white leprosy; in that of the summer tropic, from tetters; in that of the autumnal equinox, from leprosy; and in that of the winter tropic, from the eruption of pimples, and similar inconveniences.",
+        "Considerable diseases, however, take effect when the malefics may be configurated in the same situations as those before prescribed, yet differing in one respect; that is to say, being occidental of the Sun and oriental of the Moon. In such cases, Saturn will generally produce cold in the bowels, excessive phlegm, rheumatism, emaciation, sickliness, jaundice, dysentery, cough, obstruction, colic, or scurvy; and, in women, besides these diseases, he produces complaints of the womb. Mars will cause expectoration of blood, atrabilarious attacks, pulmonary complaints, sores, and diseases in the private parts (which will be rendered still more painful by surgical burning or incision), such as fistula, hæmorrhoids, or knots in the fundament, and also inflamed and putrifying ulcers. In women, to these calamities, he adds abortion, excision of the fœtus or its mortification.",
+        "And, even though these planets should not be properly configurated towards the particular parts of the body, their qualities will still operate. Mercury also will act with them, and contribute to the increase of the evil: thus, if he be in familiarity with Saturn, he will much augment the coldness, and promote the continuance of rheumatism, and the disturbance of the fluids; especially in the chest, throat, and stomach. If in familiarity with Mars, he will tend to produce greater dryness, and will increase ulcers, abscesses, loss of hair, scarified sores, erysipelas, tetters, blackness of bile, insanity, epilepsy, and similar disorders.",
+        "Some of the properties, peculiar to disease, arise out of the various character of the signs which may contain the above mentioned configurations in the two angles. Thus Cancer, Capricorn, and Pisces, and, in short, all signs ascribed to terrestrial animals and fishes, appropriately cause diseases of putridity, tetters, excoriation, scrofula, fistula, leprosy, and the like; while Sagittarius and Gemini produce disease by falling fits and epilepsy. And if the planets happen to be posited in the latter degrees of the signs containing them, the extremities of the body will then be chiefly affected by the disease or hurt; which will arise from humours or accidents, producing leprosy, gout, or other infirmities, in the hands and feet.",
+        "Under the circumstances above detailed, the disease or hurt will be incurable, provided there shall be not one of the benefics in configuration with the malefics which effect the evil, nor with the luminaries posited in angles; and even though the benefics may be so configurated, the misfortune will still be incapable of remedy, if the malefics be well fortified, and in elevation above them.",
+        "Should the benefics, however, hold principal situations, and be in elevation above the obnoxious malefics, the disease or hurt will then be moderate, and have neither deformity nor disgrace attached to it; and it will sometimes be altogether prevented and set aside, if the benefics be oriental. Jupiter, for instance, by means of human aid, such as wealth or rank can command, will conceal and soothe hurts and diseases; and, if Mercury be joined with him, the assistance will be further improved by the addition of skilful physicians and good medicine. Venus, likewise, through the mediation of deities and oracles, will cause hurts to appear in a manner neither ungraceful nor unbecoming, and will ameliorate diseases by medicines granted by the gods.",
+        "Lastly, should Saturn be present in the configuration, the afflicted persons will move abroad to show their maladies, and to complain; and if Mercury also be present, they will do so for the sake of deriving support and profit from the exhibition."
+      ],
+      "alignment": [
+        {
+          "sourceParagraphIndex": 0,
+          "targetParagraphIndices": [
+            0
+          ]
+        },
+        {
+          "sourceParagraphIndex": 1,
+          "targetParagraphIndices": [
+            1,
+            2
+          ]
+        },
+        {
+          "sourceParagraphIndex": 2,
+          "targetParagraphIndices": [
+            3
+          ]
+        },
+        {
+          "sourceParagraphIndex": 3,
+          "targetParagraphIndices": [
+            4
+          ]
+        },
+        {
+          "sourceParagraphIndex": 4,
+          "targetParagraphIndices": [
+            5,
+            6
+          ]
+        },
+        {
+          "sourceParagraphIndex": 5,
+          "targetParagraphIndices": [
+            7,
+            8
+          ]
+        },
+        {
+          "sourceParagraphIndex": 6,
+          "targetParagraphIndices": [
+            9
+          ]
+        },
+        {
+          "sourceParagraphIndex": 7,
+          "targetParagraphIndices": [
+            10
+          ]
+        },
+        {
+          "sourceParagraphIndex": 8,
+          "targetParagraphIndices": [
+            11
+          ]
+        },
+        {
+          "sourceParagraphIndex": 9,
+          "targetParagraphIndices": [
+            12
+          ]
+        },
+        {
+          "sourceParagraphIndex": 10,
+          "targetParagraphIndices": [
+            13,
+            14
+          ]
+        },
+        {
+          "sourceParagraphIndex": 11,
+          "targetParagraphIndices": [
+            15
+          ]
+        },
+        {
+          "sourceParagraphIndex": 12,
+          "targetParagraphIndices": [
+            16
+          ]
+        },
+        {
+          "sourceParagraphIndex": 13,
+          "targetParagraphIndices": [
+            17
+          ]
+        },
+        {
+          "sourceParagraphIndex": 14,
+          "targetParagraphIndices": [
+            18
+          ]
+        },
+        {
+          "sourceParagraphIndex": 15,
+          "targetParagraphIndices": [
+            19
+          ]
+        }
+      ],
+      "targetParagraphHashes": [
+        "2e487e33b44f3c8559941afb7bc247d9845b47b78c79476f55c5c72ce1e0067b",
+        "4175fd601a365b2b62932bb9b8b7ca4f095028f7d08ee65fd316a4f00c7d4aca",
+        "5bf6a3a51fa3d3a60493f92b8103964e2ad12d3ee6d63ed99ad0d89510040fc0",
+        "9a746ed7e3210f7c0c0cb7a2e3e81c83f0042ae9fde8d353e1216f8dd14248b1",
+        "357d1dc5bf3434a0764d954a1862e15222697606479db0bdca57e6471304fd15",
+        "f8c44179c13525fc10d4d447b703301125c237710a13ed859013791c9a583098",
+        "5f1bf6c57ca94d4dfab7bb5646b6b5b37f5ba75a738c72ecef9a0e0fc16ccb69",
+        "7bb7cafaecc3a0b70f8af6a5dc3971b0f3a568c48adb1b90960731ea65cb32d7",
+        "5009b64207e945c603164e5a29c2c0ce3a73647ff7af88ebee4a99604b99f280",
+        "5c0b37f638cb08c1873984d317583fef9640a412891b8c07bff7497632fb15e6",
+        "6e3880f7ba16ee7436460a5846fb7ed9f06c59a7b478084435227b6a5d6d64ff",
+        "ca40fa6ab2221fe3bc93dda6e31e9c3efe579e82073b672db81bc7af261e946b",
+        "991a38189dcadc74afce304e1d5781f643aeabef32f5f1bc5e4743d98f0933b8",
+        "849e8faa5fe68df56b9da9e4cb8129dddbb529f4193230428417a443bd8baf3b",
+        "03d6f8bed34d1257464a44732c10a41495da24d55159ad5f0281daa69f2684a3",
+        "f7b5ade203782666f6afcffa2f82d3d3f9e75f2ab9b9a658e52605ac5b1d275d",
+        "c7d890b50de66b81b362e015c557994f934758b81aa2f2a0addd7905ef1671a5",
+        "d082ddd3ab6d3f0a403a8abccd7758e2e80fdc5e915192b1646326313ea46d78",
+        "475545c3be739c58344f3addaf776b3d71535d8ac810d1dfa045cfec1c2b0e05",
+        "1927bc0bd3a3cb4a24350b218381c08ec35692645282bd0d53fe697984749ed2"
+      ],
+      "variants": [],
+      "excludedBlocks": []
+    },
+    {
+      "translationId": "ptolemy-qualities-of-mind",
+      "chapter": 18,
+      "anchor": "CHAPTER_III_XVIII",
+      "sourceHeading": "CHAPTER XVIII THE QUALITY OF THE MIND",
+      "pdfPages": [
+        191,
+        201
+      ],
+      "printedPages": [
+        158,
+        168
+      ],
+      "sourceHash": "1756fea904527ba9df57df5c55f5494f739fc49df3d63b5a6d9ee7f22d2f5893",
+      "sourceParagraphs": [
+        "The consideration of circumstances applicable to the body is practised under the foregoing rules.",
+        "Of the spiritual qualities, however, all those which are rational and intellectual are contemplated by the situation of Mercury; while all others, which regard the mere sensitive faculties, and are independent of reason, are considered rather by other luminaries of a less subtle constitution and more ponderous body; for instance, by the Moon and such stars as she may be configurated with, as well by separation, as by application.",
+        "Now the mind is liable to impulse in a multiplicity of directions, and the investigation of them cannot be summarily nor hastily performed, but must be conducted by means of many various observations: for the different qualities of the signs, containing Mercury and the Moon, or such stars as hold any influence over those two, are well competent to contribute towards the properties of the mind; so likewise are the configurations made with the Sun and the angles, by stars bearing any relation to the point in question; besides, also, the peculiar nature exercised by each star in operating upon the mental movements.",
+        "Thus, the tropical signs generally dispose the mind to enter much into political matters, rendering it eager to engage in public and turbulent affairs, fond of distinction, and busy in theology; at the same time, ingenious, acute, inquisitive, inventive, speculative, and studious of astrology and divination.",
+        "Bicorporeal signs render the mind variable, versatile, not easy to be understood, volatile, and unsteady; inclined to duplicity, amorous, wily, fond of music, careless, full of expedients, and regretful.",
+        "Fixed signs make the mind just, uncompromising, constant, firm of purpose, prudent, patient, industrious, strict, chaste, mindful of injuries, steady in pursuing its object, contentious, desirous of honour, seditious, avaricious, and pertinacious.",
+        "Oriental positions, and those in the ascendant, especially if made by planets in their proper faces, make men liberal, frank, self-confident, brave, ingenious, unreserved, yet acute. Oriental stations, and positions on the mid-heaven, or culminations, make men reflective, constant, of good memory, firm, prudent, magnanimous, successful in pursuing their desires, inflexible, powerful in intellect, strict, not easily imposed upon, judicious, active, hostile to crime, and skilful in science.",
+        "Precedent and occidental positions make men unsteady, irreverent, imbecile, impatient of labour, easily impressed, humble, doubting, wavering, boastful, and cowardly, slothful, lazy, and hard to rouse. Occidental stations, and positions on the lower heaven (as well as Mercury and Venus, when making vespertine descension by day, and rising in the night), will render the mind ingenious and sagacious, but not capable of great recollection, nor very industrious; yet inquisitive in occult matters, such as magic and sacred mysteries; also studious of mechanics, and mechanical instruments: addicted to the observation of meteors, to philosophy, to augury by means of birds, and to the judgment of dreams.",
+        "Further, should the planets having dominion be in places of their own, and in conditions suitable to their own qualities, the mental properties will be rendered exquisite, unimpeded, and successful: and especially if these planets rule at the same time over both places; that is to say, be by some mode configurated with Mercury, and holds separation from, or application to the Moon. Should the said planets, however, not be thus constituted, but be posited in places not particularly appropriate to themselves, they will yet, even then, infuse into the composition of the mental energy the properties of their own nature; but obscurely and imperfectly, and not with such force and strong evidence as in the other case.",
+        "The peculiar qualities of planets in dominion, or in elevation, are powerfully impressed upon the mental energy: for instance, persons, who, in consequence of the familiarity of the malefics, become wicked and dishonest, have their impulse to commit evil, free and unrestrained, when the said familiarity is not governed by any contrary influence. But, should a contrary condition impede and govern that familiarity, the impulse will be frustrated, and the culprits will be easily overtaken, and undergo punishment. In like manner, persons endowed with goodness and virtue, by the familiarity between the benefics and the before-mentioned places, and when no contrary influence in elevation may interpose, will exert themselves with cheerfulness and alacrity in performing good actions, will be subject to no injustice, but enjoy the advantages of their honesty and virtue. If, however, this familiarity should be superseded by some contrary condition, the very mildness and humanity of these persons will operate to their disadvantage, exposing them to contempt and accusation, and rendering them liable to be wronged by the multitude.",
+        "The foregoing observations, relative to the moral habit, apply generally; and the particular properties, created in the mental energies by the actual nature of the planets, according to the respective dominion of each, remain to be treated of.",
+        "The planet Saturn, therefore, when alone possessing dominion of the mind, and governing Mercury and the Moon, and if posited in glory, both cosmically and with respect to the angles, will make men careful of their bodies, strong and profound in opinion, austere, singular in their modes of thinking, laborious, imperious, hostile to crime, avaricious, parsimonious, accumulators of wealth, violent, and envious: but, if he be not in glory, cosmically, and as regards the angles, he will debase the mind, making it penurious, pusillanimous, ill-disposed, indiscriminating, malignant, timorous, slanderous, fond of solitude, repining, incapable of shame, bigoted, fond of labour, void of natural affection, treacherous in friendship and in family connections, incapable of enjoyment, and regardless of the body. Connected with Jupiter in the mode before-mentioned, being also situated in glory, Saturn will render the mind virtuous, respectful, well-intentioned, ready to assist, judicious, frugal, magnanimous, obliging, solicitous of good, affectionate in all domestic ties, mild, prudent, patient, and philosophical: but, if thus connected and posited ingloriously, he makes men outrageous, incapable of learning, timorous, highly superstitious, yet regardless of religion, suspicious, averse to children, incapable of friendship, cunning, misjudging, faithless, foolishly wicked, irascible, hypocritical, idle and useless, without ambition, yet regretful, morose, highly reserved, over-cautious, and dull. Conciliated with Mars, and posited in glory, Saturn renders men reckless, over-diligent, free in speech, turbulent, boastful, austere in their dealings, pitiless, contemptuous, fierce, warlike, bold, fond of tumults, insidious, deceitful, and implacable; promoters of faction, tyrannical, rapacious, hostile to the commonwealth, delighting in strife, vindictive, profound in guilt, strenuous, impatient, insolent, mischievous, overbearing, evil, unjust, obstinate, inhuman, inflexible, immutable in opinion, busy, able in office, active, submitting to no opposition, and on the whole successful in their undertakings; but, if thus connected, and not placed in glory, he will make men plunderers, robbers, adulterers, submissive to evil, seeking gain by their turpitude, infidels in religion, void of the common affections, mischievous, treacherous, thievish, perjurers, and sanguinary; eaters of unlawful food, familiar with guilt, assassins, sorcerers, sacrilegious, impious, violators of the tomb, and, in short, thoroughly depraved. Conciliated with Venus, and being again in glory, Saturn makes men averse to women, and renders them fond of governing, prone to solitude, highly reserved, regardless of rank, indifferent to beauty, envious, austere, unsociable, singular in opinion, addicted to divination and to religious services and mysteries; solicitous of the priesthood, fanatical, and subservient to religion; solemn, reverential, sedate, studious of wisdom, faithful in friendship, continent, reflective, circumspect, and scrupulous in regard to female virtue: but, if he be thus conciliated, and not posited in glory, he makes men licentious and libidinous, practisers of lewdness, careless, and impure in sexual intercourse; obscene, treacherous to women, especially to those of their own families; wanton, quarrelsome, sordid, hating elegance; slanderous, drunken, superstitious, adulterous, and impious; blasphemers of the gods, and scoffers at holy rites; calumniators, sorcerers, hesitating at nothing. If conciliated with Mercury, and if in a glorious position, Saturn makes men inquisitive, loquacious, studious of law and of medicine, mystical, confederate in secrecy, fabricators of miracles, impostors, improvident, cunning, familiar with business, quick in perception, petulant, accurate, vigilant, meditative, fond of employment, and tractable: but, if connected with Mercury, and not posited gloriously, he causes men to be frivolous, vindictive, laborious, alienated from their families, fond of tormenting, and void of enjoyment; night-wanderers, insidious, treacherous, pitiless, and thievish; magicians, sorcerers, forgers of writings, cheats, unsuccessful in their undertakings, and quickly reduced to adversity. Such are the effects of Saturn.",
+        "When Jupiter alone has dominion of the mind, and is gloriously situated, he renders it generous, gracious, pious, reverent, joyous, courteous, lofty, liberal, just, magnanimous, noble, self-acting, compassionate, fond of learning, beneficent, benevolent, and calculated for government: and, if posited ingloriously, he will endow the mind with qualities apparently similar to these, but not of such virtue and lustre: as, instead, of generosity, he will then cause profusion; instead of piety, bigotry; for modesty, timidity; for nobleness, arrogance; for courteousness, folly; for elegance, voluptuousness; for magnanimity, carelessness; and for liberality, indifference. Conciliated with Mars, and being in glory, Jupiter will make men rough, warlike, skilful in military affairs, dictatorial, refractory, impetuous, daring, free in speech, able in action, fond of disputation, contentious, imperious, generous, ambitious, irascible, judicious, and fortunate: but, if thus connected, and not placed in glory, he makes men mischievous, reckless, cruel, pitiless, seditious, quarrelsome, perverse, calumnious, arrogant, avaricious, rapacious, inconstant, vain and empty, unsteady, precipitate, faithless, injudicious, inconsiderate, senseless, and officious; inculpators, prodigals, triflers, altogether without conduct, and giving way to every impulse. When conciliated with Venus, and in a glorious position, Jupiter will render the mind pure, joyous, delighting in elegance, in the arts and sciences, and in poetry and music; valuable in friendship, sincere, beneficent, compassionate, inoffensive, religious, fond of sports and exercises, prudent, amiable, and affectionate, gracious, noble, brilliant, candid, liberal, discreet, temperate, modest, pious, just, fond of glory, and in all respects honourable and worthy; but, if posited ingloriously, when so connected, he makes men luxurious, soft, effeminate, fond of dancing, indulgent in expenses, incapable of managing women, yet amorous and lascivious; mean, slanderous, adulterous, fond of dress, dissolute, dull, wasteful, without energy, enervated, fond of personal adornment, womanish in mind, yet observant of holy rites and ceremonies, faithful, harmless, pleasant, affable, cheerful, and liberal to misfortune. If connected with Mercury, and posited in glory, Jupiter will render men fit for much business, fond of learning, and of geometry and the mathematics; poetical, public orators, acute, temperate, well-disposed, skilful in counsel, politic, beneficent, able in government, pious, religious, valuable in all useful professions, benevolent, affectionate in their families, ready in acquiring knowledge, philosophical, and dignified: but when so connected, and placed ingloriously, he will produce contrary effects, rendering men frivolous, empty, contemptible, credulous of falsehood, senseless, fanatical, trifling, petulant, affectors of wisdom, stupid, arrogant, pretenders in art, magicians, and vacillating: Yet he will also produce men skilled in various learning, and of strong memory, capable of imparting instruction, and pure in their enjoyments.",
+        "Mars alone having dominion of the mind, and placed with glory, makes men noble, imperious, irascible, warlike, versatile, powerful in intellect, daring, bold, refractory, careless, obstinate, acute, self-confident, contemptuous, tyrannical, strenuous, stern and able in government: but, posited ingloriously, he makes men cruel, mischievous, sanguinary, tumultuous, extravagant in expense, boisterous, ruffian-like, precipitate, drunken, rapacious, pitiless, familiar with crime, restless, outrageous, hostile to their families, and infidels in religion. Should he be conciliated with Venus, and posited in glory, he renders the mind cheerful, docile, friendly, complacent, joyous, playful, frank, delighting in songs and dancing, amorous, fond of the arts, and of dramatic personation, voluptuous, brave, libidinous in desire, sensible, cautious, and discreet; disposed to free sexual intercourse, quick in anger, extravagant in expense, and jealous: but, if he have an inglorious position when thus conciliated, he makes men overbearing, lascivious, sordid, opprobrious, adulterous, mischievous, liars, fabricators of deceit, cheats of their own families as well as others, eager in desire, and at the same time soon satiated, debauchers of wives and virgins, daring, impetuous, ungovernable, treacherous, faithless, dangerous, fickle and weak in mind; and occasionally also wasteful, fond of dress, audacious, and shameless. Connected with Mercury, and placed in glory, Mars renders men skilful in command, cautious, strenuous, active, obstinate, yet versatile, inventive, sophistical, laborious, busy in all things, eloquent, imposing, deceitful, inconstant, overknowing, maliciously artful, quick witted, seductive, hypocritical, treacherous, habituated to evil, inquisitive, fond of strife, and successful; fair dealers with persons of habits similar to their own, and, in short, altogether mischievous to their enemies, though beneficial to their friends: but, if Mars be posited ingloriously, and thus connected, he makes men prodigal, yet avaricious, cruel, daring, bold, regretful and vacillating; liars, thieves, infidels in religion, perjurers, and impostors; seditious, incendiaries, frequenters of theatres, covered with infamy, robbers, housebreakers, sanguinary, forgers of writings, familiar with crime, jugglers, magicians, sorcerers, and assassins.",
+        "When Venus rules alone in a position of glory, she renders the mind benignant, good, voluptuous, copious in wit, pure, gay, fond of dancing, jealous, abhorring wickedness, delighting in the arts, pious, modest, well-disposed, happy in dreams, affectionate, beneficent, compassionate, refined in taste, easily reconciled, tractable, and entirely amiable: but, if contrarily posited, she renders the mind dull, amorous, effeminate, timorous, indiscriminating, sordid, faulty, obscure, and ignominious. Conciliated with Mercury, and posited with glory, Venus makes men lovers of the arts, philosophical, of scientific mind and good genius, poetical, delighting in learning and elegance, polite, voluptuous, luxurious in their habits of life, joyous, friendly, pious, prudent, fitted for various arts, intelligent, not misled by error, quick in learning, self-teaching, emulous of worth, followers of virtue, copious and agreeable in speech, serene and sincere in manner, delighting in exercise, honest, judicious, high-minded, and continent in desire as regards women; but, when so conciliated and posited adversely, she will make men oppressive, fit for various arts, evil-tongued, unsteady, malevolent, fraudulent, turbulent, liars, calumniators, faithless, crafty, insidious, practised in evil, uncourteous, debauchers of women, corrupters of youth, fond of personal adornment, dissolute, infamous, notoriously offensive and publicly complained of, yet striving after all things.",
+        "Mercury, alone, having dominion of the mind, and being in a glorious position, renders it prudent, clever, sensible, capable of great learning, inventive, expert, logical, studious of nature, speculative, of good genius, emulous, benevolent, skilful in argument, accurate in conjecture, adapted to sciences and mysteries, and tractable: but, when placed contrarily, he makes men busy in all things, precipitate, forgetful, impetuous, frivolous, variable, regretful, foolish, inconsiderate, void of truth, careless, inconstant, insatiable, avaricious, unjust; and altogether of slippery intellect, and predisposed to error.",
+        "To these influences and their effects, as above detailed, the Moon also contributes: for, should she be in the bends of her southern or northern boundary, she will render the properties of the mind more various, more versatile in art, and more susceptible of change: if she be in her nodes, she will make them more acute, more practical, and more active. Also, when in the ascendant, and during the increase of her illumination, she augments their ingenuity, perspicuity, firmness and expansion; but, when found in her decrease, or in occultation, she renders them more heavy, more obtuse, more variable of purpose, more timid, and more obscure.",
+        "The Sun likewise co-operates, when conciliated with the lord of the mental temperament; contributing, if he be in a glorious position, to increase probity, industry, honour, and all laudable qualities; but, if adversely situated, he increases debasement, depravity, obscurity, cruelty, obstinacy, moroseness, and all other evil qualities."
+      ],
+      "alignment": [
+        {
+          "sourceParagraphIndex": 0,
+          "targetParagraphIndices": [
+            0
+          ]
+        },
+        {
+          "sourceParagraphIndex": 1,
+          "targetParagraphIndices": [
+            1
+          ]
+        },
+        {
+          "sourceParagraphIndex": 2,
+          "targetParagraphIndices": [
+            2
+          ]
+        },
+        {
+          "sourceParagraphIndex": 3,
+          "targetParagraphIndices": [
+            3
+          ]
+        },
+        {
+          "sourceParagraphIndex": 4,
+          "targetParagraphIndices": [
+            4
+          ]
+        },
+        {
+          "sourceParagraphIndex": 5,
+          "targetParagraphIndices": [
+            5
+          ]
+        },
+        {
+          "sourceParagraphIndex": 6,
+          "targetParagraphIndices": [
+            6
+          ]
+        },
+        {
+          "sourceParagraphIndex": 7,
+          "targetParagraphIndices": [
+            7
+          ]
+        },
+        {
+          "sourceParagraphIndex": 8,
+          "targetParagraphIndices": [
+            8
+          ]
+        },
+        {
+          "sourceParagraphIndex": 9,
+          "targetParagraphIndices": [
+            9,
+            10
+          ]
+        },
+        {
+          "sourceParagraphIndex": 10,
+          "targetParagraphIndices": [
+            11
+          ]
+        },
+        {
+          "sourceParagraphIndex": 11,
+          "targetParagraphIndices": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "sourceParagraphIndex": 12,
+          "targetParagraphIndices": [
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "sourceParagraphIndex": 13,
+          "targetParagraphIndices": [
+            24,
+            25,
+            26,
+            27,
+            28
+          ]
+        },
+        {
+          "sourceParagraphIndex": 14,
+          "targetParagraphIndices": [
+            29,
+            30,
+            31
+          ]
+        },
+        {
+          "sourceParagraphIndex": 15,
+          "targetParagraphIndices": [
+            32
+          ]
+        },
+        {
+          "sourceParagraphIndex": 16,
+          "targetParagraphIndices": [
+            33
+          ]
+        },
+        {
+          "sourceParagraphIndex": 17,
+          "targetParagraphIndices": [
+            34
+          ]
+        }
+      ],
+      "targetParagraphHashes": [
+        "593dbc1b4e557c3210588253d0fbc6bfee4a6735060118c9ade6e2148077ddd2",
+        "caee41ce56e79d4bccfc7e14ec66e269fde6c5b3fdb9efdc2c0007069000c85b",
+        "6c9bcf5f5f651b3b00927d338acc97ba11fc274069891fbf0e3424d7d09f452e",
+        "aee9c0ae58e8ae590b456541259d135dcd5d9d6729c95baea6e2dd9f7e67505f",
+        "c2534190ac2eba9da346987965ad8ec3c0a85bb1d3db55cbdad2f29b81c86f83",
+        "521bf041a409f5d7d623100d95f27934affafa0a522d81c03eae189d2c2f5021",
+        "7c804ca00f8e4d3a209c3a82901580ce1c8103452bda6737925350dbbd96e9cd",
+        "efcfc1e22831ef689492d3fc0aa1468a31a68efe53f88d1b6ceed2e666d63f98",
+        "7f4c998abbf9587228a13d4473636e16af8221cf15c120e6705d6bb2e9bcec72",
+        "a76f7c83fa7e148dc47c1915482308009fb2d100d8be4fcbbd9ae1d0585a773b",
+        "e431b8a3dac640aa5b903d260a4c213fc902802e160c6546e5cc19feb36a2a88",
+        "d16ce744fc61071b552bde2f901ca410b4576906986880e342fd2771b763b450",
+        "008ce0a05a59ff27bd6f19954c2f0a95326cead6d44efe8d16f1f867ef083b2f",
+        "c29fb832e944d7ad35564bbb4d8c6db43d77e47864ab9c793dd1eda751abfe8b",
+        "6103e828b4ce331cc32129f050ef50c9833650b2fcf6be81bccdab2080972cf0",
+        "8ee3c9050624c617f9dec92b5e34dc09dec234c465c533f65562d917a3095bde",
+        "328e527ec58f98f0d84786f59c83ba45850db326165628e4f0536ad4a460ca71",
+        "50396d4a3454346de5492320b51ef82a35780fafb3b2545dbe1e1a8fb17eb6b3",
+        "9729b541fc0e7bc3a9cae3eb776b08f0675a84966f45e5f60c0cc2b07024be7b",
+        "bd662d65f5b19d4c38d2bcc405d87edeb23abe0cad8ca80870a943819d67d357",
+        "5fce27389b1892423e134854f4c2b0669b230e36e8182952bfae2491bfafc80f",
+        "d0155955bb808483314bd540d6bad5143640867c93519c16852240fd9156ca08",
+        "7e467f751db844fd2103888c3a058606ef7b5d08095d598c9d484753ee06cf2c",
+        "fb52d7398190aba2fe07723e94a20ae1bc9d88bcb23a73520aefb81358c736ff",
+        "7ee1dbac2d84ce2330e592a95c2a106268723cae1233e3da3a757537c8dc2c5b",
+        "be5bd923695b8070688df8808576b97f00b1a648b69f7748804f70cb32aed78e",
+        "c8c17af85c50127eb1cfa9eb5404ca705e20ec145506683b0b7326175ee716f6",
+        "ef7e4418596e1624887c181c23b8dd2a17d73e7fd1e52c1d59c73b3065502b4e",
+        "24ad82f09fe138235b362083866d77b70b3e591772f845f749c1b407f341cb25",
+        "44c01bbc937b81dd85d8f28203d98fdf307fab197442260613744f3a64468c85",
+        "dd4443756ed550d18ece7a9efeca10f2a1ed9dde633726a1196b9f35b85b3d3e",
+        "c7229a3f8a296ea52fa4dca00de4bb5bba333cb04feadab9cccd28fa4f4d4a9d",
+        "bfed9ed64fc5a24998373a68954ce69cb94d24ceab0ce8eb5af6cf4b63f987ab",
+        "31eee126ca89e60b864ad0d030eebc8cd85283243f0f3aebe4feb9a9cce62d21",
+        "61d922ad9c85bfeeb42096fe44a49091fb2f695723f0bb6d41fcdc06970d2256"
+      ],
+      "variants": [
+        {
+          "chapter": 18,
+          "paragraph": 1,
+          "page": 191,
+          "from": "which are national and intellectual",
+          "to": "which are rational and intellectual",
+          "kind": "transcription-correction"
+        },
+        {
+          "chapter": 18,
+          "paragraph": 3,
+          "page": 192,
+          "from": "studious of astronomy and divination",
+          "to": "studious of astrology and divination",
+          "kind": "edition-wording"
+        }
+      ],
+      "excludedBlocks": []
+    },
+    {
+      "translationId": "ptolemy-disorders-of-mind",
+      "chapter": 19,
+      "anchor": "CHAPTER_III_XIX",
+      "sourceHeading": "CHAPTER XIX THE DISEASES OF THE MIND",
+      "pdfPages": [
+        201,
+        204
+      ],
+      "printedPages": [
+        168,
+        171
+      ],
+      "sourceHash": "bbe92d065fca4076806a1dfa8dfd270b0c69f689aaabdc4d5303d37431835ff3",
+      "sourceParagraphs": [
+        "In connection with the foregoing discussion on the properties of the mind, the circumstances relating to eminent mental disorders, such as madness, epilepsy, and others of the like formidable nature, duly claim attention.",
+        "Now, with reference to these, it is always essential to consider the planet Mercury and the Moon, and to observe in what mode they may be disposed towards each other, and towards the angles, and also towards the malefics: for, if the Moon and Mercury be unconnected with each other, or with the oriental horizon, and provided such planets as may be adversely and noxiously configurated should be in elevation above them, or overrule them, or be in opposition to them, the mental properties will then consequently become impregnated with various disorders: the characters of which may be clearly known by the qualities of the stars thus controlling the places.",
+        "It is true that there are many disorders of a moderate nature, capable of being distinguished by what has been already stated, in the preceding chapter, regarding the mental qualities: for it is by the increase and growth of certain of those qualities, that an injurious excess is produced; and every irregularity of the moral habit, whether by deficiency or superabundance, may be fitly termed a moral disorder, But, at the same time, there are other disorders of so vast and manifold a disproportion, that they quite, as it were, overpower the natural course of the intellect and passions of the mind. And of these greater disorders it is now proposed to treat.",
+        "For example, epilepsy generally attaches to all persons born when Mercury and the Moon may be unconnected either with each other, or with the oriental horizon, while Saturn and Mars may be in angles and superintend the scheme; that is to say, provided Saturn be so posited by day, and Mars by night: otherwise, when the converse may happen in these schemes, viz. when Saturn may have dominion by night, but Mars by day (especially if in Cancer, Virgo or Pisces), the persons born will become insane. And they will become demoniac, and afflicted with moisture of the brain, if the Moon, being in face to the Sun, should be governed by the malefics; that is to say, if she be governed by Saturn when operating her conjunction, but by Mars when effecting her opposition; and particularly when it may happen in Sagittarius and in Pisces.",
+        "If the malefics, only, should have ruled the scheme, in the manner described, the said disorders of the mind will become irremediable, although at the same time not eminent, but doubtful, and not openly displayed; but, should the benefics, Jupiter and Venus, be conciliated, and be posited in eastern parts and in angles, while the malefics may be in western parts, the disorders, although highly conspicuous, will then be susceptible to cure. For instance, under Jupiter’s influence, they will be healed by means of medical or surgical aid, and by diet and medicine; under Venus, by the guidance of oracles and by divine interposition.",
+        "Should the benefics, however, be occidental, and the malefics be found in eastern parts and in angles, the disorders will then become not only incurable, but most conspicuous: the epileptic persons will then be subjected to constant fits, and to danger of death; the insane will become outrageous and unmanageable, breaking away from their families, raving and wandering in nakedness: the demoniacs and those afflicted with moisture of the brain will become furious, uttering mysterious sayings, and wounding themselves.",
+        "The several places of position in the scheme also afford co-operation: for instance, those of the Sun and Mars contribute to insanity; those of Jupiter and Mercury, to epilepsy; those of Venus, to the fury of enthusiasm; and those of Saturn and the Moon, to demoniac affections and moisture of the brain.",
+        "It is by such configurations, as those just described, that any morbid deviation, occurring in the active or reasoning faculties of the mind, is produced; but a deviation of the passive, or merely sensitive faculties, is discernible chiefly in the excess and deficiency (as the case may be) of the masculine and feminine genders; that is to say, in the superabundance, or deficiency, of the power of either gender, to produce a conformation agreeable to its own proper nature: and a knowledge of this latter deviation is to be acquired by means of the following rules.",
+        "When the Sun, instead of Mercury, may be with the Moon, and if Mars, together with Venus, be then in familiarity with them, in that case, provided the luminaries only be found in masculine signs, men will excel in their nature, or, in other words, will possess in full plenitude the properties becoming their sex; while the properties of women, who are thus constituted more masculinely and more actively, will deviate from the usual limits of nature. But, if both Mars and Venus, or if only one of them, be likewise masculinely situated, men will be freely and promptly inclined to natural intercourse and connexion; and women will be, in like manner, licentious and intemperate in intercourse beyond nature. Their desires will be practised in privacy, and not openly, should only Venus be situated masculinely; but shamelessly and publicly, if Mars also masculinely placed, together with Venus.",
+        "But, if the luminaries only be in feminine signs, women will then possess their natural functions in greater plenitude, and men will deviate from the limits of nature towards effeminacy and wantonness. And, if Venus be femininely posited, women will be lustful and licentious, and men wanton and soft; seeking connexion contrary to nature; yet in privacy and not openly: but, if Mars be posited femininely, they will then put their desires in practice shamelessly and publicly.",
+        "The oriental and diurnal positions of Mars and Venus also contribute to more masculine and more reputable qualities; and their occidental and vespertine positions to qualities more feminine, and more sordid.",
+        "Lastly, if Saturn be in familiarity with them, he will likewise co-operate, by tending to produce greater impurity and obscenity, and greater evil altogether; but Jupiter, if in familiarity, tends to greater decency and modesty, and altogether to better conduct; and Mercury to greater mobility, diversity, activity, and notoriety of the passions."
+      ],
+      "alignment": [
+        {
+          "sourceParagraphIndex": 0,
+          "targetParagraphIndices": [
+            0
+          ]
+        },
+        {
+          "sourceParagraphIndex": 1,
+          "targetParagraphIndices": [
+            1
+          ]
+        },
+        {
+          "sourceParagraphIndex": 2,
+          "targetParagraphIndices": [
+            2
+          ]
+        },
+        {
+          "sourceParagraphIndex": 3,
+          "targetParagraphIndices": [
+            3,
+            4
+          ]
+        },
+        {
+          "sourceParagraphIndex": 4,
+          "targetParagraphIndices": [
+            5
+          ]
+        },
+        {
+          "sourceParagraphIndex": 5,
+          "targetParagraphIndices": [
+            6
+          ]
+        },
+        {
+          "sourceParagraphIndex": 6,
+          "targetParagraphIndices": [
+            7
+          ]
+        },
+        {
+          "sourceParagraphIndex": 7,
+          "targetParagraphIndices": [
+            8
+          ]
+        },
+        {
+          "sourceParagraphIndex": 8,
+          "targetParagraphIndices": [
+            9
+          ]
+        },
+        {
+          "sourceParagraphIndex": 9,
+          "targetParagraphIndices": [
+            10
+          ]
+        },
+        {
+          "sourceParagraphIndex": 10,
+          "targetParagraphIndices": [
+            11
+          ]
+        },
+        {
+          "sourceParagraphIndex": 11,
+          "targetParagraphIndices": [
+            12
+          ]
+        }
+      ],
+      "targetParagraphHashes": [
+        "6867d6a7df6ad24e292d6205636765c4ae19684e4536b6e27d97792387a41513",
+        "48ae43e86a8e0d8a3e6e624491cadaa6c1621360d918c30c60afdff97257fa6a",
+        "25ae271b0576176711b80caa1db12ade8fe9dbe8489e41bbe82b7b24893d88a5",
+        "b136c676639c06cc15a2e48e46fa2f081d55ac7f03017d8531c48c958132cf1c",
+        "81b0cfe960644d3b7796a9bfb0c3a8298182efca210212cf4f9ae88ef7be8b52",
+        "12d06aae966b12a68845921d5ab0a899bf2257ee1b9929cb6e0777301051dc2a",
+        "bc92d72924378e8230c11e613accc6e8469bdfff8126f0149a3e0f0d673e14b6",
+        "d74997ff07800c4ff312d29f1b0b3e3723320012f81c100ae71ba2c423d0bcf5",
+        "65bd85f7c030c04f30adf95ae059d03353df36f791f58fa70fa55e8a2f52c1f3",
+        "6e77befbdaadee201c53b9904038faab88581b8384f6d2d4e3b489b60cffe225",
+        "53c61bd9dfcc29a9f429124b1e642f1c1ae49daaae27a570bef49dca1d0451b6",
+        "9426eb344b8b82d1494c4c25ee42d21eb3b1f869a8ca234994144bed4fcf95a0",
+        "fc76c96aa81c1d7963d46133d0e2d41ae53c0fcf56c59fb555e4d90b3122883c"
+      ],
+      "variants": [
+        {
+          "chapter": 19,
+          "paragraph": 3,
+          "page": 202,
+          "from": "should be governed by Saturn when operating her conjunction",
+          "to": "should be governed by the malefics; that is to say, if she be governed by Saturn when operating her conjunction",
+          "kind": "omitted-explanation"
+        }
+      ],
+      "excludedBlocks": [
+        {
+          "sourceParagraphIndex": 12,
+          "text": "End of the Third Book",
+          "reason": "권말 종결 표지이며 장 본문이 아님"
+        }
+      ]
+    }
+  ],
+  "preservedTranslations": [
+    {
+      "id": "xingming-suyuan",
+      "sha256": "1c2e4bae36ea103c503039a7c595a25b40e4af9e2322b9350f53bd1a48dc0ea6"
+    },
+    {
+      "id": "ptolemy-planetary-qualities",
+      "sha256": "ccd43d8df8d9fe0c4ff9b7ac82fc66cdc4a0900f9ea0b613cb6bb9433e5194e9"
+    },
+    {
+      "id": "ptolemy-benefics-malefics",
+      "sha256": "c6182a5f5b02b82cc014e96c8b76ffbd225657ab9be09848f0590dfcea1f16eb"
+    },
+    {
+      "id": "ptolemy-masculine-feminine",
+      "sha256": "d2d2b2547d6c3f1ed7b297db74dfedb6ce5d9c7dd7125b9714af8bccf42365c4"
+    },
+    {
+      "id": "ptolemy-diurnal-nocturnal",
+      "sha256": "9c64a930db70e9efecfeae0d64277a4f4ab388aac23d8a30413153b18b377707"
+    },
+    {
+      "id": "ptolemy-solar-phases",
+      "sha256": "5c7a9dd58af2ac01558269ae95382b1496fc7017edf55cafce24f75348842250"
+    },
+    {
+      "id": "ptolemy-sign-modalities",
+      "sha256": "1a5a257704d7c3a8ba3c813aef1867ecb6e533de7b330a49855e0f25692bbf36"
+    },
+    {
+      "id": "ptolemy-inconjunct",
+      "sha256": "6dffce4a73495e00c70ccf07747c4c9ee0918baaf82dcad8722542e767883270"
+    },
+    {
+      "id": "ptolemy-domiciles",
+      "sha256": "bdf6d636a8837e5a2f53c6f5d6ff5bbb58deba569c9fcb1c78c183c709ba70ed"
+    },
+    {
+      "id": "ptolemy-triplicities",
+      "sha256": "d32d43092fbb79d35b658baa157376a4b5db7353d06211068a71f6b4dc65fd2e"
+    },
+    {
+      "id": "ptolemy-exaltations",
+      "sha256": "f5ea63f2aeea70adc7ecd6461d6b63a60fb6ead3be226c6bda5e6c40cd30a361"
+    },
+    {
+      "id": "xingming-judgment-passages",
+      "sha256": "eaa45fd521d4412244b9776fe3d7b491f56d415e8281355ea51930447d1b1d47"
+    },
+    {
+      "id": "ptolemy-zodiacal-stars",
+      "sha256": "aa18579933dfc49c1bd94145b629829ad162252b331dfac4f8f0f3782a8c1331"
+    },
+    {
+      "id": "ptolemy-northern-constellations",
+      "sha256": "32e0412d15790af7144da662f9e8d4c0a4701ca96a0496e0c4197c7c126f3ea8"
+    },
+    {
+      "id": "ptolemy-southern-constellations",
+      "sha256": "4e20e3e27c6b074da56b810468baca36bf2849c14ad15d524dc12425c97e357d"
+    },
+    {
+      "id": "ptolemy-annual-seasons",
+      "sha256": "5bf97d6b59c8ec18fe70f0da8e0ba63d0e6d653bb12766c3889511fb043ef311"
+    },
+    {
+      "id": "ptolemy-four-angles",
+      "sha256": "c16ffed300284b0c4766dcb85420d94fa7b13e308eabc2f4c7a2fb3fb723dac1"
+    },
+    {
+      "id": "ptolemy-sign-genders",
+      "sha256": "22bb666b15df12d4c9ba9a22b7c2b08855beb2252defae29a56b98cfef29b1b8"
+    },
+    {
+      "id": "ptolemy-aspect-geometry",
+      "sha256": "87314d0d9a87d7469fb1c5e347e200ec588e70f3343bfe105fbee64035fbe818"
+    },
+    {
+      "id": "ptolemy-commanding-obeying",
+      "sha256": "ff85627047e8ec1b31ad436a3d210754fdc300659ff26e16e004d846022a896b"
+    },
+    {
+      "id": "ptolemy-beholding-signs",
+      "sha256": "89e71012f061393f1e1722d27fa204351ba8509dc1be213fbbc36787f790f66f"
+    },
+    {
+      "id": "ptolemy-egyptian-chaldean-terms",
+      "sha256": "dcdfc5ee1404d72a9ed6c9c27467ff1a54136e60c2f5434a7500a1c375972e7e"
+    },
+    {
+      "id": "ptolemy-terms-rule",
+      "sha256": "a40a1145df5889b6d6902537bb27d593a11e639f4437f0b61a8463f82f59de96"
+    },
+    {
+      "id": "ptolemy-zodiac-subdivisions",
+      "sha256": "d4290f60d99bdffd100bb1a36f0dc6e9df5c8b31ed9869fec53c308a45dce32f"
+    },
+    {
+      "id": "ptolemy-faces-chariots",
+      "sha256": "e8d0a6d70a517de7b0aaf0e0d4c2bba55fae96afd7a66da201fdd6832f2944f1"
+    },
+    {
+      "id": "ptolemy-application-separation",
+      "sha256": "fe4ea871715fa5fa3e79f86fdbe447c2bdb151a85e32fb746c22230232f357dc"
+    },
+    {
+      "id": "ptolemy-proem",
+      "sha256": "c6fe69f690fb8603cf8320d522001c59fc16ccd52a3953c4a9f4a613f0bf9305"
+    },
+    {
+      "id": "ptolemy-knowledge-limits",
+      "sha256": "833049e9b728ba8e60adc0436041efcbd2b5d49cb6e31dab9e2728f9d9d9d9a8"
+    },
+    {
+      "id": "ptolemy-prescience-usefulness",
+      "sha256": "1f38a83b210eb9800733d2943031648b18b7d6f22f8b6a9cdd470d10b3c9fb85"
+    },
+    {
+      "id": "ptolemy-universal-particular",
+      "sha256": "b019b18c24569c62deec9f296d14450ab4909ddc9c702102452ec56b267ae7b5"
+    },
+    {
+      "id": "ptolemy-climates-peoples",
+      "sha256": "2679f22b957245877976cf8c7597eced940fab647ed1ae641c05b27fe73f1780"
+    },
+    {
+      "id": "ptolemy-regional-triplicities",
+      "sha256": "4634308e22ce8a41fb7f7c53aec7a3618a3daa173e68c7edb28f8f742f841e3c"
+    },
+    {
+      "id": "ptolemy-regional-fixed-stars",
+      "sha256": "a1654f252b46a06d74020e8a7a3a488952d7976a90ce86e90fbf3c95d8a19fb0"
+    },
+    {
+      "id": "ptolemy-eclipse-inquiry",
+      "sha256": "a5fa8f6854bf87e24751383aa16318f540a1c18b0e5c5a45ade56b358e8294ec"
+    },
+    {
+      "id": "ptolemy-eclipse-regions",
+      "sha256": "361c14c7c3332c48f4180fa468492c8de89b90c806d5485d912950cdb331f3be"
+    },
+    {
+      "id": "ptolemy-eclipse-timing",
+      "sha256": "5fa8b3002d5a58874c8efcba05b014787f8fe2f47990ad51a0abfc2607eef188"
+    },
+    {
+      "id": "ptolemy-eclipse-affected-kinds",
+      "sha256": "992e6864b46deebd150354c6432bf77562a172f8e7a7765a3e221673a0e286e8"
+    },
+    {
+      "id": "ptolemy-eclipse-effects",
+      "sha256": "69ca49ab7cbe47dca159eae30be49f92fc085ad069c4e85d94fd3ef5ffc1e4ff"
+    },
+    {
+      "id": "ptolemy-eclipse-colours-comets",
+      "sha256": "c26afcfe98f944572858c94b47de380a600d786bfd37ca6425820cda969136a9"
+    },
+    {
+      "id": "ptolemy-new-moon-year",
+      "sha256": "59b088c65b3d27666c2740da6107ead1550ef0cc9a0723d73b1a1bf6487bcfb3"
+    },
+    {
+      "id": "ptolemy-signs-weather",
+      "sha256": "9487354b5b4861e9efdb354a750fa2beef58c42b8d6223a828dcba1c4c33ac3b"
+    },
+    {
+      "id": "ptolemy-weather-judgment",
+      "sha256": "be99790cf3301a2e037efb0fe4a874740061cea8853b1433c03426efd55c41d3"
+    },
+    {
+      "id": "ptolemy-sky-weather-signs",
+      "sha256": "f6ba5d1497270f86f6818d629d435066163672469ca2162472fd414e8b444509"
+    }
+  ],
+  "preservedReferences": [
+    {
+      "id": "xingming-judgment-passages-1",
+      "sha256": "878e8eb1f475dda80ee8e0bc2161c08fe918a0440c66c0cd4d6a87a9633fe618"
+    },
+    {
+      "id": "xingming-judgment-passages-2",
+      "sha256": "ae7f6a036ce3cc38826485ff0028488c6244408346296aed65e44b8330ca36cf"
+    },
+    {
+      "id": "xingming-judgment-passages-3",
+      "sha256": "981ee90201674453a8e4c69f3296d83aafff851ecdb0463be029d08d67b83e77"
+    },
+    {
+      "id": "xingming-judgment-passages-4",
+      "sha256": "6e53c4a9a247a53ebbb3a2c58f0b457735150735eaf1e12f9cc1d3c078bf22b4"
+    },
+    {
+      "id": "ptolemy-planetary-qualities-passage",
+      "sha256": "f48f2c424043d5c7c0200d72ecc2cc0883efb21ddf25405551eaee5a1d41f9c7"
+    },
+    {
+      "id": "ptolemy-benefics-malefics-passage",
+      "sha256": "4420b3c10a11db760924ac7e358cadb9e6b5cba39d3936e79e12ab65cfc8aee6"
+    },
+    {
+      "id": "ptolemy-masculine-feminine-passage",
+      "sha256": "a0c6d0ee9de57b24b42e3b5afbe328b80274c4d9c76e52d305fe322f25b4a714"
+    },
+    {
+      "id": "ptolemy-diurnal-nocturnal-passage",
+      "sha256": "7ed65f5ec9dc2b24ba06a5a78a481a681c49b434e1f66bb7ee37138577bbe75e"
+    },
+    {
+      "id": "ptolemy-solar-phases-passage",
+      "sha256": "4633d104edda2a6230acaf97c9908152e0d91496998f77e4917e14db975e62a0"
+    },
+    {
+      "id": "ptolemy-zodiacal-stars-passage",
+      "sha256": "be1aeadb050f3f0106128d3059044308601ef982bd5cf21ace0ff7ccb760750b"
+    },
+    {
+      "id": "ptolemy-northern-constellations-passage",
+      "sha256": "39c726c04ee6ad2984972fde00aa5861c32eeb32ef48d75c713c6ebfcd5bd29f"
+    },
+    {
+      "id": "ptolemy-southern-constellations-passage",
+      "sha256": "dc01065937a26597c7ac48ba3a380faa0164a5c4b64a8b38c6bc82dfe1578de9"
+    },
+    {
+      "id": "ptolemy-annual-seasons-passage",
+      "sha256": "db2d2d0ab8beb10d7b2cd70b294fd9eb83ee325300d70441b388ab5cf2eb9086"
+    },
+    {
+      "id": "ptolemy-four-angles-passage",
+      "sha256": "befab19f34b10642171d793e68b397acc0c4ab2160c6978908eb09815636ca0a"
+    },
+    {
+      "id": "ptolemy-sign-modalities-passage",
+      "sha256": "e62de5556a745d9b21933f2a0576c745215f7b983fbfc975d919e19a6b5a6de1"
+    },
+    {
+      "id": "ptolemy-sign-genders-passage",
+      "sha256": "a587674198782c60048a1a23df6ae636d741ff70129ba7c2feb7304366c5adc6"
+    },
+    {
+      "id": "ptolemy-aspect-geometry-passage",
+      "sha256": "93207bcc777e9908e8069ecf988b6a5271d11e6611a253afab0b1679671826f4"
+    },
+    {
+      "id": "ptolemy-commanding-obeying-passage",
+      "sha256": "7abaaa9069d2c84b9ddf8eddd976a19672a0133b57833f4998a2e72cc7ee5aea"
+    },
+    {
+      "id": "ptolemy-beholding-signs-passage",
+      "sha256": "3cf29c6619b413f4cc028f821a8401f46143fa3923397d43270e3584afea2c70"
+    },
+    {
+      "id": "ptolemy-inconjunct-passage",
+      "sha256": "7088b3b2b1b9dca92a521317c08bdd7ffca2e6e2fb25996f664987ed8417e2bc"
+    },
+    {
+      "id": "ptolemy-domiciles-passage",
+      "sha256": "e7c937582ef71fd94eee09064089bbe7d4af9d89318e2bdd9fc442d1670731fd"
+    },
+    {
+      "id": "ptolemy-triplicities-passage",
+      "sha256": "8eada3d95df93fc8ede8345eff96e280612230b0013bf44f26d21d867c36007c"
+    },
+    {
+      "id": "ptolemy-exaltations-passage",
+      "sha256": "f534e07c83f11a05030b4158e23dfb0353e5b622c589e73529583d4ccc9fed2c"
+    },
+    {
+      "id": "ptolemy-egyptian-chaldean-terms-passage",
+      "sha256": "7679fbf313235178d40abc6cc6922c81eda340e27bd077be0c894849b38340e9"
+    },
+    {
+      "id": "ptolemy-terms-rule-passage",
+      "sha256": "6949e41191b49c43108254494876f2530fee55293fb275adca64b75a84147522"
+    },
+    {
+      "id": "ptolemy-zodiac-subdivisions-passage",
+      "sha256": "ccb89f50bfbbe573233ecfaff60fab6608b23776812d644c6b82c272de556dbd"
+    },
+    {
+      "id": "ptolemy-faces-chariots-passage",
+      "sha256": "17d668b1b1417508b0e51e845678e3c4d805a36457d366419a741f5bb73d836a"
+    },
+    {
+      "id": "ptolemy-application-separation-passage",
+      "sha256": "d671eaa7d95168f6b4962fd9c41eef6a0945da56aa17a84607ee7b07c8907567"
+    },
+    {
+      "id": "ptolemy-benefics-malefics-pair-1",
+      "sha256": "c5a98e9fce068afd914640bfbf25ca70c2208ece131f18a2adba191c5cb13d26"
+    },
+    {
+      "id": "ptolemy-masculine-feminine-pair-1",
+      "sha256": "fda4ab04094507a9b34621064bafc9fe569ca67f2f318bb2ab7bdb44e2aad3ea"
+    },
+    {
+      "id": "ptolemy-diurnal-nocturnal-pair-2",
+      "sha256": "5a643d7448578da7cef8396f1da5435258a5f4910e9c427b8368742fa75cef3b"
+    },
+    {
+      "id": "ptolemy-solar-phases-pair-2",
+      "sha256": "93a053dcda2c4fe889951792f41c4208220d0802841d3f99d9803b7ac83a6f4a"
+    },
+    {
+      "id": "ptolemy-annual-seasons-pair-1",
+      "sha256": "4e112579bfa4daf75267c2378318389ea512c149f98bdcbb32be0f2579e08b2a"
+    },
+    {
+      "id": "ptolemy-sign-modalities-pair-2",
+      "sha256": "a38989a1a222aca1451779287f24f8eb5a6adb88344ceeb6a9a0b46313b42744"
+    },
+    {
+      "id": "ptolemy-sign-genders-pair-1",
+      "sha256": "9530fb1eac99f0fd60ab47811adef0ae309e2cbeec8bf2bec9d759b809e00466"
+    },
+    {
+      "id": "ptolemy-commanding-obeying-pair-1",
+      "sha256": "702433442b715f56eaac9f051c60fba0049543a468d8828a3e53c66bdd777aaa"
+    },
+    {
+      "id": "ptolemy-beholding-signs-pair-1",
+      "sha256": "0318d691203955f224781f5a0cfec45b30c4aba819e82df5bd64f70174e8859c"
+    },
+    {
+      "id": "ptolemy-inconjunct-pair-1",
+      "sha256": "e98f79ce1e2b07e507b640fa448c9e6ddad20b396460980001396006498fad56"
+    },
+    {
+      "id": "ptolemy-terms-rule-pair-1",
+      "sha256": "016c9d62e7ed012c974f71c13a84fff8519036932c972039495ebf36a31ebca7"
+    },
+    {
+      "id": "ptolemy-faces-chariots-pair-2",
+      "sha256": "3940432e66d8e8198b29d4acbcf37823480b91269190149f57ae93b1191dc13f"
+    },
+    {
+      "id": "ptolemy-proem-passage",
+      "sha256": "0083d05044e350e3935db924049cf8bb94e9552887048b029fac6ef00d8d9667"
+    },
+    {
+      "id": "ptolemy-proem-pair-1",
+      "sha256": "045563d8728a8891edab0712456e48128c73ac18ee2dd2b2ba5d5a7b5039d156"
+    },
+    {
+      "id": "ptolemy-knowledge-limits-passage",
+      "sha256": "26b298677f7a54c90a4a205b3302b159cb7d975c6db8b31908c06776d1bc9bd0"
+    },
+    {
+      "id": "ptolemy-knowledge-limits-pair-1",
+      "sha256": "9f06adfb0b553f3d16a40fecb33e9a2e1e4681a1729d2d28d629507283e2e1dd"
+    },
+    {
+      "id": "ptolemy-prescience-usefulness-passage",
+      "sha256": "fff480f8674bbeccb5ef8fe08c2b6d2745315b8e8fccab6602288ac99fabdf5c"
+    },
+    {
+      "id": "ptolemy-prescience-usefulness-pair-1",
+      "sha256": "f77bc648d9b080598a55ca08eb01da92f2ca0ce361ddb7f35b696e79640c3d07"
+    },
+    {
+      "id": "ptolemy-universal-particular-passage",
+      "sha256": "215b099428762468eda5e526c481750c055fe6ca5b9f08921a24c08446e38128"
+    },
+    {
+      "id": "ptolemy-universal-particular-pair-1",
+      "sha256": "2adbb092273437a5f6251aa2815369e53602c454d9dafb071f716e76564ac04e"
+    },
+    {
+      "id": "ptolemy-climates-peoples-passage",
+      "sha256": "83552f6fb2bf340ef5380f9a999fac0b2c21e585f9b53d611c602e4d909dca32"
+    },
+    {
+      "id": "ptolemy-climates-peoples-pair-1",
+      "sha256": "73a9dc83adc670ef3c2cce2a6a9cbc7a77ab27ba938474a88f1133344964290c"
+    },
+    {
+      "id": "ptolemy-regional-triplicities-passage",
+      "sha256": "b4d5ecd2c0f2b5fc2fe326e4f9214d1d6492c321086e7115d0dd9a6afcdef603"
+    },
+    {
+      "id": "ptolemy-regional-triplicities-pair-2",
+      "sha256": "0d1cacaaa4de4ea5989dfa49dd7a168a86ae7dd425619d08df6065e1eab82f3f"
+    },
+    {
+      "id": "ptolemy-regional-fixed-stars-passage",
+      "sha256": "5bf8008e004f21627f8b93a17e6dddddfeabf284f81dc97fa5aa208667d8fd5f"
+    },
+    {
+      "id": "ptolemy-regional-fixed-stars-pair-1",
+      "sha256": "417c661c743ef0cff233553e19e6544b452e80047a91b05a11a81dd2b8e121be"
+    },
+    {
+      "id": "ptolemy-eclipse-inquiry-passage",
+      "sha256": "ed53a7da29f42789bdc8ac417f38778896cb1223c6e270ccd08ab8f05afc077d"
+    },
+    {
+      "id": "ptolemy-eclipse-inquiry-pair-1",
+      "sha256": "32102d90f176e906c0ab0b92f86a51d669a0d193ddb1b6f6344fa20fc86604a6"
+    },
+    {
+      "id": "ptolemy-eclipse-regions-passage",
+      "sha256": "977b09e57daea4b28f0bd39c25f3419f05e6b46ac31035a092084269a2ee1e68"
+    },
+    {
+      "id": "ptolemy-eclipse-regions-pair-1",
+      "sha256": "fd4259170a707b54f30eadbb4d28c894c7d3cc5a338edb2e966d9c00b22a6b50"
+    },
+    {
+      "id": "ptolemy-eclipse-timing-passage",
+      "sha256": "23885ef57dffb7018211b444f420d00fde4a266e8d7abb3d86e0a646d9d892d7"
+    },
+    {
+      "id": "ptolemy-eclipse-timing-pair-1",
+      "sha256": "af3392ee52ff1ca5e623707b2e23cf1b5f74d23e9bcf0a6a60f4e5717830d7c3"
+    },
+    {
+      "id": "ptolemy-eclipse-affected-kinds-passage",
+      "sha256": "0ce697d3ab6698c28b0e7c8107fe8d0e43139ffdd769fdc623f02a9d60c7dd24"
+    },
+    {
+      "id": "ptolemy-eclipse-affected-kinds-pair-1",
+      "sha256": "34fb28d969559455b564c9a794f57d50a84a95cdaa68f724ad7dcf38084f85d9"
+    },
+    {
+      "id": "ptolemy-eclipse-effects-passage",
+      "sha256": "919de148e73a9ccc63715d6a2aa9cac1d0e4bd78ce969479557b145c616a3df5"
+    },
+    {
+      "id": "ptolemy-eclipse-effects-pair-1",
+      "sha256": "97b59ee2c423838cd7ccd2ed9aa68a5651fb2d13e28f0ffd4b28a5064656eb6a"
+    },
+    {
+      "id": "ptolemy-eclipse-colours-comets-passage",
+      "sha256": "b74f3ff1937f0389a6f71e3ecf45ae6cab3c471019f29b703f2f05f18027cc60"
+    },
+    {
+      "id": "ptolemy-eclipse-colours-comets-pair-1",
+      "sha256": "8ab0c5e6b8665403be3b149a1cd5160810a500a430a9b1a7c8f09894537a79b6"
+    },
+    {
+      "id": "ptolemy-new-moon-year-passage",
+      "sha256": "febf9ccd6fbb7e59b710cbc384c9ac61e5474beee627594863547c879acd7f85"
+    },
+    {
+      "id": "ptolemy-new-moon-year-pair-1",
+      "sha256": "4bf7499496d0e0e173ccdb3d20fb5527c7169ba803ab9d1a3b6bc3ad45673142"
+    },
+    {
+      "id": "ptolemy-signs-weather-passage",
+      "sha256": "4c19cb49708c46c03ffd6b323cd977ed877d7b0cce8569b9f5c75660a9efe833"
+    },
+    {
+      "id": "ptolemy-signs-weather-pair-1",
+      "sha256": "0df01067aa423f9994617cbf12f321b1f015cecb7dc26db2eb33f7bb93a525c2"
+    },
+    {
+      "id": "ptolemy-weather-judgment-passage",
+      "sha256": "509440af64af55955daaac568576f873ce308c6c54434c56b49a3d4c3b7f5874"
+    },
+    {
+      "id": "ptolemy-weather-judgment-pair-5",
+      "sha256": "23123a9841a1a9352abda47ae9a2bf3ab876785c3e5742ae2112a5c80eba9024"
+    },
+    {
+      "id": "ptolemy-sky-weather-signs-passage",
+      "sha256": "4b8dc5071deda631b46bef9e7b387e4287eb49f0c254ba954b88812597cc1661"
+    },
+    {
+      "id": "ptolemy-sky-weather-signs-pair-1",
+      "sha256": "2dc95ff27790758a0bb0fdd96f951bca857a537e84256a0ddd8157e9e8999249"
+    }
+  ],
+  "next": {
+    "book": 4,
+    "chapter": 1,
+    "title": "서문",
+    "pdfPage": 205,
+    "printedPage": 172,
+    "anchor": "CHAPTER_IV_I"
+  },
+  "counts": {
+    "addedChapters": 19,
+    "sourceParagraphs": 152,
+    "targetParagraphs": 195,
+    "sourceTableRows": 0,
+    "variantRecords": 15,
+    "reviewedPdfPages": 68
+  },
+  "completionReview": {
+    "date": "2026-09-18",
+    "editor": "ChatGPT (GPT-6 Astra Pro)",
+    "scope": "중단 후 19개 장의 영문 152문단·한국어 195문단 및 1822년판 PDF 137–204쪽의 지면 이미지를 다시 직접 대조했다. 한국어 연결 표현 두 곳을 다듬었고 원문 범위·문단 수는 유지했다.",
+    "koreanPolishes": [
+      {
+        "id": "ptolemy-prorogation-example",
+        "paragraph": 13,
+        "from": "이미 지나간 사건들, 곧 뒤따를 미래의 사건들",
+        "to": "이미 지나간 사건들과 앞으로 곧 뒤따를 미래의 사건들",
+        "reason": "과거 사건과 미래 사건을 동격이 아닌 병렬로 분명히 옮겼다."
+      },
+      {
+        "id": "ptolemy-disorders-of-mind",
+        "paragraph": 11,
+        "from": "화성과 금성의 오리엔탈한 주간 위치 역시 더 남성적이며 평판이 좋은 성질에 기여한다. 그들의 옥시덴탈한 저녁 위치는 더 여성적이고 더 비루한 성질에 기여한다.",
+        "to": "화성과 금성의 오리엔탈한 위치와 주간 위치 역시 더 남성적이며 평판이 좋은 성질에 기여한다. 그들의 옥시덴탈한 위치와 저녁 위치는 더 여성적이고 더 비루한 성질에 기여한다.",
+        "reason": "저본이 병렬로 든 위치 조건을 한국어에서도 구별했다."
+      }
+    ],
+    "externalTranslationModelCalls": 0
+  }
+}

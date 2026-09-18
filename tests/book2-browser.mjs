@@ -20,7 +20,7 @@ try {
   assert.equal(await page.locator('#references a').first().getAttribute('href'),t.sourceUrl);
   assert.match(await page.locator('#references details').textContent(),/GPT-6 Astra Pro/);
   const index=book.findIndex(x=>x.id===t.id);assert.equal(await page.locator('a[rel="prev"]').getAttribute('href'),`/translations/${book[index-1].id}/`);
-  if(index<book.length-1)assert.equal(await page.locator('a[rel="next"]').getAttribute('href'),`/translations/${book[index+1].id}/`);else assert.equal(await page.locator('a[rel="next"]').count(),0);
+  if(index<book.length-1)assert.equal(await page.locator('a[rel="next"]').getAttribute('href'),`/translations/${book[index+1].id}/`);else assert.equal(await page.locator('a[rel="next"]').getAttribute('href'),'/translations/ptolemy-nativities-proem/');
   if(t.contentNotice)assert.equal(await page.locator('[data-translation-notice] p').textContent(),t.contentNotice);
  }
  await page.goto(origin+'/translations/ptolemy-regional-triplicities/');

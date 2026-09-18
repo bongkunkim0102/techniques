@@ -1,7 +1,7 @@
 const s = (id, title, author, url, locator, license = '참고·독자 해설', access = '본문 확인') => ({ id, title, author, url, locator, license, access, checkedAt: '2026-09-18' });
 const sky = (id, title, slug, locator = '표제 항목 본문') => s(id, `Skyscript: ${title}`, 'Deborah Houlding', `https://www.skyscript.co.uk/glossary/${slug}/`, locator, 'CC BY-NC-SA 4.0');
 export const sources = [
-  s('ptolemy-ashmand1822', 'Ptolemy’s Tetrabiblos — J. M. Ashmand (1822)', '프톨레마이오스; 프로클로스 귀속 의역본; J. M. Ashmand 영어 번역', 'https://iapsop.com/ssoc/1822__ashmand___ptolemys_tetrabiblos.pdf', '제1권 I–XXVII장 및 제2권 I–XIV장 전체; 인쇄본 1–103쪽', 'Public domain', '41개 장 본문 수록. 제2권 나머지 12개 장과 지역 배정표는 1822년 지면 전체와 보조 전사를 대조. 텀 표·애스펙트 도식 보존'),
+  s('ptolemy-ashmand1822', 'Ptolemy’s Tetrabiblos — J. M. Ashmand (1822)', '프톨레마이오스; 프로클로스 귀속 의역본; J. M. Ashmand 영어 번역', 'https://iapsop.com/ssoc/1822__ashmand___ptolemys_tetrabiblos.pdf', '제1권 I–XXVII장·제2권 I–XIV장·제3권 I–XIX장 전체; 인쇄본 1–171쪽', 'Public domain', '60개 장 본문 수록. 제3권 19개 장은 1822년 지면 68쪽 전체와 보조 전사를 대조하고 계산 예제·판본 차이를 확인. 기존 텀 표·지역 표·애스펙트 도식 보존'),
   s('xingming-volume1', '星命溯源（四庫全書本）卷一', '장과 귀속 『통현유서』; 편자 미상; Wikisource 전사', 'https://zh.wikisource.org/wiki/星命溯源_(四庫全書本)/卷1', '「五星論」·「四時論」의 판단 원칙 네 대목', '고전 원저 Public domain; 전사 이용 CC BY-SA 4.0', '전사 본문 확인; 영인본 교감 미실시'),
   sky('reception', 'Reception', 'reception'),
   sky('translation', 'Translation of Light / Transference of Virtue', 'translation', '정의 및 Christian Astrology p.111 인용'),

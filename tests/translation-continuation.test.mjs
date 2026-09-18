@@ -40,9 +40,10 @@ test('new reference examples map to checked source passages, not merely similar 
 
 test('volumes never interleave, Book I is complete, and Book II begins at I',()=>{
   const entries=translations.filter(t=>t.sourceId==='ptolemy-ashmand1822');const volumes=translationVolumes(entries);
-  assert.deepEqual(volumes.map(v=>v.id),['ptolemy-book1','ptolemy-book2']);
+  assert.deepEqual(volumes.map(v=>v.id),['ptolemy-book1','ptolemy-book2','ptolemy-book3']);
   assert.deepEqual(volumes[0].entries.map(t=>t.series.order),Array.from({length:27},(_,i)=>i+1));
   assert.deepEqual(volumes[1].entries.map(t=>t.series.order),Array.from({length:14},(_,i)=>i+1));
+  assert.deepEqual(volumes[2].entries.map(t=>t.series.order),Array.from({length:19},(_,i)=>i+1));
   const ordered=[...entries].sort(compareTranslations),end=ordered.findIndex(t=>t.id==='ptolemy-application-separation');
   assert.equal(ordered[end+1].id,'ptolemy-universal-particular');
   const synthetic=[10,2,1].map(n=>({id:`test-${n}`,series:{id:`ptolemy-book${n}`,order:1}}));
