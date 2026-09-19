@@ -31,6 +31,10 @@ Breiter1907년판 제5권745행까지, 현전 인쇄 본문 전체를 직접 번
 
 [전권 구조·용어 검토](MANILIUS_REVIEW.md)와 [번역 진도](MANILIUS_PROGRESS.md)를 참고한다. 기존 600개 용어에 문헌별 31개를 추가한 2026-09-18.4판을 먼저 준비하고, Breiter 1907년 라틴어에서 제1·2권 인쇄 본문 전체, 64구간·319문단을 직접 옮겼다. 각 문단의 원문 대조란에 라틴어·행 번호·전체 및 부분 기울임꼴·결락 표시가 있다. 다음은 제3권 1행(인쇄본 65쪽·PDF 81쪽)이다.
 
+## 편집자 서문·정오표
+
+Breiter의 서술 산문·서지·편지 인용을 라틴어에서 직접 47문단으로 옮기고 각주 7개·정오표 7항목을 더했다. 복잡한 이문 배열은 영인과 한국어 설명으로 제공한다. 웹 경로는 `/editorial/breiter1907-preface/`, 읽기 원고는 [BREITER_PREFACE_KO.md](BREITER_PREFACE_KO.md), 작업 기록은 [MANILIUS_EDITORIAL_PROGRESS.md](MANILIUS_EDITORIAL_PROGRESS.md)이다. 용어집의 대표 표기 octotopos를 교정하고 ID와 옛 별칭은 유지했다. 새 용어집 판은 `2026-09-19.manilius-editorial.1`이며 기존 번역의 역사적 판 번호·본문은 변경하지 않는다.
+
 ## 실행
 
 Node 22.12 이상. 이 폴더에서 `npm ci`, `npm run build`, `npm run preview`를 실행한다. 개발은 `npm run dev`이며 포트는 4326이다. `npm test`는 계산·검색·번역 작업기의 회귀 테스트다. 미리보기 실행 후 `npm run test:browser`로 실제 브라우저 흐름을 검사한다.

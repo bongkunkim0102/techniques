@@ -1,0 +1,52 @@
+{
+  "id": "vimshottari-dasha",
+  "title": "빔쇼타리 다샤",
+  "en": "Vimshottari dasha",
+  "tradition": "인도 · 타임로드",
+  "summary": "조티샤에서 사용하는 행성 기간 체계의 하나입니다. 다른 다샤의 기간표와 구별해야 합니다.",
+  "sections": [
+    {
+      "title": "하나의 다샤를 다른 다샤로 대체하지 않기",
+      "paragraphs": [
+        "Jagannatha Hora의 공식 목록은 빔쇼타리와 여러 다른 다샤를 별도 방식으로 제공합니다. 이 초판은 체계의 존재와 계산 설정을 식별하는 안내이며 전체 원전 규칙의 번역은 아닙니다."
+      ],
+      "refs": [
+        "jh"
+      ]
+    },
+    {
+      "title": "기간표에 남길 정보",
+      "paragraphs": [
+        "시작 기준, 출생시 잔여 기간, 연간 길이, 마하다샤와 하위 기간의 경계가 있어야 결과를 비교할 수 있습니다. 이 항목들의 원전 대조가 완료되기 전에는 이 위키가 산출한 다샤 날짜를 제공하지 않습니다."
+      ],
+      "refs": []
+    }
+  ],
+  "related": [
+    "mahadasha-and-antardasha",
+    "nakshatra",
+    "dasha-year-length-variants"
+  ],
+  "refs": [
+    "jh"
+  ],
+  "revision": "ddb8c798f93a",
+  "date": "2026-09-18",
+  "glossaryVersion": "2026-09-19.manilius-editorial.1",
+  "editor": "Codex (Astra)",
+  "review": "AI 편집 초판",
+  "license": "HoraryTalk 독자 해설",
+  "kind": "개요",
+  "sourceSnapshots": [
+    {
+      "id": "jh",
+      "title": "Features of Jagannatha Hora Software",
+      "author": "P. V. R. Narasimha Rao",
+      "url": "https://www.vedicastrologer.org/jh/features.htm",
+      "locator": "Divisional Charts / Dasas / Annual Charts / Panchanga / KP",
+      "license": "참고·독자 해설",
+      "access": "본문 확인",
+      "checkedAt": "2026-09-18"
+    }
+  ]
+}

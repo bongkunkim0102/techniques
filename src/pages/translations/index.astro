@@ -12,6 +12,7 @@ const groups=[
   <h1>한국어 번역실</h1><p class="intro">용어의 실제 쓰임을 문헌 속에서 읽습니다.</p>
   <div class="stats"><div class="stat"><strong>{translations.length}편</strong>한국어 번역</div><div class="stat"><strong>{translations.reduce((n,t)=>n+t.paragraphs.length,0)}문단</strong>번역 본문</div><div class="stat"><strong>Astra</strong>직접 번역 초판</div></div>
   <p>장 전체 번역과 발췌 번역을 구별했습니다. 각 문서 하단에서 판본과 실제 번역 주체를 확인할 수 있습니다. <a href="/glossary/">한국어 용어집</a>과 함께 읽어 보세요.</p>
+  <aside class="note"><strong>마닐리우스 편집 자료</strong><p><a href="/editorial/breiter1907-preface/">Breiter 편집자 서문·정오표</a> — 라틴어 직접 번역 47문단, 각주 7개와 정오표 7항목. 다섯 권의 시 본문과 별도로 읽습니다.</p></aside>
   <nav class="related" aria-label="번역 문헌과 권별 목차">{groups.flatMap(group=>group.volumes.map(volume=><a href={`#${volume.label?volume.id:group.id}`}>{volume.label || group.name} · {volume.entries.length}편</a>))}</nav>
   {groups.map(group=><section id={group.id}>
     <h2>{group.name}</h2><p class="meta">{group.description}</p>

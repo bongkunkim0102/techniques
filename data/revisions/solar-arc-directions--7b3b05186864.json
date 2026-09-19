@@ -1,0 +1,52 @@
+{
+  "id": "solar-arc-directions",
+  "title": "솔라 아크 디렉션",
+  "en": "Solar arc directions",
+  "tradition": "현대 서양 · 예측",
+  "summary": "태양의 진행에 대응하는 호를 구한 뒤, 그 호를 여러 출생차트 위치에 공통으로 더하는 디렉션 계열입니다.",
+  "sections": [
+    {
+      "title": "공통 호라는 특징",
+      "paragraphs": [
+        "세컨더리 프로그레션에서는 각 행성의 이동량이 다르지만, 솔라 아크에서는 선택한 공통 호를 적용합니다. 실제 진행 태양의 호인지 평균 운동을 이용한 호인지 기록해야 합니다."
+      ],
+      "refs": [
+        "progressions"
+      ]
+    },
+    {
+      "title": "합성 예제",
+      "paragraphs": [
+        "공통 호를 25°로 가정하면 출생 황경 350°인 점은 15°가 됩니다. 각 점을 같은 호로 이동시키는 산술 예제이며, 나이만으로 실제 태양호를 계산한 결과는 아닙니다."
+      ],
+      "refs": []
+    }
+  ],
+  "related": [
+    "secondary-progressions",
+    "solar-arc-directional-key",
+    "naibod-key"
+  ],
+  "refs": [
+    "progressions"
+  ],
+  "revision": "7b3b05186864",
+  "date": "2026-09-18",
+  "glossaryVersion": "2026-09-19.manilius-editorial.1",
+  "editor": "Codex (Astra)",
+  "review": "AI 편집 초판",
+  "license": "HoraryTalk 독자 해설",
+  "kind": "개요",
+  "sourceSnapshots": [
+    {
+      "id": "progressions",
+      "title": "Chart Types: Natal, progressions and solar arc combined",
+      "author": "Astrodienst",
+      "url": "https://www.astro.com/cgi/h.cgi?f=gch&h=gch246&lang=e",
+      "locator": "진행 시점 및 앵글 계산의 여러 방식",
+      "license": "참고·독자 해설",
+      "access": "본문 확인",
+      "checkedAt": "2026-09-18"
+    }
+  ]
+}

@@ -1,5 +1,7 @@
 # Manilius 번역 진도 · 다섯 권 현전 인쇄 본문 완료
 
+**편집 자료 추가:** Breiter 서문 지면 대조·확장 번역과 정오표, 옥토토포스 표기 교정을 별도로 반영했다. 아래 다섯 권 본문의 수량과 원고는 변경하지 않았다. 새 자료는 [BREITER_PREFACE_KO.md](BREITER_PREFACE_KO.md), 검증과 보존 기록은 [MANILIUS_EDITORIAL_PROGRESS.md](MANILIUS_EDITORIAL_PROGRESS.md)를 참고한다.
+
 ## 완료 범위 · 2026-09-19
 
 **Theodor Breiter 편집, M. Manilii Astronomica I. Carmina(1907)의 제1–5권 현전 인쇄 본문을 라틴어에서 직접 한국어로 옮겼다.** 마지막은 제5권 745행, 인쇄본 149쪽·PDF 165쪽이다.

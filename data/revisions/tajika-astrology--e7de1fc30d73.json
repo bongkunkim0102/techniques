@@ -1,0 +1,53 @@
+{
+  "id": "tajika-astrology",
+  "title": "타지카 점성술",
+  "en": "Tajika astrology",
+  "tradition": "인도 · 페르시아계 전승",
+  "summary": "인도 연간 점성술과 관련된 전통으로, 원어 문헌과 현대 비평판을 연결해 읽을 수 있는 분야입니다.",
+  "sections": [
+    {
+      "title": "출발 문헌",
+      "paragraphs": [
+        "Balabhadra의 Hāyanaratna를 산스크리트·영어 대역으로 편집한 Martin Gansten의 The Jewel of Annual Astrology가 공개되어 있습니다. 저작자와 현대 편역자를 서로 다른 역할로 기록합니다."
+      ],
+      "refs": [
+        "tajika"
+      ]
+    },
+    {
+      "title": "이 초판의 범위",
+      "paragraphs": [
+        "현재 확인한 범위는 공개 서지·소개·목차입니다. 개별 요가, 문타, 사하마의 세부 규칙은 해당 장의 원문 대조 후 별도 문서로 확장합니다. 영문 비평판 전체의 번역이 완료된 것으로 표시하지 않습니다."
+      ],
+      "refs": []
+    }
+  ],
+  "related": [
+    "varshaphala",
+    "muntha",
+    "tajika-yogas",
+    "tajika-sahamas"
+  ],
+  "refs": [
+    "tajika"
+  ],
+  "revision": "e7de1fc30d73",
+  "date": "2026-09-18",
+  "glossaryVersion": "2026-09-19.manilius-editorial.1",
+  "editor": "Codex (Astra)",
+  "review": "AI 편집 초판",
+  "license": "HoraryTalk 독자 해설",
+  "kind": "개요",
+  "sourceSnapshots": [
+    {
+      "id": "tajika",
+      "title": "The Jewel of Annual Astrology",
+      "author": "Balabhadra; Martin Gansten 편역",
+      "url": "https://www.jstor.org/stable/10.1163/j.ctv2gjwzsx",
+      "locator": "서지·소개·목차; Brill, 2020",
+      "license": "CC BY 4.0",
+      "access": "서지·목차 확인",
+      "checkedAt": "2026-09-18"
+    }
+  ]
+}

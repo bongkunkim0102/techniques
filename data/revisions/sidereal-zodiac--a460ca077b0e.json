@@ -1,0 +1,52 @@
+{
+  "id": "sidereal-zodiac",
+  "title": "항성황도",
+  "en": "Sidereal zodiac",
+  "tradition": "공통 계산 · 인도 · 항성 점성술",
+  "summary": "항성에 대한 기준을 사용하는 황도 체계입니다. 회귀황도와의 각도 차이를 정하는 기준이 함께 필요합니다.",
+  "sections": [
+    {
+      "title": "아야남샤와 함께 기록",
+      "paragraphs": [
+        "같은 항성황도라고 해도 채택한 아야남샤가 다르면 경계 부근의 사인과 세부 구획이 달라질 수 있습니다. 소프트웨어의 항성황도 체크 여부만으로 계산 규약을 완전히 재현할 수는 없습니다."
+      ],
+      "refs": [
+        "swiss"
+      ]
+    },
+    {
+      "title": "학파를 지우지 않기",
+      "paragraphs": [
+        "항성황도를 쓰는 모든 전통이 같은 하우스·행성 지배권·다샤 체계를 쓰는 것은 아닙니다. 황도 선택은 기법 전체가 아니라 계산 규약의 한 항목입니다."
+      ],
+      "refs": []
+    }
+  ],
+  "related": [
+    "tropical-zodiac",
+    "ayanamsha",
+    "lahiri-ayanamsha"
+  ],
+  "refs": [
+    "swiss"
+  ],
+  "revision": "a460ca077b0e",
+  "date": "2026-09-18",
+  "glossaryVersion": "2026-09-19.manilius-editorial.1",
+  "editor": "Codex (Astra)",
+  "review": "AI 편집 초판",
+  "license": "HoraryTalk 독자 해설",
+  "kind": "개요",
+  "sourceSnapshots": [
+    {
+      "id": "swiss",
+      "title": "Swiss Ephemeris Programmer’s Manual",
+      "author": "Astrodienst · Dieter Koch · Alois Treindl",
+      "url": "https://www.astro.com/swisseph/swephprg.htm",
+      "locator": "Sidereal calculations; House calculation; Julian day functions",
+      "license": "참고·독자 해설",
+      "access": "본문 확인",
+      "checkedAt": "2026-09-18"
+    }
+  ]
+}

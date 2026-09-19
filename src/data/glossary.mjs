@@ -4,7 +4,7 @@ import { resolve } from 'node:path';
 import { canonicalReference, terminologySources } from './terminology-sources.mjs';
 import { lunarNameTerms } from './lunar-names.mjs';
 import { maniliusTerms } from './manilius-terms.mjs';
-export const glossaryVersion = '2026-09-18.4';
+export const glossaryVersion = '2026-09-19.manilius-editorial.1';
 export const editorialPolicy = {
   editor: 'Codex (Astra)',
   method: '등록 용어의 한국어 표기·정의·번역 주의점을 Astra가 직접 편집한 번역 기준판입니다. 출처는 본문·발췌·목차·서지의 확인 범위를 구별합니다. 학계 공인 표준, 모든 원전의 교감 완료, 전 세계 용어의 영구적인 완결을 뜻하지 않습니다.',

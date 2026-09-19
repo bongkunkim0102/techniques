@@ -1,0 +1,76 @@
+{
+  "id": "reception",
+  "title": "리셉션",
+  "en": "Reception",
+  "tradition": "서양 전통 · 호라리",
+  "summary": "어떤 행성이 다른 행성의 디그니티에 놓이는 관계를 통해, 두 행성 사이의 수용과 지원을 살피는 개념입니다.",
+  "sections": [
+    {
+      "title": "누가 누구를 받아들이는가",
+      "paragraphs": [
+        "금성이 양자리에 있고 화성과 애스펙트를 맺는 경우를 생각해 봅시다. 양자리는 화성의 도미사일이므로, Skyscript의 정의에서는 화성이 금성을 받아들입니다. 받아들이는 주체와 받아들여지는 행성을 뒤집지 않는 것이 출발점입니다."
+      ],
+      "refs": [
+        "reception"
+      ]
+    },
+    {
+      "title": "정의가 갈리는 지점",
+      "paragraphs": [
+        "Skyscript 용어집은 애스펙트와 디그니티 조건을 함께 제시합니다. 다른 저자의 리셉션 설명을 옮길 때에는 같은 조건을 요구하는지 별도로 확인해야 합니다.",
+        "Tobyn의 문헌 비교는 리셉션과 사건의 성사 조건이 저자별로 단순히 같지 않음을 보여줍니다. 특정 호라리 저자의 감정 해석을 모든 전통에 공통인 정의로 올리지 않습니다."
+      ],
+      "refs": [
+        "reception",
+        "perfection"
+      ]
+    },
+    {
+      "title": "읽는 순서",
+      "paragraphs": [
+        "① 두 행성이 각각 누구·무엇을 상징하는지 정합니다. ② 사용한 디그니티 표를 밝힙니다. ③ 주체와 객체를 기록합니다. ④ 애스펙트의 접근 여부와 방해 요인을 분리하여 봅니다.",
+        "관계가 있다는 사실만으로 질문의 성사가 확정되지는 않습니다. 이것은 위키에서 여러 판단 요소를 구분해서 기록하기 위한 편집 원칙입니다."
+      ],
+      "refs": []
+    }
+  ],
+  "related": [
+    "essential-dignities",
+    "mutual-reception",
+    "translation-of-light",
+    "collection-of-light"
+  ],
+  "refs": [
+    "reception",
+    "perfection"
+  ],
+  "revision": "3f409a024eba",
+  "date": "2026-09-18",
+  "glossaryVersion": "2026-09-19.manilius-editorial.1",
+  "editor": "Codex (Astra)",
+  "review": "AI 편집 초판",
+  "license": "CC BY-NC-SA 4.0",
+  "kind": "개요",
+  "sourceSnapshots": [
+    {
+      "id": "reception",
+      "title": "Skyscript: Reception",
+      "author": "Deborah Houlding",
+      "url": "https://www.skyscript.co.uk/glossary/reception/",
+      "locator": "표제 항목 본문",
+      "license": "CC BY-NC-SA 4.0",
+      "access": "본문 확인",
+      "checkedAt": "2026-09-18"
+    },
+    {
+      "id": "perfection",
+      "title": "Perfection of significators and its denial",
+      "author": "Graeme Tobyn",
+      "url": "https://direct.skyscript.co.uk/tobyn2.html",
+      "locator": "Translation / Collection / Reception 절",
+      "license": "참고·독자 해설",
+      "access": "본문 확인",
+      "checkedAt": "2026-09-18"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "annual-profections",
+  "title": "연간 프로펙션",
+  "en": "Annual profections",
+  "tradition": "헬레니즘 · 전통 예측",
+  "summary": "나이에 따라 출발 사인을 한 해에 한 사인씩 이동시켜, 해당 연도의 하우스와 주인 행성을 살피는 타임로드 기법입니다.",
+  "sections": [
+    {
+      "title": "기본 연간 방식",
+      "paragraphs": [
+        "어센던트에서 출발하는 방식에서는 출생 후 첫 1년을 1하우스 해로 세고, 첫 생일 뒤에는 2하우스 해로 이동합니다. 12년마다 출발 사인으로 돌아옵니다."
+      ],
+      "refs": [
+        "profections-transcript"
+      ]
+    },
+    {
+      "title": "직접 계산해 보기",
+      "paragraphs": [
+        "완료한 나이를 A라고 할 때 하우스 번호는 (A mod 12) + 1입니다. 만 30세는 7하우스 해입니다. 연령은 세는나이가 아닌, 지정한 연간 경계를 지난 횟수로 입력합니다."
+      ],
+      "refs": []
+    },
+    {
+      "title": "한 단계 더 읽기",
+      "paragraphs": [
+        "해당 사인의 지배 행성을 확인한 뒤 출생차트의 조건과 연결합니다. 이 페이지의 실습은 기본 어센던트 출발 방식만 계산합니다. 다른 출발점·월간 방식·연속 프로펙션은 별도 규약입니다."
+      ],
+      "refs": [
+        "profections"
+      ]
+    }
+  ],
+  "related": [
+    "monthly-profections",
+    "solar-returns",
+    "house-rulership",
+    "sect"
+  ],
+  "refs": [
+    "profections-transcript",
+    "profections"
+  ],
+  "calculator": "profection",
+  "revision": "3b314a0b0eb4",
+  "date": "2026-09-18",
+  "glossaryVersion": "2026-09-19.manilius-editorial.1",
+  "editor": "Codex (Astra)",
+  "review": "AI 편집 초판",
+  "license": "HoraryTalk 독자 해설",
+  "kind": "개요",
+  "sourceSnapshots": [
+    {
+      "id": "profections-transcript",
+      "title": "Ep. 153 Transcript: Annual Profections",
+      "author": "Chris Brennan",
+      "url": "https://theastrologypodcast.com/transcripts/ep-153-annual-profections-an-ancient-time-lord-technique/",
+      "locator": "프로펙션 절차와 연령 계산",
+      "license": "참고·독자 해설",
+      "access": "본문 확인",
+      "checkedAt": "2026-09-18"
+    },
+    {
+      "id": "profections",
+      "title": "Annual Profections: A Basic Time-Lord Technique",
+      "author": "Chris Brennan",
+      "url": "https://theastrologypodcast.com/2018/04/26/annual-profections-a-basic-time-lord-technique/",
+      "locator": "에피소드 153, 개요와 강의 자료",
+      "license": "참고·독자 해설",
+      "access": "본문 확인",
+      "checkedAt": "2026-09-18"
+    }
+  ]
+}

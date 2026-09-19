@@ -1,0 +1,59 @@
+{
+  "id": "cazimi",
+  "title": "카지미",
+  "en": "Cazimi",
+  "tradition": "서양 전통",
+  "summary": "행성이 태양에 극도로 가까운 합을 이룰 때 특별한 힘을 가진다고 해석하는 상태입니다.",
+  "sections": [
+    {
+      "title": "연소와 구별",
+      "paragraphs": [
+        "카지미는 태양에 가까우면 무조건 약해진다는 식의 설명을 그대로 적용할 수 없는 구간입니다. Skyscript는 17각분 기준과, 더 오래된 저자들에게 나타나는 1도 기준을 함께 소개합니다."
+      ],
+      "refs": [
+        "cazimi"
+      ]
+    },
+    {
+      "title": "단위를 보존하기",
+      "paragraphs": [
+        "17′는 17도가 아니라 17각분이며 약 0.2833°입니다. 또 태양과 황경이 가깝다는 사실과 실제 천구에서 두 천체의 중심이 겹친다는 사실은 구별해야 합니다."
+      ],
+      "refs": []
+    },
+    {
+      "title": "학파 비교에 남길 것",
+      "paragraphs": [
+        "적용 거리, 경계 포함 여부, 황위 처리 여부, 원전의 해당 구절을 명시합니다. 이 기준들이 다른 설명은 한 행성에 대한 판정이 달라도 곧바로 계산 오류로 취급하지 않습니다."
+      ],
+      "refs": []
+    }
+  ],
+  "related": [
+    "combustion",
+    "ecliptic-longitude",
+    "ecliptic-latitude"
+  ],
+  "refs": [
+    "cazimi"
+  ],
+  "revision": "6b12d6cdb54d",
+  "date": "2026-09-18",
+  "glossaryVersion": "2026-09-19.manilius-editorial.1",
+  "editor": "Codex (Astra)",
+  "review": "AI 편집 초판",
+  "license": "CC BY-NC-SA 4.0",
+  "kind": "개요",
+  "sourceSnapshots": [
+    {
+      "id": "cazimi",
+      "title": "Skyscript: Cazimi",
+      "author": "Deborah Houlding",
+      "url": "https://www.skyscript.co.uk/glossary/cazimi/",
+      "locator": "표제 항목 본문",
+      "license": "CC BY-NC-SA 4.0",
+      "access": "본문 확인",
+      "checkedAt": "2026-09-18"
+    }
+  ]
+}
