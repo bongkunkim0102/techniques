@@ -7,7 +7,7 @@ const book=p.units.map(u=>translations.find(t=>t.id===u.translationId));await mk
 try{
  await page.goto(origin+'/translations/',{waitUntil:'networkidle'});
  assert.equal(await page.locator('main .source-item').count(),translations.length);assert.equal(await page.locator('#manilius-breiter1907 .source-item').count(),translations.filter(t=>t.sourceId==='manilius-breiter1907').length);assert.equal(await page.locator('#manilius-book4 .source-item').count(),translations.filter(t=>t.series?.id==='manilius-book4').length);
- assert.match(await page.locator('#manilius-breiter1907 > p').textContent(),/제5권 251행 이후/);
+ assert.match(await page.locator('#manilius-breiter1907 > p').textContent(),/다섯 권의 현전 인쇄 본문 전체/);
  assert.deepEqual(await page.locator('#manilius-book4 .source-item a').evaluateAll(xs=>xs.slice(0,22).map(a=>a.getAttribute('href'))),book.map(t=>`/translations/${t.id}/`));
  await page.locator('nav[aria-label="번역 문헌과 권별 목차"] a[href="#manilius-book4"]').click();await page.screenshot({path:'test-results/manilius-book4-toc-desktop.png',fullPage:false});
  let latin=0,korean=0;

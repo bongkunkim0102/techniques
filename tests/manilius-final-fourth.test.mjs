@@ -52,7 +52,7 @@ test('all 180 earlier translations and 348 earlier references stay exactly uncha
  for(const p of [p4,p5]){assert.equal(p.preservedTranslations.length,180);assert.equal(p.preservedReferences.length,348);for(const old of p.preservedTranslations)assert.equal(hash(JSON.stringify(find(old.id))),old.sha256,old.id);for(const old of p.preservedReferences)assert.equal(hash(JSON.stringify(refs.find(x=>x.id===old.id))),old.sha256,old.id);}
 });
 test('four complete books and the partial fifth have explicit boundaries and contextual notices',()=>{
- const volumes=translationVolumes(ts.filter(t=>t.sourceId==='manilius-breiter1907'));assert.deepEqual(volumes.map(v=>v.entries.length),[28,36,22,35,12]);for(const v of volumes)assert.deepEqual(v.entries.map(t=>t.series.order),v.entries.map((_,i)=>i+1));
+ const volumes=translationVolumes(ts.filter(t=>t.sourceId==='manilius-breiter1907'));assert.deepEqual(volumes.map(v=>v.entries.length),[28,36,22,35,33]);for(const v of volumes)assert.deepEqual(v.entries.map(t=>t.series.order),v.entries.map((_,i)=>i+1));
  assert.match(line(p4,935),/Augusto crescet/);assert.match(line(p5,250),/crater umoris amator/);assert.deepEqual(p5.next,{book:5,verse:251,pdfPage:147,printedPage:131,title:'처녀자리와 화살의 별자리'});
  for(const p of [p4,p5])for(const u of p.units)assert.match(find(u.translationId).contentNotice,/저자의 서술.*현대/);assert.match(find('manilius-v-140-156').editorialNotes.join('\n'),/질환·도덕적 결함/);
 });

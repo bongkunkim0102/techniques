@@ -13,7 +13,7 @@ try{
  await page.goto(origin+'/translations/',{waitUntil:'networkidle'});
  assert.equal(await page.locator('main .source-item').count(),translations.length);
  for(const [volume,count] of [[1,28],[2,36],[3,22]])assert.equal(await page.locator(`#manilius-book${volume} .source-item`).count(),count);
- assert.match(await page.locator('#manilius-breiter1907 > p').textContent(),/제5권 251행 이후/);
+ assert.match(await page.locator('#manilius-breiter1907 > p').textContent(),/다섯 권의 현전 인쇄 본문 전체/);
  assert.match(await page.locator('#manilius-book3 > h3').textContent(),/22개 구간/);
  assert.deepEqual(await page.locator('#manilius-book3 .source-item a').evaluateAll(xs=>xs.map(a=>a.getAttribute('href'))),book.map(t=>`/translations/${t.id}/`));
  await page.locator('nav[aria-label="번역 문헌과 권별 목차"] a[href="#manilius-book3"]').click();

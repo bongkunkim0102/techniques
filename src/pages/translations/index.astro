@@ -4,7 +4,7 @@ import translations from '../../data/translations.json';
 import {translationVolumes} from '../../lib/translations.mjs';
 const groups=[
   {name:'프톨레마이오스 · 테트라비블로스',id:'ptolemy-ashmand1822',description:'1822년 Ashmand 영어판 제1권 I–XXVII장·제2권 I–XIV장·제3권 I–XIX장·제4권 I–X장, 네 권 70개 장의 본문 전체를 옮겼습니다. 두 텀 표·지역 배정표·애스펙트 도식과 계산 예제를 포함합니다. 영어판 각주·역자 서문·부록은 이번 완역 범위에서 제외했습니다.'},
-  {name:'마닐리우스 · 아스트로노미카',id:'manilius-breiter1907',description:'Breiter 1907년 라틴어판 제1–4권 인쇄 본문 전체와 제5권 1–250행 범위를 직접 옮겼습니다. 제1권 실제 920행, 제2권 967행, 제3권 682행, 제4권 933행이며, 제5권은 제외된 6·7·18행을 뺀 실제 247행입니다. 행 이동·삽입 의심·난문·결락은 그대로 표시했습니다. 제5권 251행 이후는 아직 번역하지 않았습니다.'},
+  {name:'마닐리우스 · 아스트로노미카',id:'manilius-breiter1907',description:'Breiter1907년 라틴어판 다섯 권의 현전 인쇄 본문 전체를 직접 옮겼습니다. 실제 라틴어 4,242행·154개 읽기 구간·한국어 695문단입니다. 제1권 실제 920행, 제2권 967행, 제3권 682행, 제4권 933행, 제5권 740행입니다. 제5권 마지막 745행까지 수록하되, 제외·이동·삽입 의심·난문과 710행 뒤의 큰 결락은 그대로 표시했습니다. 소실 원문 복원이나 모든 필사본 교감이 완료되었다는 뜻은 아닙니다.'},
   {name:'중국 성명학 · 성명소원',id:'xingming',description:'사고전서 제요와 권1의 판단 원칙 발췌를 고전 중국어에서 직접 옮겼습니다.'}
 ].map(group=>({...group,volumes:translationVolumes(translations.filter(t=>group.id==='xingming'?t.sourceId.startsWith('xingming'):t.sourceId===group.id))}));
 ---
