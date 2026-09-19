@@ -5,6 +5,7 @@ import {term} from '../../data/glossary.mjs';
 import {sourceById} from '../../data/sources.mjs';
 import TranslationTable from '../../components/TranslationTable.astro';
 import LatinParallel from '../../components/LatinParallel.astro';
+import CorrigendaNotice from '../../components/CorrigendaNotice.astro';
 import AspectGeometry from '../../components/AspectGeometry.astro';
 import {compareTranslations} from '../../lib/translations.mjs';
 export function getStaticPaths(){return translations.map(t=>({params:{slug:t.id},props:{t}}));}
@@ -24,6 +25,7 @@ const previous=series[position-1];const next=series[position+1];
     <div class="article-meta" data-pagefind-ignore><span class="badge">{t.status}</span><span>{t.date}</span><a href="#references">출처 확인</a></div>
     <div class="note"><p>{t.scope || '사고전서 제요 본문 번역 · 각 권의 본문 제외'}</p>{t.edition && <p>{t.edition}</p>}<p class="meta">{t.locator || source?.locator}</p></div>
     {t.contentNotice && <aside class="note" data-translation-notice data-pagefind-ignore><h2>문헌을 읽기 전에</h2><p>{t.contentNotice}</p></aside>}
+    <CorrigendaNotice translationId={t.id} />
     <section id="translation"><h2>한국어 번역</h2>{t.paragraphs.map((p,i)=><>{t.paragraphLocators?.[i] && <small class="verse-locator" data-pagefind-ignore>{t.paragraphLocators[i]}</small>}{t.paragraphCriticalNotes?.[i] && <small class="critical-note" data-pagefind-ignore>{t.paragraphCriticalNotes[i]}</small>}<p id={`paragraph-${i+1}`}>{p}</p>{t.paragraphLatinVerses?.[i] && <LatinParallel verses={t.paragraphLatinVerses[i]} locator={t.paragraphLocators[i]} />}{t.tables?.filter(table=>table.afterParagraph===i+1).map(table=><TranslationTable table={table} />)}{t.diagram?.afterParagraph===i+1 && t.diagram.type==='aspect-geometry' && <AspectGeometry />}</>)}</section>
     {t.editorialNotes && <section><h2>번역 메모</h2>{t.editorialNotes.map(p=><p>{p}</p>)}</section>}
     {related.length>0 && <section data-pagefind-ignore><h2>관련 용어</h2><div class="related">{related.map(r=><a href={`/topics/${r.id}/`}>{r.ko}</a>)}</div></section>}

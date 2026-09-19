@@ -1,0 +1,15 @@
+---
+import {corrigendaLinks} from '../data/editorial/corrigenda-links.mjs';
+const {translationId}=Astro.props;
+const entries=corrigendaLinks.filter(e=>e.translationId===translationId);
+const hasBodyCorrection=entries.some(e=>e.layer==='poem-body');
+---
+{entries.length>0 && <aside class="note corrigenda-notice" data-corrigenda-notice data-pagefind-ignore>
+  <strong>{hasBodyCorrection?'정오표 반영판이 있습니다':'이 구간에 연결된 교감란 정오'}</strong>
+  <p>{hasBodyCorrection?'아래 본문은 최초 인쇄면을 보존한 판입니다. Breiter 자신의 정오표를 적용한 라틴어·한국어 대조판을 별도로 읽을 수 있습니다.':'정오표가 고치는 곳은 이 시구 자체가 아니라 교감란의 번호·사본 독법·소제목입니다. 아래의 시 본문은 그대로 보존합니다.'}</p>
+  <div>{entries.map(e=><a href={e.url}>{e.title}</a>)}</div>
+</aside>}
+<style>
+  .corrigenda-notice{margin:1.5rem 0}.corrigenda-notice p{font-size:.92rem;line-height:1.8}
+  .corrigenda-notice a{display:block;line-height:1.75;overflow-wrap:anywhere}
+</style>

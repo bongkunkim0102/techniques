@@ -1,0 +1,3253 @@
+{
+  "version": 1,
+  "id": "breiter1907-corrigenda-reading",
+  "editionId": "breiter1907-corrigenda-ko-2026-09-20.1",
+  "date": "2026-09-20",
+  "sourceAuthor": "Marcus Manilius (poem); Theodor Breiter (corrigenda and apparatus)",
+  "editor": "ChatGPT (GPT-6 Astra Pro)",
+  "sourceLanguage": "la",
+  "translationDirection": "Latin → Korean",
+  "externalTranslationModelCalls": 0,
+  "baseCommit": "28a8e15521f0cd9dd71732811c2af5b4168a4a08",
+  "sourcePdf": {
+    "url": "https://archive.org/download/mmaniliiastronom01mani/mmaniliiastronom01mani.pdf",
+    "sha256": "f69ab853bc7937ea5511739d24239b3a817ca4a5464eca661aa465958968bd3d",
+    "pages": 170,
+    "edition": "Theodor Breiter, M. Manilii Astronomica I. Carmina, Leipzig 1907"
+  },
+  "sourceErrataPage": 5,
+  "reviewedPdfPages": [
+    5,
+    29,
+    42,
+    48,
+    55,
+    57,
+    88,
+    89,
+    91,
+    92
+  ],
+  "scope": "정오표 7항목의 적용 위치를 모두 대조했다. 세 항목은 시 본문에, 네 항목은 교감란에 적용한 별도 읽기 판이다. 관련 시구 128행을 한국어 25문단으로 직접 다시 옮겼으며 기존 다섯 권의 번역 분량에 중복 합산하지 않는다.",
+  "limitation": "검토 대상은 Breiter 1907년판 자체의 정오표이다. 모든 판본·필사본의 이문을 교감하거나 오늘날의 합의를 확정한 작업이 아니다. 기존 인쇄 본문 보존판과 참고 자료는 그대로 둔다.",
+  "transcriptionPolicy": "정오 대상의 인쇄 형태와 지시 후 형태를 각각 기록한다. 교감란의 간격·행갈이는 읽기용으로 정리하며 복잡한 서체는 영인으로 보존한다. 본문 세 행 외에 라틴어 시구를 수정하지 않는다. 주변 한국어 재번역과 단어 교정의 효과를 구별한다.",
+  "hashBasis": "sourceHash/correctedSourceHash: numbered Latin rows joined with newline, no trailing newline; targetHash: exact Korean string.",
+  "counts": {
+    "items": 7,
+    "bodyCorrections": 3,
+    "apparatusCorrections": 4,
+    "contextVerses": 128,
+    "koreanContextParagraphs": 25,
+    "facsimiles": 7,
+    "newPoemVerses": 0,
+    "newPoemUnits": 0
+  },
+  "items": [
+    {
+      "id": "e01",
+      "title": "행 번호의 교정: 373이 아니라 375",
+      "book": 1,
+      "verse": 375,
+      "printedPage": 13,
+      "pdfPage": 29,
+      "line": 9,
+      "direction": "from-end",
+      "layer": "apparatus-reference",
+      "wrong": "373",
+      "right": "375",
+      "targetBefore": "373 intra o capricorni sicubet m (in marg. corr.) axem o",
+      "targetAfter": "375 intra o capricorni sicubet m (in marg. corr.) axem o",
+      "changeKo": "13쪽 끝에서 아홉째 줄, 교감란의 표제 번호 373을 375로 고친다. 시 본문 373행의 번호를 바꾸라는 지시가 아니다.",
+      "explanation": [
+        "잘못 붙은 표제 아래의 intra는 본문 375행 inter, capricorni는 같은 행의 염소자리, axem은 같은 행 끝의 axe와 대응한다. 따라서 이문 묶음이 가리키는 곳은 373행의 aspice가 아니라 375행이다.",
+        "o는 네 주요 사본의 합의, m은 마드리드 사본이다. 괄호는 여백의 교정을 가리킨다. 이문 sicubet를 의미가 매끄러운 본문으로 고치거나 아래 문장에 끼워 넣지 않는다. 원문 배열의 세부는 확대 지면에 보존한다."
+      ],
+      "contextRange": [
+        373,
+        381
+      ],
+      "contextTitle": "남쪽 하늘과 다른 편의 사람들",
+      "contextBlocks": [
+        {
+          "range": [
+            373,
+            376
+          ],
+          "ko": "이제 태양의 운행로 아래에서 떠오르는 별들을 보라. 뜨겁게 탄 땅 위로 흘러가는 별들, 차가운 염소자리와 가장 아래의 축으로 받쳐진 천계 사이에서 도는 빛들을 보라.",
+          "id": "e01-p1",
+          "verseIds": [
+            373,
+            374,
+            375,
+            376
+          ],
+          "latinBefore": [
+            {
+              "number": 373,
+              "text": "aspice nunc infra solis surgentia cursus"
+            },
+            {
+              "number": 374,
+              "text": "quae super exustas labuntur sidera terras,"
+            },
+            {
+              "number": 375,
+              "text": "quaeque inter gelidum capricorni sidus et axe"
+            },
+            {
+              "number": 376,
+              "text": "imo subnixum uertuntur lumina mundum,"
+            }
+          ],
+          "latinAfter": [
+            {
+              "number": 373,
+              "text": "aspice nunc infra solis surgentia cursus"
+            },
+            {
+              "number": 374,
+              "text": "quae super exustas labuntur sidera terras,"
+            },
+            {
+              "number": 375,
+              "text": "quaeque inter gelidum capricorni sidus et axe"
+            },
+            {
+              "number": 376,
+              "text": "imo subnixum uertuntur lumina mundum,"
+            }
+          ],
+          "targetHash": "26a1da8bea3973851565f7b980427b2d6ffc5295ef3b66f0aead743a68500aa3"
+        },
+        {
+          "range": [
+            377,
+            379
+          ],
+          "ko": "그 아래에는 우리가 닿을 수 없는 땅의 다른 부분과, 아직 모르는 민족들, 건너가 보지 못한 나라들이 있다. 그들 역시 하나의 태양에서 똑같은 빛을 받는다.",
+          "id": "e01-p2",
+          "verseIds": [
+            377,
+            378,
+            379
+          ],
+          "latinBefore": [
+            {
+              "number": 377,
+              "text": "altera pars orbis sub quis iacet inuia nobis"
+            },
+            {
+              "number": 378,
+              "text": "ignotaeque hominum gentes nec transita regna"
+            },
+            {
+              "number": 379,
+              "text": "commune ex uno lumen ducentia sole"
+            }
+          ],
+          "latinAfter": [
+            {
+              "number": 377,
+              "text": "altera pars orbis sub quis iacet inuia nobis"
+            },
+            {
+              "number": 378,
+              "text": "ignotaeque hominum gentes nec transita regna"
+            },
+            {
+              "number": 379,
+              "text": "commune ex uno lumen ducentia sole"
+            }
+          ],
+          "targetHash": "57828ddc18b6cec019253edcd4108c140aa7de801cb530d00ba10ef49837fe2b"
+        },
+        {
+          "range": [
+            380,
+            381
+          ],
+          "ko": "그러나 그들이 보는 하늘은 방향이 뒤집혀 있으므로, 그림자는 우리와 반대로 드리워지고 사인들은 왼쪽으로 지며 오른쪽에서 떠오른다.",
+          "id": "e01-p3",
+          "verseIds": [
+            380,
+            381
+          ],
+          "latinBefore": [
+            {
+              "number": 380,
+              "text": "diuersasque umbras laeuaque cadentia signa"
+            },
+            {
+              "number": 381,
+              "text": "et dextros ortus caelo spectantia uerso."
+            }
+          ],
+          "latinAfter": [
+            {
+              "number": 380,
+              "text": "diuersasque umbras laeuaque cadentia signa"
+            },
+            {
+              "number": 381,
+              "text": "et dextros ortus caelo spectantia uerso."
+            }
+          ],
+          "targetHash": "56e6a5f0c0e35f5564d78a90d0ec152698bdde94f27109a03b09d0cbb6c57df0"
+        }
+      ],
+      "translationNotes": [
+        "이 문맥 번역의 라틴어 본문은 정오표로 달라지지 않는다. 교감란이 가리키는 행만 정정한다.",
+        "지역에 따라 뒤집혀 보이는 좌우는 시인의 지리적 관점이다. 모든 관측자의 고정 좌우 규칙이나 현대 지도 좌표로 바꾸지 않았다."
+      ],
+      "proof": {
+        "path": "public/facsimiles/breiter1907/corrigenda/apparatus-29.png",
+        "url": "/facsimiles/breiter1907/corrigenda/apparatus-29.png",
+        "sha256": "e28d4098381e4d584f5a8a409d0ca85565688b9f2cf45c5b704a8d2054aeb517",
+        "pdfPage": 29,
+        "caption": "Breiter 1907 인쇄본 13쪽·PDF 29쪽의 교감란 확대. 정오표가 가리키는 위치의 교정 전 인쇄면이다."
+      },
+      "erratumLatin": "pag. 13 linea 9 a fine lege 375 pro 373.",
+      "erratumKorean": "13쪽, 끝에서 아홉째 줄의 373을 375로 읽어라.",
+      "originalLink": "/translations/manilius-i-373-411/#paragraph-1",
+      "translationId": "manilius-i-373-411",
+      "contextBefore": [
+        {
+          "number": 373,
+          "text": "aspice nunc infra solis surgentia cursus"
+        },
+        {
+          "number": 374,
+          "text": "quae super exustas labuntur sidera terras,"
+        },
+        {
+          "number": 375,
+          "text": "quaeque inter gelidum capricorni sidus et axe"
+        },
+        {
+          "number": 376,
+          "text": "imo subnixum uertuntur lumina mundum,"
+        },
+        {
+          "number": 377,
+          "text": "altera pars orbis sub quis iacet inuia nobis"
+        },
+        {
+          "number": 378,
+          "text": "ignotaeque hominum gentes nec transita regna"
+        },
+        {
+          "number": 379,
+          "text": "commune ex uno lumen ducentia sole"
+        },
+        {
+          "number": 380,
+          "text": "diuersasque umbras laeuaque cadentia signa"
+        },
+        {
+          "number": 381,
+          "text": "et dextros ortus caelo spectantia uerso."
+        }
+      ],
+      "contextAfter": [
+        {
+          "number": 373,
+          "text": "aspice nunc infra solis surgentia cursus"
+        },
+        {
+          "number": 374,
+          "text": "quae super exustas labuntur sidera terras,"
+        },
+        {
+          "number": 375,
+          "text": "quaeque inter gelidum capricorni sidus et axe"
+        },
+        {
+          "number": 376,
+          "text": "imo subnixum uertuntur lumina mundum,"
+        },
+        {
+          "number": 377,
+          "text": "altera pars orbis sub quis iacet inuia nobis"
+        },
+        {
+          "number": 378,
+          "text": "ignotaeque hominum gentes nec transita regna"
+        },
+        {
+          "number": 379,
+          "text": "commune ex uno lumen ducentia sole"
+        },
+        {
+          "number": 380,
+          "text": "diuersasque umbras laeuaque cadentia signa"
+        },
+        {
+          "number": 381,
+          "text": "et dextros ortus caelo spectantia uerso."
+        }
+      ],
+      "sourceHash": "76428623a3e1d0fcbe8987cb1905554240e714650a7516cd178b026abd1ae432",
+      "correctedSourceHash": "76428623a3e1d0fcbe8987cb1905554240e714650a7516cd178b026abd1ae432",
+      "existingKorean": [
+        {
+          "text": "이제 태양의 길 아래에서 떠오르는 별들을 보라. 불볕에 탄 땅들 위로 흘러가는 별자리들, 차가운 염소의 별자리와 우주를 받치는 아래쪽 축 사이를 도는 빛들이다. 그 아래에는 우리가 갈 수 없는 지구의 다른 부분이 놓여 있다. 알지 못하는 민족들과 건너가 본 적 없는 나라들이 하나의 태양에서 같은 빛을 받는다. 그러나 뒤집힌 하늘을 보므로 그림자는 반대이며, 별자리들은 왼쪽으로 지고 오른쪽에서 떠오른다.",
+          "locator": "제1권 373–381행",
+          "link": "/translations/manilius-i-373-411/#paragraph-1",
+          "verseIds": [
+            373,
+            374,
+            375,
+            376,
+            377,
+            378,
+            379,
+            380,
+            381
+          ]
+        }
+      ],
+      "layerKo": "교감란의 참조 번호"
+    },
+    {
+      "id": "e02",
+      "title": "사본의 독법을 고치는 정오: parent → parens",
+      "book": 1,
+      "verse": 787,
+      "printedPage": 26,
+      "pdfPage": 42,
+      "line": 4,
+      "direction": "from-end",
+      "layer": "apparatus-reading",
+      "wrong": "parent",
+      "right": "parens",
+      "targetBefore": "787 turiusq. m parent l g patens m pares c terra m",
+      "targetAfter": "787 turiusq. m parens l g patens m pares c terra m",
+      "changeKo": "26쪽 끝에서 넷째 줄, 787행에 관한 교감란에서 l·g에 배정된 parent를 parens로 읽는다. 채택 본문의 pares를 parens로 바꾸는 정오는 아니다.",
+      "explanation": [
+        "본문은 Fabricius Curiusque pares라고 인쇄되어 있으며, 파브리키우스와 쿠리우스를 나란히 견준다. 교감란의 c에는 pares가 있고, 그와 다른 l·g의 독법에 정오표가 적용된다.",
+        "parent·parens·patens·pares는 한 글자 차이라도 서로 다른 형태이다. 이문을 잘못 전사한 부분을 바로잡는 일과, 편집자가 채택한 본문을 다시 고르는 일은 구별해야 한다."
+      ],
+      "contextRange": [
+        784,
+        791
+      ],
+      "contextTitle": "로마 인물들의 천상 목록",
+      "contextBlocks": [
+        {
+          "range": [
+            784,
+            786
+          ],
+          "ko": "유피테르에게서 하늘의 자리를 얻을 만한 공을 세우고 로마를 구하여 다시 세운 카밀루스가 있다. 왕에게서 되찾은 도시의 창건자 브루투스와, 피로스와의 전쟁에서 복수한 파피리우스도 있다.",
+          "id": "e02-p1",
+          "verseIds": [
+            784,
+            785,
+            786
+          ],
+          "latinBefore": [
+            {
+              "number": 784,
+              "text": "et Ioue qui meruit caelum Romamque Camillus"
+            },
+            {
+              "number": 785,
+              "text": "seruando posuit, Brutusque a rege receptae"
+            },
+            {
+              "number": 786,
+              "text": "conditor, et Pyrrhi per bella Papirius ultor,"
+            }
+          ],
+          "latinAfter": [
+            {
+              "number": 784,
+              "text": "et Ioue qui meruit caelum Romamque Camillus"
+            },
+            {
+              "number": 785,
+              "text": "seruando posuit, Brutusque a rege receptae"
+            },
+            {
+              "number": 786,
+              "text": "conditor, et Pyrrhi per bella Papirius ultor,"
+            }
+          ],
+          "targetHash": "60b412ddb851dfbf642a2b992ff515f14fe8d55f04902822155c9e588f36c309"
+        },
+        {
+          "range": [
+            787,
+            788
+          ],
+          "ko": "서로 어깨를 나란히 하는 파브리키우스와 쿠리우스, 셋째 승리의 영광인 마르켈루스, 그리고 그보다 먼저 왕을 죽인 코수스가 있다.",
+          "id": "e02-p2",
+          "verseIds": [
+            787,
+            788
+          ],
+          "latinBefore": [
+            {
+              "number": 787,
+              "text": "Fabricius Curiusque pares et tertia palma"
+            },
+            {
+              "number": 788,
+              "text": "Marcellus, Cossusque prior de rege necato,"
+            }
+          ],
+          "latinAfter": [
+            {
+              "number": 787,
+              "text": "Fabricius Curiusque pares et tertia palma"
+            },
+            {
+              "number": 788,
+              "text": "Marcellus, Cossusque prior de rege necato,"
+            }
+          ],
+          "targetHash": "f913eec87897b0d0ccb0d59d546c045782acd58c31617c981578e28e3603b5ef"
+        },
+        {
+          "range": [
+            789,
+            791
+          ],
+          "ko": "서원에서는 서로 겨루고 개선에서는 서로 닮은 데키우스 가문의 이들, 지연으로 꺾이지 않은 파비우스, 전쟁에서 네로를 동료로 삼아 하스드루발을 죽이고 승리한 리비우스도 있다.",
+          "id": "e02-p3",
+          "verseIds": [
+            789,
+            790,
+            791
+          ],
+          "latinBefore": [
+            {
+              "number": 789,
+              "text": "certantesque Deci uotis similesque triumphis,"
+            },
+            {
+              "number": 790,
+              "text": "inuictusque mora Fabius, uictorque necati"
+            },
+            {
+              "number": 791,
+              "text": "Liuius Hasdrubalis socio per bella Nerone,"
+            }
+          ],
+          "latinAfter": [
+            {
+              "number": 789,
+              "text": "certantesque Deci uotis similesque triumphis,"
+            },
+            {
+              "number": 790,
+              "text": "inuictusque mora Fabius, uictorque necati"
+            },
+            {
+              "number": 791,
+              "text": "Liuius Hasdrubalis socio per bella Nerone,"
+            }
+          ],
+          "targetHash": "b431eeb226ad038cb3c2322dc9213c6bf8dcfd8d5ddda0c2dd935d276873c770"
+        }
+      ],
+      "translationNotes": [
+        "pares는 두 인물을 동등하게 견주는 말로 옮겼다. 이 맥락 번역의 작은 어휘 다듬기는 parent→parens 정오의 적용 결과와 별개이다.",
+        "셋째 승리·서원·천상의 영예는 시인의 찬양을 옮긴 것이다. 각 인물의 역사적 경력을 새로 검증하거나 본문에 없는 사건을 덧붙이지 않았다."
+      ],
+      "proof": {
+        "path": "public/facsimiles/breiter1907/corrigenda/apparatus-42.png",
+        "url": "/facsimiles/breiter1907/corrigenda/apparatus-42.png",
+        "sha256": "38d3d9b7862b416d838ebbd8f8b4fed6cf0e7d93fc9225e1694c3fdd764d9060",
+        "pdfPage": 42,
+        "caption": "Breiter 1907 인쇄본 26쪽·PDF 42쪽의 교감란 확대. 정오표가 가리키는 위치의 교정 전 인쇄면이다."
+      },
+      "erratumLatin": "pag. 26 linea 4 a fine lege parens pro parent.",
+      "erratumKorean": "26쪽, 끝에서 넷째 줄의 parent를 parens로 읽어라.",
+      "originalLink": "/translations/manilius-i-762-804/#paragraph-5",
+      "translationId": "manilius-i-762-804",
+      "contextBefore": [
+        {
+          "number": 784,
+          "text": "et Ioue qui meruit caelum Romamque Camillus"
+        },
+        {
+          "number": 785,
+          "text": "seruando posuit, Brutusque a rege receptae"
+        },
+        {
+          "number": 786,
+          "text": "conditor, et Pyrrhi per bella Papirius ultor,"
+        },
+        {
+          "number": 787,
+          "text": "Fabricius Curiusque pares et tertia palma"
+        },
+        {
+          "number": 788,
+          "text": "Marcellus, Cossusque prior de rege necato,"
+        },
+        {
+          "number": 789,
+          "text": "certantesque Deci uotis similesque triumphis,"
+        },
+        {
+          "number": 790,
+          "text": "inuictusque mora Fabius, uictorque necati"
+        },
+        {
+          "number": 791,
+          "text": "Liuius Hasdrubalis socio per bella Nerone,"
+        }
+      ],
+      "contextAfter": [
+        {
+          "number": 784,
+          "text": "et Ioue qui meruit caelum Romamque Camillus"
+        },
+        {
+          "number": 785,
+          "text": "seruando posuit, Brutusque a rege receptae"
+        },
+        {
+          "number": 786,
+          "text": "conditor, et Pyrrhi per bella Papirius ultor,"
+        },
+        {
+          "number": 787,
+          "text": "Fabricius Curiusque pares et tertia palma"
+        },
+        {
+          "number": 788,
+          "text": "Marcellus, Cossusque prior de rege necato,"
+        },
+        {
+          "number": 789,
+          "text": "certantesque Deci uotis similesque triumphis,"
+        },
+        {
+          "number": 790,
+          "text": "inuictusque mora Fabius, uictorque necati"
+        },
+        {
+          "number": 791,
+          "text": "Liuius Hasdrubalis socio per bella Nerone,"
+        }
+      ],
+      "sourceHash": "e0b5c6072e966d7e9569b73821ceec6fb865b39f1e34bbda2d17be587b7dddbc",
+      "correctedSourceHash": "e0b5c6072e966d7e9569b73821ceec6fb865b39f1e34bbda2d17be587b7dddbc",
+      "existingKorean": [
+        {
+          "text": "유피테르에게 하늘의 자리를 얻을 자격을 인정받고 로마를 구하여 다시 세운 카밀루스, 왕에게서 되찾은 도시의 창건자 브루투스, 피로스와의 전쟁에서 복수한 파피리우스도 있다. 서로 겨루는 파브리키우스와 쿠리우스, 셋째 승리의 영광인 마르켈루스, 그보다 앞서 왕을 죽인 코수스, 서원으로 경쟁하고 개선에서는 서로 닮은 데키우스 가문의 이들도 있다. 지연 전술로 꺾이지 않은 파비우스, 네로를 전우 삼아 전쟁에서 하스드루발을 죽이고 승리한 리비우스도 있다.",
+          "locator": "제1권 784–791행",
+          "link": "/translations/manilius-i-762-804/#paragraph-5",
+          "verseIds": [
+            784,
+            785,
+            786,
+            787,
+            788,
+            789,
+            790,
+            791
+          ]
+        }
+      ],
+      "layerKo": "교감란의 사본 독법"
+    },
+    {
+      "id": "e03",
+      "title": "Hectoreamque → Hectoreumque의 적용 위치",
+      "book": 2,
+      "verse": 3,
+      "printedPage": 32,
+      "pdfPage": 48,
+      "line": 9,
+      "direction": "from-end",
+      "layer": "apparatus-reading",
+      "wrong": "Hectoreamque",
+      "right": "Hectoreumque",
+      "targetBefore": "3 hectoreamque facit o titamque o troyam m",
+      "targetAfter": "3 hectoreumque facit o titamque o troyam m",
+      "changeKo": "32쪽 끝에서 아홉째 줄, 제2권 3행에 딸린 교감란의 hectoreamque를 hectoreumque로 고친다. 정오표는 첫 글자를 대문자로 적었지만 적용 지면은 소문자이다.",
+      "explanation": [
+        "저본의 채택 본문은 castra ducum et caeli uictamque sub Hectore Troiam이다. 교정되는 단어는 그 본문에 없고, o로 표시된 사본들의 독법에 나타난다. 그러므로 sub Hectore를 Hectoreumque로 바꾸면 안 된다.",
+        "-am-에서 -um-으로의 교정은 단순히 대소문자를 바꾸는 작업이 아니다. 정오 지시의 대문자 표기와 실제 적용 지면의 소문자 형태를 각각 보존했다. 다른 권의 비슷한 단어에 일괄 적용하지 않는다."
+      ],
+      "contextRange": [
+        1,
+        17
+      ],
+      "contextTitle": "앞선 시인들의 주제",
+      "contextBlocks": [
+        {
+          "range": [
+            1,
+            11
+          ],
+          "ko": "가장 위대한 시인은 일리온 민족의 싸움, 쉰 왕과 그들의 왕이자 아버지, 장수들과 하늘 신들의 진영, 헥토르 아래에서도 패한 트로이를 성스러운 입으로 노래했다. 승리를 얻기까지 걸린 세월만큼 헤맨 지휘관과, 바다에서 두 무리 사이에 거듭된 전쟁, 마침내 고향의 빼앗긴 집에서 벌어진 싸움도 노래했다. 후대는 그 시인에게 고향의 권리를 주려 하면서 오히려 빼앗았다. 그의 입에서 쏟아진 물을 저마다의 노래로 이끌어, 한 사람의 풍요로 결실을 맺으며 큰 강을 가느다란 물줄기들로 나누려 했다. 그에 가장 가까이 뒤따르는 이는 헤시오도스이다.",
+          "id": "e03-p1",
+          "verseIds": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "latinBefore": [
+            {
+              "number": 1,
+              "text": "Maximus Iliacae gentis certamina uates"
+            },
+            {
+              "number": 2,
+              "text": "et quinquaginta regum regemque patremque"
+            },
+            {
+              "number": 3,
+              "text": "castra ducum et caeli uictamque sub Hectore Troiam"
+            },
+            {
+              "number": 4,
+              "text": "erroremque ducis totidem quot uicerat annis"
+            },
+            {
+              "number": 5,
+              "text": "instantem bello geminata per agmina ponto"
+            },
+            {
+              "number": 6,
+              "text": "ultimaque in patria captisque penatibus arma"
+            },
+            {
+              "number": 7,
+              "text": "ore sacro cecinit; patriae cui iura petenti"
+            },
+            {
+              "number": 8,
+              "text": "dum dabat eripuit, cuiusque ex ore profusos"
+            },
+            {
+              "number": 9,
+              "text": "omnis posteritas latices in carmina duxit"
+            },
+            {
+              "number": 10,
+              "text": "amnemque in tenuis ausa est diducere riuos"
+            },
+            {
+              "number": 11,
+              "text": "unius fecunda bonis. sed proximus illi"
+            }
+          ],
+          "latinAfter": [
+            {
+              "number": 1,
+              "text": "Maximus Iliacae gentis certamina uates"
+            },
+            {
+              "number": 2,
+              "text": "et quinquaginta regum regemque patremque"
+            },
+            {
+              "number": 3,
+              "text": "castra ducum et caeli uictamque sub Hectore Troiam"
+            },
+            {
+              "number": 4,
+              "text": "erroremque ducis totidem quot uicerat annis"
+            },
+            {
+              "number": 5,
+              "text": "instantem bello geminata per agmina ponto"
+            },
+            {
+              "number": 6,
+              "text": "ultimaque in patria captisque penatibus arma"
+            },
+            {
+              "number": 7,
+              "text": "ore sacro cecinit; patriae cui iura petenti"
+            },
+            {
+              "number": 8,
+              "text": "dum dabat eripuit, cuiusque ex ore profusos"
+            },
+            {
+              "number": 9,
+              "text": "omnis posteritas latices in carmina duxit"
+            },
+            {
+              "number": 10,
+              "text": "amnemque in tenuis ausa est diducere riuos"
+            },
+            {
+              "number": 11,
+              "text": "unius fecunda bonis. sed proximus illi"
+            }
+          ],
+          "targetHash": "b7ea61d7d544fc7d61bbf5ddba85d10d37d1b6e8c92bb81e26b2fe5539f51b09"
+        },
+        {
+          "range": [
+            12,
+            17
+          ],
+          "ko": "헤시오도스는 신들과 신들의 부모, 땅을 낳은 카오스와 그 아래의 어린 세계, 첫 운행에 비틀거리던 별들, 늙은 티탄들과 위대한 유피테르의 요람을 전한다. 오라비라는 이름 아래 남편이 된 이, 어머니 없이 부모가 된 이, 그리고 아버지의 몸에서 다시 태어나는 바쿠스도 전한다.",
+          "id": "e03-p2",
+          "verseIds": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "latinBefore": [
+            {
+              "number": 12,
+              "text": "Hesiodus memorat diuos diuumque parentes"
+            },
+            {
+              "number": 13,
+              "text": "et chaos enixum terras orbemque sub illo"
+            },
+            {
+              "number": 14,
+              "text": "infantem et primos titubantia sidera cursus"
+            },
+            {
+              "number": 15,
+              "text": "titanasque senes Iouis et cunabula magni"
+            },
+            {
+              "number": 16,
+              "text": "et sub fratre uiri nomen sine matre parentis"
+            },
+            {
+              "number": 17,
+              "text": "atque iterum patrio nascentem corpore Bacchum."
+            }
+          ],
+          "latinAfter": [
+            {
+              "number": 12,
+              "text": "Hesiodus memorat diuos diuumque parentes"
+            },
+            {
+              "number": 13,
+              "text": "et chaos enixum terras orbemque sub illo"
+            },
+            {
+              "number": 14,
+              "text": "infantem et primos titubantia sidera cursus"
+            },
+            {
+              "number": 15,
+              "text": "titanasque senes Iouis et cunabula magni"
+            },
+            {
+              "number": 16,
+              "text": "et sub fratre uiri nomen sine matre parentis"
+            },
+            {
+              "number": 17,
+              "text": "atque iterum patrio nascentem corpore Bacchum."
+            }
+          ],
+          "targetHash": "9deef6e661eddf8802c2138affc6b2ce17f219bd7c40bb4476268d887eb1362c"
+        }
+      ],
+      "translationNotes": [
+        "이 구간의 시 본문에는 교정 대상어가 없으므로 라틴어 본문을 바꾸지 않은 채 새로 대조 번역했다.",
+        "11행 끝의 sed proximus illi는 다음의 Hesiodus와 이어진다. 한국어에서는 그 이름을 앞 문단의 끝에도 연결하여 문장을 완결했으나 라틴어 원문 행을 두 번 수록하지 않았다.",
+        "7~11행은 여러 후대가 시인을 자기 고향에 귀속시키는 주장을 물줄기의 비유와 잇는다. 16행의 신화적 관계는 압축되어 있어, 특정 인명을 본문에 보태거나 사본 이문을 채택 본문에 섞지 않았다."
+      ],
+      "proof": {
+        "path": "public/facsimiles/breiter1907/corrigenda/apparatus-48.png",
+        "url": "/facsimiles/breiter1907/corrigenda/apparatus-48.png",
+        "sha256": "18a64c689b92bdfb34e4e4e8464cd203989f013479368bafb660c91261d78a21",
+        "pdfPage": 48,
+        "caption": "Breiter 1907 인쇄본 32쪽·PDF 48쪽의 교감란 확대. 정오표가 가리키는 위치의 교정 전 인쇄면이다."
+      },
+      "erratumLatin": "pag. 32 linea 9 a fine lege Hectoreumque pro Hectoreamque.",
+      "erratumKorean": "32쪽, 끝에서 아홉째 줄의 Hectoreamque를 Hectoreumque로 읽어라.",
+      "originalLink": "/translations/manilius-ii-001-024/#paragraph-1",
+      "translationId": "manilius-ii-001-024",
+      "contextBefore": [
+        {
+          "number": 1,
+          "text": "Maximus Iliacae gentis certamina uates"
+        },
+        {
+          "number": 2,
+          "text": "et quinquaginta regum regemque patremque"
+        },
+        {
+          "number": 3,
+          "text": "castra ducum et caeli uictamque sub Hectore Troiam"
+        },
+        {
+          "number": 4,
+          "text": "erroremque ducis totidem quot uicerat annis"
+        },
+        {
+          "number": 5,
+          "text": "instantem bello geminata per agmina ponto"
+        },
+        {
+          "number": 6,
+          "text": "ultimaque in patria captisque penatibus arma"
+        },
+        {
+          "number": 7,
+          "text": "ore sacro cecinit; patriae cui iura petenti"
+        },
+        {
+          "number": 8,
+          "text": "dum dabat eripuit, cuiusque ex ore profusos"
+        },
+        {
+          "number": 9,
+          "text": "omnis posteritas latices in carmina duxit"
+        },
+        {
+          "number": 10,
+          "text": "amnemque in tenuis ausa est diducere riuos"
+        },
+        {
+          "number": 11,
+          "text": "unius fecunda bonis. sed proximus illi"
+        },
+        {
+          "number": 12,
+          "text": "Hesiodus memorat diuos diuumque parentes"
+        },
+        {
+          "number": 13,
+          "text": "et chaos enixum terras orbemque sub illo"
+        },
+        {
+          "number": 14,
+          "text": "infantem et primos titubantia sidera cursus"
+        },
+        {
+          "number": 15,
+          "text": "titanasque senes Iouis et cunabula magni"
+        },
+        {
+          "number": 16,
+          "text": "et sub fratre uiri nomen sine matre parentis"
+        },
+        {
+          "number": 17,
+          "text": "atque iterum patrio nascentem corpore Bacchum."
+        }
+      ],
+      "contextAfter": [
+        {
+          "number": 1,
+          "text": "Maximus Iliacae gentis certamina uates"
+        },
+        {
+          "number": 2,
+          "text": "et quinquaginta regum regemque patremque"
+        },
+        {
+          "number": 3,
+          "text": "castra ducum et caeli uictamque sub Hectore Troiam"
+        },
+        {
+          "number": 4,
+          "text": "erroremque ducis totidem quot uicerat annis"
+        },
+        {
+          "number": 5,
+          "text": "instantem bello geminata per agmina ponto"
+        },
+        {
+          "number": 6,
+          "text": "ultimaque in patria captisque penatibus arma"
+        },
+        {
+          "number": 7,
+          "text": "ore sacro cecinit; patriae cui iura petenti"
+        },
+        {
+          "number": 8,
+          "text": "dum dabat eripuit, cuiusque ex ore profusos"
+        },
+        {
+          "number": 9,
+          "text": "omnis posteritas latices in carmina duxit"
+        },
+        {
+          "number": 10,
+          "text": "amnemque in tenuis ausa est diducere riuos"
+        },
+        {
+          "number": 11,
+          "text": "unius fecunda bonis. sed proximus illi"
+        },
+        {
+          "number": 12,
+          "text": "Hesiodus memorat diuos diuumque parentes"
+        },
+        {
+          "number": 13,
+          "text": "et chaos enixum terras orbemque sub illo"
+        },
+        {
+          "number": 14,
+          "text": "infantem et primos titubantia sidera cursus"
+        },
+        {
+          "number": 15,
+          "text": "titanasque senes Iouis et cunabula magni"
+        },
+        {
+          "number": 16,
+          "text": "et sub fratre uiri nomen sine matre parentis"
+        },
+        {
+          "number": 17,
+          "text": "atque iterum patrio nascentem corpore Bacchum."
+        }
+      ],
+      "sourceHash": "47a158adede68ed7d67d4d89c15035013a808465786cd50b5ae889654cf6f97f",
+      "correctedSourceHash": "47a158adede68ed7d67d4d89c15035013a808465786cd50b5ae889654cf6f97f",
+      "existingKorean": [
+        {
+          "text": "가장 위대한 시인은 일리온 민족의 싸움, 쉰 왕과 왕들의 왕이자 아버지, 장수들과 하늘 신들의 진영, 헥토르가 지켰으나 무너진 트로이를 성스러운 입으로 노래했다. 승리를 얻기까지 걸린 세월만큼 다시 바다를 헤맨 지휘관도 노래했다. 싸움은 두 차례의 무리들 사이로 이어졌고, 마지막에는 제 고향, 남에게 점거된 집에서 무기를 들었다. 후대는 그 시인을 자기 고향의 사람으로 삼는 권리를 주면서 동시에 빼앗았다. 그의 입에서 흘러나온 물을 저마다의 노래로 끌어들였고, 한 사람의 풍요에서 결실을 얻으며 그 큰 강을 가느다란 개울들로 나누려 했다. 그에 바로 뒤이어 헤시오도스가 있다.",
+          "locator": "제2권 1–11행",
+          "link": "/translations/manilius-ii-001-024/#paragraph-1",
+          "verseIds": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "text": "헤시오도스는 신들과 신들의 부모, 땅을 낳은 카오스와 그 아래의 어린 세계, 첫 운행에서 비틀거리는 별들, 늙은 티탄들과 위대한 유피테르의 요람을 전한다. 오라비 안의 남편이라는 이름과 어머니 없이 아버지가 된 이의 이름, 다시 아버지의 몸에서 태어나는 바쿠스도 전한다.",
+          "locator": "제2권 12–17행",
+          "link": "/translations/manilius-ii-001-024/#paragraph-2",
+          "verseIds": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ]
+        }
+      ],
+      "layerKo": "교감란의 사본 독법"
+    },
+    {
+      "id": "e04",
+      "title": "야간 사인의 출발점: chelis → libra",
+      "book": 2,
+      "verse": 220,
+      "printedPage": 39,
+      "pdfPage": 55,
+      "line": 24,
+      "direction": "from-start",
+      "layer": "poem-body",
+      "wrong": "chelis",
+      "right": "libra",
+      "targetBefore": "lanigeri; sex a chelis nocturna uideri.",
+      "targetAfter": "lanigeri; sex a libra nocturna uideri.",
+      "changeKo": "39쪽 처음부터 스물넷째 줄은 시 본문 제2권 220행이다. 여기서 chelis를 libra로 고쳐, 집게발이라는 이명 대신 천칭자리라는 명칭으로 읽는다.",
+      "explanation": [
+        "채택 본문의 이 한 단어를 정오표대로 교정한다. 교정 전 chelis 역시 기존 번역 메모에서 천칭자리의 시적 명칭으로 설명되어 있었으므로, 이번 교정을 이유로 사인 배정 자체가 달라졌다고 해서는 안 된다.",
+        "이 대목에는 주간·야간 사인을 나누는 세 가지 방식이 있다. 이번 수정은 두 번째 방식의 출발 명칭에만 적용된다. 첫 목록이나 세 번째의 남성·여성 사인 구분을 고치지 않는다."
+      ],
+      "contextRange": [
+        203,
+        222
+      ],
+      "contextTitle": "주간·야간 사인을 나누는 세 방식",
+      "contextBlocks": [
+        {
+          "range": [
+            203,
+            210
+          ],
+          "ko": "어떤 사인이 야간에 속하고 어떤 사인이 주간에 속하는지도, 그 고유한 법칙에 따라 살피고 구별하는 일을 잊지 말라. 어둠이나 빛 속에서 자기 몫을 수행한다는 뜻은 아니다. 그렇게 부르면 모두 같은 이름을 가져 구별이 없어질 것이기 때문이다. 모든 사인은 정해진 차례로 시간에 따라 빛나며, 때로는 낮이 때로는 밤이 그들을 뒤따른다. 여기서 말하는 것은 우주의 어머니인 자연이 변함없는 배정으로 각 사인에 주어 놓은 시간의 성스러운 몫이다.",
+          "id": "e04-p1",
+          "verseIds": [
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210
+          ],
+          "latinBefore": [
+            {
+              "number": 203,
+              "text": "nec te praetereat, nocturna diurnaque signa"
+            },
+            {
+              "number": 204,
+              "text": "quae sint perspicere et propria deducere lege:"
+            },
+            {
+              "number": 205,
+              "text": "non tenebris aut luce suam peragentia sortem."
+            },
+            {
+              "number": 206,
+              "text": "nam commune foret nullo discrimine nomen,"
+            },
+            {
+              "number": 207,
+              "text": "omnia quod certis uicibus per tempora fulgent,"
+            },
+            {
+              "number": 208,
+              "text": "et nunc illa dies, nunc noctes illa sequuntur,"
+            },
+            {
+              "number": 209,
+              "text": "sed quibus illa parens mundi natura sacratas"
+            },
+            {
+              "number": 210,
+              "text": "temporis attribuit partes statione perenni."
+            }
+          ],
+          "latinAfter": [
+            {
+              "number": 203,
+              "text": "nec te praetereat, nocturna diurnaque signa"
+            },
+            {
+              "number": 204,
+              "text": "quae sint perspicere et propria deducere lege:"
+            },
+            {
+              "number": 205,
+              "text": "non tenebris aut luce suam peragentia sortem."
+            },
+            {
+              "number": 206,
+              "text": "nam commune foret nullo discrimine nomen,"
+            },
+            {
+              "number": 207,
+              "text": "omnia quod certis uicibus per tempora fulgent,"
+            },
+            {
+              "number": 208,
+              "text": "et nunc illa dies, nunc noctes illa sequuntur,"
+            },
+            {
+              "number": 209,
+              "text": "sed quibus illa parens mundi natura sacratas"
+            },
+            {
+              "number": 210,
+              "text": "temporis attribuit partes statione perenni."
+            }
+          ],
+          "targetHash": "749f5b27d999eecaeedfee7e41d4e9f2fb3ddcbbf6ac1469babe0051864afa93"
+        },
+        {
+          "range": [
+            211,
+            217
+          ],
+          "ko": "활잡이의 사인과 날쌘 사자, 황금 양털을 걸치고 자기 등을 돌아보는 자, 이어 물고기와 게와 날카롭게 쏘는 전갈은 모두 같은 몫으로 주간 사인이라 불린다. 이들은 서로 이웃하거나 같은 간격으로 나뉘어 있다. 나머지는 같은 수로 짝을 이루거나 그 사이 자리에 번갈아 놓여, 역시 여섯 야간 사인이라 불린다.",
+          "id": "e04-p2",
+          "verseIds": [
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217
+          ],
+          "latinBefore": [
+            {
+              "number": 211,
+              "text": "namque sagittari signum rapidique leonis"
+            },
+            {
+              "number": 212,
+              "text": "et sua respiciens aurato uellere terga,"
+            },
+            {
+              "number": 213,
+              "text": "tunc pisces et cancer et acri scorpios ictu,"
+            },
+            {
+              "number": 214,
+              "text": "aut uicina loco, diuisa aut partibus aequis,"
+            },
+            {
+              "number": 215,
+              "text": "omnia dicuntur simili sub sorte diurna;"
+            },
+            {
+              "number": 216,
+              "text": "cetera nunc numero consortia, nunc uice sedis"
+            },
+            {
+              "number": 217,
+              "text": "interiecta locis totidem nocturna feruntur."
+            }
+          ],
+          "latinAfter": [
+            {
+              "number": 211,
+              "text": "namque sagittari signum rapidique leonis"
+            },
+            {
+              "number": 212,
+              "text": "et sua respiciens aurato uellere terga,"
+            },
+            {
+              "number": 213,
+              "text": "tunc pisces et cancer et acri scorpios ictu,"
+            },
+            {
+              "number": 214,
+              "text": "aut uicina loco, diuisa aut partibus aequis,"
+            },
+            {
+              "number": 215,
+              "text": "omnia dicuntur simili sub sorte diurna;"
+            },
+            {
+              "number": 216,
+              "text": "cetera nunc numero consortia, nunc uice sedis"
+            },
+            {
+              "number": 217,
+              "text": "interiecta locis totidem nocturna feruntur."
+            }
+          ],
+          "targetHash": "5de860059990e507ffcf84a584c6e60452e9c5c6f8fc057208a52df4c21a9ea3"
+        },
+        {
+          "range": [
+            218,
+            220
+          ],
+          "ko": "또 어떤 이들은 첫 사인인 숫양부터 이어지는 여섯 자리에 주간의 차례가 있다고 말했다. 천칭자리부터 이어지는 여섯 자리는 야간에 속한다고 보았다.",
+          "id": "e04-p3",
+          "verseIds": [
+            218,
+            219,
+            220
+          ],
+          "latinBefore": [
+            {
+              "number": 218,
+              "text": "quin etiam sex continuis dixere diurnas"
+            },
+            {
+              "number": 219,
+              "text": "esse uices castris, quae sunt a principe signo"
+            },
+            {
+              "number": 220,
+              "text": "lanigeri; sex a chelis nocturna uideri."
+            }
+          ],
+          "latinAfter": [
+            {
+              "number": 218,
+              "text": "quin etiam sex continuis dixere diurnas"
+            },
+            {
+              "number": 219,
+              "text": "esse uices castris, quae sunt a principe signo"
+            },
+            {
+              "number": 220,
+              "text": "lanigeri; sex a libra nocturna uideri."
+            }
+          ],
+          "targetHash": "6cc7fa85de6cf3453f9978aa8524c9672eb7e539e586c6e8a22a4d42eb68b606"
+        },
+        {
+          "range": [
+            221,
+            222
+          ],
+          "ko": "남성으로 떠오르는 사인들이 주간에 속한다고 여기는 이들도 있다. 여성 사인들은 밤으로 가서 그 안전한 어둠을 즐긴다는 것이다.",
+          "id": "e04-p4",
+          "verseIds": [
+            221,
+            222
+          ],
+          "latinBefore": [
+            {
+              "number": 221,
+              "text": "sunt quibus esse diurna placet, quae mascula surgunt;"
+            },
+            {
+              "number": 222,
+              "text": "feminea in noctem tutis gaudere tenebris."
+            }
+          ],
+          "latinAfter": [
+            {
+              "number": 221,
+              "text": "sunt quibus esse diurna placet, quae mascula surgunt;"
+            },
+            {
+              "number": 222,
+              "text": "feminea in noctem tutis gaudere tenebris."
+            }
+          ],
+          "targetHash": "da81be6d327321f5e5d552d54b57b02744d7b6d23cab06de5e0b9c22484cd253"
+        }
+      ],
+      "translationNotes": [
+        "새 대조판의 220행 한국어는 정오표의 명칭에 맞추어 천칭자리로 옮겼다. 인쇄 본문 보존판의 집게발이라는 표현과 그 옛 메모는 삭제하지 않는다.",
+        "첫 목록은 사수·사자·양·물고기·게·전갈이다. 다른 분류와 맞지 않는다는 이유로 순서나 성별을 바꾸지 않았다. 이 세 목록을 행성의 섹트 표와 합치지 않는다."
+      ],
+      "proof": {
+        "path": "public/facsimiles/breiter1907/corrigenda/body-55.png",
+        "url": "/facsimiles/breiter1907/corrigenda/body-55.png",
+        "sha256": "bd0c5c795e3bb4ee57f3f1ca5e254c6a0a6cf9f1b0e9adfdbd751ba04c04d7bf",
+        "pdfPage": 55,
+        "caption": "Breiter 1907 인쇄본 39쪽·PDF 55쪽의 시 본문 확대. 정오표가 가리키는 위치의 교정 전 인쇄면이다."
+      },
+      "erratumLatin": "pag. 39 linea 24 ab initio lege libra pro chelis.",
+      "erratumKorean": "39쪽, 처음부터 스물넷째 줄의 chelis를 libra로 읽어라.",
+      "originalLink": "/translations/manilius-ii-203-222/#paragraph-3",
+      "translationId": "manilius-ii-203-222",
+      "contextBefore": [
+        {
+          "number": 203,
+          "text": "nec te praetereat, nocturna diurnaque signa"
+        },
+        {
+          "number": 204,
+          "text": "quae sint perspicere et propria deducere lege:"
+        },
+        {
+          "number": 205,
+          "text": "non tenebris aut luce suam peragentia sortem."
+        },
+        {
+          "number": 206,
+          "text": "nam commune foret nullo discrimine nomen,"
+        },
+        {
+          "number": 207,
+          "text": "omnia quod certis uicibus per tempora fulgent,"
+        },
+        {
+          "number": 208,
+          "text": "et nunc illa dies, nunc noctes illa sequuntur,"
+        },
+        {
+          "number": 209,
+          "text": "sed quibus illa parens mundi natura sacratas"
+        },
+        {
+          "number": 210,
+          "text": "temporis attribuit partes statione perenni."
+        },
+        {
+          "number": 211,
+          "text": "namque sagittari signum rapidique leonis"
+        },
+        {
+          "number": 212,
+          "text": "et sua respiciens aurato uellere terga,"
+        },
+        {
+          "number": 213,
+          "text": "tunc pisces et cancer et acri scorpios ictu,"
+        },
+        {
+          "number": 214,
+          "text": "aut uicina loco, diuisa aut partibus aequis,"
+        },
+        {
+          "number": 215,
+          "text": "omnia dicuntur simili sub sorte diurna;"
+        },
+        {
+          "number": 216,
+          "text": "cetera nunc numero consortia, nunc uice sedis"
+        },
+        {
+          "number": 217,
+          "text": "interiecta locis totidem nocturna feruntur."
+        },
+        {
+          "number": 218,
+          "text": "quin etiam sex continuis dixere diurnas"
+        },
+        {
+          "number": 219,
+          "text": "esse uices castris, quae sunt a principe signo"
+        },
+        {
+          "number": 220,
+          "text": "lanigeri; sex a chelis nocturna uideri."
+        },
+        {
+          "number": 221,
+          "text": "sunt quibus esse diurna placet, quae mascula surgunt;"
+        },
+        {
+          "number": 222,
+          "text": "feminea in noctem tutis gaudere tenebris."
+        }
+      ],
+      "contextAfter": [
+        {
+          "number": 203,
+          "text": "nec te praetereat, nocturna diurnaque signa"
+        },
+        {
+          "number": 204,
+          "text": "quae sint perspicere et propria deducere lege:"
+        },
+        {
+          "number": 205,
+          "text": "non tenebris aut luce suam peragentia sortem."
+        },
+        {
+          "number": 206,
+          "text": "nam commune foret nullo discrimine nomen,"
+        },
+        {
+          "number": 207,
+          "text": "omnia quod certis uicibus per tempora fulgent,"
+        },
+        {
+          "number": 208,
+          "text": "et nunc illa dies, nunc noctes illa sequuntur,"
+        },
+        {
+          "number": 209,
+          "text": "sed quibus illa parens mundi natura sacratas"
+        },
+        {
+          "number": 210,
+          "text": "temporis attribuit partes statione perenni."
+        },
+        {
+          "number": 211,
+          "text": "namque sagittari signum rapidique leonis"
+        },
+        {
+          "number": 212,
+          "text": "et sua respiciens aurato uellere terga,"
+        },
+        {
+          "number": 213,
+          "text": "tunc pisces et cancer et acri scorpios ictu,"
+        },
+        {
+          "number": 214,
+          "text": "aut uicina loco, diuisa aut partibus aequis,"
+        },
+        {
+          "number": 215,
+          "text": "omnia dicuntur simili sub sorte diurna;"
+        },
+        {
+          "number": 216,
+          "text": "cetera nunc numero consortia, nunc uice sedis"
+        },
+        {
+          "number": 217,
+          "text": "interiecta locis totidem nocturna feruntur."
+        },
+        {
+          "number": 218,
+          "text": "quin etiam sex continuis dixere diurnas"
+        },
+        {
+          "number": 219,
+          "text": "esse uices castris, quae sunt a principe signo"
+        },
+        {
+          "number": 220,
+          "text": "lanigeri; sex a libra nocturna uideri."
+        },
+        {
+          "number": 221,
+          "text": "sunt quibus esse diurna placet, quae mascula surgunt;"
+        },
+        {
+          "number": 222,
+          "text": "feminea in noctem tutis gaudere tenebris."
+        }
+      ],
+      "sourceHash": "7623558ec187619cb8309aede1de2e4bce6530dd336ec8295cc79a2c53fc2308",
+      "correctedSourceHash": "775aa1a2ecdf55b6568cfae1e066bda0a132aff8c4b515672368de3334df8d5a",
+      "existingKorean": [
+        {
+          "text": "어떤 사인들이 야간에 속하고 어떤 사인들이 주간에 속하는지 알아보고, 고유한 규칙에 따라 구분하는 일도 놓치지 말라. 그것들이 어둠이나 빛 속에서 자기 몫을 수행한다는 뜻은 아니다. 모든 사인은 정해진 차례에 빛나며, 때로는 낮을, 때로는 밤을 뒤따르므로, 그런 기준이라면 이름이 구별 없이 모두에게 공통될 것이기 때문이다. 오히려 우주의 부모인 자연이 영구히 정해진 배치로 신성한 시간의 몫을 어느 것에 주었는지를 보아야 한다.",
+          "locator": "제2권 203–210행",
+          "link": "/translations/manilius-ii-203-222/#paragraph-1",
+          "verseIds": [
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210
+          ]
+        },
+        {
+          "text": "활잡이와 날쌘 사자, 황금 양털을 걸치고 제 등을 돌아보는 자, 이어 물고기와 게와 날카롭게 쏘는 전갈은 모두 같은 몫 아래 주간의 사인이라고 불린다. 서로 이웃하기도 하고 같은 간격으로 나뉘기도 한다. 나머지는 같은 수로 짝을 이루거나 그 사이의 자리에 번갈아 놓여, 똑같이 여섯의 야간 사인이라 불린다.",
+          "locator": "제2권 211–217행",
+          "link": "/translations/manilius-ii-203-222/#paragraph-2",
+          "verseIds": [
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217
+          ]
+        },
+        {
+          "text": "또 어떤 이들은 첫 사인인 숫양에서 시작하여 연속한 여섯 자리에 주간의 차례가 있다고 보았다. 집게발에서 시작하는 여섯은 야간에 속한다고 보았다.",
+          "locator": "제2권 218–220행",
+          "link": "/translations/manilius-ii-203-222/#paragraph-3",
+          "verseIds": [
+            218,
+            219,
+            220
+          ]
+        },
+        {
+          "text": "어떤 이들은 남성으로 떠오르는 사인들이 주간에 속하고, 여성 사인들은 밤에 속하여 안전한 어둠을 즐긴다고 여긴다.",
+          "locator": "제2권 221–222행",
+          "link": "/translations/manilius-ii-203-222/#paragraph-4",
+          "verseIds": [
+            221,
+            222
+          ]
+        }
+      ],
+      "layerKo": "시 본문"
+    },
+    {
+      "id": "e05",
+      "title": "삽입된 소제목의 약호: uas → d. a. s.",
+      "book": 2,
+      "verse": 270,
+      "beforeVerse": true,
+      "printedPage": 41,
+      "pdfPage": 57,
+      "line": 4,
+      "direction": "from-end",
+      "layer": "apparatus-heading",
+      "wrong": "uas",
+      "right": "d. a. s.",
+      "targetBefore": "ante 270 quae eorum dextra aut sinistra g quae cauta et eorum uas m",
+      "targetAfter": "ante 270 quae eorum dextra aut sinistra g quae cauta et eorum d. a. s. m",
+      "changeKo": "41쪽 끝에서 넷째 줄의 교감란, 270행 앞에 놓인 소제목의 마드리드 독법을 기록한 곳에서 uas를 d. a. s.로 고친다. 시구 270행 안의 단어를 바꾸는 지시가 아니다.",
+      "explanation": [
+        "ante 270은 270행 앞이라는 위치 표지이다. g가 전하는 quae eorum dextra aut sinistra는 그 가운데 무엇이 오른쪽이고 왼쪽인가에 관한 표제이다. m의 기록에는 그 앞뒤로 다른 형태가 나타난다.",
+        "d. a. s.는 바로 앞의 dextra aut sinistra를 되풀이하는 약기일 가능성이 있지만, 정오표 자체는 세 글자를 풀어 쓰지 않는다. 이 대조판도 교정된 기호를 그대로 보존하고, 추정한 전체 문장을 사본의 실제 문구라고 만들지 않는다."
+      ],
+      "contextRange": [
+        270,
+        278
+      ],
+      "contextTitle": "개별 사인의 형상에서 상호 배치로",
+      "contextBlocks": [
+        {
+          "range": [
+            270,
+            272
+          ],
+          "ko": "사인들 각각의 고유한 형상을 아는 것만으로는 충분하지 않다. 그들은 서로 뜻을 맞추어 운명을 움직이기도 하고, 결속을 즐기며, 몫과 자리에서 서로 뒤를 잇기 때문이다.",
+          "id": "e05-p1",
+          "verseIds": [
+            270,
+            271,
+            272
+          ],
+          "latinBefore": [
+            {
+              "number": 270,
+              "text": "nec satis est proprias signorum noscere formas;"
+            },
+            {
+              "number": 271,
+              "text": "consensu quoque fata mouent et foedere gaudent"
+            },
+            {
+              "number": 272,
+              "text": "atque aliis aliae succedunt sorte locoque."
+            }
+          ],
+          "latinAfter": [
+            {
+              "number": 270,
+              "text": "nec satis est proprias signorum noscere formas;"
+            },
+            {
+              "number": 271,
+              "text": "consensu quoque fata mouent et foedere gaudent"
+            },
+            {
+              "number": 272,
+              "text": "atque aliis aliae succedunt sorte locoque."
+            }
+          ],
+          "targetHash": "53c668318df30300a41bbe16e6b0edc39664793fe6e6a7983f14e62237be5084"
+        },
+        {
+          "range": [
+            273,
+            278
+          ],
+          "ko": "사인들의 굽은 원이 한 바퀴 닫혀 있을 때, 선은 같은 길이의 세 방향으로 뻗어 끝에서 끝으로 서로 이어진다. 그 선이 닿는 사인들을 삼각 관계라고 부른다. 세 갈래의 각이 세 사인에 놓이고, 각각의 사이에는 세 사인이 떨어져 있기 때문이다.",
+          "id": "e05-p2",
+          "verseIds": [
+            273,
+            274,
+            275,
+            276,
+            277,
+            278
+          ],
+          "latinBefore": [
+            {
+              "number": 273,
+              "text": "circulus ut flexo signorum clauditur orbe,"
+            },
+            {
+              "number": 274,
+              "text": "in tris aequalis discurrit linea ductus"
+            },
+            {
+              "number": 275,
+              "text": "inque uicem extremis iungit se finibus ipsa,"
+            },
+            {
+              "number": 276,
+              "text": "et quaecumque ferit, dicuntur signa trigona,"
+            },
+            {
+              "number": 277,
+              "text": "in tria partitus quod ter cadit angulus astra,"
+            },
+            {
+              "number": 278,
+              "text": "quae diuisa manent ternis distantia signis."
+            }
+          ],
+          "latinAfter": [
+            {
+              "number": 273,
+              "text": "circulus ut flexo signorum clauditur orbe,"
+            },
+            {
+              "number": 274,
+              "text": "in tris aequalis discurrit linea ductus"
+            },
+            {
+              "number": 275,
+              "text": "inque uicem extremis iungit se finibus ipsa,"
+            },
+            {
+              "number": 276,
+              "text": "et quaecumque ferit, dicuntur signa trigona,"
+            },
+            {
+              "number": 277,
+              "text": "in tria partitus quod ter cadit angulus astra,"
+            },
+            {
+              "number": 278,
+              "text": "quae diuisa manent ternis distantia signis."
+            }
+          ],
+          "targetHash": "499a6cf8950651a6f6b70958105f4c6cc3fe4be013473e57d39205864ad8f556"
+        }
+      ],
+      "translationNotes": [
+        "소제목은 시 본문보다 앞의 별도 전승 항목이다. 정오표가 보완한 약기를 새로운 시구로 추가하거나, 지금의 읽기 구간 제목을 고대 저자의 원래 장 제목이라고 표시하지 않는다.",
+        "사이의 세 사인이라는 포함·제외 방식과, 세 꼭짓점 사이의 실제 각도는 다른 층위이다. 앞선 번역처럼 사인 시작점 기준 120도와 그 사이에 놓인 세 사인을 구별한다."
+      ],
+      "proof": {
+        "path": "public/facsimiles/breiter1907/corrigenda/apparatus-57.png",
+        "url": "/facsimiles/breiter1907/corrigenda/apparatus-57.png",
+        "sha256": "514a15f6d99c724104c939d3f74136a13df17116ee9d91a544a8324f3c2b1a19",
+        "pdfPage": 57,
+        "caption": "Breiter 1907 인쇄본 41쪽·PDF 57쪽의 교감란 확대. 정오표가 가리키는 위치의 교정 전 인쇄면이다."
+      },
+      "erratumLatin": "pag. 41 linea 4 a fine lege d. a. s. pro uas.",
+      "erratumKorean": "41쪽, 끝에서 넷째 줄의 uas를 d. a. s.로 읽어라.",
+      "originalLink": "/translations/manilius-ii-270-296/#paragraph-1",
+      "translationId": "manilius-ii-270-296",
+      "contextBefore": [
+        {
+          "number": 270,
+          "text": "nec satis est proprias signorum noscere formas;"
+        },
+        {
+          "number": 271,
+          "text": "consensu quoque fata mouent et foedere gaudent"
+        },
+        {
+          "number": 272,
+          "text": "atque aliis aliae succedunt sorte locoque."
+        },
+        {
+          "number": 273,
+          "text": "circulus ut flexo signorum clauditur orbe,"
+        },
+        {
+          "number": 274,
+          "text": "in tris aequalis discurrit linea ductus"
+        },
+        {
+          "number": 275,
+          "text": "inque uicem extremis iungit se finibus ipsa,"
+        },
+        {
+          "number": 276,
+          "text": "et quaecumque ferit, dicuntur signa trigona,"
+        },
+        {
+          "number": 277,
+          "text": "in tria partitus quod ter cadit angulus astra,"
+        },
+        {
+          "number": 278,
+          "text": "quae diuisa manent ternis distantia signis."
+        }
+      ],
+      "contextAfter": [
+        {
+          "number": 270,
+          "text": "nec satis est proprias signorum noscere formas;"
+        },
+        {
+          "number": 271,
+          "text": "consensu quoque fata mouent et foedere gaudent"
+        },
+        {
+          "number": 272,
+          "text": "atque aliis aliae succedunt sorte locoque."
+        },
+        {
+          "number": 273,
+          "text": "circulus ut flexo signorum clauditur orbe,"
+        },
+        {
+          "number": 274,
+          "text": "in tris aequalis discurrit linea ductus"
+        },
+        {
+          "number": 275,
+          "text": "inque uicem extremis iungit se finibus ipsa,"
+        },
+        {
+          "number": 276,
+          "text": "et quaecumque ferit, dicuntur signa trigona,"
+        },
+        {
+          "number": 277,
+          "text": "in tria partitus quod ter cadit angulus astra,"
+        },
+        {
+          "number": 278,
+          "text": "quae diuisa manent ternis distantia signis."
+        }
+      ],
+      "sourceHash": "31153b92107f00314d6ff0217123d513958220be68da91de06c816b4ab1b5370",
+      "correctedSourceHash": "31153b92107f00314d6ff0217123d513958220be68da91de06c816b4ab1b5370",
+      "existingKorean": [
+        {
+          "text": "사인들 각각의 형상만 아는 것으로는 충분하지 않다. 그들은 서로의 감응으로도 운명을 움직이고 결속을 즐기며, 몫과 위치에 따라 서로를 뒤따른다. 사인들의 둥근 원이 닫혀 있을 때, 하나의 선을 같은 길이의 세 선분으로 뻗어 끝과 끝이 서로 만나게 하라. 그 선이 닿는 사인들을 삼각 관계라고 부른다. 세 갈래로 나뉜 각이 세 사인에 놓이고, 각 사인 사이에는 다른 세 사인이 끼어 있기 때문이다.",
+          "locator": "제2권 270–278행",
+          "link": "/translations/manilius-ii-270-296/#paragraph-1",
+          "verseIds": [
+            270,
+            271,
+            272,
+            273,
+            274,
+            275,
+            276,
+            277,
+            278
+          ]
+        }
+      ],
+      "layerKo": "교감란의 소제목"
+    },
+    {
+      "id": "e06",
+      "title": "주요 자리를 지나가는 동사: ferat → terat",
+      "book": 3,
+      "verse": 217,
+      "printedPage": 72,
+      "pdfPage": 88,
+      "line": 17,
+      "direction": "from-start",
+      "layer": "poem-body",
+      "wrong": "ferat",
+      "right": "terat",
+      "targetBefore": "aut ferat occasus, aut imo sederit orbe.",
+      "targetAfter": "aut terat occasus, aut imo sederit orbe.",
+      "changeKo": "72쪽 처음부터 열일곱째 줄은 시 본문 제3권 217행이다. ferat를 terat로 고쳐, 운반하거나 가져온다는 말 대신 밟아 지나간다는 움직임으로 읽는다.",
+      "explanation": [
+        "terat는 tero의 형태이다. 이 문장에서는 exortum·fastigia·occasus라는 위치들과 연결하여 지나감의 뜻으로 읽었다. 고치기 전 번역이 이미 지는 자리에 이른다는 의미를 표현했더라도, 라틴어 대조문은 정오표의 실제 동사로 명확히 구별해야 한다.",
+        "이 정오가 뒤의 모든 상승 시간 계산을 새 방식으로 바꾸는 것은 아니다. 이어지는 두 시간당 한 사인 방식의 소개와 반박, 시간 단위가 달라진다는 논증은 함께 보존한다."
+      ],
+      "contextRange": [
+        203,
+        246
+      ],
+      "contextTitle": "상승점의 정확성과 균등한 두 시간 배정의 문제",
+      "additionalPdfPages": [
+        89
+      ],
+      "contextBlocks": [
+        {
+          "range": [
+            203,
+            205
+          ],
+          "ko": "그대는 민첩한 정신으로 살펴야 할 다른 문제도 물을 것이다. 태어나는 그 시각에 거대한 천구에서 떠오르는 호로스코포스를 어떤 방법으로 정확히 포착할 수 있는가?",
+          "id": "e06-p1",
+          "verseIds": [
+            203,
+            204,
+            205
+          ],
+          "latinBefore": [
+            {
+              "number": 203,
+              "text": "forsitan et quaeras agili rem corde notandam,"
+            },
+            {
+              "number": 204,
+              "text": "qua ratione queas in tali tempore nati"
+            },
+            {
+              "number": 205,
+              "text": "exprimere inmenso surgentem horoscopon orbe."
+            }
+          ],
+          "latinAfter": [
+            {
+              "number": 203,
+              "text": "forsitan et quaeras agili rem corde notandam,"
+            },
+            {
+              "number": 204,
+              "text": "qua ratione queas in tali tempore nati"
+            },
+            {
+              "number": 205,
+              "text": "exprimere inmenso surgentem horoscopon orbe."
+            }
+          ],
+          "targetHash": "871502202933bff4a5b6d1913d48177dd59df07de01506ea6fb6c08b5676db65"
+        },
+        {
+          "range": [
+            206,
+            210
+          ],
+          "ko": "이것을 세밀한 이치로 파악하지 못하면 기술의 토대가 무너지고 순서도 서로 맞지 않는다. 모든 것을 다스리는 주요 자리가 잘못되면 천계는 거짓된 모습을 드러내고, 출발점이 서지 않으며, 장소가 조금만 기울어도 별들의 배치가 달라지기 때문이다.",
+          "id": "e06-p2",
+          "verseIds": [
+            206,
+            207,
+            208,
+            209,
+            210
+          ],
+          "latinBefore": [
+            {
+              "number": 206,
+              "text": "quod nisi subtili uisum ratione tenetur,"
+            },
+            {
+              "number": 207,
+              "text": "fundamenta ruunt artis, nec consonat ordo,"
+            },
+            {
+              "number": 208,
+              "text": "cardinibus quoniam falsis, qui cuncta gubernant,"
+            },
+            {
+              "number": 209,
+              "text": "mentitur faciem mundus, nec constat origo,"
+            },
+            {
+              "number": 210,
+              "text": "flexaque momento uariantur sidera templi."
+            }
+          ],
+          "latinAfter": [
+            {
+              "number": 206,
+              "text": "quod nisi subtili uisum ratione tenetur,"
+            },
+            {
+              "number": 207,
+              "text": "fundamenta ruunt artis, nec consonat ordo,"
+            },
+            {
+              "number": 208,
+              "text": "cardinibus quoniam falsis, qui cuncta gubernant,"
+            },
+            {
+              "number": 209,
+              "text": "mentitur faciem mundus, nec constat origo,"
+            },
+            {
+              "number": 210,
+              "text": "flexaque momento uariantur sidera templi."
+            }
+          ],
+          "targetHash": "4f90b4a2dfea8b26beb4f38bb3532a06794fb82c9931948992114b34268b3a06"
+        },
+        {
+          "range": [
+            211,
+            217
+          ],
+          "ko": "그 결과가 중대한 만큼 이 일은 노고로 가득하다. 영원한 경로를 따라 사인들 사이를 날고 굽은 원호로 천구 전체를 도는 우주를 정확히 나타내며, 그 모습을 확실하게 세워야 한다. 그토록 거대한 구조 안의 가장 작은 점을 붙잡아, 어느 부분이 솟는 곳이나 하늘의 꼭대기나 지는 곳을 밟아 지나가고, 어느 부분이 맨 아래의 원에 자리하는지 알아내야 한다.",
+          "id": "e06-p3",
+          "verseIds": [
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217
+          ],
+          "latinBefore": [
+            {
+              "number": 211,
+              "text": "sed quanta effectu res est, tam plena laboris"
+            },
+            {
+              "number": 212,
+              "text": "cursibus aeternis mundum per signa uolantem,"
+            },
+            {
+              "number": 213,
+              "text": "ut totum lustret curuatis arcubus orbem,"
+            },
+            {
+              "number": 214,
+              "text": "exprimere et uultus eius componere certos"
+            },
+            {
+              "number": 215,
+              "text": "ac tantae molis minimum deprendere punctum,"
+            },
+            {
+              "number": 216,
+              "text": "quae pars exortum uel quae fastigia mundi"
+            },
+            {
+              "number": 217,
+              "text": "aut ferat occasus, aut imo sederit orbe."
+            }
+          ],
+          "latinAfter": [
+            {
+              "number": 211,
+              "text": "sed quanta effectu res est, tam plena laboris"
+            },
+            {
+              "number": 212,
+              "text": "cursibus aeternis mundum per signa uolantem,"
+            },
+            {
+              "number": 213,
+              "text": "ut totum lustret curuatis arcubus orbem,"
+            },
+            {
+              "number": 214,
+              "text": "exprimere et uultus eius componere certos"
+            },
+            {
+              "number": 215,
+              "text": "ac tantae molis minimum deprendere punctum,"
+            },
+            {
+              "number": 216,
+              "text": "quae pars exortum uel quae fastigia mundi"
+            },
+            {
+              "number": 217,
+              "text": "aut terat occasus, aut imo sederit orbe."
+            }
+          ],
+          "targetHash": "8e92c5be5313d427d25856d60688372a75e42a2eff3b067f71c65194c11f1d00"
+        },
+        {
+          "range": [
+            218,
+            224
+          ],
+          "ko": "나도 널리 쓰이는 계산의 순서를 모르지는 않는다. 그것은 떠오르는 사인마다 두 시간을 주고, 같은 크기의 사인들을 같은 시간 간격에 배정한다. 태양의 원반이 시작한 도수에서부터 수를 세어 각 사인에 합계를 맞추며 출생 시각에 이를 때까지 나아가고, 수가 멈춘 곳의 사인이 떠오른다고 말한다.",
+          "id": "e06-p4",
+          "verseIds": [
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224
+          ],
+          "latinBefore": [
+            {
+              "number": 218,
+              "text": "nec me uulgatae rationis praeterit ordo,"
+            },
+            {
+              "number": 219,
+              "text": "quae binas tribuit signis surgentibus horas"
+            },
+            {
+              "number": 220,
+              "text": "et paribus spatiis aequalia digerit astra,"
+            },
+            {
+              "number": 221,
+              "text": "ut parte ex illa, qua Phoebi coeperit orbis,"
+            },
+            {
+              "number": 222,
+              "text": "discedat numerus summamque accommodet astris,"
+            },
+            {
+              "number": 223,
+              "text": "donec perueniat nascentis tempus ad ipsum,"
+            },
+            {
+              "number": 224,
+              "text": "atque ubi substiterit, signum dicatur oriri."
+            }
+          ],
+          "latinAfter": [
+            {
+              "number": 218,
+              "text": "nec me uulgatae rationis praeterit ordo,"
+            },
+            {
+              "number": 219,
+              "text": "quae binas tribuit signis surgentibus horas"
+            },
+            {
+              "number": 220,
+              "text": "et paribus spatiis aequalia digerit astra,"
+            },
+            {
+              "number": 221,
+              "text": "ut parte ex illa, qua Phoebi coeperit orbis,"
+            },
+            {
+              "number": 222,
+              "text": "discedat numerus summamque accommodet astris,"
+            },
+            {
+              "number": 223,
+              "text": "donec perueniat nascentis tempus ad ipsum,"
+            },
+            {
+              "number": 224,
+              "text": "atque ubi substiterit, signum dicatur oriri."
+            }
+          ],
+          "targetHash": "d42bbe244c7984689d73f417cce78530fd7f6a9fa1213d99fb20ae6676824b25"
+        },
+        {
+          "range": [
+            225,
+            232
+          ],
+          "ko": "그러나 사인들의 원은 비스듬한 천구 위에 놓여 있다. 어떤 사인은 몸을 굽힌 채 떠오르고, 다른 사인은 더 곧은 순서로 떠오른다. 그 사인이 우리에게 더 가깝거나 더 멀리 있기 때문이다. 게자리가 낮을 끝내는 데는 오래 걸리고, 겨울이 낮을 되돌리는 데도 오래 걸린다. 이쪽의 원이 짧게 놓인 만큼 저쪽의 원은 길다. 천칭자리와 양자리는 밤과 낮을 같게 돌려주니, 가운데는 양끝과, 양끝은 꼭대기와 이렇게 서로 다르다.",
+          "id": "e06-p5",
+          "verseIds": [
+            225,
+            226,
+            227,
+            228,
+            229,
+            230,
+            231,
+            232
+          ],
+          "latinBefore": [
+            {
+              "number": 225,
+              "text": "sed iacet obliquo signorum circulus orbe,"
+            },
+            {
+              "number": 226,
+              "text": "atque alia inflexis oriuntur sidera membris,"
+            },
+            {
+              "number": 227,
+              "text": "ast illis magis est rectus surgentibus ordo,"
+            },
+            {
+              "number": 228,
+              "text": "ut propius nobis aliquod uel longius astrum est."
+            },
+            {
+              "number": 229,
+              "text": "uix finit luces cancer, uix bruma reducit;"
+            },
+            {
+              "number": 230,
+              "text": "quam breuis illa iacet, tam longus circulus hic est."
+            },
+            {
+              "number": 231,
+              "text": "libra ariesque parem reddunt noctemque diemque;"
+            },
+            {
+              "number": 232,
+              "text": "sic media extremis pugnant extremaque summis."
+            }
+          ],
+          "latinAfter": [
+            {
+              "number": 225,
+              "text": "sed iacet obliquo signorum circulus orbe,"
+            },
+            {
+              "number": 226,
+              "text": "atque alia inflexis oriuntur sidera membris,"
+            },
+            {
+              "number": 227,
+              "text": "ast illis magis est rectus surgentibus ordo,"
+            },
+            {
+              "number": 228,
+              "text": "ut propius nobis aliquod uel longius astrum est."
+            },
+            {
+              "number": 229,
+              "text": "uix finit luces cancer, uix bruma reducit;"
+            },
+            {
+              "number": 230,
+              "text": "quam breuis illa iacet, tam longus circulus hic est."
+            },
+            {
+              "number": 231,
+              "text": "libra ariesque parem reddunt noctemque diemque;"
+            },
+            {
+              "number": 232,
+              "text": "sic media extremis pugnant extremaque summis."
+            }
+          ],
+          "targetHash": "408a8883194e22c735eba4d61c9887e32a9be91911564b81c7e9f12d05789cb9"
+        },
+        {
+          "range": [
+            233,
+            237
+          ],
+          "ko": "밤의 시간도 낮만큼이나 달라진다. 다만 서로 반대편의 달들에서는 같은 순서가 유지된다. 낮과 어둠의 길이와 크기가 그토록 다르다면, 모든 사인이 시간마다 같은 천계의 법칙 아래 머문다고 누가 믿을 수 있겠는가?",
+          "id": "e06-p6",
+          "verseIds": [
+            233,
+            234,
+            235,
+            236,
+            237
+          ],
+          "latinBefore": [
+            {
+              "number": 233,
+              "text": "nec nocturna minus uariant quam tempora lucis,"
+            },
+            {
+              "number": 234,
+              "text": "sed tantum aduersis idem stat mensibus ordo."
+            },
+            {
+              "number": 235,
+              "text": "in tam dissimili spatio uariisque dierum"
+            },
+            {
+              "number": 236,
+              "text": "umbrarumque modis quis possit credere in horas"
+            },
+            {
+              "number": 237,
+              "text": "omnia signa pari mundi sub lege manere?"
+            }
+          ],
+          "latinAfter": [
+            {
+              "number": 233,
+              "text": "nec nocturna minus uariant quam tempora lucis,"
+            },
+            {
+              "number": 234,
+              "text": "sed tantum aduersis idem stat mensibus ordo."
+            },
+            {
+              "number": 235,
+              "text": "in tam dissimili spatio uariisque dierum"
+            },
+            {
+              "number": 236,
+              "text": "umbrarumque modis quis possit credere in horas"
+            },
+            {
+              "number": 237,
+              "text": "omnia signa pari mundi sub lege manere?"
+            }
+          ],
+          "targetHash": "5d7db297a16e5208336235201f476139bfee770b2b3dd10879d49ed10dcfa6b7"
+        },
+        {
+          "range": [
+            238,
+            242
+          ],
+          "ko": "더구나 한 시간의 크기 자체도 일정하지 않다. 어떤 시간 뒤에든 같은 길이의 다른 시간이 따라오는 것은 아니다. 낮 전체의 길이가 바뀌듯 그 부분들도 늘어났다가 다시 줄어든다. 그렇지만 어느 사인에서 낮이 진행되든, 사인 여섯은 땅 위에 있고 다른 여섯은 그 아래에 있다.",
+          "id": "e06-p7",
+          "verseIds": [
+            238,
+            239,
+            240,
+            241,
+            242
+          ],
+          "latinBefore": [
+            {
+              "number": 238,
+              "text": "adde quod incerta est horae mensura, neque ullam"
+            },
+            {
+              "number": 239,
+              "text": "altera par sequitur, sed sicut summa dierum"
+            },
+            {
+              "number": 240,
+              "text": "uertitur, et partes surgunt rursusque recedunt;"
+            },
+            {
+              "number": 241,
+              "text": "cum tamen in quocumque dies deducitur astro,"
+            },
+            {
+              "number": 242,
+              "text": "sex habeat supra terras, sex signa sub illis;"
+            }
+          ],
+          "latinAfter": [
+            {
+              "number": 238,
+              "text": "adde quod incerta est horae mensura, neque ullam"
+            },
+            {
+              "number": 239,
+              "text": "altera par sequitur, sed sicut summa dierum"
+            },
+            {
+              "number": 240,
+              "text": "uertitur, et partes surgunt rursusque recedunt;"
+            },
+            {
+              "number": 241,
+              "text": "cum tamen in quocumque dies deducitur astro,"
+            },
+            {
+              "number": 242,
+              "text": "sex habeat supra terras, sex signa sub illis;"
+            }
+          ],
+          "targetHash": "7221847e56d31eb6a49a4b35383a6c52f404c780ae615580e23674b421d11164"
+        },
+        {
+          "range": [
+            243,
+            246
+          ],
+          "ko": "따라서 모든 사인이 두 시간씩에 떠오를 수는 없다. 서로 어긋나는 시간들 안에는 그만큼의 여지가 없기 때문이다. 어느 낮에나 스물네 시간을 유지하려 한다 해도, 계산이 요구하는 그 수를 실제 적용에서는 받아들일 수 없다.",
+          "id": "e06-p8",
+          "verseIds": [
+            243,
+            244,
+            245,
+            246
+          ],
+          "latinBefore": [
+            {
+              "number": 243,
+              "text": "quo fit, ut in binas non possint omnia nasci,"
+            },
+            {
+              "number": 244,
+              "text": "cum spatium non sit tantum pugnantibus horis,"
+            },
+            {
+              "number": 245,
+              "text": "si modo bis senae seruantur luce sub omni."
+            },
+            {
+              "number": 246,
+              "text": "quem numerum debet ratio, sed non capit usus."
+            }
+          ],
+          "latinAfter": [
+            {
+              "number": 243,
+              "text": "quo fit, ut in binas non possint omnia nasci,"
+            },
+            {
+              "number": 244,
+              "text": "cum spatium non sit tantum pugnantibus horis,"
+            },
+            {
+              "number": 245,
+              "text": "si modo bis senae seruantur luce sub omni."
+            },
+            {
+              "number": 246,
+              "text": "quem numerum debet ratio, sed non capit usus."
+            }
+          ],
+          "targetHash": "ad07467a280d132c64088d93254e770406d320257a1b1e92b5b973168dfa527d"
+        }
+      ],
+      "translationNotes": [
+        "새 번역은 217행의 terat를 밟아 지나간다는 동작으로 드러냈다. 인쇄 본문의 ferat와 정오표를 반영한 terat를 같은 전사 해시로 기록하지 않는다.",
+        "238~246행은 낮이나 밤을 나누는 시간의 길이를 논한다. 고정된 60분을 미리 대입해 모든 문장을 정상적인 현대 계산으로 다시 쓰지 않았다. 특히 245행의 luce와 bis senae 사이의 수량상 긴장은 원문에 남아 있다.",
+        "게자리와 겨울의 원, 가운데와 양끝이라는 비유의 대조는 저본의 서술이다. 현대 천구 좌표를 새로 계산하거나 모호한 대상을 특정한 물리적 양으로 확정하지 않았다."
+      ],
+      "proof": {
+        "path": "public/facsimiles/breiter1907/corrigenda/body-88.png",
+        "url": "/facsimiles/breiter1907/corrigenda/body-88.png",
+        "sha256": "df785ba52b6c08497c8dbc73c168a0bea3e3bb89077f54df7100f5e0b89a70ce",
+        "pdfPage": 88,
+        "caption": "Breiter 1907 인쇄본 72쪽·PDF 88쪽의 시 본문 확대. 정오표가 가리키는 위치의 교정 전 인쇄면이다."
+      },
+      "erratumLatin": "pag. 72 linea 17 ab initio lege terat pro ferat.",
+      "erratumKorean": "72쪽, 처음부터 열일곱째 줄의 ferat를 terat로 읽어라.",
+      "originalLink": "/translations/manilius-iii-203-246/#paragraph-2",
+      "translationId": "manilius-iii-203-246",
+      "contextBefore": [
+        {
+          "number": 203,
+          "text": "forsitan et quaeras agili rem corde notandam,"
+        },
+        {
+          "number": 204,
+          "text": "qua ratione queas in tali tempore nati"
+        },
+        {
+          "number": 205,
+          "text": "exprimere inmenso surgentem horoscopon orbe."
+        },
+        {
+          "number": 206,
+          "text": "quod nisi subtili uisum ratione tenetur,"
+        },
+        {
+          "number": 207,
+          "text": "fundamenta ruunt artis, nec consonat ordo,"
+        },
+        {
+          "number": 208,
+          "text": "cardinibus quoniam falsis, qui cuncta gubernant,"
+        },
+        {
+          "number": 209,
+          "text": "mentitur faciem mundus, nec constat origo,"
+        },
+        {
+          "number": 210,
+          "text": "flexaque momento uariantur sidera templi."
+        },
+        {
+          "number": 211,
+          "text": "sed quanta effectu res est, tam plena laboris"
+        },
+        {
+          "number": 212,
+          "text": "cursibus aeternis mundum per signa uolantem,"
+        },
+        {
+          "number": 213,
+          "text": "ut totum lustret curuatis arcubus orbem,"
+        },
+        {
+          "number": 214,
+          "text": "exprimere et uultus eius componere certos"
+        },
+        {
+          "number": 215,
+          "text": "ac tantae molis minimum deprendere punctum,"
+        },
+        {
+          "number": 216,
+          "text": "quae pars exortum uel quae fastigia mundi"
+        },
+        {
+          "number": 217,
+          "text": "aut ferat occasus, aut imo sederit orbe."
+        },
+        {
+          "number": 218,
+          "text": "nec me uulgatae rationis praeterit ordo,"
+        },
+        {
+          "number": 219,
+          "text": "quae binas tribuit signis surgentibus horas"
+        },
+        {
+          "number": 220,
+          "text": "et paribus spatiis aequalia digerit astra,"
+        },
+        {
+          "number": 221,
+          "text": "ut parte ex illa, qua Phoebi coeperit orbis,"
+        },
+        {
+          "number": 222,
+          "text": "discedat numerus summamque accommodet astris,"
+        },
+        {
+          "number": 223,
+          "text": "donec perueniat nascentis tempus ad ipsum,"
+        },
+        {
+          "number": 224,
+          "text": "atque ubi substiterit, signum dicatur oriri."
+        },
+        {
+          "number": 225,
+          "text": "sed iacet obliquo signorum circulus orbe,"
+        },
+        {
+          "number": 226,
+          "text": "atque alia inflexis oriuntur sidera membris,"
+        },
+        {
+          "number": 227,
+          "text": "ast illis magis est rectus surgentibus ordo,"
+        },
+        {
+          "number": 228,
+          "text": "ut propius nobis aliquod uel longius astrum est."
+        },
+        {
+          "number": 229,
+          "text": "uix finit luces cancer, uix bruma reducit;"
+        },
+        {
+          "number": 230,
+          "text": "quam breuis illa iacet, tam longus circulus hic est."
+        },
+        {
+          "number": 231,
+          "text": "libra ariesque parem reddunt noctemque diemque;"
+        },
+        {
+          "number": 232,
+          "text": "sic media extremis pugnant extremaque summis."
+        },
+        {
+          "number": 233,
+          "text": "nec nocturna minus uariant quam tempora lucis,"
+        },
+        {
+          "number": 234,
+          "text": "sed tantum aduersis idem stat mensibus ordo."
+        },
+        {
+          "number": 235,
+          "text": "in tam dissimili spatio uariisque dierum"
+        },
+        {
+          "number": 236,
+          "text": "umbrarumque modis quis possit credere in horas"
+        },
+        {
+          "number": 237,
+          "text": "omnia signa pari mundi sub lege manere?"
+        },
+        {
+          "number": 238,
+          "text": "adde quod incerta est horae mensura, neque ullam"
+        },
+        {
+          "number": 239,
+          "text": "altera par sequitur, sed sicut summa dierum"
+        },
+        {
+          "number": 240,
+          "text": "uertitur, et partes surgunt rursusque recedunt;"
+        },
+        {
+          "number": 241,
+          "text": "cum tamen in quocumque dies deducitur astro,"
+        },
+        {
+          "number": 242,
+          "text": "sex habeat supra terras, sex signa sub illis;"
+        },
+        {
+          "number": 243,
+          "text": "quo fit, ut in binas non possint omnia nasci,"
+        },
+        {
+          "number": 244,
+          "text": "cum spatium non sit tantum pugnantibus horis,"
+        },
+        {
+          "number": 245,
+          "text": "si modo bis senae seruantur luce sub omni."
+        },
+        {
+          "number": 246,
+          "text": "quem numerum debet ratio, sed non capit usus."
+        }
+      ],
+      "contextAfter": [
+        {
+          "number": 203,
+          "text": "forsitan et quaeras agili rem corde notandam,"
+        },
+        {
+          "number": 204,
+          "text": "qua ratione queas in tali tempore nati"
+        },
+        {
+          "number": 205,
+          "text": "exprimere inmenso surgentem horoscopon orbe."
+        },
+        {
+          "number": 206,
+          "text": "quod nisi subtili uisum ratione tenetur,"
+        },
+        {
+          "number": 207,
+          "text": "fundamenta ruunt artis, nec consonat ordo,"
+        },
+        {
+          "number": 208,
+          "text": "cardinibus quoniam falsis, qui cuncta gubernant,"
+        },
+        {
+          "number": 209,
+          "text": "mentitur faciem mundus, nec constat origo,"
+        },
+        {
+          "number": 210,
+          "text": "flexaque momento uariantur sidera templi."
+        },
+        {
+          "number": 211,
+          "text": "sed quanta effectu res est, tam plena laboris"
+        },
+        {
+          "number": 212,
+          "text": "cursibus aeternis mundum per signa uolantem,"
+        },
+        {
+          "number": 213,
+          "text": "ut totum lustret curuatis arcubus orbem,"
+        },
+        {
+          "number": 214,
+          "text": "exprimere et uultus eius componere certos"
+        },
+        {
+          "number": 215,
+          "text": "ac tantae molis minimum deprendere punctum,"
+        },
+        {
+          "number": 216,
+          "text": "quae pars exortum uel quae fastigia mundi"
+        },
+        {
+          "number": 217,
+          "text": "aut terat occasus, aut imo sederit orbe."
+        },
+        {
+          "number": 218,
+          "text": "nec me uulgatae rationis praeterit ordo,"
+        },
+        {
+          "number": 219,
+          "text": "quae binas tribuit signis surgentibus horas"
+        },
+        {
+          "number": 220,
+          "text": "et paribus spatiis aequalia digerit astra,"
+        },
+        {
+          "number": 221,
+          "text": "ut parte ex illa, qua Phoebi coeperit orbis,"
+        },
+        {
+          "number": 222,
+          "text": "discedat numerus summamque accommodet astris,"
+        },
+        {
+          "number": 223,
+          "text": "donec perueniat nascentis tempus ad ipsum,"
+        },
+        {
+          "number": 224,
+          "text": "atque ubi substiterit, signum dicatur oriri."
+        },
+        {
+          "number": 225,
+          "text": "sed iacet obliquo signorum circulus orbe,"
+        },
+        {
+          "number": 226,
+          "text": "atque alia inflexis oriuntur sidera membris,"
+        },
+        {
+          "number": 227,
+          "text": "ast illis magis est rectus surgentibus ordo,"
+        },
+        {
+          "number": 228,
+          "text": "ut propius nobis aliquod uel longius astrum est."
+        },
+        {
+          "number": 229,
+          "text": "uix finit luces cancer, uix bruma reducit;"
+        },
+        {
+          "number": 230,
+          "text": "quam breuis illa iacet, tam longus circulus hic est."
+        },
+        {
+          "number": 231,
+          "text": "libra ariesque parem reddunt noctemque diemque;"
+        },
+        {
+          "number": 232,
+          "text": "sic media extremis pugnant extremaque summis."
+        },
+        {
+          "number": 233,
+          "text": "nec nocturna minus uariant quam tempora lucis,"
+        },
+        {
+          "number": 234,
+          "text": "sed tantum aduersis idem stat mensibus ordo."
+        },
+        {
+          "number": 235,
+          "text": "in tam dissimili spatio uariisque dierum"
+        },
+        {
+          "number": 236,
+          "text": "umbrarumque modis quis possit credere in horas"
+        },
+        {
+          "number": 237,
+          "text": "omnia signa pari mundi sub lege manere?"
+        },
+        {
+          "number": 238,
+          "text": "adde quod incerta est horae mensura, neque ullam"
+        },
+        {
+          "number": 239,
+          "text": "altera par sequitur, sed sicut summa dierum"
+        },
+        {
+          "number": 240,
+          "text": "uertitur, et partes surgunt rursusque recedunt;"
+        },
+        {
+          "number": 241,
+          "text": "cum tamen in quocumque dies deducitur astro,"
+        },
+        {
+          "number": 242,
+          "text": "sex habeat supra terras, sex signa sub illis;"
+        },
+        {
+          "number": 243,
+          "text": "quo fit, ut in binas non possint omnia nasci,"
+        },
+        {
+          "number": 244,
+          "text": "cum spatium non sit tantum pugnantibus horis,"
+        },
+        {
+          "number": 245,
+          "text": "si modo bis senae seruantur luce sub omni."
+        },
+        {
+          "number": 246,
+          "text": "quem numerum debet ratio, sed non capit usus."
+        }
+      ],
+      "sourceHash": "52e7bb8ab2ef9496593f41554b5acd4c3af183052f9abe54f976fcff89d90fc1",
+      "correctedSourceHash": "1dbd700d8c4947d5250af59333004658557864969cb008bcfef0a6f261e2b55a",
+      "existingKorean": [
+        {
+          "text": "그대는 재빠른 정신으로 살펴야 할 다른 문제도 물을지 모른다. 출생한 그 시각에 거대한 천구에서 떠오르는 호로스코포스를 어떤 방법으로 정확히 잡아낼 수 있는가? 이것을 세밀한 이치로 파악하지 못하면 기술의 토대가 무너지고 순서도 어긋난다. 모든 것을 다스리는 주요 자리들이 잘못되면 우주는 거짓된 모습을 보이고, 시작점도 확립되지 않으며, 장소의 미세한 이동으로 별들의 배치가 달라지기 때문이다.",
+          "locator": "제3권 203–210행",
+          "link": "/translations/manilius-iii-203-246/#paragraph-1",
+          "verseIds": [
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210
+          ]
+        },
+        {
+          "text": "그 작용이 큰 만큼 이 일은 힘든 노고로 가득하다. 사인들을 지나 영원히 운행하며 굽은 원호로 천구 전체를 두루 도는 우주를 정확히 나타내고, 그 확정된 모습을 구성해야 한다. 그토록 큰 구조 안의 아주 작은 점을 찾아, 어느 도수가 상승에 놓이며 어느 도수가 하늘의 꼭대기나 하강에 이르거나 천구의 맨 아래에 자리하는지 알아내야 한다.",
+          "locator": "제3권 211–217행",
+          "link": "/translations/manilius-iii-203-246/#paragraph-2",
+          "verseIds": [
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217
+          ]
+        },
+        {
+          "text": "널리 쓰이는 계산법의 순서를 나도 모르는 것은 아니다. 그것은 떠오르는 사인 하나에 두 시간씩을 주고, 같은 크기의 사인들을 같은 시간 간격에 배정한다. 태양의 원반이 시작한 도수에서 수를 세기 시작하여 출생한 바로 그 시각에 이를 때까지 각 사인에 시간을 맞추어 나간다. 그리고 계산이 멈추는 곳의 사인이 떠오른다고 말한다.",
+          "locator": "제3권 218–224행",
+          "link": "/translations/manilius-iii-203-246/#paragraph-3",
+          "verseIds": [
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224
+          ]
+        },
+        {
+          "text": "그러나 사인들의 원은 천구 위에 비스듬히 놓여 있다. 어떤 별자리는 몸을 굽힌 채 떠오르고 다른 것은 더 곧게 떠오른다. 어떤 별자리가 우리에게 더 가깝고 더 먼지에 따라 그러하다. 게자리는 좀처럼 낮을 끝내지 않고, 겨울은 좀처럼 낮을 되돌려 주지 않는다. 저쪽 길이가 짧은 만큼 이쪽의 원은 길다. 천칭자리와 양자리는 밤과 낮을 같게 한다. 이처럼 가운데는 양 끝과, 끝은 꼭대기와 어긋난다. 밤의 시간도 낮의 시간 못지않게 달라지며, 서로 반대인 달들에서만 같은 질서가 성립한다.",
+          "locator": "제3권 225–234행",
+          "link": "/translations/manilius-iii-203-246/#paragraph-4",
+          "verseIds": [
+            225,
+            226,
+            227,
+            228,
+            229,
+            230,
+            231,
+            232,
+            233,
+            234
+          ]
+        },
+        {
+          "text": "그토록 길이가 다르고 낮과 어둠의 분량이 변하는데, 누가 모든 사인이 시간에 대해 같은 우주의 법칙을 따른다고 믿을 수 있겠는가?",
+          "locator": "제3권 235–237행",
+          "link": "/translations/manilius-iii-203-246/#paragraph-5",
+          "verseIds": [
+            235,
+            236,
+            237
+          ]
+        },
+        {
+          "text": "더구나 한 시간의 크기도 일정하지 않으며, 다음 시간이 앞의 시간과 언제나 같은 것은 아니다. 낮 전체의 길이가 달라지면 그 부분들도 늘었다가 다시 줄어든다. 그런데 하루가 어느 사인에서 진행되든, 여섯 사인은 땅 위에 있고 여섯 사인은 그 아래에 있다. 그러므로 모든 사인이 두 시간씩에 떠오를 수는 없다. 시간이 서로 맞지 않아 그만한 길이가 나오지 않기 때문이다. 어떤 낮이든 열두 시간으로 지킨다고 한다면 말이다. 계산의 이치는 그 수를 요구하지만 실제의 쓰임은 그 수용을 허락하지 않는다.",
+          "locator": "제3권 238–246행",
+          "link": "/translations/manilius-iii-203-246/#paragraph-6",
+          "verseIds": [
+            238,
+            239,
+            240,
+            241,
+            242,
+            243,
+            244,
+            245,
+            246
+          ]
+        }
+      ],
+      "layerKo": "시 본문"
+    },
+    {
+      "id": "e07",
+      "title": "곡면을 따라 기울어짐: orbis → orbe",
+      "book": 3,
+      "verse": 330,
+      "printedPage": 76,
+      "pdfPage": 92,
+      "line": 7,
+      "direction": "from-start",
+      "layer": "poem-body",
+      "wrong": "orbis",
+      "right": "orbe",
+      "targetBefore": "altera reddetur; sed quantum inflexerit orbis,",
+      "targetAfter": "altera reddetur; sed quantum inflexerit orbe,",
+      "changeKo": "76쪽 처음부터 일곱째 줄은 시 본문 제3권 330행이다. orbis를 orbe로 고쳐 읽는다. 표제의 다른 orbis나 같은 쪽의 모든 orbe를 일괄 치환하지 않는다.",
+      "explanation": [
+        "정오 후의 orbe는 orbis의 탈격형이다. 따라서 땅의 구체 자체를 주어처럼 확정한 기존 한국어의 연결을 그대로 기계적으로 유지하지 않고, 구면을 따라 굽어 나간다는 관계로 다시 옮겼다.",
+        "정오표는 이 한 단어의 형태만 고친다. inflexerit의 생략된 주체나 고대 천구 모델의 모든 세부를 그 지시만으로 확정할 수는 없다. 새 번역도 원문에 없는 관측자의 실명이나 수량을 덧붙이지 않는다."
+      ],
+      "contextRange": [
+        323,
+        343
+      ],
+      "contextTitle": "관찰 위치와 하늘의 기울기",
+      "additionalPdfPages": [
+        91
+      ],
+      "contextBlocks": [
+        {
+          "range": [
+            323,
+            327
+          ],
+          "ko": "그러나 그 땅의 지역을 벗어나, 지구의 둥근 지면을 무거운 걸음으로 밟으며 어느 쪽 끝의 극을 향해 나아간다고 하자. 자연은 지면을 둥글게 부푼 구체로 그려 놓고, 우주 전체의 한가운데에 떠 있도록 두었다.",
+          "id": "e07-p1",
+          "verseIds": [
+            323,
+            324,
+            325,
+            326,
+            327
+          ],
+          "latinBefore": [
+            {
+              "number": 323,
+              "text": "at simul ex illa terrarum parte recedas,"
+            },
+            {
+              "number": 324,
+              "text": "quicquid ad extremos temet praeuerteris axes"
+            },
+            {
+              "number": 325,
+              "text": "per conuexa graui gressu uestigia terrae,"
+            },
+            {
+              "number": 326,
+              "text": "quam tereti natura solo decircinat orbem"
+            },
+            {
+              "number": 327,
+              "text": "in tumidum et mediam in mundo suspendit ab omni:"
+            }
+          ],
+          "latinAfter": [
+            {
+              "number": 323,
+              "text": "at simul ex illa terrarum parte recedas,"
+            },
+            {
+              "number": 324,
+              "text": "quicquid ad extremos temet praeuerteris axes"
+            },
+            {
+              "number": 325,
+              "text": "per conuexa graui gressu uestigia terrae,"
+            },
+            {
+              "number": 326,
+              "text": "quam tereti natura solo decircinat orbem"
+            },
+            {
+              "number": 327,
+              "text": "in tumidum et mediam in mundo suspendit ab omni:"
+            }
+          ],
+          "targetHash": "5aa62730a62121e5e883518415c8b6043db54f08a4ede8bff8f97237ce51a47a"
+        },
+        {
+          "range": [
+            328,
+            335
+          ],
+          "ko": "그러므로 둥근 땅에 올라 그 곡면을 오를 때에는 동시에 내려가기도 할 것이다. 땅의 한 부분은 시야에서 물러나고 다른 부분은 다시 나타날 것이다. 구면을 따라 휘어 나간 만큼, 움직이는 하늘의 배치도 기울어진다. 조금 전까지 곧은 경계에서 떠오르던 사인들은 굽은 길을 따라 높은 하늘로 나아가고, 가로놓여 있던 사인들의 띠는 천구에서 비스듬해진다. 그 띠 자체가 자리하는 방식은 하나로 유지되기 때문이다.",
+          "id": "e07-p2",
+          "verseIds": [
+            328,
+            329,
+            330,
+            331,
+            332,
+            333,
+            334,
+            335
+          ],
+          "latinBefore": [
+            {
+              "number": 328,
+              "text": "ergo ubi conscendes orbem scandesque rotundum,"
+            },
+            {
+              "number": 329,
+              "text": "degrediere simul; fugiet pars altera terrae,"
+            },
+            {
+              "number": 330,
+              "text": "altera reddetur; sed quantum inflexerit orbis,"
+            },
+            {
+              "number": 331,
+              "text": "tantum inclinabit caeli positura uolantis,"
+            },
+            {
+              "number": 332,
+              "text": "et modo quae fuerant surgentia limite recto"
+            },
+            {
+              "number": 333,
+              "text": "sidera curuato ducentur in aethera tractu,"
+            },
+            {
+              "number": 334,
+              "text": "atque erit obliquus signorum balteus orbe,"
+            },
+            {
+              "number": 335,
+              "text": "qui transuersus erat; statio quando illius una est;"
+            }
+          ],
+          "latinAfter": [
+            {
+              "number": 328,
+              "text": "ergo ubi conscendes orbem scandesque rotundum,"
+            },
+            {
+              "number": 329,
+              "text": "degrediere simul; fugiet pars altera terrae,"
+            },
+            {
+              "number": 330,
+              "text": "altera reddetur; sed quantum inflexerit orbe,"
+            },
+            {
+              "number": 331,
+              "text": "tantum inclinabit caeli positura uolantis,"
+            },
+            {
+              "number": 332,
+              "text": "et modo quae fuerant surgentia limite recto"
+            },
+            {
+              "number": 333,
+              "text": "sidera curuato ducentur in aethera tractu,"
+            },
+            {
+              "number": 334,
+              "text": "atque erit obliquus signorum balteus orbe,"
+            },
+            {
+              "number": 335,
+              "text": "qui transuersus erat; statio quando illius una est;"
+            }
+          ],
+          "targetHash": "0eed5497216b95058ddcaf104b51c8974dd26a9f34ee4a2241c43a6eadf49f8d"
+        },
+        {
+          "range": [
+            336,
+            343
+          ],
+          "ko": "달라지는 것은 우리의 자리이다. 그러므로 이치상 시간 자체도 달라져, 그런 지역에서는 낮의 길이가 다르게 나타나야 한다. 사인들은 굽은 순서를 따라 비스듬히 제한된 경로를 마치고, 어떤 것은 더 멀리 어떤 것은 더 가까이 기울어진다. 경로가 길면 머무는 시간도 길다. 우리에게 더 가까이 떠오르는 것들은 하늘의 긴 원호를 따라 보이고, 가장 먼 곳에서 빛나는 것들은 빠르게 어둠 속으로 잠긴다.",
+          "id": "e07-p3",
+          "verseIds": [
+            336,
+            337,
+            338,
+            339,
+            340,
+            341,
+            342,
+            343
+          ],
+          "latinBefore": [
+            {
+              "number": 336,
+              "text": "nostrae mutantur sedes; ergo ipsa moueri"
+            },
+            {
+              "number": 337,
+              "text": "tempora iam ratio cogit uariosque referre"
+            },
+            {
+              "number": 338,
+              "text": "sub tali regione dies, cum sidera flexo"
+            },
+            {
+              "number": 339,
+              "text": "ordine conficiant cursus obliqua malignos,"
+            },
+            {
+              "number": 340,
+              "text": "longius atque aliis aliud propiusue recumbat."
+            },
+            {
+              "number": 341,
+              "text": "pro spatio mora magna datur. quae proxima nobis"
+            },
+            {
+              "number": 342,
+              "text": "consurgunt, longos caeli uisuntur in orbes,"
+            },
+            {
+              "number": 343,
+              "text": "ultima quae fulgent, celeris merguntur in umbras."
+            }
+          ],
+          "latinAfter": [
+            {
+              "number": 336,
+              "text": "nostrae mutantur sedes; ergo ipsa moueri"
+            },
+            {
+              "number": 337,
+              "text": "tempora iam ratio cogit uariosque referre"
+            },
+            {
+              "number": 338,
+              "text": "sub tali regione dies, cum sidera flexo"
+            },
+            {
+              "number": 339,
+              "text": "ordine conficiant cursus obliqua malignos,"
+            },
+            {
+              "number": 340,
+              "text": "longius atque aliis aliud propiusue recumbat."
+            },
+            {
+              "number": 341,
+              "text": "pro spatio mora magna datur. quae proxima nobis"
+            },
+            {
+              "number": 342,
+              "text": "consurgunt, longos caeli uisuntur in orbes,"
+            },
+            {
+              "number": 343,
+              "text": "ultima quae fulgent, celeris merguntur in umbras."
+            }
+          ],
+          "targetHash": "4cf2138f775e9dc3a3fc0339f70d4e36699415bd99e62c1d5e19bf9c3d39b101"
+        }
+      ],
+      "translationNotes": [
+        "새 대조판은 정오표의 orbe를 적용한다. 인쇄 본문 보존판의 orbis를 전사 오류라고 소급하여 지우지 않으며, 서로 다른 두 읽기와 한국어를 비교할 수 있게 남긴다.",
+        "323행은 PDF 91쪽의 마지막 본문 행이다. 324행부터 PDF 92쪽이 시작하므로 시작점과 정오 적용점의 쪽수를 구별한다.",
+        "332~343행의 관찰 위치·기울기·거리 표현은 저본의 논증을 직접 옮긴 것이다. 현대의 정밀 사승 산식이나 지구가 우주 중심이라는 과학적 입증으로 제시하지 않는다."
+      ],
+      "proof": {
+        "path": "public/facsimiles/breiter1907/corrigenda/body-92.png",
+        "url": "/facsimiles/breiter1907/corrigenda/body-92.png",
+        "sha256": "feddfc8712a00b78a5def4eab2ac4c8c88e13e60f4940ecd1330c8677abb3159",
+        "pdfPage": 92,
+        "caption": "Breiter 1907 인쇄본 76쪽·PDF 92쪽의 시 본문 확대. 정오표가 가리키는 위치의 교정 전 인쇄면이다."
+      },
+      "erratumLatin": "pag. 76 linea 7 ab initio lege orbe pro orbis.",
+      "erratumKorean": "76쪽, 처음부터 일곱째 줄의 orbis를 orbe로 읽어라.",
+      "originalLink": "/translations/manilius-iii-323-355/#paragraph-2",
+      "translationId": "manilius-iii-323-355",
+      "contextBefore": [
+        {
+          "number": 323,
+          "text": "at simul ex illa terrarum parte recedas,"
+        },
+        {
+          "number": 324,
+          "text": "quicquid ad extremos temet praeuerteris axes"
+        },
+        {
+          "number": 325,
+          "text": "per conuexa graui gressu uestigia terrae,"
+        },
+        {
+          "number": 326,
+          "text": "quam tereti natura solo decircinat orbem"
+        },
+        {
+          "number": 327,
+          "text": "in tumidum et mediam in mundo suspendit ab omni:"
+        },
+        {
+          "number": 328,
+          "text": "ergo ubi conscendes orbem scandesque rotundum,"
+        },
+        {
+          "number": 329,
+          "text": "degrediere simul; fugiet pars altera terrae,"
+        },
+        {
+          "number": 330,
+          "text": "altera reddetur; sed quantum inflexerit orbis,"
+        },
+        {
+          "number": 331,
+          "text": "tantum inclinabit caeli positura uolantis,"
+        },
+        {
+          "number": 332,
+          "text": "et modo quae fuerant surgentia limite recto"
+        },
+        {
+          "number": 333,
+          "text": "sidera curuato ducentur in aethera tractu,"
+        },
+        {
+          "number": 334,
+          "text": "atque erit obliquus signorum balteus orbe,"
+        },
+        {
+          "number": 335,
+          "text": "qui transuersus erat; statio quando illius una est;"
+        },
+        {
+          "number": 336,
+          "text": "nostrae mutantur sedes; ergo ipsa moueri"
+        },
+        {
+          "number": 337,
+          "text": "tempora iam ratio cogit uariosque referre"
+        },
+        {
+          "number": 338,
+          "text": "sub tali regione dies, cum sidera flexo"
+        },
+        {
+          "number": 339,
+          "text": "ordine conficiant cursus obliqua malignos,"
+        },
+        {
+          "number": 340,
+          "text": "longius atque aliis aliud propiusue recumbat."
+        },
+        {
+          "number": 341,
+          "text": "pro spatio mora magna datur. quae proxima nobis"
+        },
+        {
+          "number": 342,
+          "text": "consurgunt, longos caeli uisuntur in orbes,"
+        },
+        {
+          "number": 343,
+          "text": "ultima quae fulgent, celeris merguntur in umbras."
+        }
+      ],
+      "contextAfter": [
+        {
+          "number": 323,
+          "text": "at simul ex illa terrarum parte recedas,"
+        },
+        {
+          "number": 324,
+          "text": "quicquid ad extremos temet praeuerteris axes"
+        },
+        {
+          "number": 325,
+          "text": "per conuexa graui gressu uestigia terrae,"
+        },
+        {
+          "number": 326,
+          "text": "quam tereti natura solo decircinat orbem"
+        },
+        {
+          "number": 327,
+          "text": "in tumidum et mediam in mundo suspendit ab omni:"
+        },
+        {
+          "number": 328,
+          "text": "ergo ubi conscendes orbem scandesque rotundum,"
+        },
+        {
+          "number": 329,
+          "text": "degrediere simul; fugiet pars altera terrae,"
+        },
+        {
+          "number": 330,
+          "text": "altera reddetur; sed quantum inflexerit orbe,"
+        },
+        {
+          "number": 331,
+          "text": "tantum inclinabit caeli positura uolantis,"
+        },
+        {
+          "number": 332,
+          "text": "et modo quae fuerant surgentia limite recto"
+        },
+        {
+          "number": 333,
+          "text": "sidera curuato ducentur in aethera tractu,"
+        },
+        {
+          "number": 334,
+          "text": "atque erit obliquus signorum balteus orbe,"
+        },
+        {
+          "number": 335,
+          "text": "qui transuersus erat; statio quando illius una est;"
+        },
+        {
+          "number": 336,
+          "text": "nostrae mutantur sedes; ergo ipsa moueri"
+        },
+        {
+          "number": 337,
+          "text": "tempora iam ratio cogit uariosque referre"
+        },
+        {
+          "number": 338,
+          "text": "sub tali regione dies, cum sidera flexo"
+        },
+        {
+          "number": 339,
+          "text": "ordine conficiant cursus obliqua malignos,"
+        },
+        {
+          "number": 340,
+          "text": "longius atque aliis aliud propiusue recumbat."
+        },
+        {
+          "number": 341,
+          "text": "pro spatio mora magna datur. quae proxima nobis"
+        },
+        {
+          "number": 342,
+          "text": "consurgunt, longos caeli uisuntur in orbes,"
+        },
+        {
+          "number": 343,
+          "text": "ultima quae fulgent, celeris merguntur in umbras."
+        }
+      ],
+      "sourceHash": "a567aba262678f2b7822f8893bebd676ab25abe29ab2de30e43609900145acf6",
+      "correctedSourceHash": "4c2552e0c454def7355183bd0977f7d0c0eab7d978537f50d3575300cdd101cf",
+      "existingKorean": [
+        {
+          "text": "그러나 그 땅의 지역에서 벗어나, 둥근 지면을 무거운 걸음으로 밟으며 어느 쪽 끝의 극으로든 향해 간다고 하자. 자연은 둥그스름한 지면을 부푼 구체로 펼쳐 놓고, 우주 한가운데에 사방에서 떠 있도록 두었다.",
+          "locator": "제3권 323–327행",
+          "link": "/translations/manilius-iii-323-355/#paragraph-1",
+          "verseIds": [
+            323,
+            324,
+            325,
+            326,
+            327
+          ]
+        },
+        {
+          "text": "그러므로 둥근 땅에 올라 그 곡면을 오를 때에는 동시에 내려가기도 한다. 땅의 한쪽은 사라지고 다른 쪽은 다시 나타난다. 땅의 구체가 휘어진 만큼 움직이는 하늘의 배치도 기울어진다. 조금 전까지 곧은 경계에서 떠오르던 사인들은 굽은 길을 따라 하늘로 이끌릴 것이고, 가로놓여 있던 사인들의 띠는 천구에서 비스듬해질 것이다. 그 띠 자체의 자리는 하나로 유지되기 때문이다.",
+          "locator": "제3권 328–335행",
+          "link": "/translations/manilius-iii-323-355/#paragraph-2",
+          "verseIds": [
+            328,
+            329,
+            330,
+            331,
+            332,
+            333,
+            334,
+            335
+          ]
+        },
+        {
+          "text": "달라지는 것은 우리의 자리이다. 따라서 이치상 시간 자체도 달라지고, 그런 지역에서는 낮의 길이도 달라질 수밖에 없다. 사인들이 굽은 순서를 따라 비스듬히, 넉넉하지 않은 경로를 완성하고, 서로 더 멀거나 더 가까이 기울어 있기 때문이다. 경로가 길면 머무는 시간도 길다. 우리에게 가장 가까이 떠오르는 것들은 하늘의 긴 원호를 따라 보이며, 가장 먼 데서 빛나는 것들은 빠르게 어둠 속에 잠겨 버린다.",
+          "locator": "제3권 336–343행",
+          "link": "/translations/manilius-iii-323-355/#paragraph-3",
+          "verseIds": [
+            336,
+            337,
+            338,
+            339,
+            340,
+            341,
+            342,
+            343
+          ]
+        }
+      ],
+      "layerKo": "시 본문"
+    }
+  ],
+  "preservedFiles": [
+    {
+      "path": "src/data/translations.json",
+      "sha256": "ed34fc614101c691fe9069895b8838c505c8e7f0227ea11fa5a697de9231b4a5",
+      "normalization": "LF canonical UTF-8; CRLF may be normalized for cross-platform checks",
+      "checkoutByteSha256": "ed34fc614101c691fe9069895b8838c505c8e7f0227ea11fa5a697de9231b4a5"
+    },
+    {
+      "path": "data/reference/translation-examples.json",
+      "sha256": "a998240cbcd2ae634e2a04ba50eef57d70f3eb8d9fb54c3fa1e50d76b315011c",
+      "normalization": "LF canonical UTF-8; CRLF may be normalized for cross-platform checks",
+      "checkoutByteSha256": "a998240cbcd2ae634e2a04ba50eef57d70f3eb8d9fb54c3fa1e50d76b315011c"
+    },
+    {
+      "path": "src/data/editorial/breiter-preface.json",
+      "sha256": "13d67f681fb12ba003de63cb4a451a32f7f6b7d6d74c7101b997f94b89aab267",
+      "normalization": "LF canonical UTF-8; CRLF may be normalized for cross-platform checks",
+      "checkoutByteSha256": "595d82f5c189fc37ebac97dba2062e658fbab2aefe63ac0e74b6992b6d1a713e"
+    },
+    {
+      "path": "data/reference/breiter-preface-verification-2026-09-19.json",
+      "sha256": "13d67f681fb12ba003de63cb4a451a32f7f6b7d6d74c7101b997f94b89aab267",
+      "normalization": "LF canonical UTF-8; CRLF may be normalized for cross-platform checks",
+      "checkoutByteSha256": "595d82f5c189fc37ebac97dba2062e658fbab2aefe63ac0e74b6992b6d1a713e"
+    }
+  ],
+  "unchangedPoemCounts": {
+    "readingUnits": 154,
+    "latinVerses": 4242,
+    "koreanParagraphs": 695
+  },
+  "glossaryVersion": "2026-09-19.manilius-editorial.1",
+  "glossaryChange": false,
+  "englishWitnessUsed": false
+}

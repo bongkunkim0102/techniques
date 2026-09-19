@@ -25,6 +25,7 @@ const errata=data.sections.find(s=>s.id==='corrigenda');
       <details class="editor-notes" data-pagefind-ignore><summary>한국어 편집 메모</summary>{s.notes.map(n=><p>{n}</p>)}</details>
     </section>)}
     <section id="corrigenda" class="preface-section">
+      <aside class="note" data-pagefind-ignore><strong>적용 위치까지 확인한 별도 대조판</strong><p><a href="/editorial/breiter1907-corrigenda/">7항목의 본문·교감란 적용과 라틴어·한국어 읽기</a>를 확인할 수 있습니다. 아래는 정오표 자체의 번역이며, 기존 다섯 권의 인쇄 본문 보존판은 변경하지 않았습니다.</p></aside>
       <h2>{errata.title}</h2><p>{errata.blocks[0].ko}</p>
       <div class="errata-list">{errata.errata.map(e=><div class="erratum"><p>{e.ko}</p><div class="reading-change" lang="la"><del>{e.wrong}</del><span aria-hidden="true"> → </span><ins>{e.right}</ins></div><small class="meta">{e.latin}</small></div>)}</div>
       <figure data-pagefind-ignore><figcaption>{errata.plates[0].caption}</figcaption><a href={errata.plates[0].url} target="_blank" rel="noopener"><img src={errata.plates[0].url} alt={errata.plates[0].caption} loading="lazy" /></a></figure>

@@ -1,5 +1,7 @@
 # 마닐리우스 편집 후속 작업 · Breiter 서문 지면 대조
 
+**2026-09-20 후속 갱신:** 정오표 7항목을 모두 실제 적용 위치와 대조하고 별도 읽기 판을 만들었다. 시 본문 3항목·교감란 4항목이며, 원래의 인쇄 본문 보존판은 변경하지 않았다. 아래 기록은 서문 편입 시점의 이력이다. 최신 작업은 [BREITER_CORRIGENDA_PROGRESS.md](BREITER_CORRIGENDA_PROGRESS.md), 대조 번역은 [BREITER_CORRIGENDA_READING_KO.md](BREITER_CORRIGENDA_READING_KO.md)를 참고한다.
+
 ## 이번에 확정한 범위 · 2026-09-19
 
 Remote Desktop Commander로 Windows의 `C:\Users\bongkunkim\techniques`와 기존 Breiter PDF에 다시 접근했다. 기준 커밋은 `0ae5fa7fb051562f93936f054b787f261a71bda9`이다.
