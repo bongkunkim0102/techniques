@@ -1,0 +1,51 @@
+{
+  "passed": 18,
+  "checks": [
+    "43 reading groups",
+    "54 Korean commentary paragraphs",
+    "8 original footnotes",
+    "footnote sequence",
+    "paragraph hashes",
+    "43 unique IDs",
+    "complete new source page range",
+    "start and end",
+    "next checkpoint",
+    "fresh direct method",
+    "new Carmina not started",
+    "7 source chapter file hashes",
+    "all read page images present",
+    "source PDF identity",
+    "attached Carmina matches stored PDF",
+    "no replacement character or stray Cyrillic",
+    "14 additional glossary entries",
+    "no staged foreign changes"
+  ],
+  "scope": "New restart batch only; not old project full build or independent linguistic certification.",
+  "preservedWorkingFiles": [
+    {
+      "path": "src/data/articles.mjs",
+      "sha256": "7f9aa1d5fe7fb735e8cc7ca672cd8b274f3f9988685509ffbb3b271cb50bb251"
+    },
+    {
+      "path": "src/data/glossary.mjs",
+      "sha256": "1bc8aaec4d0994f764cc3e7ff1c28bdc107765771f7be6442683b4714400912b"
+    },
+    {
+      "path": "src/data/sources.mjs",
+      "sha256": "f71bf147d7ec5b169219a673b1647c17495dc5097a95cec63180911431c18719"
+    },
+    {
+      "path": "src/data/translations.json",
+      "sha256": "416793a543e76ef39ee95dd49c659312ac8e3cae40c53f17718d55c7535e1614"
+    },
+    {
+      "path": "data/reference/translation-examples.json",
+      "sha256": "a998240cbcd2ae634e2a04ba50eef57d70f3eb8d9fb54c3fa1e50d76b315011c"
+    },
+    {
+      "path": "MANILIUS_PROGRESS.md",
+      "sha256": "6ff29216a1d2ba6bd7263dd948e4d19951566a7e680d62c9692c040402436aba"
+    }
+  ],
+  "combinedMarkdownSha256": "98343bc0cc2e70c908fcf93c39b02d155732e152addf0b3629a53c201a37c8cc"
+}
